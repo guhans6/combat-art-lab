@@ -1,0 +1,17 @@
+# Local editor and engine caches
+.DS_Store
+.godot/
+__pycache__/
+*.pyc
+.venv/
+
+# Temporary experiments
+/.scratch/
+/tmp/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Native source files and approved exports belong in version control.
