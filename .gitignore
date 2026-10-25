@@ -15,3 +15,6 @@ __pycache__/
 !.env.example
 
 # Native source files and approved exports belong in version control.
+
+# Local tool operation records
+/.code-mcp/

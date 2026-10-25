@@ -42,11 +42,19 @@ This archive is the concrete local deliverable. It can be extracted and opened i
 
 ## Current external enablement
 
-- macOS workspace: /Users/guhan/Guhan/Projects/combat-art-lab was registered. File population and an initial commit at that location remain unverified after tool failures.
-- The Code-MCP batch write timed out. A subsequent read found AGENTS.md missing; a separate single-file write returned an internal error. These outcomes do not establish that the destination contains this archive's complete files or history.
-- GitHub repository: pending creation and verification.
-- Remote labels: pending.
-- Code-MCP command execution for the macOS workspace: denied because no Disposable Guest Authority is recorded. No authority settings were changed.
-- Aseprite integration, image service, and Godot playback: not installed or exercised by this setup.
+Verified on 25 October 2026 using local Git and the authenticated GitHub CLI:
 
-Inspect the registered macOS destination before reconciling it with the archive, and preserve any unrelated work. Setup documentation and the local archive must not be described as remote publication or fresh art-pipeline validation.
+- Local repository: `/Users/guhan/Guhan/Projects/combat-art-lab`, on `main`, preserving initial commit `1a07783b2d4dea42383db5d30e553647f6932343` and its 19 tracked project files from the supplied archive.
+- GitHub repository: [guhans6/combat-art-lab](https://github.com/guhans6/combat-art-lab), verified private with GitHub Issues enabled.
+- Remote: `origin`, `https://github.com/guhans6/combat-art-lab.git`; initial `main` commit pushed successfully with upstream tracking.
+- Remote labels: `needs-triage`, `needs-info`, `ready-for-agent`, `ready-for-human`, and `wontfix` verified present. Only the four missing labels were created; existing labels were preserved.
+- No issues existed when checked; this publication has no originating issue reference.
+- Local `.code-mcp` operation records are preserved and ignored, outside the published project files.
+- Earlier Code-MCP failures are historical. Publication used the user's authorized local Codex execution environment; no Code-MCP authority settings were changed.
+- Aseprite integration, image service, and Godot playback remain unperformed by this setup.
+
+The setup-status follow-up commit records the reconciliation and publication evidence. Publication does not establish art-pipeline validation or user visual approval. The next substantive action remains review of the user's style and motion references.
+
+## Reconciliation checks
+
+Before the publication-status commit, focused checks passed: all 19 tracked files were present, relative Markdown file links resolved, `git diff --check` and `git fsck --full` reported no errors, and a credential-pattern check found no matching tokens or private keys in tracked files. The checkpoint protocol body SHA-256 matched its recorded digest `40d2c19b90c6cfc28a6c1cb375398b84433810d8e067d4fb27428ba0cc4de969`. Separate standards and request-scope reviews found no remaining issue once this follow-up is committed. These checks cover repository integrity and publication records, not the accuracy of every external research claim.

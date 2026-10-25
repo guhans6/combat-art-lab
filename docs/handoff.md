@@ -16,9 +16,9 @@ Use AI to explore images until a personal visual style emerges, formalize that s
 - Style, motion, reference, asset, and experiment documents prepared.
 - Matt Pocock project configuration and the exact shared checkpoint protocol prepared.
 
-Consult [setup status](agents/setup.md) for publication and host-enablement boundaries. The registered macOS directory at /Users/guhan/Guhan/Projects/combat-art-lab is not a verified copy: a batch write timed out, AGENTS.md was subsequently missing, and a single-file write returned an internal error. Its file population and commit remain unverified.
+Consult [setup status](agents/setup.md) for publication and host-enablement boundaries. On 25 October 2026, the archive's 19 tracked files and initial commit `1a07783b2d4dea42383db5d30e553647f6932343` were imported into `/Users/guhan/Guhan/Projects/combat-art-lab`. The existing local documents matched the archive apart from older setup/handoff records and a trailing newline; those versions were backed up outside the repository before reconciliation. Local `.code-mcp` operation records were preserved and excluded from publication.
 
-Extract combat-art-lab.zip and open its combat-art-lab directory in Codex. The archive includes .git and preserves the initial history. If reusing the registered macOS destination, inspect and reconcile its contents first; preserve unrelated work. Do not infer that art tools ran from the completed documentation setup.
+The private GitHub repository [guhans6/combat-art-lab](https://github.com/guhans6/combat-art-lab) now exists. The initial `main` commit was pushed, GitHub Issues is enabled, and all five canonical triage labels were verified. The setup-status follow-up is recorded in Git history. No art tools ran during publication.
 
 ## Next substantive action
 
@@ -34,11 +34,9 @@ An AI-constructed native character master, one representative attack, a minimal 
 
 The result must be reviewable at game scale and retain a practical revision source. Expand only after evidence supports the method and the user accepts its look and effort.
 
-## Publication follow-up
+## Publication state
 
-The intended GitHub destination is guhans6/combat-art-lab. Verify whether it now exists before creating anything. Current command execution in this Code-MCP workspace was denied for missing Disposable Guest Authority. Do not change host trust or guest authority autonomously or use another workspace to bypass that boundary.
-
-Use an exposed authorized repository-creation action, or the user's explicitly authorized local Codex execution environment, to complete publication when available. Verify the destination, preserve the existing commit history, configure the remote, push the intended branch, then create only missing triage labels. Update setup status with observed results.
+The verified remote is `https://github.com/guhans6/combat-art-lab.git`; the intended branch is `main`. Publication used the authenticated local GitHub CLI in the user's authorized Codex environment. No Code-MCP trust or guest-authority settings were changed. Verify the current remote and branch before future publication.
 
 ## Unperformed
 
