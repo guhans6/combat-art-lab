@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Aseprite — quick reference</title><link rel="stylesheet" href="../assets/lesson.css"></head>
+<body><main><nav class="topnav"><a href="../README.md">← Learning home</a><a href="../lessons/0001-correct-an-ai-sprite.html">Lesson 01 →</a></nav>
+<header class="hero"><p class="eyebrow">Print-friendly reference · Combat Art Lab</p><h1>Aseprite: the essentials</h1><p class="lede">For a generated character image that needs safer editing, tracing, animation, and export. The game-scale resolution remains an experiment, not a fixed number.</p></header>
+<h2>Choose the right representation</h2><table><thead><tr><th>You have…</th><th>Use…</th><th>Key limitation</th></tr></thead><tbody>
+<tr><td>Large concept image</td><td>Reference layer</td><td>Guide only; cannot paint onto it.</td></tr>
+<tr><td>Small AI sprite PNG</td><td>Regular editable pixel layer</td><td>Pixels are editable, but body parts are not automatically separated.</td></tr>
+<tr><td>Layered master</td><td><code>.aseprite</code></td><td>Keep it as the editable source; don't replace it with only PNG.</td></tr>
+<tr><td>Game import</td><td>Transparent PNG / sprite sheet</td><td>Export is not the same as native source.</td></tr>
+</tbody></table>
+<h2>Five-step safe edit</h2><ol><li>Open the AI-base PNG; save a new <code>.aseprite</code> file.</li><li>Duplicate the pixel layer, lock/hide the original, select the working copy.</li><li>Add <strong>Layer → New → New Reference Layer from File</strong>.</li><li>Fix one defect on the working pixel layer; compare with the reference and at native size.</li><li>Save the master, then export PNG for the game/agent review.</li></ol>
+<h2>Useful shortcuts</h2><table><thead><tr><th>Task</th><th>Keys / menu</th></tr></thead><tbody>
+<tr><td>Show timeline</td><td><kbd>Tab</kbd></td></tr>
+<tr><td>Pencil</td><td><kbd>B</kbd></td></tr>
+<tr><td>Pick existing color</td><td><kbd>Alt</kbd> + click</td></tr>
+<tr><td>Rectangle select</td><td><kbd>M</kbd></td></tr>
+<tr><td>Zoom</td><td>Mouse wheel or number keys <kbd>1</kbd>–<kbd>6</kbd></td></tr>
+<tr><td>New transparent layer</td><td><kbd>Shift</kbd> + <kbd>N</kbd></td></tr>
+<tr><td>Selection → new layer via copy</td><td><kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>J</kbd></td></tr>
+<tr><td>Add a frame</td><td><kbd>Alt</kbd>/<kbd>Option</kbd> + <kbd>N</kbd></td></tr>
+<tr><td>Onion skin</td><td><kbd>F3</kbd></td></tr>
+<tr><td>Frame duration</td><td>Frame → Frame Properties (<kbd>P</kbd>)</td></tr>
+<tr><td>Resize actual pixels</td><td>Sprite → Sprite Size; choose Nearest-neighbor for pixel edges</td></tr>
+<tr><td>Save editable master</td><td>File → Save; <code>.aseprite</code></td></tr>
+<tr><td>Export individual frames</td><td>File → Export → Export As</td></tr>
+<tr><td>Import whole sheet</td><td>File → Import Sprite Sheet</td></tr>
+</tbody></table>
+<div class="panel note"><strong>Do not confuse three sizes.</strong> Canvas dimensions are the stored pixels. Zoom changes only editor view. Export resize changes output scale. A good in-game sprite needs deliberate art decisions, not merely fewer pixels.</div>
+<h2>One-minute quality check</h2><ol><li>Does the tote silhouette read without zoom?</li><li>Are the head-to-body proportions consistent?</li><li>Are the feet at a stable shared ground contact?</li><li>Is the background actually transparent?</li><li>Can the <code>.aseprite</code> source reopen with the layers and frames you expect?</li></ol>
+<footer>Primary docs: <a href="https://www.aseprite.org/docs/workflow/">workflow</a> · <a href="https://www.aseprite.org/docs/layers/">layers</a> · <a href="https://www.aseprite.org/docs/reference-layer/">reference</a> · <a href="https://www.aseprite.org/docs/exporting">export</a>. Verified 2026-10-31. <a href="../lessons/0002-review-six-attack-poses.html">Continue to Lesson 02 →</a></footer>
+</main></body></html>
