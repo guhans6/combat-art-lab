@@ -1,0 +1,16 @@
+study-192	120	132	7	1
+layer	Back hair	true
+layer	Jacket	true
+layer	Shirt	true
+layer	Neck and face	true
+layer	Features	true
+layer	Front hair	true
+layer	Tote strap	true
+study-256	160	176	7	1
+layer	Back hair	true
+layer	Jacket	true
+layer	Shirt	true
+layer	Neck and face	true
+layer	Features	true
+layer	Front hair	true
+layer	Tote strap	true

@@ -1,0 +1,186 @@
+{
+  "reference": "assets/references/approved-2026-10-26/character-closeup.png",
+  "source_crop_xyxy_half_open": [
+    380,
+    64,
+    860,
+    512
+  ],
+  "source_crop_size": [
+    480,
+    448
+  ],
+  "native_study_canvas": [
+    120,
+    112
+  ],
+  "mapping": "one native pixel per four reference-image pixels; approximate authored points, not automatic image reduction",
+  "full_character_grid": "not inferred from this close-up; no production resolution selected",
+  "landmarks": {
+    "cowlick_tip": {
+      "estimated_original_xy": [
+        737,
+        82
+      ],
+      "crop_fraction": [
+        0.74375,
+        0.04017857142857143
+      ],
+      "rounded_native_xy": [
+        89,
+        5
+      ],
+      "confidence": "approximate visual estimate; not ground-truth anatomy"
+    },
+    "crown_top": {
+      "estimated_original_xy": [
+        637,
+        100
+      ],
+      "crop_fraction": [
+        0.5354166666666667,
+        0.08035714285714286
+      ],
+      "rounded_native_xy": [
+        64,
+        9
+      ],
+      "confidence": "approximate visual estimate; not ground-truth anatomy"
+    },
+    "near_eye_center": {
+      "estimated_original_xy": [
+        655,
+        294
+      ],
+      "crop_fraction": [
+        0.5729166666666666,
+        0.5133928571428571
+      ],
+      "rounded_native_xy": [
+        69,
+        58
+      ],
+      "confidence": "approximate visual estimate; not ground-truth anatomy"
+    },
+    "far_eye_center": {
+      "estimated_original_xy": [
+        724,
+        279
+      ],
+      "crop_fraction": [
+        0.7166666666666667,
+        0.4799107142857143
+      ],
+      "rounded_native_xy": [
+        86,
+        54
+      ],
+      "confidence": "approximate visual estimate; not ground-truth anatomy"
+    },
+    "mouth_center": {
+      "estimated_original_xy": [
+        691,
+        341
+      ],
+      "crop_fraction": [
+        0.6479166666666667,
+        0.6183035714285714
+      ],
+      "rounded_native_xy": [
+        78,
+        69
+      ],
+      "confidence": "approximate visual estimate; not ground-truth anatomy"
+    },
+    "chin": {
+      "estimated_original_xy": [
+        693,
+        375
+      ],
+      "crop_fraction": [
+        0.6520833333333333,
+        0.6941964285714286
+      ],
+      "rounded_native_xy": [
+        78,
+        78
+      ],
+      "confidence": "approximate visual estimate; not ground-truth anatomy"
+    },
+    "back_neck": {
+      "estimated_original_xy": [
+        603,
+        404
+      ],
+      "crop_fraction": [
+        0.46458333333333335,
+        0.7589285714285714
+      ],
+      "rounded_native_xy": [
+        56,
+        85
+      ],
+      "confidence": "approximate visual estimate; not ground-truth anatomy"
+    },
+    "front_neck": {
+      "estimated_original_xy": [
+        670,
+        413
+      ],
+      "crop_fraction": [
+        0.6041666666666666,
+        0.7790178571428571
+      ],
+      "rounded_native_xy": [
+        73,
+        87
+      ],
+      "confidence": "approximate visual estimate; not ground-truth anatomy"
+    },
+    "pale_tie": {
+      "estimated_original_xy": [
+        494,
+        224
+      ],
+      "crop_fraction": [
+        0.2375,
+        0.35714285714285715
+      ],
+      "rounded_native_xy": [
+        29,
+        40
+      ],
+      "confidence": "approximate visual estimate; not ground-truth anatomy"
+    },
+    "left_shoulder": {
+      "estimated_original_xy": [
+        494,
+        432
+      ],
+      "crop_fraction": [
+        0.2375,
+        0.8214285714285714
+      ],
+      "rounded_native_xy": [
+        29,
+        92
+      ],
+      "confidence": "approximate visual estimate; not ground-truth anatomy"
+    },
+    "right_strap_attachment": {
+      "estimated_original_xy": [
+        786,
+        435
+      ],
+      "crop_fraction": [
+        0.8458333333333333,
+        0.828125
+      ],
+      "rounded_native_xy": [
+        102,
+        93
+      ],
+      "confidence": "approximate visual estimate; not ground-truth anatomy"
+    }
+  }
+}

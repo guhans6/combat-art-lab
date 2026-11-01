@@ -1,0 +1,26 @@
+[
+  {
+    "path": "assets/source/standing-alpha-v03/standing-idle.aseprite",
+    "sha256": "1c6b43c571ecf2928752cc78fc66fcd26d8f6145dff4d8b9d390e6a60f6bbe33"
+  },
+  {
+    "path": "assets/source/shop-modular-v02/shop.aseprite",
+    "sha256": "0cc7e6075ba3c26b376bc1fd524e10c101a7abd1c2a05b845aca429aa24bf900"
+  },
+  {
+    "path": "tools/check_art_assets.py",
+    "sha256": "3af8d374107a384153d2281333032f2872dcef3ea4216db8075a863fa8fcea1b"
+  },
+  {
+    "path": "tools/art-quality-profile.json",
+    "sha256": "c272eebce06d978ee507ae994c2360e6a1be446b4b3f66e1c22dc27b43e10a68"
+  },
+  {
+    "path": "tools/pixel-art-director/references/alpha-coverage.md",
+    "sha256": "5616037c1c173224eae2ef9d15e90d674b0be3e804c70b298f979e0d961e9e79"
+  },
+  {
+    "path": "godot/standing-idle-lab/preview.gd",
+    "sha256": "0142768832c9d9727b9d28607977743e51081949e1461df925e5649ee7a4b34b"
+  }
+]

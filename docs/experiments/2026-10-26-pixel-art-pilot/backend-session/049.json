@@ -1,0 +1,101 @@
+{
+  "id": "049",
+  "time": "2026-10-26T10:32:13.880Z",
+  "call": {
+    "name": "read_pixels",
+    "arguments": {
+      "layer": "11-face-features",
+      "composite": false,
+      "region": {
+        "x": 64,
+        "y": 21,
+        "width": 8,
+        "height": 7
+      }
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "8×7 region, 6 distinct colour(s)."
+      }
+    ],
+    "structuredContent": {
+      "sprite": "pass-01.aseprite",
+      "x": 64,
+      "y": 21,
+      "width": 8,
+      "height": 7,
+      "colors": [
+        "#00000000",
+        "#3f2b28",
+        "#d1b9a5",
+        "#754632",
+        "#f69d6d",
+        "#995e48",
+        "#d7855a"
+      ],
+      "grid": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        2,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        2,
+        2,
+        1,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        6,
+        6,
+        6,
+        0,
+        0
+      ],
+      "uniqueColors": 6
+    }
+  },
+  "images": []
+}

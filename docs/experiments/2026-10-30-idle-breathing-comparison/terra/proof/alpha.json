@@ -1,0 +1,165 @@
+{
+  "passed": true,
+  "frames": [
+    {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        128,
+        192
+      ],
+      "region_half_open": [
+        30,
+        35,
+        95,
+        90
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "docs/experiments/2026-10-30-idle-breathing-comparison/terra/frame-0.png",
+      "sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad"
+    },
+    {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        128,
+        192
+      ],
+      "region_half_open": [
+        30,
+        35,
+        95,
+        90
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "docs/experiments/2026-10-30-idle-breathing-comparison/terra/frame-1.png",
+      "sha256": "671ca5152282f61ce36dd14aeaaa28dffd9858737cb540100afe91970771cbaf"
+    },
+    {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        128,
+        192
+      ],
+      "region_half_open": [
+        30,
+        35,
+        95,
+        90
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "docs/experiments/2026-10-30-idle-breathing-comparison/terra/frame-2.png",
+      "sha256": "5ef16bd06f4b2b263de82e07423d4c3bcae2bcc859bc51196457bb32a78f1271"
+    },
+    {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        128,
+        192
+      ],
+      "region_half_open": [
+        30,
+        35,
+        95,
+        90
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "docs/experiments/2026-10-30-idle-breathing-comparison/terra/frame-3.png",
+      "sha256": "671ca5152282f61ce36dd14aeaaa28dffd9858737cb540100afe91970771cbaf"
+    },
+    {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        128,
+        192
+      ],
+      "region_half_open": [
+        30,
+        35,
+        95,
+        90
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "docs/experiments/2026-10-30-idle-breathing-comparison/terra/frame-4.png",
+      "sha256": "0dfb4d6984fd9557b9561564bf302979313739b92bf12444c2ea006b00e7d65e"
+    },
+    {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        128,
+        192
+      ],
+      "region_half_open": [
+        30,
+        35,
+        95,
+        90
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "docs/experiments/2026-10-30-idle-breathing-comparison/terra/frame-5.png",
+      "sha256": "0ffca6751ce6a8fd5eccf06424173f52bebc69ec65a3dd9414966af44ec3b4e8"
+    },
+    {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        128,
+        192
+      ],
+      "region_half_open": [
+        30,
+        35,
+        95,
+        90
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "docs/experiments/2026-10-30-idle-breathing-comparison/terra/frame-6.png",
+      "sha256": "0dfb4d6984fd9557b9561564bf302979313739b92bf12444c2ea006b00e7d65e"
+    },
+    {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        128,
+        192
+      ],
+      "region_half_open": [
+        30,
+        35,
+        95,
+        90
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "docs/experiments/2026-10-30-idle-breathing-comparison/terra/frame-7.png",
+      "sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad"
+    }
+  ]
+}

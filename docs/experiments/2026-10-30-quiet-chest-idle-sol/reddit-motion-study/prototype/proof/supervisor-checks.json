@@ -1,0 +1,70 @@
+{
+  "frames": [
+    {
+      "frame": 1,
+      "reopen_exact": true,
+      "head_registered_exact": true,
+      "lowerbody_exact": true,
+      "blink_exact": null
+    },
+    {
+      "frame": 2,
+      "reopen_exact": true,
+      "head_registered_exact": true,
+      "lowerbody_exact": true,
+      "blink_exact": null
+    },
+    {
+      "frame": 3,
+      "reopen_exact": true,
+      "head_registered_exact": true,
+      "lowerbody_exact": true,
+      "blink_exact": null
+    },
+    {
+      "frame": 4,
+      "reopen_exact": true,
+      "head_registered_exact": true,
+      "lowerbody_exact": true,
+      "blink_exact": null
+    },
+    {
+      "frame": 5,
+      "reopen_exact": true,
+      "head_registered_exact": true,
+      "lowerbody_exact": true,
+      "blink_exact": true
+    },
+    {
+      "frame": 6,
+      "reopen_exact": true,
+      "head_registered_exact": true,
+      "lowerbody_exact": true,
+      "blink_exact": true
+    },
+    {
+      "frame": 7,
+      "reopen_exact": true,
+      "head_registered_exact": true,
+      "lowerbody_exact": true,
+      "blink_exact": true
+    },
+    {
+      "frame": 8,
+      "reopen_exact": true,
+      "head_registered_exact": true,
+      "lowerbody_exact": true,
+      "blink_exact": null
+    }
+  ],
+  "timing_ms": [
+    600,
+    350,
+    550,
+    600,
+    50,
+    80,
+    50,
+    250
+  ]
+}

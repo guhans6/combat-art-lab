@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-27",
+  "started_utc": "2026-10-27T10:56:01.440123+00:00",
+  "goal": "first full-body idle in an actual Godot standing scene, first separable building visible parts",
+  "source": "approved original scene; source-assisted method carried forward from C01; do not paste enlarged portrait head onto different proportions",
+  "source_crop": [
+    448,
+    208,
+    800,
+    1040
+  ],
+  "native_character_canvas": [
+    96,
+    216
+  ],
+  "source_factor": 4,
+  "placement_in_scene": [
+    108,
+    48
+  ],
+  "scene_canvas": [
+    362,
+    272
+  ],
+  "motion": "blink + 1 native pixel inhale; feet/root fixed; no weapon or combat",
+  "background": "separate source-derived visible building parts; prior clean plate supporting only, not silently promoted; prior drawn environment preserved",
+  "budget": "static seed + one cleanup checkpoint; bounded 8-frame idle + one correction if visual review identifies a concrete defect; one building visible-parts/editability proof",
+  "checks": "original/actual native exports, native layers/cels/reopen, scoped edit, feet/return pose, actual Godot playback and captured runtime image"
+}

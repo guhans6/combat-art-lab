@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "baseline_role": "diagnostic source-derived pre-repair F9; not approved art",
+  "registration_claim": "Same320x192 source-part composite from build_native_inputs.py; no fitting. Masks are retrospective diagnostic scope, not original authorization.",
+  "sources": [
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-comparison-regression/replay/target-only.json",
+      "role": "spec",
+      "sha256": "624f0b0d260f60b242c2a06a3a460c45f8dc14f3631436666c974f7686891b7c"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/source/tote-attack-v03.aseprite",
+      "role": "candidate native",
+      "sha256": "1f6d68c6927bbcc594be9913156f74a6b0939aa373a9be9971dcd5be8ab52065"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-comparison-regression/replay/native-readback.json",
+      "role": "fresh read-only native/export proof",
+      "sha256": "8e08e3e02832fa99d53f765023ee0c761102fae41ecd0c52f2782c541a595ae9"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-7.png",
+      "role": "adjacent F8",
+      "sha256": "c1e0de57578a3887768edc92ed699b3d4ba92b2734e98b4fe3ce54426cab6f81"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-9.png",
+      "role": "adjacent F10",
+      "sha256": "ed7a14e5b0e127f12f8aafe0e3b0ea081724f5477c6e28c29bcd62cf44f89449"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-comparison-regression/replay/before.png",
+      "role": "F9 baseline",
+      "sha256": "ae6c9c8648d08b802dcdcffa31663a5b6c09eb152fb5b4890a6761149bb3fc8c"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-comparison-regression/replay/candidate.png",
+      "role": "F9 candidate",
+      "sha256": "754cfbca68fe90cb70051983992369d40dd1545068d47f3404138d1e5d65f3cb"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-comparison-regression/replay/narrow-diagnostic-mask.png",
+      "role": "F9 allowed edit mask",
+      "sha256": "1732d6bb5f2bce2abe60f95d349cced8c511beab2c7c493947865739398b9c4a"
+    }
+  ],
+  "sheets": [
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-comparison-regression/replay/target-only/frame-000-region-00.png",
+      "sha256": "1d4e8592ea7f81fca2f7e9e8578894cc67e836d8e08b82595ac33b745500ea51"
+    }
+  ],
+  "frames": [
+    {
+      "id": "F9",
+      "checks": {
+        "passed": false,
+        "failures": [
+          "protected_pixels_changed"
+        ],
+        "canvas": [
+          320,
+          192
+        ],
+        "changed_pixels": 2680,
+        "outside_mask_changed_pixels": 30,
+        "outside_mask_examples_xy": [
+          [
+            161,
+            0
+          ],
+          [
+            162,
+            0
+          ],
+          [
+            161,
+            1
+          ],
+          [
+            162,
+            1
+          ],
+          [
+            168,
+            150
+          ],
+          [
+            169,
+            150
+          ],
+          [
+            180,
+            150
+          ],
+          [
+            181,
+            150
+          ],
+          [
+            182,
+            150
+          ],
+          [
+            168,
+            151
+          ],
+          [
+            169,
+            151
+          ],
+          [
+            181,
+            151
+          ],
+          [
+            182,
+            151
+          ],
+          [
+            168,
+            152
+          ],
+          [
+            169,
+            152
+          ],
+          [
+            181,
+            152
+          ],
+          [
+            182,
+            152
+          ],
+          [
+            168,
+            153
+          ],
+          [
+            169,
+            153
+          ],
+          [
+            170,
+            153
+          ]
+        ],
+        "changed_bbox_half_open": [
+          145,
+          0,
+          217,
+          157
+        ],
+        "visible_colors_before": 238,
+        "visible_colors_after": 232,
+        "new_visible_rgb_colors": [],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 9966,
+        "silhouette_changed_pixels": 870,
+        "alpha_changed_pixels": 870,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "ae6c9c8648d08b802dcdcffa31663a5b6c09eb152fb5b4890a6761149bb3fc8c",
+          "after": "754cfbca68fe90cb70051983992369d40dd1545068d47f3404138d1e5d65f3cb",
+          "mask": "1732d6bb5f2bce2abe60f95d349cced8c511beab2c7c493947865739398b9c4a"
+        }
+      },
+      "uncovered_changes": {
+        "count": 30,
+        "examples_xy": [
+          [
+            161,
+            0
+          ],
+          [
+            162,
+            0
+          ],
+          [
+            161,
+            1
+          ],
+          [
+            162,
+            1
+          ],
+          [
+            168,
+            150
+          ],
+          [
+            169,
+            150
+          ],
+          [
+            180,
+            150
+          ],
+          [
+            181,
+            150
+          ],
+          [
+            182,
+            150
+          ],
+          [
+            168,
+            151
+          ],
+          [
+            169,
+            151
+          ],
+          [
+            181,
+            151
+          ],
+          [
+            182,
+            151
+          ],
+          [
+            168,
+            152
+          ],
+          [
+            169,
+            152
+          ],
+          [
+            181,
+            152
+          ],
+          [
+            182,
+            152
+          ],
+          [
+            168,
+            153
+          ],
+          [
+            169,
+            153
+          ],
+          [
+            170,
+            153
+          ]
+        ],
+        "bbox_half_open": [
+          161,
+          0,
+          184,
+          157
+        ]
+      },
+      "regions": [
+        {
+          "name": "arms-grip-handles-target",
+          "crop_xyxy_half_open": [
+            140,
+            55,
+            225,
+            150
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-comparison-regression/replay/target-only/frame-000-region-00.png"
+        }
+      ],
+      "mechanical_passed": false
+    }
+  ],
+  "zoom": 4,
+  "resampling": "integer nearest-neighbor",
+  "matte": "checkerboard RGB49,49,61 / 61,61,73",
+  "mechanical_passed": false,
+  "visual_acceptance": "pending",
+  "user_approval": "pending",
+  "limits": "Coverage means pixels are available for inspection. Scope/coverage cannot judge anatomy, occlusion, grip or improvement. Registration and affected-frame inventory are caller declarations. Bound native/report hashes do not prove export correspondence or hidden-layer integrity. Source or packet changes require fresh review."
+}

@@ -1,0 +1,52 @@
+{
+  "id": "005",
+  "time": "2026-10-26T10:28:35.227Z",
+  "call": {
+    "name": "draw",
+    "arguments": {
+      "layer": "pattern",
+      "paletteLock": false,
+      "ops": [
+        {
+          "kind": "grid",
+          "x": 2,
+          "y": 2,
+          "legend": {
+            "R": "#ff0000",
+            "G": "#00ff00",
+            "B": "#0000ff"
+          },
+          "rows": [
+            "R....",
+            "R....",
+            "RRRGG",
+            "...G."
+          ]
+        }
+      ]
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "1 op(s), 20 pixel(s) changed on 'pattern' frame 1. Now call look to see the result before moving on."
+      }
+    ],
+    "structuredContent": {
+      "bounds": {
+        "y": 2,
+        "width": 5,
+        "height": 4,
+        "x": 2
+      },
+      "frame": 1,
+      "colorsSnapped": [],
+      "sprite": "Sprite",
+      "pixelsChanged": 20,
+      "opsApplied": 1,
+      "layer": "pattern"
+    }
+  },
+  "images": []
+}

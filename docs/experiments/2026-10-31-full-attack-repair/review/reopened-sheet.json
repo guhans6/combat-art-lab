@@ -1,0 +1,142 @@
+{ "frames": [
+   {
+    "filename": "attack-repaired 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 320, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 320, "h": 192 },
+    "sourceSize": { "w": 320, "h": 192 },
+    "duration": 60
+   },
+   {
+    "filename": "attack-repaired 1.aseprite",
+    "frame": { "x": 320, "y": 0, "w": 320, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 320, "h": 192 },
+    "sourceSize": { "w": 320, "h": 192 },
+    "duration": 110
+   },
+   {
+    "filename": "attack-repaired 2.aseprite",
+    "frame": { "x": 640, "y": 0, "w": 320, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 320, "h": 192 },
+    "sourceSize": { "w": 320, "h": 192 },
+    "duration": 140
+   },
+   {
+    "filename": "attack-repaired 3.aseprite",
+    "frame": { "x": 960, "y": 0, "w": 320, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 320, "h": 192 },
+    "sourceSize": { "w": 320, "h": 192 },
+    "duration": 210
+   },
+   {
+    "filename": "attack-repaired 4.aseprite",
+    "frame": { "x": 1280, "y": 0, "w": 320, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 320, "h": 192 },
+    "sourceSize": { "w": 320, "h": 192 },
+    "duration": 70
+   },
+   {
+    "filename": "attack-repaired 5.aseprite",
+    "frame": { "x": 1600, "y": 0, "w": 320, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 320, "h": 192 },
+    "sourceSize": { "w": 320, "h": 192 },
+    "duration": 60
+   },
+   {
+    "filename": "attack-repaired 6.aseprite",
+    "frame": { "x": 1920, "y": 0, "w": 320, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 320, "h": 192 },
+    "sourceSize": { "w": 320, "h": 192 },
+    "duration": 90
+   },
+   {
+    "filename": "attack-repaired 7.aseprite",
+    "frame": { "x": 2240, "y": 0, "w": 320, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 320, "h": 192 },
+    "sourceSize": { "w": 320, "h": 192 },
+    "duration": 110
+   },
+   {
+    "filename": "attack-repaired 8.aseprite",
+    "frame": { "x": 2560, "y": 0, "w": 320, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 320, "h": 192 },
+    "sourceSize": { "w": 320, "h": 192 },
+    "duration": 140
+   },
+   {
+    "filename": "attack-repaired 9.aseprite",
+    "frame": { "x": 2880, "y": 0, "w": 320, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 320, "h": 192 },
+    "sourceSize": { "w": 320, "h": 192 },
+    "duration": 170
+   },
+   {
+    "filename": "attack-repaired 10.aseprite",
+    "frame": { "x": 3200, "y": 0, "w": 320, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 320, "h": 192 },
+    "sourceSize": { "w": 320, "h": 192 },
+    "duration": 140
+   },
+   {
+    "filename": "attack-repaired 11.aseprite",
+    "frame": { "x": 3520, "y": 0, "w": 320, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 320, "h": 192 },
+    "sourceSize": { "w": 320, "h": 192 },
+    "duration": 160
+   },
+   {
+    "filename": "attack-repaired 12.aseprite",
+    "frame": { "x": 3840, "y": 0, "w": 320, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 320, "h": 192 },
+    "sourceSize": { "w": 320, "h": 192 },
+    "duration": 220
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.18.6-dev",
+  "image": "reopened-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 4160, "h": 192 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "tote_attack", "from": 0, "to": 12, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "01-leg-base-and-shoes", "opacity": 255, "blendMode": "normal" },
+   { "name": "02-jacket-shirt-and-sleeves", "opacity": 255, "blendMode": "normal" },
+   { "name": "04a-underarm-and-waist-backing", "opacity": 255, "blendMode": "normal" },
+   { "name": "03-head-neck-collar", "opacity": 255, "blendMode": "normal" },
+   { "name": "06-continuous-handle-tension", "opacity": 255, "blendMode": "normal" },
+   { "name": "04-tote-and-handles", "opacity": 255, "blendMode": "normal" },
+   { "name": "05-loaded-grip-drawing", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

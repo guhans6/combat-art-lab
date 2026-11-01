@@ -1,0 +1,23 @@
+{
+  "protected_file_count": 4902,
+  "changed": [],
+  "missing": [],
+  "all_protected_unchanged": true,
+  "all_eight_inputs_unchanged": true,
+  "inputs": {
+    "01-idle.png": true,
+    "02-strap-lift.png": true,
+    "03-strap-grip.png": true,
+    "04-windup.png": true,
+    "05-swing.png": true,
+    "06-recovery.png": true,
+    "original-neutral.png": true,
+    "original-neutral.aseprite": true
+  },
+  "handoff_prior_content_preserved_as_prefix": true,
+  "selected_native_sha256": {
+    "tote-clean-material03.aseprite": "b29bc145f3159044e29857501056cc2194aa11dc022f43d884482bdc469bb77e",
+    "tote-smear-material03.aseprite": "c36f806b09e9898401a6ba6dc85ab543c40a0d3c0e519e752b5a516f715ace4f"
+  },
+  "new_handoff_sha256": "48c96ce80d883b1d5a5ab65f524a865f114983547e351b90fc4ee070d6d2a165"
+}

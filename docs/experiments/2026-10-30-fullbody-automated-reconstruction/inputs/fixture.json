@@ -1,0 +1,46 @@
+{
+  "schema": 1,
+  "purpose": "Shared, source-only control fixture for the bounded same-seed trial. It is infrastructure, not an approved production asset.",
+  "native_baseline": {
+    "path": "shared/shared-source-seed-baseline.aseprite",
+    "sha256": "b1d91f6f87f650cbd2cae3edb69704d195bbdcf8d6b679b287d01e8a7283cc19",
+    "dimensions": [128, 192],
+    "frames": 1,
+    "layers": ["shared-source-seed"],
+    "decoded_rgba_sha256": "8839680f1bc70c1c99653a28c76c6f8ea41f401d2755c93146d765523cb5806c",
+    "palette_chunk_sha256": "f2d4907a7493af8e6557f933e3c2c40d73f733658fc8250d925f79678ffb5b81",
+    "palette_entry_count": 255
+  },
+  "seed_png": {
+    "path": "shared/source-only-converted-seed.png",
+    "sha256": "074168d9bfc5b2a2f2751810152bb0c31a71e7027a5368c0b393e17449fb84eb",
+    "dimensions": [128, 192],
+    "decoded_rgba_sha256": "8839680f1bc70c1c99653a28c76c6f8ea41f401d2755c93146d765523cb5806c",
+    "visible_pixel_count": 7844,
+    "visible_rgb_color_count": 254,
+    "alpha_values": [0, 255],
+    "alpha_policy": "binary; no quantization or palette change in this trial"
+  },
+  "baseline_exports": [
+    {"path": "shared/shared-source-seed-baseline.png", "sha256": "7353611071482ea1e879ab9c247fb1d92c7bd90050b8eb99cbec4cdbdf612d12"},
+    {"path": "shared/shared-source-seed-baseline-reopen.png", "sha256": "7353611071482ea1e879ab9c247fb1d92c7bd90050b8eb99cbec4cdbdf612d12"}
+  ],
+  "authoritative_references": [
+    {"role": "identity and style", "path": "assets/references/approved-2026-10-26/character-scene.png", "sha256": "a274a80133371b61387848495bf0dd93546ba5daf0a60c051b27109237160eae"},
+    {"role": "identity and expression", "path": "assets/references/approved-2026-10-26/character-closeup.png", "sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7"},
+    {"role": "supporting production geometry", "path": "docs/experiments/2026-10-29-clean-cutout-conversion/inputs/clean-generated-cutout-v1.png", "sha256": "12e971cc9e3cbfa7add2a17a62ff53d1f45b3c55197ce23c336a6447bed1f49e"}
+  ],
+  "provenance": {
+    "method": "Read-only extraction of only the prior native `converted-seed` layer; no authored overlays, face corrections, copied semantic layers, raster patches, or correction scripts were included.",
+    "source_a": {"path": "docs/experiments/2026-10-29-luna-independent-trials/trial-a/passes/pass-01.aseprite", "sha256": "d7ddf39445e9d756254775ccafc865de3b695a0b7247578984d6c4395477dadd"},
+    "source_b": {"path": "docs/experiments/2026-10-29-luna-independent-trials/trial-a/passes/pass-02.aseprite", "sha256": "be50bfa634c6acceb671b4a7e8d60280d5ccad4d4a83334ccac675156e770bef"},
+    "same_named_layer_decoded_rgba_equal": true,
+    "verification": "shared/shared-fixture-checks.json"
+  },
+  "frozen_workflow": {
+    "brief": {"path": "BRIEF.md", "sha256": "990d375958f7824e6f33625c96af544ade9205652347d9e9268edfddbc74f16e"},
+    "trial_context": {"path": "shared/trial-context.md", "sha256": "a27b7d824dda63a57d47b77c69fa30501d05ecaa01d7612f59b85630b6fee77b"},
+    "art_production": {"path": "docs/workflow/art-production.md", "sha256": "2b41c1919a2d8a845757affcba43623a72308c7aced86553c9725a7370a48e2f"},
+    "pixel_art_director": {"path": "tools/pixel-art-director/SKILL.md", "sha256": "696dab6dec8ccaf716bdef7e11c72d8d410a1e628939c511e4ccb65c2b07b7f4"}
+  }
+}

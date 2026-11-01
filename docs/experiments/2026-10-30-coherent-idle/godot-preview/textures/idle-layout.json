@@ -1,0 +1,83 @@
+{
+  "canvas": [
+    128,
+    192
+  ],
+  "durations_ms": [
+    1100,
+    180,
+    120,
+    360,
+    220,
+    160,
+    240,
+    1000
+  ],
+  "frame_directory": "res://textures/coherent-v02",
+  "alpha_review_region": [
+    0,
+    34,
+    128,
+    192
+  ],
+  "intentional_alpha_holes": [
+    [
+      [
+        63,
+        116
+      ]
+    ],
+    [
+      [
+        63,
+        116
+      ]
+    ],
+    [
+      [
+        63,
+        116
+      ]
+    ],
+    [
+      [
+        63,
+        116
+      ]
+    ],
+    [
+      [
+        63,
+        116
+      ]
+    ],
+    [
+      [
+        63,
+        116
+      ]
+    ],
+    [
+      [
+        63,
+        116
+      ]
+    ],
+    [
+      [
+        63,
+        116
+      ]
+    ]
+  ],
+  "ground_anchor": [
+    68,
+    185
+  ],
+  "root_position": [
+    88,
+    69
+  ],
+  "filter": "nearest",
+  "source_native_sha256": "b5051489af54beef68b9dd4176d1cddb4fc990dfed4054de278416f06f0e6b40"
+}

@@ -1,0 +1,16 @@
+{
+  "checks": {
+    "single_pixel_changed": true,
+    "protected_layer_exact": true,
+    "asymmetric_L_orientation": true,
+    "isolated_pixel_location": true,
+    "fresh_reopen_matches": true,
+    "transparent_skip_exact": true,
+    "transparent_erase": true,
+    "forbidden_change_rejected": true,
+    "native_two_layers": true,
+    "mcp_validate_callable": false
+  },
+  "all_required_pass": true,
+  "observation": "Primary viewed L opening right/down, red square, isolated cream pixel13,12; exact ASCII read; first pixels op rejected schema and corrected to grid; tool validate advertised but not exposed."
+}

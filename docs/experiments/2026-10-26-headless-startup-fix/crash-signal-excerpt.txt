@@ -1,0 +1,31 @@
+Exception Type:    EXC_CRASH (SIGABRT)
+Exception Codes:   0x0000000000000000, 0x0000000000000000
+
+Termination Reason:  Namespace SIGNAL, Code 6, Abort trap: 6
+Terminating Process: aseprite [56446]
+
+
+Application Specific Information:
+abort() called
+
+
+Thread 0 Crashed::  Dispatch queue: com.apple.main-thread
+0   libsystem_kernel.dylib        	       0x1876045e8 __pthread_kill + 8
+1   libsystem_pthread.dylib       	       0x18763f8d8 pthread_kill + 296
+2   libsystem_c.dylib             	       0x187545978 abort + 148
+3   HIServices                    	       0x18ed14d34 ___RegisterApplication_block_invoke + 12716
+4   libdispatch.dylib             	       0x18749d4b0 _dispatch_client_callout + 16
+5   libdispatch.dylib             	       0x187486630 _dispatch_once_callout + 32
+6   HIServices                    	       0x18ece78cc _RegisterApplication + 164
+7   HIServices                    	       0x18ece76e8 GetCurrentProcess + 36
+8   AppKit                        	       0x18cae269c -[NSMenuBarPresentationInstance _getAggregateUIMode:withOptions:] + 148
+9   AppKit                        	       0x18cae333c _NSGetAggregateUIMode + 92
+10  AppKit                        	       0x18cae23c8 -[NSMenuBarPresentationInstance _isVisible] + 64
+11  AppKit                        	       0x18cae586c +[NSMenuBarPresentationInstance _isMenuBarVisible] + 40
+12  AppKit                        	       0x18bb0123c _NSInitializeAppContext + 52
+13  AppKit                        	       0x18baff20c -[NSApplication init] + 832
+14  AppKit                        	       0x18bafed00 +[NSApplication sharedApplication] + 128
+15  aseprite                      	       0x104c2662c os::AppOSX::init() + 28
+16  aseprite                      	       0x104c2576c main + 40
+17  dyld                          	       0x1872744e4 start + 6992
+

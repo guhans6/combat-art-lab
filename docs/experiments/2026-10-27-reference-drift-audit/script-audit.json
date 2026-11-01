@@ -1,0 +1,34 @@
+{
+  "input_sources": [
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/draw.lua",
+      "sha256": "0c124c829084eed39f09ddbbb1285ad28b4df33c136c1f4ace34293ad79739f1"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/draw-pass02.lua",
+      "sha256": "53044dc575a1080e21cd2e434e1f13a84f47f7b6e1b09cfc328a7e7a0f3a870d"
+    }
+  ],
+  "pass02_constructor_tables_unchanged_except_output_names": true,
+  "pass02_head_transform": {
+    "factor": 0.76,
+    "pivot_192": [
+      62,
+      70
+    ],
+    "pivot_256": [
+      83,
+      94
+    ],
+    "applies_to": [
+      "Back hair",
+      "Neck and face",
+      "Features",
+      "Front hair"
+    ]
+  },
+  "pass02_additional_back_hair_shapes_per_candidate": 3,
+  "source_raster_import_in_drawing_scripts": false,
+  "does_this_prove_no_visual_reference_inspection": false,
+  "comparison_generator_includes_approved_original": false
+}

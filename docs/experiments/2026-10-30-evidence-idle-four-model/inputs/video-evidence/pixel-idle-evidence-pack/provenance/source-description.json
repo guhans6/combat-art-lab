@@ -1,0 +1,61 @@
+{
+  "id": "vs-ierVdE7I",
+  "title": "Pixel Art Class - Simple Character Idle Animation",
+  "duration": 1077,
+  "description": "Heya Pals!\n\nI've got a brief video for you today covering my approach to more subtle animations like idles without detailed draft layers. Here we're just looking at single pose idle frames with sub-pixel adjustments.\n\nMore on sub pixel animation from me: https://www.youtube.com/watch?v=cs1Gp61yafQ\n\nMore on my Aseprite export scripts: https://www.youtube.com/watch?v=hiMBVCFMj6E\n\nChapters:\n0:00 - Introduction\n0:34 - Setup\n4:56 - Core Frames\n6:30 - Chest Sub-pixel Animation\n10:12 - Arms Secondary Motion\n12:02 - Hair Secondary Motion\n14:08 - Sub-pixel Shading\n15:19 - Preparing for Export\n17:17 - Wrap Up\n17:37 - Outro\n\nMusic:\nMikel - Poke & Chill [Gamechops.com]\n\n----\n\nThis video features clips from my stream. Catch it live: Mon, Tues, Thurs and Fri 1-6pm AEST.\n\nTwitch: http://twitch.tv/adamcyounis\nTwitter: http://twitter.com/adamcyounis\nDiscord: https://discord.gg/9WkRG7s\nBecome a Patron at https://www.patreon.com/adamcyounis\nDownload assets and games from the stream at http://uppon-hill.itch.io/\n\nLater, pals!",
+  "language": "en-US",
+  "channel": "AdamCYounis",
+  "chapters": [
+    {
+      "end_time": 34,
+      "start_time": 0,
+      "title": "Introduction"
+    },
+    {
+      "end_time": 296,
+      "start_time": 34,
+      "title": "Setup"
+    },
+    {
+      "end_time": 390,
+      "start_time": 296,
+      "title": "Core Frames"
+    },
+    {
+      "end_time": 612,
+      "start_time": 390,
+      "title": "Chest Sub-pixel Animation"
+    },
+    {
+      "end_time": 722,
+      "start_time": 612,
+      "title": "Arms Secondary Motion"
+    },
+    {
+      "end_time": 848,
+      "start_time": 722,
+      "title": "Hair Secondary Motion"
+    },
+    {
+      "end_time": 919,
+      "start_time": 848,
+      "title": "Sub-pixel Shading"
+    },
+    {
+      "end_time": 1037,
+      "start_time": 919,
+      "title": "Preparing for Export"
+    },
+    {
+      "end_time": 1057,
+      "start_time": 1037,
+      "title": "Wrap Up"
+    },
+    {
+      "end_time": 1077,
+      "start_time": 1057,
+      "title": "Outro"
+    }
+  ],
+  "webpage_url": "https://www.youtube.com/watch?v=vs-ierVdE7I"
+}

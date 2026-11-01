@@ -1,0 +1,299 @@
+{
+  "editor": "Aseprite 1.3.18.6-dev",
+  "backend": "Pebbly 0.8.2 headless",
+  "scope": "Deterministic source-derived seed; blank tracing layers; no AI artistic cleanup",
+  "fullSixAuto": {
+    "frames": [
+      {
+        "durationMs": 600,
+        "number": 1
+      },
+      {
+        "durationMs": 250,
+        "number": 2
+      },
+      {
+        "durationMs": 250,
+        "number": 3
+      },
+      {
+        "durationMs": 350,
+        "number": 4
+      },
+      {
+        "durationMs": 150,
+        "number": 5
+      },
+      {
+        "durationMs": 400,
+        "number": 6
+      }
+    ],
+    "colorMode": "rgb",
+    "palette": [
+      "#00000000",
+      "#fbe1c9",
+      "#f9d7b8",
+      "#eecab2",
+      "#e1b096",
+      "#eaa883",
+      "#db9775",
+      "#7f849f",
+      "#5a7bb5",
+      "#6579a6",
+      "#5a78b0",
+      "#5978b0",
+      "#5878b1",
+      "#5677b2",
+      "#5774ac",
+      "#5473ab",
+      "#786041",
+      "#655d3b",
+      "#625b39",
+      "#5d5638",
+      "#49679e",
+      "#446199",
+      "#415e96",
+      "#3f5785",
+      "#744534",
+      "#4d4933",
+      "#673b2e",
+      "#532d25",
+      "#3a424c",
+      "#2c3138",
+      "#2b252b",
+      "#24181b"
+    ],
+    "layers": [
+      {
+        "index": 1,
+        "isGroup": false,
+        "blendMode": "3",
+        "cels": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "visible": false,
+        "name": "Guide - hide before export",
+        "isTilemap": false,
+        "opacity": 77,
+        "editable": false
+      },
+      {
+        "index": 2,
+        "isGroup": false,
+        "blendMode": "3",
+        "cels": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "visible": true,
+        "name": "Automatic draft",
+        "isTilemap": false,
+        "opacity": 255,
+        "editable": true
+      },
+      {
+        "index": 3,
+        "isGroup": false,
+        "blendMode": "3",
+        "cels": [],
+        "visible": true,
+        "name": "Corrections",
+        "isTilemap": false,
+        "opacity": 255,
+        "editable": true
+      }
+    ],
+    "tags": [
+      {
+        "to": 6,
+        "name": "pose-study",
+        "repeats": 0,
+        "direction": "0",
+        "from": 1
+      }
+    ],
+    "height": 128,
+    "name": "automatic-draft.aseprite",
+    "filename": "/Users/guhan/Guhan/Projects/combat-art-lab/.scratch/aseprite-learning/learning/aseprite/practice/two-routes-2026-10-31/automatic-draft.aseprite",
+    "modified": false,
+    "id": 323,
+    "frameCount": 6,
+    "width": 128
+  },
+  "fullSixManual": {
+    "frames": [
+      {
+        "durationMs": 600,
+        "number": 1
+      },
+      {
+        "durationMs": 250,
+        "number": 2
+      },
+      {
+        "durationMs": 250,
+        "number": 3
+      },
+      {
+        "durationMs": 350,
+        "number": 4
+      },
+      {
+        "durationMs": 150,
+        "number": 5
+      },
+      {
+        "durationMs": 400,
+        "number": 6
+      }
+    ],
+    "colorMode": "rgb",
+    "activeFrame": 1,
+    "palette": [
+      "#00000000",
+      "#fbe1c9",
+      "#f9d7b8",
+      "#eecab2",
+      "#e1b096",
+      "#eaa883",
+      "#db9775",
+      "#7f849f",
+      "#5a7bb5",
+      "#6579a6",
+      "#5a78b0",
+      "#5978b0",
+      "#5878b1",
+      "#5677b2",
+      "#5774ac",
+      "#5473ab",
+      "#786041",
+      "#655d3b",
+      "#625b39",
+      "#5d5638",
+      "#49679e",
+      "#446199",
+      "#415e96",
+      "#3f5785",
+      "#744534",
+      "#4d4933",
+      "#673b2e",
+      "#532d25",
+      "#3a424c",
+      "#2c3138",
+      "#2b252b",
+      "#24181b"
+    ],
+    "activeLayer": "Guide - hide before export",
+    "layers": [
+      {
+        "index": 1,
+        "isGroup": false,
+        "blendMode": "3",
+        "cels": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "visible": true,
+        "name": "Guide - hide before export",
+        "isTilemap": false,
+        "opacity": 77,
+        "editable": false
+      },
+      {
+        "index": 2,
+        "isGroup": false,
+        "blendMode": "3",
+        "cels": [
+          1
+        ],
+        "visible": true,
+        "name": "Base colors",
+        "isTilemap": false,
+        "opacity": 255,
+        "editable": true
+      },
+      {
+        "index": 3,
+        "isGroup": false,
+        "blendMode": "3",
+        "cels": [],
+        "visible": true,
+        "name": "Shadows",
+        "isTilemap": false,
+        "opacity": 255,
+        "editable": true
+      },
+      {
+        "index": 4,
+        "isGroup": false,
+        "blendMode": "3",
+        "cels": [],
+        "visible": true,
+        "name": "Lines and details",
+        "isTilemap": false,
+        "opacity": 255,
+        "editable": true
+      }
+    ],
+    "tags": [
+      {
+        "to": 6,
+        "name": "pose-study",
+        "repeats": 0,
+        "direction": "0",
+        "from": 1
+      }
+    ],
+    "height": 128,
+    "name": "hand-trace.aseprite",
+    "filename": "/Users/guhan/Guhan/Projects/combat-art-lab/.scratch/aseprite-learning/learning/aseprite/practice/two-routes-2026-10-31/hand-trace.aseprite",
+    "modified": false,
+    "id": 325,
+    "frameCount": 6,
+    "width": 128
+  },
+  "primaryKeys": {
+    "sourcePoses": [
+      1,
+      4,
+      5
+    ],
+    "durationMs": [
+      600,
+      350,
+      150
+    ]
+  },
+  "proof": {
+    "path": "evidence/local-revision-proof.aseprite",
+    "frame": 1,
+    "layer": "Corrections",
+    "changedPixels": [
+      [
+        77,
+        58
+      ],
+      [
+        77,
+        59
+      ]
+    ],
+    "color": "#f9d7b8",
+    "mainDraftUnmodified": true
+  },
+  "validateTool": "Not exposed in this session; focused independent native/PNG checks used."
+}

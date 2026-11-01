@@ -1,0 +1,244 @@
+{
+  "base_revision": "9e35c5c13987a153e942e6f93f49f247fad13c3a",
+  "state": "local uncommitted working tree",
+  "modified_existing_files": [
+    "CONTEXT.md",
+    "docs/handoff.md",
+    "docs/workflow/art-production.md",
+    "tools/pixel-art-director/SKILL.md",
+    "tools/pixel-art-director/references/reconstruction.md"
+  ],
+  "added_toolkit_files": [
+    "tools/pixel-art-director/scripts/reference_review.py",
+    "tools/pixel-art-director/tests/test_reference_review.py"
+  ],
+  "audit_directory": "docs/experiments/2026-10-27-reference-drift-audit",
+  "note": "This manifest excludes itself. Prior experiment records and all existing artwork remain byte-identical; intentionally changed current docs/skill files are listed separately.",
+  "files": [
+    {
+      "path": "CONTEXT.md",
+      "bytes": 12897,
+      "sha256": "c6ed2f40f33d04df068196908408f864d1650af828426e9f0ce3ce923c040b1d"
+    },
+    {
+      "path": "docs/handoff.md",
+      "bytes": 22892,
+      "sha256": "95b9a9562f681f82cb8da6e654e7ea36d488a0b4fa1f98d7b3766692ab75f37f"
+    },
+    {
+      "path": "docs/workflow/art-production.md",
+      "bytes": 24389,
+      "sha256": "d888e1e809a486c18f44bd0a2cc194b4a4262232377ddd092a1a444d0d1e10fb"
+    },
+    {
+      "path": "tools/pixel-art-director/SKILL.md",
+      "bytes": 9097,
+      "sha256": "0618511375a2dc4f4839866cd64637b85c2ab5a52cace25ec264de7de2f1b1f0"
+    },
+    {
+      "path": "tools/pixel-art-director/references/reconstruction.md",
+      "bytes": 5967,
+      "sha256": "27ad9682f0ffa5ceb41530d78f8d1d023d3763e513a767cadd23d44839797234"
+    },
+    {
+      "path": "tools/pixel-art-director/scripts/reference_review.py",
+      "bytes": 4717,
+      "sha256": "cd59e162063348639b493a3816fc744d7cc8a465127ba9d14855b358d8c7740c"
+    },
+    {
+      "path": "tools/pixel-art-director/tests/test_reference_review.py",
+      "bytes": 2689,
+      "sha256": "c51567b159dc4c2fbfdc9d14fe3e1c6cb9360aa96e4bf33fda8a188342656d38"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/draw-head-shoulders-blank-rejected.lua",
+      "bytes": 10517,
+      "sha256": "cf8bf5cd7e26f58d55f8423239f448b404f7fd0db9af9ee385337821b9fdca72"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/draw-head-shoulders-blockout-v02.lua",
+      "bytes": 10699,
+      "sha256": "1c56708369bc38591f0c2ab15eba47fe47e8258dab53189d33db59419cbc59a5"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/draw-head-shoulders.lua",
+      "bytes": 11044,
+      "sha256": "4b2bd5d3a5c77dabc21040287880da4bdb9718b5db12c540497b39ac289bc955"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/head-shoulders-blockout-v02.aseprite",
+      "bytes": 4382,
+      "sha256": "e5e0593e6a50982e769e4e1c348af076a3429a25a167159761c8fb26b61c9435"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/head-shoulders-blockout-v02.png",
+      "bytes": 2278,
+      "sha256": "dc851fae4fbc6c324fc35f4d436b70d9eec6894fb1f097a9d3c6b4b0a56db4d6"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/head-shoulders-blockout-v03.aseprite",
+      "bytes": 4399,
+      "sha256": "b2e223dcdeed8b40f1f2e2a40a8abcf33461363176d3535c49ab8b248c6ec196"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/head-shoulders-blockout-v03.png",
+      "bytes": 2285,
+      "sha256": "292951da8f3c9d614e082f71baf9d8ad127252f8a2e555009d8c9529f7d70aab"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/head-shoulders-blockout.aseprite",
+      "bytes": 2350,
+      "sha256": "798e5f7f3c32ece071f46572fd99ce86f54b78b2517ee504ceec72380453ac2e"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/head-shoulders-blockout.png",
+      "bytes": 145,
+      "sha256": "cae91489793fcc085d21cc11b87a380327f05f54da6bd46a5b03001f1d881a56"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/head-shoulders-features-reopen.png",
+      "bytes": 3261,
+      "sha256": "2334c0974cb926baf9f7f9739ea5a1979507f84b33dbfbcd438cdf4f5bc35ef7"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/head-shoulders-features.aseprite",
+      "bytes": 5098,
+      "sha256": "457eae1e96d88129bd714d8a927ffea1dae3e07724d199dec653360aa7848d00"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/head-shoulders-features.png",
+      "bytes": 3261,
+      "sha256": "2334c0974cb926baf9f7f9739ea5a1979507f84b33dbfbcd438cdf4f5bc35ef7"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/head-shoulders-tie-edit-proof-reopen.png",
+      "bytes": 3262,
+      "sha256": "9f89a8eab8df8fcf765e51725ea5610a555a5ded96ed442df3827a1040fa34aa"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/head-shoulders-tie-edit-proof.aseprite",
+      "bytes": 4472,
+      "sha256": "2cc95139003d8e0d3814394540a31b2595068f1012ebd6d674d5475ef297cf5a"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/head-shoulders-tie-edit-proof.png",
+      "bytes": 3262,
+      "sha256": "9f89a8eab8df8fcf765e51725ea5610a555a5ded96ed442df3827a1040fa34aa"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/native-checks.json",
+      "bytes": 3302,
+      "sha256": "f034380e65d10289d09960de971fc2353c5f436d77f6d22d5951d4395fbf6855"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/original-head-shoulders-crop.png",
+      "bytes": 324543,
+      "sha256": "8b6be1be396a1b9ac4a3f7e34a4d4177853e16c4c14dcad012686a6c67aa4bbb"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/original-vs-blockout-v02.json",
+      "bytes": 1261,
+      "sha256": "0b042ffb11a76242e49cc2144f4378f8dc18aab6b7948a0a25a131d27c578f39"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/original-vs-blockout-v02.png",
+      "bytes": 314319,
+      "sha256": "25dfa00205a145082b229dbba3bad973bd5ec7b9175bc11ad3e65764b6027d99"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/original-vs-blockout-v03.json",
+      "bytes": 1261,
+      "sha256": "baeb8c4f73ac21956df446e2995c012d14f718275c1d7381c3f6a2e3b7279eb1"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/original-vs-blockout-v03.png",
+      "bytes": 314317,
+      "sha256": "0c623e418798a8b524f013b601a8ee941f38c6f197ac30a5fe9e88505ffc3323"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/original-vs-blockout.json",
+      "bytes": 1257,
+      "sha256": "568a1b5d122649a0274a989f94912d3d07f2dd246dac69b50daef3fc536fb4e3"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/original-vs-blockout.png",
+      "bytes": 311117,
+      "sha256": "ca7c16eb5170962b9abef1b2a371c27c3c99c304c208b066dabcee97a8753624"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/original-vs-failed-192.json",
+      "bytes": 1278,
+      "sha256": "cdb2e8f60176d8965ebeecb3f040c6956a102d354cd36fa3050751bff948b1db"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/original-vs-failed-192.png",
+      "bytes": 347949,
+      "sha256": "eabf5e3a2a70c0025dcba13f3867b420ff521a5b2ab08a7b2c00cb7e84c4370a"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/original-vs-failed-256.json",
+      "bytes": 1278,
+      "sha256": "7484963eaa6bf9d8ccb7461e134240d9443fa835fba66ca314a3b063fba5dae1"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/original-vs-failed-256.png",
+      "bytes": 348874,
+      "sha256": "fc7e3eb9e69409205f53861fbd11af0b9b1f654ec9bbce0a3f6c353fbcff0d22"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/original-vs-features.json",
+      "bytes": 1257,
+      "sha256": "2a1ab99e94c53c529fe98ce93811b08372987a9f70016e8224b903c42298b4b1"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/original-vs-features.png",
+      "bytes": 315238,
+      "sha256": "f517565b60b39f1e7c852f114ef63fb76b0e2e9282b114d929aefb46592c1ca7"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/preservation-checks.json",
+      "bytes": 133553,
+      "sha256": "b6df0277e9f70888e49c3966add00dab8ff7418e7a773cae139d92499b17c0c1"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/record.md",
+      "bytes": 17394,
+      "sha256": "d62623096c4f0b4a2c2de4185a7999bc8ee29310e8aa51c068e37d5f89c0667c"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/reference-coordinate-grid.png",
+      "bytes": 323981,
+      "sha256": "c1a9b03e8629f833902a0f7b5cca4c9b3462f71d73ecc4db8ef9d6d22bc5d9fa"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/reference-layout.json",
+      "bytes": 3984,
+      "sha256": "fdb6d8d45a06f7db7e5f1737e226242b4f8fdd3149dd2894b4f54103105312af"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/script-audit.json",
+      "bytes": 925,
+      "sha256": "7c955cb1af5020d516af16733eb6fd2895319f4d7af7f444b8dd67064d8430ca"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/script-diff.patch",
+      "bytes": 4447,
+      "sha256": "5928a7e81525a6ed76d627bb323842b9b72cc9e81cbdf1ab78a0c039574f17c6"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/validation.json",
+      "bytes": 1811,
+      "sha256": "9b4693d3ee5ba4d8588f44a20d9859f26defaf9eb6fb9b213bb7375b773ee007"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/verify-audit.py",
+      "bytes": 2483,
+      "sha256": "fb950de7c3ec3a42a8a687730178dd40e65ef0f1d454578740c6c0fc0b0bc3d4"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-reference-drift-audit/verify-head-shoulders.lua",
+      "bytes": 1144,
+      "sha256": "8cfbe9f7a6e855bb4da12450b4b2e2d19ac02b2197ffed87f71f472bec4cbae0"
+    }
+  ]
+}

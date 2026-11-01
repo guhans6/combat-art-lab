@@ -1,0 +1,204 @@
+{
+  "origin": [
+    0,
+    0
+  ],
+  "native_canvas": [
+    208,
+    240
+  ],
+  "parts": [
+    {
+      "name": "00-wall-backing",
+      "file": "00-wall-backing.png",
+      "offset": [
+        0,
+        12
+      ],
+      "size": [
+        143,
+        220
+      ]
+    },
+    {
+      "name": "01-window-backing",
+      "file": "01-window-backing.png",
+      "offset": [
+        0,
+        14
+      ],
+      "size": [
+        116,
+        216
+      ]
+    },
+    {
+      "name": "02-window-interior-left",
+      "file": "02-window-interior-left.png",
+      "offset": [
+        0,
+        15
+      ],
+      "size": [
+        77,
+        207
+      ]
+    },
+    {
+      "name": "03-window-interior-right",
+      "file": "03-window-interior-right.png",
+      "offset": [
+        88,
+        42
+      ],
+      "size": [
+        29,
+        155
+      ]
+    },
+    {
+      "name": "04-timber-frame",
+      "file": "04-timber-frame.png",
+      "offset": [
+        20,
+        18
+      ],
+      "size": [
+        99,
+        204
+      ]
+    },
+    {
+      "name": "05-blue-awning",
+      "file": "05-blue-awning.png",
+      "offset": [
+        0,
+        0
+      ],
+      "size": [
+        143,
+        52
+      ]
+    },
+    {
+      "name": "06-entry-steps",
+      "file": "06-entry-steps.png",
+      "offset": [
+        0,
+        197
+      ],
+      "size": [
+        175,
+        39
+      ]
+    },
+    {
+      "name": "07-chalkboard",
+      "file": "07-chalkboard.png",
+      "offset": [
+        0,
+        135
+      ],
+      "size": [
+        36,
+        101
+      ]
+    },
+    {
+      "name": "08-large-planter",
+      "file": "08-large-planter.png",
+      "offset": [
+        31,
+        119
+      ],
+      "size": [
+        67,
+        106
+      ]
+    },
+    {
+      "name": "09-small-planter",
+      "file": "09-small-planter.png",
+      "offset": [
+        29,
+        174
+      ],
+      "size": [
+        46,
+        54
+      ]
+    },
+    {
+      "name": "10-pendant-left-shell",
+      "file": "10-pendant-left-shell.png",
+      "offset": [
+        34,
+        30
+      ],
+      "size": [
+        24,
+        31
+      ]
+    },
+    {
+      "name": "11-pendant-right-shell",
+      "file": "11-pendant-right-shell.png",
+      "offset": [
+        87,
+        63
+      ],
+      "size": [
+        16,
+        16
+      ]
+    },
+    {
+      "name": "12-ceiling-left-emitter",
+      "file": "12-ceiling-left-emitter.png",
+      "offset": [
+        31,
+        7
+      ],
+      "size": [
+        19,
+        7
+      ]
+    },
+    {
+      "name": "13-ceiling-right-emitter",
+      "file": "13-ceiling-right-emitter.png",
+      "offset": [
+        98,
+        39
+      ],
+      "size": [
+        13,
+        6
+      ]
+    },
+    {
+      "name": "14-pendant-left-emitter",
+      "file": "14-pendant-left-emitter.png",
+      "offset": [
+        44,
+        60
+      ],
+      "size": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "15-pendant-right-emitter",
+      "file": "15-pendant-right-emitter.png",
+      "offset": [
+        93,
+        77
+      ],
+      "size": [
+        4,
+        4
+      ]
+    }
+  ]
+}

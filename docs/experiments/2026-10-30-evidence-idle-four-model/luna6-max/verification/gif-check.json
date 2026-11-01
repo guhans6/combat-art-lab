@@ -1,0 +1,84 @@
+{
+  "input_frames": [
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/frames/idle-00.png",
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/frames/idle-01.png",
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/frames/idle-02.png",
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/frames/idle-03.png",
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/frames/idle-04.png",
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/frames/idle-05.png",
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/frames/idle-06.png",
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/frames/idle-07.png",
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/frames/idle-08.png",
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/frames/idle-09.png"
+  ],
+  "durations_ms": [
+    600,
+    180,
+    180,
+    360,
+    220,
+    220,
+    450,
+    50,
+    80,
+    50
+  ],
+  "matte_rgb": [
+    128,
+    128,
+    128
+  ],
+  "pillow_version": "12.3.0",
+  "scales": {
+    "1": {
+      "gif": "docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/exports/idle-neutral-1x.gif",
+      "dimensions": [
+        128,
+        192
+      ],
+      "source_frame_count": 10,
+      "decoded_frame_count": 10,
+      "decoded_frame_count_after_identical_hold_merge": 10,
+      "decoded_durations_ms_after_identical_hold_merge": [
+        600,
+        180,
+        180,
+        360,
+        220,
+        220,
+        450,
+        50,
+        80,
+        50
+      ],
+      "visible_color_count": 249,
+      "decoded_pixels_exact": true,
+      "decoded_timeline_exact_after_hold_merge": true
+    },
+    "3": {
+      "gif": "docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/exports/idle-neutral-3x.gif",
+      "dimensions": [
+        384,
+        576
+      ],
+      "source_frame_count": 10,
+      "decoded_frame_count": 10,
+      "decoded_frame_count_after_identical_hold_merge": 10,
+      "decoded_durations_ms_after_identical_hold_merge": [
+        600,
+        180,
+        180,
+        360,
+        220,
+        220,
+        450,
+        50,
+        80,
+        50
+      ],
+      "visible_color_count": 249,
+      "decoded_pixels_exact": true,
+      "decoded_timeline_exact_after_hold_merge": true
+    }
+  }
+}

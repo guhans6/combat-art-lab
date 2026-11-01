@@ -1,0 +1,24 @@
+{
+  "id": "052",
+  "time": "2026-10-26T10:32:48.425Z",
+  "call": {
+    "name": "select",
+    "arguments": {
+      "op": "none"
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "sprite=pass-01.aseprite pixelCount=0 empty=true"
+      }
+    ],
+    "structuredContent": {
+      "sprite": "pass-01.aseprite",
+      "pixelCount": 0,
+      "empty": true
+    }
+  },
+  "images": []
+}

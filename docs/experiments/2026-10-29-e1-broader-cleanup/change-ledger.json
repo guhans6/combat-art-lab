@@ -1,0 +1,7846 @@
+{
+  "schema": 1,
+  "chronology": "Candidate mapping was created from declared deterministic rules; this ledger is a post-run evidence extraction, not a pre-run lint.",
+  "changes": [
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        79,
+        79
+      ],
+      "old_rgba": [
+        61,
+        41,
+        39,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        50,
+        80
+      ],
+      "old_rgba": [
+        68,
+        44,
+        42,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        51,
+        80
+      ],
+      "old_rgba": [
+        61,
+        41,
+        39,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        53,
+        80
+      ],
+      "old_rgba": [
+        76,
+        45,
+        40,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        84,
+        80
+      ],
+      "old_rgba": [
+        82,
+        52,
+        45,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        50,
+        81
+      ],
+      "old_rgba": [
+        68,
+        44,
+        42,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        82,
+        81
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        85,
+        81
+      ],
+      "old_rgba": [
+        82,
+        52,
+        45,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        45,
+        82
+      ],
+      "old_rgba": [
+        95,
+        58,
+        48,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        46,
+        82
+      ],
+      "old_rgba": [
+        77,
+        49,
+        45,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        47,
+        82
+      ],
+      "old_rgba": [
+        95,
+        58,
+        48,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        48,
+        82
+      ],
+      "old_rgba": [
+        61,
+        41,
+        39,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        49,
+        82
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        50,
+        82
+      ],
+      "old_rgba": [
+        68,
+        44,
+        42,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        51,
+        82
+      ],
+      "old_rgba": [
+        68,
+        44,
+        42,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        82,
+        82
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        83,
+        82
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        85,
+        82
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        43,
+        83
+      ],
+      "old_rgba": [
+        95,
+        58,
+        48,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        45,
+        83
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        49,
+        83
+      ],
+      "old_rgba": [
+        68,
+        44,
+        42,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        74,
+        83
+      ],
+      "old_rgba": [
+        68,
+        44,
+        42,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        81,
+        83
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        82,
+        83
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        83,
+        83
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        84,
+        83
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        85,
+        83
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        43,
+        84
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        44,
+        84
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        46,
+        84
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        49,
+        84
+      ],
+      "old_rgba": [
+        68,
+        44,
+        42,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        81,
+        84
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        82,
+        84
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        83,
+        84
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        84,
+        84
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        85,
+        84
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        41,
+        85
+      ],
+      "old_rgba": [
+        76,
+        45,
+        40,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        42,
+        85
+      ],
+      "old_rgba": [
+        66,
+        42,
+        38,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        43,
+        85
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        44,
+        85
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        46,
+        85
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        48,
+        85
+      ],
+      "old_rgba": [
+        61,
+        41,
+        39,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        75,
+        85
+      ],
+      "old_rgba": [
+        68,
+        44,
+        42,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        80,
+        85
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        82,
+        85
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        83,
+        85
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        84,
+        85
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        89,
+        85
+      ],
+      "old_rgba": [
+        61,
+        41,
+        39,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        37,
+        86
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        42,
+        86
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        43,
+        86
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        45,
+        86
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        75,
+        86
+      ],
+      "old_rgba": [
+        68,
+        44,
+        42,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        80,
+        86
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        81,
+        86
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        82,
+        86
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        83,
+        86
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        84,
+        86
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        88,
+        86
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        89,
+        86
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        36,
+        87
+      ],
+      "old_rgba": [
+        82,
+        53,
+        48,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        40,
+        87
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        41,
+        87
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        42,
+        87
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        43,
+        87
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        44,
+        87
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        51,
+        87
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        76,
+        87
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        80,
+        87
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        81,
+        87
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        82,
+        87
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        84,
+        87
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        87,
+        87
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        35,
+        88
+      ],
+      "old_rgba": [
+        82,
+        53,
+        48,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        39,
+        88
+      ],
+      "old_rgba": [
+        61,
+        41,
+        39,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        40,
+        88
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        43,
+        88
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        44,
+        88
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        49,
+        88
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        50,
+        88
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        51,
+        88
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        77,
+        88
+      ],
+      "old_rgba": [
+        61,
+        41,
+        39,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        80,
+        88
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        81,
+        88
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        82,
+        88
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        87,
+        88
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        88,
+        88
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        30,
+        89
+      ],
+      "old_rgba": [
+        91,
+        54,
+        46,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        34,
+        89
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        39,
+        89
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        40,
+        89
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        44,
+        89
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        48,
+        89
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        49,
+        89
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        50,
+        89
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        80,
+        89
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        81,
+        89
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        82,
+        89
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        83,
+        89
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        86,
+        89
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        87,
+        89
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        29,
+        90
+      ],
+      "old_rgba": [
+        91,
+        54,
+        46,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        30,
+        90
+      ],
+      "old_rgba": [
+        66,
+        42,
+        38,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        31,
+        90
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        32,
+        90
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        33,
+        90
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        40,
+        90
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        44,
+        90
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        47,
+        90
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        48,
+        90
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        49,
+        90
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        50,
+        90
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        78,
+        90
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        79,
+        90
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        80,
+        90
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        81,
+        90
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        82,
+        90
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        85,
+        90
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        86,
+        90
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        87,
+        90
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        26,
+        91
+      ],
+      "old_rgba": [
+        84,
+        49,
+        42,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        27,
+        91
+      ],
+      "old_rgba": [
+        84,
+        49,
+        42,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        29,
+        91
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        30,
+        91
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        37,
+        91
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        38,
+        91
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        48,
+        91
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        49,
+        91
+      ],
+      "old_rgba": [
+        66,
+        42,
+        38,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        79,
+        91
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        80,
+        91
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        81,
+        91
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        82,
+        91
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        83,
+        91
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        84,
+        91
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        85,
+        91
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        96,
+        91
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        97,
+        91
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        98,
+        91
+      ],
+      "old_rgba": [
+        82,
+        53,
+        48,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        99,
+        91
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        25,
+        92
+      ],
+      "old_rgba": [
+        91,
+        54,
+        46,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        26,
+        92
+      ],
+      "old_rgba": [
+        84,
+        49,
+        42,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        32,
+        92
+      ],
+      "old_rgba": [
+        92,
+        77,
+        54,
+        255
+      ],
+      "new_rgba": [
+        95,
+        74,
+        52,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        37,
+        92
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        38,
+        92
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        39,
+        92
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        40,
+        92
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        48,
+        92
+      ],
+      "old_rgba": [
+        68,
+        44,
+        42,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        79,
+        92
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        80,
+        92
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        81,
+        92
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        82,
+        92
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        83,
+        92
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        84,
+        92
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        85,
+        92
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        96,
+        92
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        25,
+        93
+      ],
+      "old_rgba": [
+        84,
+        49,
+        42,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        26,
+        93
+      ],
+      "old_rgba": [
+        84,
+        49,
+        42,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        29,
+        93
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        37,
+        93
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        38,
+        93
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        39,
+        93
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        40,
+        93
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        41,
+        93
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        42,
+        93
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        46,
+        93
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        47,
+        93
+      ],
+      "old_rgba": [
+        82,
+        52,
+        45,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        78,
+        93
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        80,
+        93
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        81,
+        93
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        82,
+        93
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        84,
+        93
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        94,
+        93
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        95,
+        93
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        96,
+        93
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        97,
+        93
+      ],
+      "old_rgba": [
+        92,
+        77,
+        54,
+        255
+      ],
+      "new_rgba": [
+        95,
+        74,
+        52,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        102,
+        93
+      ],
+      "old_rgba": [
+        92,
+        77,
+        54,
+        255
+      ],
+      "new_rgba": [
+        95,
+        74,
+        52,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        28,
+        94
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        37,
+        94
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        38,
+        94
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        39,
+        94
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        40,
+        94
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        41,
+        94
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        79,
+        94
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        87,
+        94
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        92,
+        94
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        93,
+        94
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        94,
+        94
+      ],
+      "old_rgba": [
+        61,
+        41,
+        39,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        100,
+        94
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        102,
+        94
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        25,
+        95
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        26,
+        95
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        37,
+        95
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        38,
+        95
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        39,
+        95
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        40,
+        95
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        41,
+        95
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        45,
+        95
+      ],
+      "old_rgba": [
+        91,
+        54,
+        46,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        83,
+        95
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        84,
+        95
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        87,
+        95
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        92,
+        95
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        93,
+        95
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        94,
+        95
+      ],
+      "old_rgba": [
+        92,
+        77,
+        54,
+        255
+      ],
+      "new_rgba": [
+        95,
+        74,
+        52,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        100,
+        95
+      ],
+      "old_rgba": [
+        92,
+        77,
+        54,
+        255
+      ],
+      "new_rgba": [
+        95,
+        74,
+        52,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        102,
+        95
+      ],
+      "old_rgba": [
+        87,
+        75,
+        57,
+        255
+      ],
+      "new_rgba": [
+        95,
+        74,
+        52,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        25,
+        96
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        26,
+        96
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        37,
+        96
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        38,
+        96
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        39,
+        96
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        40,
+        96
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        44,
+        96
+      ],
+      "old_rgba": [
+        92,
+        77,
+        54,
+        255
+      ],
+      "new_rgba": [
+        95,
+        74,
+        52,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        80,
+        96
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        81,
+        96
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        82,
+        96
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        83,
+        96
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        84,
+        96
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        100,
+        96
+      ],
+      "old_rgba": [
+        92,
+        77,
+        54,
+        255
+      ],
+      "new_rgba": [
+        95,
+        74,
+        52,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        101,
+        96
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        102,
+        96
+      ],
+      "old_rgba": [
+        87,
+        75,
+        57,
+        255
+      ],
+      "new_rgba": [
+        95,
+        74,
+        52,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        24,
+        97
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        25,
+        97
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        43,
+        97
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        80,
+        97
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        81,
+        97
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        85,
+        97
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        100,
+        97
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        23,
+        98
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        24,
+        98
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        25,
+        98
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        27,
+        98
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        28,
+        98
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        34,
+        98
+      ],
+      "old_rgba": [
+        61,
+        41,
+        39,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        80,
+        98
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        81,
+        98
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        90,
+        98
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        91,
+        98
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        99,
+        98
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        25,
+        99
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        26,
+        99
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        27,
+        99
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        28,
+        99
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        34,
+        99
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        37,
+        99
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        78,
+        99
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        79,
+        99
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        80,
+        99
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        81,
+        99
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        82,
+        99
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        21,
+        100
+      ],
+      "old_rgba": [
+        95,
+        58,
+        48,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        22,
+        100
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        24,
+        100
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        25,
+        100
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        26,
+        100
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        28,
+        100
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        29,
+        100
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        37,
+        100
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        40,
+        100
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        21,
+        101
+      ],
+      "old_rgba": [
+        82,
+        52,
+        45,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        25,
+        101
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        26,
+        101
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        37,
+        101
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        40,
+        101
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        98,
+        101
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        21,
+        102
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        22,
+        102
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        24,
+        102
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        98,
+        102
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        20,
+        103
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        21,
+        103
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        22,
+        103
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        23,
+        103
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        24,
+        103
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        26,
+        103
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        97,
+        103
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        15,
+        104
+      ],
+      "old_rgba": [
+        95,
+        58,
+        48,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        18,
+        104
+      ],
+      "old_rgba": [
+        91,
+        54,
+        46,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        20,
+        104
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        21,
+        104
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        22,
+        104
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        23,
+        104
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        24,
+        104
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        27,
+        104
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        36,
+        104
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        76,
+        104
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        77,
+        104
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        84,
+        104
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        85,
+        104
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        104,
+        104
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        109,
+        104
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        20,
+        105
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        21,
+        105
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        22,
+        105
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        23,
+        105
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        24,
+        105
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        36,
+        105
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        97,
+        105
+      ],
+      "old_rgba": [
+        87,
+        75,
+        57,
+        255
+      ],
+      "new_rgba": [
+        95,
+        74,
+        52,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        105,
+        105
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        14,
+        106
+      ],
+      "old_rgba": [
+        91,
+        54,
+        46,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        15,
+        106
+      ],
+      "old_rgba": [
+        95,
+        58,
+        48,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        19,
+        106
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        20,
+        106
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        21,
+        106
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        22,
+        106
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        23,
+        106
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        36,
+        106
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        97,
+        106
+      ],
+      "old_rgba": [
+        87,
+        75,
+        57,
+        255
+      ],
+      "new_rgba": [
+        95,
+        74,
+        52,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        105,
+        106
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        14,
+        107
+      ],
+      "old_rgba": [
+        76,
+        45,
+        40,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        15,
+        107
+      ],
+      "old_rgba": [
+        66,
+        42,
+        38,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        20,
+        107
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        21,
+        107
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        22,
+        107
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        23,
+        107
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        24,
+        107
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        25,
+        107
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        28,
+        107
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        29,
+        107
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        74,
+        107
+      ],
+      "old_rgba": [
+        87,
+        75,
+        57,
+        255
+      ],
+      "new_rgba": [
+        95,
+        74,
+        52,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        81,
+        107
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        88,
+        107
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        97,
+        107
+      ],
+      "old_rgba": [
+        87,
+        75,
+        57,
+        255
+      ],
+      "new_rgba": [
+        95,
+        74,
+        52,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        103,
+        107
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        105,
+        107
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        107,
+        107
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        14,
+        108
+      ],
+      "old_rgba": [
+        76,
+        45,
+        40,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        19,
+        108
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        20,
+        108
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        21,
+        108
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        22,
+        108
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        23,
+        108
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        24,
+        108
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        25,
+        108
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        33,
+        108
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        37,
+        108
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        75,
+        108
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        81,
+        108
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        104,
+        108
+      ],
+      "old_rgba": [
+        69,
+        50,
+        44,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        106,
+        108
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        107,
+        108
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        13,
+        109
+      ],
+      "old_rgba": [
+        95,
+        58,
+        48,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        14,
+        109
+      ],
+      "old_rgba": [
+        76,
+        45,
+        40,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        19,
+        109
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        20,
+        109
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        21,
+        109
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        22,
+        109
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        31,
+        109
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        32,
+        109
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        37,
+        109
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        75,
+        109
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        80,
+        109
+      ],
+      "old_rgba": [
+        92,
+        77,
+        54,
+        255
+      ],
+      "new_rgba": [
+        95,
+        74,
+        52,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        81,
+        109
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        13,
+        110
+      ],
+      "old_rgba": [
+        91,
+        54,
+        46,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        14,
+        110
+      ],
+      "old_rgba": [
+        76,
+        45,
+        40,
+        255
+      ],
+      "new_rgba": [
+        60,
+        53,
+        44,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        17,
+        110
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        19,
+        110
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        21,
+        110
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        24,
+        110
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        26,
+        110
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        27,
+        110
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        32,
+        110
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        36,
+        110
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        37,
+        110
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        75,
+        110
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        79,
+        110
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        86,
+        110
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        102,
+        110
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        103,
+        110
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        104,
+        110
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        13,
+        111
+      ],
+      "old_rgba": [
+        91,
+        54,
+        46,
+        255
+      ],
+      "new_rgba": [
+        65,
+        59,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        16,
+        111
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        17,
+        111
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        19,
+        111
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        20,
+        111
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        23,
+        111
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        24,
+        111
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        27,
+        111
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        34,
+        111
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        35,
+        111
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        36,
+        111
+      ],
+      "old_rgba": [
+        86,
+        74,
+        51,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        37,
+        111
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        75,
+        111
+      ],
+      "old_rgba": [
+        92,
+        77,
+        54,
+        255
+      ],
+      "new_rgba": [
+        95,
+        74,
+        52,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        88,
+        111
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "01-jacket",
+      "coordinate": [
+        105,
+        111
+      ],
+      "old_rgba": [
+        83,
+        68,
+        50,
+        255
+      ],
+      "new_rgba": [
+        86,
+        74,
+        53,
+        255
+      ],
+      "rule": "olive-range value-to-existing-olive-ramp"
+    },
+    {
+      "layer": "02-shirt",
+      "coordinate": [
+        75,
+        100
+      ],
+      "old_rgba": [
+        178,
+        108,
+        71,
+        255
+      ],
+      "new_rgba": [
+        198,
+        152,
+        132,
+        255
+      ],
+      "rule": "warm-light value-to-existing-cream-ramp"
+    },
+    {
+      "layer": "02-shirt",
+      "coordinate": [
+        75,
+        101
+      ],
+      "old_rgba": [
+        178,
+        108,
+        71,
+        255
+      ],
+      "new_rgba": [
+        198,
+        152,
+        132,
+        255
+      ],
+      "rule": "warm-light value-to-existing-cream-ramp"
+    },
+    {
+      "layer": "02-shirt",
+      "coordinate": [
+        42,
+        102
+      ],
+      "old_rgba": [
+        178,
+        108,
+        71,
+        255
+      ],
+      "new_rgba": [
+        198,
+        152,
+        132,
+        255
+      ],
+      "rule": "warm-light value-to-existing-cream-ramp"
+    },
+    {
+      "layer": "02-shirt",
+      "coordinate": [
+        71,
+        103
+      ],
+      "old_rgba": [
+        178,
+        108,
+        71,
+        255
+      ],
+      "new_rgba": [
+        198,
+        152,
+        132,
+        255
+      ],
+      "rule": "warm-light value-to-existing-cream-ramp"
+    },
+    {
+      "layer": "02-shirt",
+      "coordinate": [
+        41,
+        106
+      ],
+      "old_rgba": [
+        178,
+        108,
+        71,
+        255
+      ],
+      "new_rgba": [
+        198,
+        152,
+        132,
+        255
+      ],
+      "rule": "warm-light value-to-existing-cream-ramp"
+    },
+    {
+      "layer": "02-shirt",
+      "coordinate": [
+        41,
+        107
+      ],
+      "old_rgba": [
+        178,
+        108,
+        71,
+        255
+      ],
+      "new_rgba": [
+        198,
+        152,
+        132,
+        255
+      ],
+      "rule": "warm-light value-to-existing-cream-ramp"
+    },
+    {
+      "layer": "02-shirt",
+      "coordinate": [
+        41,
+        108
+      ],
+      "old_rgba": [
+        178,
+        108,
+        71,
+        255
+      ],
+      "new_rgba": [
+        198,
+        152,
+        132,
+        255
+      ],
+      "rule": "warm-light value-to-existing-cream-ramp"
+    },
+    {
+      "layer": "02-shirt",
+      "coordinate": [
+        41,
+        109
+      ],
+      "old_rgba": [
+        178,
+        108,
+        71,
+        255
+      ],
+      "new_rgba": [
+        198,
+        152,
+        132,
+        255
+      ],
+      "rule": "warm-light value-to-existing-cream-ramp"
+    }
+  ]
+}

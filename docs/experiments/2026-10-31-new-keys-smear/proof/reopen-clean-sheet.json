@@ -1,0 +1,197 @@
+{ "frames": [
+   {
+    "filename": "tote-clean 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 180
+   },
+   {
+    "filename": "tote-clean 1.aseprite",
+    "frame": { "x": 256, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 100
+   },
+   {
+    "filename": "tote-clean 2.aseprite",
+    "frame": { "x": 512, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 90
+   },
+   {
+    "filename": "tote-clean 3.aseprite",
+    "frame": { "x": 768, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 80
+   },
+   {
+    "filename": "tote-clean 4.aseprite",
+    "frame": { "x": 1024, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 100
+   },
+   {
+    "filename": "tote-clean 5.aseprite",
+    "frame": { "x": 1280, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 90
+   },
+   {
+    "filename": "tote-clean 6.aseprite",
+    "frame": { "x": 1536, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 130
+   },
+   {
+    "filename": "tote-clean 7.aseprite",
+    "frame": { "x": 1792, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 50
+   },
+   {
+    "filename": "tote-clean 8.aseprite",
+    "frame": { "x": 2048, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 50
+   },
+   {
+    "filename": "tote-clean 9.aseprite",
+    "frame": { "x": 2304, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 90
+   },
+   {
+    "filename": "tote-clean 10.aseprite",
+    "frame": { "x": 2560, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 70
+   },
+   {
+    "filename": "tote-clean 11.aseprite",
+    "frame": { "x": 2816, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 100
+   },
+   {
+    "filename": "tote-clean 12.aseprite",
+    "frame": { "x": 3072, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 90
+   },
+   {
+    "filename": "tote-clean 13.aseprite",
+    "frame": { "x": 3328, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 100
+   },
+   {
+    "filename": "tote-clean 14.aseprite",
+    "frame": { "x": 3584, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 100
+   },
+   {
+    "filename": "tote-clean 15.aseprite",
+    "frame": { "x": 3840, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 100
+   },
+   {
+    "filename": "tote-clean 16.aseprite",
+    "frame": { "x": 4096, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 110
+   },
+   {
+    "filename": "tote-clean 17.aseprite",
+    "frame": { "x": 4352, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 100
+   },
+   {
+    "filename": "tote-clean 18.aseprite",
+    "frame": { "x": 4608, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 500
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.18.6-dev",
+  "image": "reopen-clean-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 4864, "h": 208 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "tote_attack", "from": 0, "to": 18, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "00-legs-shoes", "opacity": 255, "blendMode": "normal" },
+   { "name": "01-rear-handle", "opacity": 255, "blendMode": "normal" },
+   { "name": "02-jacket-sleeves", "opacity": 255, "blendMode": "normal" },
+   { "name": "03-shirt-neck-backing", "opacity": 255, "blendMode": "normal" },
+   { "name": "04-tote-body-rim", "opacity": 255, "blendMode": "normal" },
+   { "name": "05-near-handles-seams", "opacity": 255, "blendMode": "normal" },
+   { "name": "06-hands-forearms", "opacity": 255, "blendMode": "normal" },
+   { "name": "07-rigid-head", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

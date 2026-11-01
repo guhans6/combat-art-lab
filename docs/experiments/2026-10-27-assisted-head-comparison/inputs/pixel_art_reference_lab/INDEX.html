@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Pixel Art Reference Lab</title><style>
+:root{color-scheme:light;--ink:#192b38;--muted:#526573;--line:#cbd7db;--paper:#f7f8f5;--accent:#244e59}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.6 system-ui,sans-serif}
+main{max-width:1120px;margin:auto;padding:48px 28px}header{border-bottom:2px solid var(--ink);padding-bottom:24px}
+small,.eyebrow{font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}h1{font-size:42px;line-height:1.1;margin:12px 0 18px}h2{font-size:23px;margin-top:34px}p{max-width:850px}
+a{color:var(--accent);text-underline-offset:4px}.grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:28px}
+.card{background:white;border:1px solid var(--line);padding:24px}.card h2{margin-top:0}ul{padding-left:20px}.note{padding:18px 22px;background:#e9efec;border-left:4px solid var(--accent);margin:24px 0}
+img{display:block;width:100%;height:auto;border:1px solid var(--line)}figcaption{font-size:14px;color:var(--muted);margin-top:10px}figure{margin:22px 0}code{font-size:.9em}
+@media(max-width:700px){.grid{grid-template-columns:1fr}h1{font-size:34px}main{padding:28px 18px}}
+</style></head><body><main>
+<header><div class="eyebrow">Combat Art Lab · Research and experiment kit · 27 October 2026</div>
+<h1>Pixel Art Reference Lab</h1><p>Preserve the character, aesthetic and expression. Use additional generated references when needed. Test tracing, conversion and hybrid native construction—not exact raster copying.</p></header>
+<div class="note"><strong>Start with the handoff.</strong> This is a companion package, not a replacement repository or finished asset library. Existing Aseprite masters remain in the live workspace.</div>
+<div class="grid"><section class="card"><h2>Continue with the agent</h2><p><a href="HANDOFF.md">Detailed handoff</a> · <a href="START_HERE.md">Start here</a></p><p><a href="workspace/INTEGRATION.md">Workspace integration plan</a><br><a href="workflow/FIRST_EXPERIMENT.md">First controlled comparison</a><br><a href="workflow/PIPELINE.md">Reference-to-native workflow</a></p></section>
+<section class="card"><h2>Get the missing images</h2><p><a href="IMAGE_PROMPTS.md">All image prompts in one file</a><br><a href="prompts/README.md">Attachment and prompting instructions</a><br><a href="workflow/ANIMATION.md">Multi-reference animation workflow</a></p><p>Includes pose, head/expression, clean-reference, simplification, key-pose sheet and correction requests, plus the user-side fallback.</p></section></div>
+<h2>Evidence already available</h2><figure><a href="examples/previous_conversion/resolution_comparison.png"><img src="examples/previous_conversion/resolution_comparison.png" alt="Original reference head and three deterministic lower-resolution crops"></a><figcaption>Previous reduction study: source-derived seeds only. These crop grids are not full-character recommendations or approved final sprites.</figcaption></figure>
+<p><a href="examples/previous_conversion/sampling_comparison.png">Compare reduction methods</a> · <a href="references/manifest.json">Original upload manifest</a> · <a href="research/WORKSPACE_EVIDENCE.md">Inspected workspace state</a></p>
+<div class="grid"><section class="card"><h2>Research</h2><p><a href="research/FINDINGS.md">Findings and tradeoffs</a><br><a href="research/SOURCES.md">Primary-source register</a><br><a href="workflow/REVIEW.md">Art and technical review criteria</a></p></section>
+<section class="card"><h2>Offline tools</h2><p><a href="scripts/README.md">Usage and boundaries</a><br><a href="validation/RESULTS.md">Observed validation</a><br><a href="templates/animation_layout.example.json">Frame-layout template</a></p><p>Inspect images, make conversion seeds and normalize explicitly registered frames. No automatic artist, hidden paid API call or new model installation.</p></section></div>
+<p class="note"><strong>Validation boundary:</strong> 24 helper tests pass; current seed pixels reproduce three historical reductions. No new Aseprite drawing, generated pose, completed animation or Godot playback was performed for this kit.</p>
+</main></body></html>

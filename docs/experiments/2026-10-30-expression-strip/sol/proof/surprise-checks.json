@@ -1,0 +1,638 @@
+{
+  "passed": true,
+  "failures": [],
+  "layers": [
+    {
+      "name": "guide-source-seed (hidden)",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "00-shoes",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "01-denim",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "02a-jacket-left",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "02b-jacket-right",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "03-shirt",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "04-tote",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "05-tote-strap",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "06a-left-hand",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "06b-right-hand",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "07-face-and-neck",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "08-hair-tie-and-hair",
+      "changed_pixels": 12,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    }
+  ],
+  "frame_metadata_equal": true,
+  "layer_metadata_equal": true,
+  "header_equal": true,
+  "name": "surprise",
+  "native": "docs/experiments/2026-10-30-expression-strip/sol/passes/sol-surprise-pass01.aseprite",
+  "native_sha256": "ee6dfc67cd196be62398dc1f20e0571662e62bf869dbe8c131741ca072889b76",
+  "fresh_export": "docs/experiments/2026-10-30-expression-strip/sol/passes/sol-surprise-pass01-reopen.png",
+  "png_sha256": "66d956bb7eac964f641d546b05c32986755ef39f412e8ca585856ad7a1ecfd0c",
+  "native_composite_equals_fresh_export": true,
+  "first_reopen_rgba_equal": true,
+  "first_reopen_png_byte_equal": true,
+  "alpha_equal": true,
+  "canvas_equal": true,
+  "changed_pixels": [
+    {
+      "x": 64,
+      "y": 18,
+      "before": [
+        253,
+        169,
+        119,
+        255
+      ],
+      "after": [
+        171,
+        101,
+        69,
+        255
+      ]
+    },
+    {
+      "x": 65,
+      "y": 18,
+      "before": [
+        241,
+        135,
+        85,
+        255
+      ],
+      "after": [
+        105,
+        68,
+        45,
+        255
+      ]
+    },
+    {
+      "x": 64,
+      "y": 19,
+      "before": [
+        171,
+        101,
+        69,
+        255
+      ],
+      "after": [
+        253,
+        169,
+        119,
+        255
+      ]
+    },
+    {
+      "x": 65,
+      "y": 19,
+      "before": [
+        105,
+        68,
+        45,
+        255
+      ],
+      "after": [
+        253,
+        169,
+        119,
+        255
+      ]
+    },
+    {
+      "x": 64,
+      "y": 20,
+      "before": [
+        211,
+        173,
+        167,
+        255
+      ],
+      "after": [
+        254,
+        248,
+        238,
+        255
+      ]
+    },
+    {
+      "x": 70,
+      "y": 20,
+      "before": [
+        213,
+        150,
+        114,
+        255
+      ],
+      "after": [
+        231,
+        213,
+        199,
+        255
+      ]
+    },
+    {
+      "x": 71,
+      "y": 22,
+      "before": [
+        135,
+        76,
+        51,
+        255
+      ],
+      "after": [
+        231,
+        213,
+        199,
+        255
+      ]
+    },
+    {
+      "x": 63,
+      "y": 23,
+      "before": [
+        250,
+        158,
+        116,
+        255
+      ],
+      "after": [
+        248,
+        236,
+        224,
+        255
+      ]
+    },
+    {
+      "x": 68,
+      "y": 27,
+      "before": [
+        202,
+        106,
+        68,
+        255
+      ],
+      "after": [
+        116,
+        76,
+        64,
+        255
+      ]
+    },
+    {
+      "x": 69,
+      "y": 27,
+      "before": [
+        228,
+        133,
+        88,
+        255
+      ],
+      "after": [
+        116,
+        76,
+        64,
+        255
+      ]
+    },
+    {
+      "x": 68,
+      "y": 28,
+      "before": [
+        253,
+        169,
+        119,
+        255
+      ],
+      "after": [
+        116,
+        76,
+        64,
+        255
+      ]
+    },
+    {
+      "x": 69,
+      "y": 28,
+      "before": [
+        246,
+        162,
+        110,
+        255
+      ],
+      "after": [
+        183,
+        106,
+        69,
+        255
+      ]
+    }
+  ],
+  "changed_count": 12,
+  "protected_composite_changes": 0,
+  "nose_equal": true,
+  "opaque_pixels": 7844,
+  "negative_scope_rejected": true,
+  "expression_quality": "not established by this mechanical check",
+  "incremental_rescue_composite_count": 10,
+  "rescue_matches_exact_operation_coordinates": true,
+  "incremental_rescue_native_check": {
+    "passed": true,
+    "failures": [],
+    "layers": [
+      {
+        "name": "guide-source-seed (hidden)",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          128,
+          192
+        ],
+        "after_cel": [
+          0,
+          0,
+          128,
+          192
+        ]
+      },
+      {
+        "name": "00-shoes",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          128,
+          192
+        ],
+        "after_cel": [
+          0,
+          0,
+          128,
+          192
+        ]
+      },
+      {
+        "name": "01-denim",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          128,
+          192
+        ],
+        "after_cel": [
+          0,
+          0,
+          128,
+          192
+        ]
+      },
+      {
+        "name": "02a-jacket-left",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          128,
+          192
+        ],
+        "after_cel": [
+          0,
+          0,
+          128,
+          192
+        ]
+      },
+      {
+        "name": "02b-jacket-right",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          128,
+          192
+        ],
+        "after_cel": [
+          0,
+          0,
+          128,
+          192
+        ]
+      },
+      {
+        "name": "03-shirt",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          128,
+          192
+        ],
+        "after_cel": [
+          0,
+          0,
+          128,
+          192
+        ]
+      },
+      {
+        "name": "04-tote",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          128,
+          192
+        ],
+        "after_cel": [
+          0,
+          0,
+          128,
+          192
+        ]
+      },
+      {
+        "name": "05-tote-strap",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          128,
+          192
+        ],
+        "after_cel": [
+          0,
+          0,
+          128,
+          192
+        ]
+      },
+      {
+        "name": "06a-left-hand",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          128,
+          192
+        ],
+        "after_cel": [
+          0,
+          0,
+          128,
+          192
+        ]
+      },
+      {
+        "name": "06b-right-hand",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          128,
+          192
+        ],
+        "after_cel": [
+          0,
+          0,
+          128,
+          192
+        ]
+      },
+      {
+        "name": "07-face-and-neck",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          128,
+          192
+        ],
+        "after_cel": [
+          0,
+          0,
+          128,
+          192
+        ]
+      },
+      {
+        "name": "08-hair-tie-and-hair",
+        "changed_pixels": 10,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          128,
+          192
+        ],
+        "after_cel": [
+          0,
+          0,
+          128,
+          192
+        ]
+      }
+    ],
+    "frame_metadata_equal": true,
+    "layer_metadata_equal": true,
+    "header_equal": true
+  }
+}

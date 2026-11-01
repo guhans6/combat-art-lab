@@ -1,0 +1,41 @@
+{
+  "id": "015",
+  "time": "2026-10-26T10:28:43.737Z",
+  "call": {
+    "name": "read_pixels",
+    "arguments": {
+      "layer": "protected",
+      "composite": false,
+      "region": {
+        "x": 12,
+        "y": 4,
+        "width": 1,
+        "height": 1
+      }
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "1×1 region, 1 distinct colour(s)."
+      }
+    ],
+    "structuredContent": {
+      "sprite": "one-pixel.aseprite",
+      "x": 12,
+      "y": 4,
+      "width": 1,
+      "height": 1,
+      "colors": [
+        "#00000000",
+        "#0000ff"
+      ],
+      "grid": [
+        1
+      ],
+      "uniqueColors": 1
+    }
+  },
+  "images": []
+}

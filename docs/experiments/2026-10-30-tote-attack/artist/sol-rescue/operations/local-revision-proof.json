@@ -1,0 +1,31 @@
+{
+  "duplicate_only": true,
+  "sprite": "source/tote-fold-revision-proof.aseprite",
+  "frame": 9,
+  "layer": "04-tote-and-handles",
+  "ops": [
+    {
+      "kind": "grid",
+      "x": 184,
+      "y": 121,
+      "legend": {
+        "A": "#fcd8b6",
+        "B": "#f8d2ae",
+        "C": "#dfb39b"
+      },
+      "rows": [
+        "AAAAAA",
+        "AAABAA",
+        "AABCBA",
+        "AABCAA",
+        "ABCCAA",
+        "ABCCAA",
+        "ABCAAA",
+        "ABCAAA",
+        "ABAAAA",
+        "AAAAAA"
+      ],
+      "transparent": "erase"
+    }
+  ]
+}

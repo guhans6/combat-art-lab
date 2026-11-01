@@ -1,0 +1,4 @@
+Aseprite 1.3.18.6-dev at /Applications/Aseprite.app
+PASS: 32x16 native files reopened; two named layers retained; accent revision saved.
+PASS: PNG decode confirmed exactly 64 accent pixels changed; all 448 other pixels unchanged.
+Scope: tool smoke check only; no character construction or Godot playback proved.

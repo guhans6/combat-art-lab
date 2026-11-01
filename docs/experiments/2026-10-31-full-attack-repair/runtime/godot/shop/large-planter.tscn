@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://shop/part_sprite.gd" id="1"]
+
+[node name="large_planter" type="Node2D"]
+
+[node name="P08_large_planter" type="Sprite2D" parent="."]
+position = Vector2(-33, -106)
+centered = false
+script = ExtResource("1")
+image_path = "res://shop/textures/08-large-planter.png"

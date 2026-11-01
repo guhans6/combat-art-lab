@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "baseline_role": "user-rejected native tote v03 F9; not approved art",
+  "registration_claim": "Exact same320x192 native frame9; no scaling/fitting/translation. Native owner/frame/palette protection independently verified.",
+  "sources": [
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-recovery-grip/review/comparison.json",
+      "role": "spec",
+      "sha256": "30d754d8e4ae74ef1dc150d28bd7a88d9db9aeb024d9029da0386368aa091298"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-recovery-grip/artist/source/recovery-grip-pass02.aseprite",
+      "role": "candidate native",
+      "sha256": "b2508d390693adaacc8f6db9ed9f3f129828a6071d20a1c4f9b6779c78009f38"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-recovery-grip/verification.json",
+      "role": "independent native and fresh-reopen audit",
+      "sha256": "4f3163dd1c83426271719148f5241e9b6e75741961385e4034294f970e3ebc09"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-recovery-grip/artist/scope.json",
+      "role": "pre-edit scope",
+      "sha256": "f36e9f731936098b3ae000545feb7da69bd069c3a458cdba56860ed0e845a9a3"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-recovery-grip/baseline/artist-pre-edit-scope.json",
+      "role": "parent frozen scope hashes",
+      "sha256": "5ee635da58f377d390992003ac109c6a1634006e1b23b83fda5471d9ef1655e3"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-recovery-grip/inputs/before.png",
+      "role": "F9 baseline",
+      "sha256": "754cfbca68fe90cb70051983992369d40dd1545068d47f3404138d1e5d65f3cb"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-recovery-grip/artist/proof/recovery-grip-pass02.png",
+      "role": "F9 candidate",
+      "sha256": "a916398f9999bdccba9cd612ed2090b8c9496e70aa2d23a5dd99d4fa5a3db7c4"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-recovery-grip/artist/proof/allowed-mask.png",
+      "role": "F9 allowed edit mask",
+      "sha256": "43673f865fea17460e7dcaf6d6fd354ea61d7cf0b3e88e0b73bbdc034b9f451d"
+    }
+  ],
+  "sheets": [
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-recovery-grip/review/packet/frame-000-region-00.png",
+      "sha256": "2c463837ed7641d0cd53bbf8383e3789640ab72ef8060c7e6755739cd4d8a8e7"
+    }
+  ],
+  "frames": [
+    {
+      "id": "F9",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          320,
+          192
+        ],
+        "changed_pixels": 422,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          159,
+          80,
+          191,
+          110
+        ],
+        "visible_colors_before": 232,
+        "visible_colors_after": 232,
+        "new_visible_rgb_colors": [],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 9911,
+        "silhouette_changed_pixels": 117,
+        "alpha_changed_pixels": 117,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "754cfbca68fe90cb70051983992369d40dd1545068d47f3404138d1e5d65f3cb",
+          "after": "a916398f9999bdccba9cd612ed2090b8c9496e70aa2d23a5dd99d4fa5a3db7c4",
+          "mask": "43673f865fea17460e7dcaf6d6fd354ea61d7cf0b3e88e0b73bbdc034b9f451d"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "cuffs-wrists-grip-handles-and-rim",
+          "crop_xyxy_half_open": [
+            140,
+            60,
+            205,
+            130
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-recovery-grip/review/packet/frame-000-region-00.png"
+        }
+      ],
+      "mechanical_passed": true
+    }
+  ],
+  "zoom": 6,
+  "resampling": "integer nearest-neighbor",
+  "matte": "checkerboard RGB49,49,61 / 61,61,73",
+  "mechanical_passed": true,
+  "visual_acceptance": "pending",
+  "user_approval": "pending",
+  "limits": "Coverage means pixels are available for inspection. Scope/coverage cannot judge anatomy, occlusion, grip or improvement. Registration and affected-frame inventory are caller declarations. Bound native/report hashes do not prove export correspondence or hidden-layer integrity. Source or packet changes require fresh review."
+}

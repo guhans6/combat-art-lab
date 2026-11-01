@@ -1,0 +1,4 @@
+a274a80133371b61387848495bf0dd93546ba5daf0a60c051b27109237160eae  assets/references/approved-2026-10-26/character-scene.png
+0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7  assets/references/approved-2026-10-26/character-closeup.png
+4dd54a802798adc994a14349025ab48bc5830e43507d1c1c09822de692c280b8  assets/references/approved-2026-10-26/character-cutout.png
+28c4712085f84a9f3b0d52a5a1aa95c531d93062074e1697f9cd8935f2806732  assets/source/standing-v04/standing.aseprite

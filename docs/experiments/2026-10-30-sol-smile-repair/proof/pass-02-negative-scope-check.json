@@ -1,0 +1,215 @@
+{
+  "passed": false,
+  "failures": [
+    "08-hair-tie-and-hair protected native pixels changed"
+  ],
+  "layers": [
+    {
+      "name": "guide-source-seed (hidden)",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "00-shoes",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "01-denim",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "02a-jacket-left",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "02b-jacket-right",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "03-shirt",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "04-tote",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "05-tote-strap",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "06a-left-hand",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "06b-right-hand",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "07-face-and-neck",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "08-hair-tie-and-hair",
+      "changed_pixels": 7,
+      "protected_changed_pixels": 7,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    }
+  ],
+  "frame_metadata_equal": true,
+  "layer_metadata_equal": true,
+  "header_equal": true
+}

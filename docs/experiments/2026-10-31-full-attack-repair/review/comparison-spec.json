@@ -1,0 +1,432 @@
+{
+  "baseline_role": "rejected v03 diagnostic baseline",
+  "registration": "same320x192 native canvas/root plane185; explicit per-form reconstruction, no independent bbox fitting",
+  "required_frame_ids": [
+    "F2",
+    "F3",
+    "F4",
+    "F5",
+    "F6",
+    "F7",
+    "F8",
+    "F9",
+    "F10",
+    "F11",
+    "F12"
+  ],
+  "allow_new_colors": true,
+  "zoom": 2,
+  "evidence": [
+    {
+      "role": "identity full scene",
+      "path": "../../2026-10-30-tote-attack/inputs/character-scene.png"
+    },
+    {
+      "role": "identity close-up",
+      "path": "../../2026-10-30-tote-attack/inputs/character-closeup.png"
+    },
+    {
+      "role": "exact neutral",
+      "path": "../../2026-10-30-tote-attack/inputs/neutral.png"
+    },
+    {
+      "role": "candidate native",
+      "path": "../source/attack-repaired.aseprite"
+    },
+    {
+      "role": "fresh reopen",
+      "path": "reopened-sheet.png"
+    },
+    {
+      "role": "authored playback candidate",
+      "path": "attack-1x.gif"
+    }
+  ],
+  "frames": [
+    {
+      "id": "F2",
+      "before": "../../2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-1.png",
+      "after": "../frames/candidate-1.png",
+      "mask": "allowed-actor.png",
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop": [
+            75,
+            0,
+            205,
+            65
+          ]
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop": [
+            45,
+            35,
+            290,
+            160
+          ]
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop": [
+            65,
+            70,
+            225,
+            186
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F3",
+      "before": "../../2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-2.png",
+      "after": "../frames/candidate-2.png",
+      "mask": "allowed-actor.png",
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop": [
+            75,
+            0,
+            205,
+            65
+          ]
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop": [
+            45,
+            35,
+            290,
+            160
+          ]
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop": [
+            65,
+            70,
+            225,
+            186
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F4",
+      "before": "../../2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-3.png",
+      "after": "../frames/candidate-3.png",
+      "mask": "allowed-actor.png",
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop": [
+            75,
+            0,
+            205,
+            65
+          ]
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop": [
+            45,
+            35,
+            290,
+            160
+          ]
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop": [
+            65,
+            70,
+            225,
+            186
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5",
+      "before": "../../2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-4.png",
+      "after": "../frames/candidate-4.png",
+      "mask": "allowed-actor.png",
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop": [
+            75,
+            0,
+            205,
+            65
+          ]
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop": [
+            45,
+            35,
+            290,
+            160
+          ]
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop": [
+            65,
+            70,
+            225,
+            186
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F6",
+      "before": "../../2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-5.png",
+      "after": "../frames/candidate-5.png",
+      "mask": "allowed-actor.png",
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop": [
+            75,
+            0,
+            205,
+            65
+          ]
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop": [
+            45,
+            35,
+            290,
+            160
+          ]
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop": [
+            65,
+            70,
+            225,
+            186
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F7",
+      "before": "../../2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-6.png",
+      "after": "../frames/candidate-6.png",
+      "mask": "allowed-actor.png",
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop": [
+            75,
+            0,
+            205,
+            65
+          ]
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop": [
+            45,
+            35,
+            290,
+            160
+          ]
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop": [
+            65,
+            70,
+            225,
+            186
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F8",
+      "before": "../../2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-7.png",
+      "after": "../frames/candidate-7.png",
+      "mask": "allowed-actor.png",
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop": [
+            75,
+            0,
+            205,
+            65
+          ]
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop": [
+            45,
+            35,
+            290,
+            160
+          ]
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop": [
+            65,
+            70,
+            225,
+            186
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F9",
+      "before": "../../2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-8.png",
+      "after": "../frames/candidate-8.png",
+      "mask": "allowed-actor.png",
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop": [
+            75,
+            0,
+            205,
+            65
+          ]
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop": [
+            45,
+            35,
+            290,
+            160
+          ]
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop": [
+            65,
+            70,
+            225,
+            186
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F10",
+      "before": "../../2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-9.png",
+      "after": "../frames/candidate-9.png",
+      "mask": "allowed-actor.png",
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop": [
+            75,
+            0,
+            205,
+            65
+          ]
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop": [
+            45,
+            35,
+            290,
+            160
+          ]
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop": [
+            65,
+            70,
+            225,
+            186
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F11",
+      "before": "../../2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-10.png",
+      "after": "../frames/candidate-10.png",
+      "mask": "allowed-actor.png",
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop": [
+            75,
+            0,
+            205,
+            65
+          ]
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop": [
+            45,
+            35,
+            290,
+            160
+          ]
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop": [
+            65,
+            70,
+            225,
+            186
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F12",
+      "before": "../../2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-11.png",
+      "after": "../frames/candidate-11.png",
+      "mask": "allowed-actor.png",
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop": [
+            75,
+            0,
+            205,
+            65
+          ]
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop": [
+            45,
+            35,
+            290,
+            160
+          ]
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop": [
+            65,
+            70,
+            225,
+            186
+          ]
+        }
+      ]
+    }
+  ]
+}

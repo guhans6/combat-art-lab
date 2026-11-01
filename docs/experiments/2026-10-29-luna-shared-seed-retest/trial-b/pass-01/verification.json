@@ -1,0 +1,104 @@
+{
+  "verification": "PASS",
+  "method": "Python binary parsing of the saved Aseprite file plus Pillow RGBA comparison",
+  "native_candidate": {
+    "sha256": "5fa1605572813aed944cfc65733f89e4e32c48786db2ea61060cb1800f8a9372",
+    "dimensions": [
+      128,
+      192
+    ],
+    "depth": 32,
+    "frames": 1,
+    "layers_top_to_bottom": [
+      "character-pixels"
+    ],
+    "layer_coverage": {
+      "character-pixels": "full static sprite; source seed retained as a separate exact input, with only the three recorded mouth pixels revised"
+    },
+    "palette_chunk_sha256": "f2d4907a7493af8e6557f933e3c2c40d73f733658fc8250d925f79678ffb5b81",
+    "palette_matches_frozen_input": true
+  },
+  "candidate_png": {
+    "sha256": "bb1566ceb38bc5152f8ffb18a237f5f55b37831c59813924caed59da3fe93a90",
+    "rgba_sha256": "52e710c51d98453aa829cf968a9ff0ba3d4e25c184678f2d6402c6ff65231ba4",
+    "dimensions": [
+      128,
+      192
+    ],
+    "alpha_values": [
+      0,
+      255
+    ],
+    "visible_pixel_count": 7844,
+    "visible_rgb_color_count": 254,
+    "visible_bounds": [
+      32,
+      2,
+      104,
+      185
+    ],
+    "native_cel_matches_export": true
+  },
+  "baseline_png": {
+    "sha256": "7353611071482ea1e879ab9c247fb1d92c7bd90050b8eb99cbec4cdbdf612d12",
+    "rgba_sha256": "8839680f1bc70c1c99653a28c76c6f8ea41f401d2755c93146d765523cb5806c",
+    "alpha_values": [
+      0,
+      255
+    ]
+  },
+  "diff": {
+    "changed_pixel_count": 3,
+    "pixels": [
+      {
+        "x": 68,
+        "y": 28,
+        "before": [
+          253,
+          169,
+          119,
+          255
+        ],
+        "after": [
+          116,
+          68,
+          51,
+          255
+        ]
+      },
+      {
+        "x": 70,
+        "y": 28,
+        "before": [
+          253,
+          169,
+          119,
+          255
+        ],
+        "after": [
+          116,
+          68,
+          51,
+          255
+        ]
+      },
+      {
+        "x": 69,
+        "y": 29,
+        "before": [
+          253,
+          169,
+          119,
+          255
+        ],
+        "after": [
+          116,
+          68,
+          51,
+          255
+        ]
+      }
+    ],
+    "outside_mask_count": 0
+  }
+}

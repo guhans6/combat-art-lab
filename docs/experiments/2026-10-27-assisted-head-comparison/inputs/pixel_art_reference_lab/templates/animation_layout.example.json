@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "note": "Example only. Replace paths, crops and anatomical anchors with measured values before running. All inputs must already share a coherent source scale.",
+  "canvas": [
+    128,
+    192
+  ],
+  "scale": 0.25,
+  "resampling": "BOX",
+  "target_anchor": [
+    64,
+    180
+  ],
+  "require_transparent": true,
+  "frames": [
+    {
+      "id": "pose_01",
+      "path": "../inputs/pose_01.png",
+      "crop": null,
+      "source_anchor": [
+        256,
+        720
+      ],
+      "motion_offset": [
+        0,
+        0
+      ],
+      "duration_ms": 100
+    },
+    {
+      "id": "pose_02",
+      "path": "../inputs/pose_02.png",
+      "crop": null,
+      "source_anchor": [
+        256,
+        720
+      ],
+      "motion_offset": [
+        8,
+        -12
+      ],
+      "duration_ms": 80
+    }
+  ]
+}

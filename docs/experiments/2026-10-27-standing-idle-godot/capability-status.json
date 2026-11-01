@@ -1,0 +1,65 @@
+{
+  "user_constraint": "Dedicated MCP tools only; no computer use; do not use Code-MCP. Workspace-only MCP installation authorized.",
+  "aseprite_mcp": {
+    "ready": true,
+    "mode": "headless",
+    "aseprite": "1.3.18.6-dev",
+    "plugin": "0.8.2",
+    "observed": [
+      "native inspection",
+      "native pixel reads",
+      "per-layer/frame checks",
+      "native scene composition",
+      "save/close/reopen",
+      "GIF/spritesheet/PNG exports"
+    ],
+    "unavailable": "dedicated validate tool not exposed"
+  },
+  "godot_mcp": {
+    "installed": true,
+    "package": "@coding-solo/godot-mcp@0.1.1",
+    "server": "godot-art-lab",
+    "protocol_tested": true,
+    "native_chat_catalog_exposed": true,
+    "config_scope": "workspace-only",
+    "enabled_tools": [
+      "get_godot_version",
+      "list_projects",
+      "get_project_info",
+      "run_project",
+      "get_debug_output",
+      "stop_project"
+    ],
+    "proof": "godot-mcp-install/native-catalog-verification.json"
+  },
+  "godot_observed_before_constraint": {
+    "engine": "4.7.2-stable (official)",
+    "method": "existing CLI, not MCP",
+    "loops": 2,
+    "frames": 8,
+    "viewport": [
+      362,
+      304
+    ],
+    "actual_engine_captures": true
+  },
+  "computer_use": {
+    "performed_after_constraint": false,
+    "native_godot_attempt_before_constraint": "not approved; no input occurred"
+  },
+  "independent_checker": {
+    "run": false,
+    "reason": "Code-MCP execution_adapter_unsupported: no supported project metadata at package root"
+  },
+  "publication": "not performed",
+  "code_mcp": {
+    "use": "prohibited by user; no calls after prohibition"
+  },
+  "godot_mcp_observation": {
+    "engine": "4.7.2",
+    "frames": 8,
+    "loops": 2,
+    "runtime_errors": false,
+    "run_debug_stop_passed": true
+  }
+}

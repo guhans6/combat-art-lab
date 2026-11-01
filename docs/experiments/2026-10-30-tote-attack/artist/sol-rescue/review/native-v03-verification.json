@@ -1,0 +1,96 @@
+{
+  "native_sha256": "1f6d68c6927bbcc594be9913156f74a6b0939aa373a9be9971dcd5be8ab52065",
+  "native_frames": 13,
+  "canvas": [
+    320,
+    192
+  ],
+  "layer_names": [
+    "01-leg-base-and-shoes",
+    "02-jacket-shirt-and-sleeves",
+    "04a-underarm-and-waist-backing",
+    "03-head-neck-collar",
+    "04-tote-and-handles",
+    "05-loaded-grip-drawing",
+    "06-continuous-handle-tension"
+  ],
+  "native_png_and_fresh_MCP_reopen_exact": true,
+  "binary_alpha": true,
+  "first_last_exact_neutral_at_x64": true,
+  "inputs_unchanged": true,
+  "cycle_ms": 1680,
+  "gif_1x": {
+    "sha256": "e34f784c625a3718292366477cf11d5165d838f1a84a1ca91da9343487f5ed15",
+    "encoded_frames": 13,
+    "durations_ms": [
+      60,
+      110,
+      140,
+      210,
+      70,
+      60,
+      90,
+      110,
+      140,
+      170,
+      140,
+      160,
+      220
+    ],
+    "cycle_ms": 1680,
+    "loop": 0,
+    "matte_rgb": [
+      0,
+      0,
+      0
+    ],
+    "timeline_equals_native": true
+  },
+  "gif_3x": {
+    "sha256": "58ac65a78a60505dbb3bcf8790a4dd53c1aaed4a4ce7d2b46036c7cd2cce41fc",
+    "encoded_frames": 13,
+    "durations_ms": [
+      60,
+      110,
+      140,
+      210,
+      70,
+      60,
+      90,
+      110,
+      140,
+      170,
+      140,
+      160,
+      220
+    ],
+    "cycle_ms": 1680,
+    "loop": 0,
+    "matte_rgb": [
+      0,
+      0,
+      0
+    ],
+    "timeline_equals_native": true
+  },
+  "duplicate_only_revision": {
+    "native": "source/tote-fold-v03-revision-proof.aseprite",
+    "sha256": "eb6965ba4d6fd93173dbd76f15ea452f875b147cedc6353369835401f7b1303a",
+    "changed_native_cels_0based": [
+      [
+        8,
+        4
+      ]
+    ],
+    "changed_visible_pixels": 20,
+    "changed_box_xyxy": [
+      184,
+      121,
+      190,
+      131
+    ],
+    "all_other_native_cels_exact": true,
+    "fresh_MCP_reopen_export_exact": true
+  },
+  "limits": "Native/export/scope checks only. Parent owns independent whole-cycle review and Godot; continuous temporal perception and user visual approval remain pending."
+}

@@ -1,0 +1,886 @@
+{
+  "study-192": {
+    "passed": false,
+    "failures": [
+      "header changed",
+      "frames changed"
+    ],
+    "layers": [
+      {
+        "name": "Back hair",
+        "changed_pixels": 1,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      },
+      {
+        "name": "Jacket",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      },
+      {
+        "name": "Shirt",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      },
+      {
+        "name": "Neck and face",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      },
+      {
+        "name": "Features",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      },
+      {
+        "name": "Front hair",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      },
+      {
+        "name": "Tote strap",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      }
+    ],
+    "frame_metadata_equal": false,
+    "layer_metadata_equal": true,
+    "header_equal": false,
+    "source_sha256": "35ccffd4561d80621288629aae546c4c5316abf615d2043816cd38dea6c8595b",
+    "native_canvas": [
+      120,
+      132
+    ],
+    "native_layer_count": 7,
+    "non_cel_chunks_before": [
+      {
+        "type": "0x2007",
+        "sha256": "4cbbd8ca5215b8d161aec181a74b694f4e24b001d5b081dc0030ed797a8973e0"
+      },
+      {
+        "type": "0x4",
+        "sha256": "9ac6dbf2b0c3b714e70ecc4b41e988b4bfe4f710df79f21a174a7211de38e13e"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "25d2a9f8df087ce0fc1c22c4a2056f49854c419c8da061bd41f6082995d4013d"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "62c5e6b9726d3e5f8317d0abff757230290922bc91120c19d7329841e292afb9"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "7262c018ebdbb79b9a22990dec0f72fa38e2abef710bf644e8a2d163eebf2162"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "484b5bb5adaf51a92d63516da68b158d6d0b7fb8ba619211b4fd48aad2cd81ab"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "9c429a2be47e3b281ae8a4d35da2e5c4ed3c1fb68496d337da402622b0556bfd"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "4d763a8bff4864be65b7a2cd7e7f74c78f5f22a6b0ce357064cbc6af8debf3af"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "fade675ad8618a95586c542c856e00fe809a726bd9b4ef0eff12d7afdbcad971"
+      }
+    ],
+    "non_cel_chunks_after": [
+      {
+        "type": "0x2007",
+        "sha256": "4cbbd8ca5215b8d161aec181a74b694f4e24b001d5b081dc0030ed797a8973e0"
+      },
+      {
+        "type": "0x2019",
+        "sha256": "5c3fba8f2265c37c291eb0f923b97b97041a6aaa20c64b6917c9431c28234495"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "25d2a9f8df087ce0fc1c22c4a2056f49854c419c8da061bd41f6082995d4013d"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "62c5e6b9726d3e5f8317d0abff757230290922bc91120c19d7329841e292afb9"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "7262c018ebdbb79b9a22990dec0f72fa38e2abef710bf644e8a2d163eebf2162"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "484b5bb5adaf51a92d63516da68b158d6d0b7fb8ba619211b4fd48aad2cd81ab"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "9c429a2be47e3b281ae8a4d35da2e5c4ed3c1fb68496d337da402622b0556bfd"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "4d763a8bff4864be65b7a2cd7e7f74c78f5f22a6b0ce357064cbc6af8debf3af"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "fade675ad8618a95586c542c856e00fe809a726bd9b4ef0eff12d7afdbcad971"
+      }
+    ],
+    "header_color_count_before": 256,
+    "header_color_count_after": 19,
+    "header_changed_offsets": [
+      0,
+      1,
+      32,
+      33
+    ]
+  },
+  "study-192-pass02": {
+    "passed": false,
+    "failures": [
+      "header changed",
+      "frames changed"
+    ],
+    "layers": [
+      {
+        "name": "Back hair",
+        "changed_pixels": 1,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      },
+      {
+        "name": "Jacket",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      },
+      {
+        "name": "Shirt",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      },
+      {
+        "name": "Neck and face",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      },
+      {
+        "name": "Features",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      },
+      {
+        "name": "Front hair",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      },
+      {
+        "name": "Tote strap",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      }
+    ],
+    "frame_metadata_equal": false,
+    "layer_metadata_equal": true,
+    "header_equal": false,
+    "source_sha256": "561b628f448357d9457a6774b306677da2f034a57e5e29262acb9d85ba2d5269",
+    "native_canvas": [
+      120,
+      132
+    ],
+    "native_layer_count": 7,
+    "non_cel_chunks_before": [
+      {
+        "type": "0x2007",
+        "sha256": "4cbbd8ca5215b8d161aec181a74b694f4e24b001d5b081dc0030ed797a8973e0"
+      },
+      {
+        "type": "0x4",
+        "sha256": "9ac6dbf2b0c3b714e70ecc4b41e988b4bfe4f710df79f21a174a7211de38e13e"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "25d2a9f8df087ce0fc1c22c4a2056f49854c419c8da061bd41f6082995d4013d"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "62c5e6b9726d3e5f8317d0abff757230290922bc91120c19d7329841e292afb9"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "7262c018ebdbb79b9a22990dec0f72fa38e2abef710bf644e8a2d163eebf2162"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "484b5bb5adaf51a92d63516da68b158d6d0b7fb8ba619211b4fd48aad2cd81ab"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "9c429a2be47e3b281ae8a4d35da2e5c4ed3c1fb68496d337da402622b0556bfd"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "4d763a8bff4864be65b7a2cd7e7f74c78f5f22a6b0ce357064cbc6af8debf3af"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "fade675ad8618a95586c542c856e00fe809a726bd9b4ef0eff12d7afdbcad971"
+      }
+    ],
+    "non_cel_chunks_after": [
+      {
+        "type": "0x2007",
+        "sha256": "4cbbd8ca5215b8d161aec181a74b694f4e24b001d5b081dc0030ed797a8973e0"
+      },
+      {
+        "type": "0x2019",
+        "sha256": "5c3fba8f2265c37c291eb0f923b97b97041a6aaa20c64b6917c9431c28234495"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "25d2a9f8df087ce0fc1c22c4a2056f49854c419c8da061bd41f6082995d4013d"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "62c5e6b9726d3e5f8317d0abff757230290922bc91120c19d7329841e292afb9"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "7262c018ebdbb79b9a22990dec0f72fa38e2abef710bf644e8a2d163eebf2162"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "484b5bb5adaf51a92d63516da68b158d6d0b7fb8ba619211b4fd48aad2cd81ab"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "9c429a2be47e3b281ae8a4d35da2e5c4ed3c1fb68496d337da402622b0556bfd"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "4d763a8bff4864be65b7a2cd7e7f74c78f5f22a6b0ce357064cbc6af8debf3af"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "fade675ad8618a95586c542c856e00fe809a726bd9b4ef0eff12d7afdbcad971"
+      }
+    ],
+    "header_color_count_before": 256,
+    "header_color_count_after": 19,
+    "header_changed_offsets": [
+      0,
+      1,
+      32,
+      33
+    ]
+  },
+  "study-256": {
+    "passed": false,
+    "failures": [
+      "header changed",
+      "frames changed"
+    ],
+    "layers": [
+      {
+        "name": "Back hair",
+        "changed_pixels": 1,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      },
+      {
+        "name": "Jacket",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      },
+      {
+        "name": "Shirt",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      },
+      {
+        "name": "Neck and face",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      },
+      {
+        "name": "Features",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      },
+      {
+        "name": "Front hair",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      },
+      {
+        "name": "Tote strap",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      }
+    ],
+    "frame_metadata_equal": false,
+    "layer_metadata_equal": true,
+    "header_equal": false,
+    "source_sha256": "4ab107c30fc254aa4dc2aa1ab17734b2b1a3832d9bf0d7b31f5ae30b243cc549",
+    "native_canvas": [
+      160,
+      176
+    ],
+    "native_layer_count": 7,
+    "non_cel_chunks_before": [
+      {
+        "type": "0x2007",
+        "sha256": "4cbbd8ca5215b8d161aec181a74b694f4e24b001d5b081dc0030ed797a8973e0"
+      },
+      {
+        "type": "0x4",
+        "sha256": "9ac6dbf2b0c3b714e70ecc4b41e988b4bfe4f710df79f21a174a7211de38e13e"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "25d2a9f8df087ce0fc1c22c4a2056f49854c419c8da061bd41f6082995d4013d"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "62c5e6b9726d3e5f8317d0abff757230290922bc91120c19d7329841e292afb9"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "7262c018ebdbb79b9a22990dec0f72fa38e2abef710bf644e8a2d163eebf2162"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "484b5bb5adaf51a92d63516da68b158d6d0b7fb8ba619211b4fd48aad2cd81ab"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "9c429a2be47e3b281ae8a4d35da2e5c4ed3c1fb68496d337da402622b0556bfd"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "4d763a8bff4864be65b7a2cd7e7f74c78f5f22a6b0ce357064cbc6af8debf3af"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "fade675ad8618a95586c542c856e00fe809a726bd9b4ef0eff12d7afdbcad971"
+      }
+    ],
+    "non_cel_chunks_after": [
+      {
+        "type": "0x2007",
+        "sha256": "4cbbd8ca5215b8d161aec181a74b694f4e24b001d5b081dc0030ed797a8973e0"
+      },
+      {
+        "type": "0x2019",
+        "sha256": "4d724d5c699535d76e0293deefe26b28d326990f73a03785f08cb932583a0a10"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "25d2a9f8df087ce0fc1c22c4a2056f49854c419c8da061bd41f6082995d4013d"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "62c5e6b9726d3e5f8317d0abff757230290922bc91120c19d7329841e292afb9"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "7262c018ebdbb79b9a22990dec0f72fa38e2abef710bf644e8a2d163eebf2162"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "484b5bb5adaf51a92d63516da68b158d6d0b7fb8ba619211b4fd48aad2cd81ab"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "9c429a2be47e3b281ae8a4d35da2e5c4ed3c1fb68496d337da402622b0556bfd"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "4d763a8bff4864be65b7a2cd7e7f74c78f5f22a6b0ce357064cbc6af8debf3af"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "fade675ad8618a95586c542c856e00fe809a726bd9b4ef0eff12d7afdbcad971"
+      }
+    ],
+    "header_color_count_before": 256,
+    "header_color_count_after": 20,
+    "header_changed_offsets": [
+      0,
+      1,
+      32,
+      33
+    ]
+  },
+  "study-256-pass02": {
+    "passed": false,
+    "failures": [
+      "header changed",
+      "frames changed"
+    ],
+    "layers": [
+      {
+        "name": "Back hair",
+        "changed_pixels": 1,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      },
+      {
+        "name": "Jacket",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      },
+      {
+        "name": "Shirt",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      },
+      {
+        "name": "Neck and face",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      },
+      {
+        "name": "Features",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      },
+      {
+        "name": "Front hair",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      },
+      {
+        "name": "Tote strap",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      }
+    ],
+    "frame_metadata_equal": false,
+    "layer_metadata_equal": true,
+    "header_equal": false,
+    "source_sha256": "f16106b0596c47d343d3d600c00eadf25557647cf179a12e41b1b8bfc3d590b2",
+    "native_canvas": [
+      160,
+      176
+    ],
+    "native_layer_count": 7,
+    "non_cel_chunks_before": [
+      {
+        "type": "0x2007",
+        "sha256": "4cbbd8ca5215b8d161aec181a74b694f4e24b001d5b081dc0030ed797a8973e0"
+      },
+      {
+        "type": "0x4",
+        "sha256": "9ac6dbf2b0c3b714e70ecc4b41e988b4bfe4f710df79f21a174a7211de38e13e"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "25d2a9f8df087ce0fc1c22c4a2056f49854c419c8da061bd41f6082995d4013d"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "62c5e6b9726d3e5f8317d0abff757230290922bc91120c19d7329841e292afb9"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "7262c018ebdbb79b9a22990dec0f72fa38e2abef710bf644e8a2d163eebf2162"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "484b5bb5adaf51a92d63516da68b158d6d0b7fb8ba619211b4fd48aad2cd81ab"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "9c429a2be47e3b281ae8a4d35da2e5c4ed3c1fb68496d337da402622b0556bfd"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "4d763a8bff4864be65b7a2cd7e7f74c78f5f22a6b0ce357064cbc6af8debf3af"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "fade675ad8618a95586c542c856e00fe809a726bd9b4ef0eff12d7afdbcad971"
+      }
+    ],
+    "non_cel_chunks_after": [
+      {
+        "type": "0x2007",
+        "sha256": "4cbbd8ca5215b8d161aec181a74b694f4e24b001d5b081dc0030ed797a8973e0"
+      },
+      {
+        "type": "0x2019",
+        "sha256": "4d724d5c699535d76e0293deefe26b28d326990f73a03785f08cb932583a0a10"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "25d2a9f8df087ce0fc1c22c4a2056f49854c419c8da061bd41f6082995d4013d"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "62c5e6b9726d3e5f8317d0abff757230290922bc91120c19d7329841e292afb9"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "7262c018ebdbb79b9a22990dec0f72fa38e2abef710bf644e8a2d163eebf2162"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "484b5bb5adaf51a92d63516da68b158d6d0b7fb8ba619211b4fd48aad2cd81ab"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "9c429a2be47e3b281ae8a4d35da2e5c4ed3c1fb68496d337da402622b0556bfd"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "4d763a8bff4864be65b7a2cd7e7f74c78f5f22a6b0ce357064cbc6af8debf3af"
+      },
+      {
+        "type": "0x2004",
+        "sha256": "fade675ad8618a95586c542c856e00fe809a726bd9b4ef0eff12d7afdbcad971"
+      }
+    ],
+    "header_color_count_before": 256,
+    "header_color_count_after": 20,
+    "header_changed_offsets": [
+      0,
+      1,
+      32,
+      33
+    ]
+  }
+}

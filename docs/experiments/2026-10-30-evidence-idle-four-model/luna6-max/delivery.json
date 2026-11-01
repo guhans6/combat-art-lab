@@ -1,0 +1,84 @@
+{
+  "native": "idle-candidate-corrected.aseprite",
+  "frames": [
+    "verification/fresh-reopen-corrected/idle-00.png",
+    "verification/fresh-reopen-corrected/idle-01.png",
+    "verification/fresh-reopen-corrected/idle-02.png",
+    "verification/fresh-reopen-corrected/idle-03.png",
+    "verification/fresh-reopen-corrected/idle-04.png",
+    "verification/fresh-reopen-corrected/idle-05.png",
+    "verification/fresh-reopen-corrected/idle-06.png",
+    "verification/fresh-reopen-corrected/idle-07.png",
+    "verification/fresh-reopen-corrected/idle-08.png",
+    "verification/fresh-reopen-corrected/idle-09.png"
+  ],
+  "durations_ms": [
+    600,
+    180,
+    180,
+    360,
+    220,
+    220,
+    450,
+    50,
+    80,
+    50
+  ],
+  "gif_1x": "exports-corrected/idle-neutral-1x.gif",
+  "gif_3x": "exports-corrected/idle-neutral-3x.gif",
+  "verification": "verification/export-check-corrected.json",
+  "record": "record.md",
+  "model": {
+    "id": "gpt-6-luna",
+    "reasoning_effort": "max"
+  },
+  "tools": {
+    "aseprite_mcp_namespace": "mcp__aseprite_ai_artist",
+    "aseprite_tool_ids": [
+      "mcp__aseprite_ai_artist__preflight",
+      "mcp__aseprite_ai_artist__sprite_manage",
+      "mcp__aseprite_ai_artist__sprite_info",
+      "mcp__aseprite_ai_artist__layer",
+      "mcp__aseprite_ai_artist__draw",
+      "mcp__aseprite_ai_artist__look",
+      "mcp__aseprite_ai_artist__read_pixels",
+      "mcp__aseprite_ai_artist__frame",
+      "mcp__aseprite_ai_artist__tag",
+      "mcp__aseprite_ai_artist__export"
+    ],
+    "aseprite_version": "1.3.18.6-dev",
+    "extension_version": "0.8.2",
+    "offline_python_runtime": "/Users/guhan/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+    "pillow_version": "12.3.0"
+  },
+  "added_layers": [],
+  "operations": "ops/mcp-operations.json",
+  "correction_operations": "ops/mcp-correction.json",
+  "contact_sheets": {
+    "full_1x": "reviews-corrected/full-contact-1x.png",
+    "full_3x": "reviews-corrected/full-contact-3x.png",
+    "torso_1x": "reviews-corrected/torso-contact-1x.png",
+    "torso_3x": "reviews-corrected/torso-contact-3x.png",
+    "index": "reviews-corrected/contact-sheet-index.json"
+  },
+  "verification_reports": {
+    "native": "verification/native-comparison-corrected.json",
+    "exports": "verification/export-check-corrected.json",
+    "gifs": "verification/gif-check-corrected.json",
+    "parent_compatibility": "verification/parent-compatibility-corrected.json",
+    "correction": "verification/correction-check.json",
+    "local_revision_actual_native": "verification/local-revision-actual-native.json",
+    "pass01_native": "verification/native-comparison.json",
+    "pass01_exports": "verification/export-check.json",
+    "pass01_gifs": "verification/gif-check.json",
+    "pass01_local_revision": "verification/local-revision.json"
+  },
+  "first_pass_preservation": {
+    "native": "idle-candidate.aseprite",
+    "native_sha256": "a84f1336358155a22831ab539f24c3bf82ff1b190dfd6818eda0db0ea63e54e8",
+    "record": "record-pass01.md",
+    "manifest": "delivery-pass01.json",
+    "hash_manifest": "verification/artifact-hashes-pass01.json"
+  },
+  "hash_manifest": "verification/artifact-hashes.json"
+}

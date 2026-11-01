@@ -1,0 +1,55 @@
+{
+  "canvas": [
+    256,
+    192
+  ],
+  "durations_ms": [
+    100,
+    100,
+    100
+  ],
+  "phases": [
+    "fixture_ready",
+    "fixture_active",
+    "fixture_recover"
+  ],
+  "active_frames_1based": [
+    2
+  ],
+  "root_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "bag_bounds_xyxy": [
+    [
+      143,
+      79,
+      169,
+      113
+    ],
+    [
+      143,
+      79,
+      169,
+      113
+    ],
+    [
+      143,
+      79,
+      169,
+      113
+    ]
+  ],
+  "native_sha256": "d76266fa8afcd1de643e6b6421ec4dfe4fa77f8044a1d083205b921eb2f25540",
+  "fixture_only": true
+}

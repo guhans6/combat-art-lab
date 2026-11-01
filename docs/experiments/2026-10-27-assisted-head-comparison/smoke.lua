@@ -1,0 +1,13 @@
+local dir=assert(app.params.out)
+local s=Sprite(16,16,ColorMode.RGB);s.layers[1].name='protected'
+local im=Image(16,16,ColorMode.RGB)
+local red=app.pixelColor.rgba(180,60,40,255)
+local cream=app.pixelColor.rgba(230,210,170,255)
+im:drawPixel(2,3,red);im:drawPixel(3,3,red);im:drawPixel(3,4,red)
+s:newCel(s.layers[1],1,im,Point(0,0))
+local l=s:newLayer();l.name='editable';local top=Image(16,16,ColorMode.RGB);top:drawPixel(12,10,cream);s:newCel(l,1,top,Point(0,0))
+local p=Palette(4);p:setColor(0,app.pixelColor.rgba(0,0,0,0));p:setColor(1,red);p:setColor(2,cream);p:setColor(3,app.pixelColor.rgba(50,90,130,255));s:setPalette(p)
+s:saveAs(dir..'/smoke-base.aseprite');s:saveCopyAs(dir..'/smoke-base.png');s:close()
+s=app.open(dir..'/smoke-base.aseprite');s.layers[2]:cel(1).image:drawPixel(0,0,red);s:saveAs(dir..'/smoke-edited.aseprite');s:saveCopyAs(dir..'/smoke-edited.png');s:close()
+s=app.open(dir..'/smoke-edited.aseprite');s:saveCopyAs(dir..'/smoke-reopened.png');s:close()
+print('Scratch native saved, one editable cel pixel changed, reopened.')

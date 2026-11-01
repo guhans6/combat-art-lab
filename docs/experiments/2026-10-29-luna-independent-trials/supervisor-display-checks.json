@@ -1,0 +1,60 @@
+[
+  {
+    "artifact": "trial-a/passes/pass-01.png",
+    "sha256": "bc7190d2c823539a4499c79ad4f63810fd8a3d1ade098eef624e1d726ea05af4",
+    "size": [
+      128,
+      192
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "artifact": "trial-a/passes/pass-02.png",
+    "sha256": "d06e147c21cc3fc09b04d9ca2fe56c7510c287ef01e00e63a719a7bf448f5a30",
+    "size": [
+      128,
+      192
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "artifact": "trial-b/passes/pass-01.png",
+    "sha256": "11fdc75d43ed0e920dddeca17e30bc420521539359eddbe104a33c6274b68b27",
+    "size": [
+      128,
+      192
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "artifact": "trial-b/passes/pass-03.png",
+    "sha256": "f0b5e2831e8a263da134356cf38957f5f08ae756d4d2d2ebd98d125361049df0",
+    "size": [
+      128,
+      192
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "trial": "trial-a",
+    "fresh_reopen_rgba_equal": true,
+    "reopen_path": "trial-a/passes/pass-02-reopen.png"
+  },
+  {
+    "trial": "trial-b",
+    "fresh_reopen_rgba_equal": true,
+    "reopen_path": "trial-b/passes/pass-03-reopened.png"
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "1x": {
+    "sha256": "350fa5f6f75c938db25185fa7c1151b7877e77383b6213f8bd7679101795619f",
+    "encoded_frames": 13,
+    "durations_ms": [
+      60,
+      110,
+      140,
+      210,
+      70,
+      60,
+      90,
+      110,
+      140,
+      170,
+      140,
+      160,
+      220
+    ],
+    "cycle_ms": 1680,
+    "loop": 0,
+    "matte_rgb": [
+      52,
+      54,
+      58
+    ],
+    "timeline_equals_native": true
+  },
+  "3x": {
+    "sha256": "b9b06f80a98109defeb14e15b28a226bc10751ddd70a1f23debd3dbc85131a65",
+    "encoded_frames": 13,
+    "durations_ms": [
+      60,
+      110,
+      140,
+      210,
+      70,
+      60,
+      90,
+      110,
+      140,
+      170,
+      140,
+      160,
+      220
+    ],
+    "cycle_ms": 1680,
+    "loop": 0,
+    "matte_rgb": [
+      52,
+      54,
+      58
+    ],
+    "timeline_equals_native": true
+  }
+}

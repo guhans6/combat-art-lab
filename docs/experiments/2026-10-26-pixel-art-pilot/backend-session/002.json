@@ -1,0 +1,29 @@
+{
+  "id": "002",
+  "time": "2026-10-26T10:28:26.126Z",
+  "call": {
+    "name": "sprite_manage",
+    "arguments": {
+      "op": "new",
+      "width": 16,
+      "height": 16,
+      "colorMode": "rgb"
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "new: Sprite. Refer to it as '#3'."
+      }
+    ],
+    "structuredContent": {
+      "op": "new",
+      "sprite": "Sprite",
+      "id": 3,
+      "height": 16,
+      "width": 16
+    }
+  },
+  "images": []
+}

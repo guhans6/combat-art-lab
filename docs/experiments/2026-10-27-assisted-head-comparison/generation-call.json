@@ -1,0 +1,21 @@
+{
+  "tool": "image_gen.imagegen",
+  "calls": 1,
+  "arguments": {
+    "prompt": "Use case: identity-preserve. Create a single coherent horizontal three-panel head-and-shoulder reference sheet of the SAME original young woman in the canonical images. Image 1 (character-closeup) is the primary identity/style anchor. Image 2 (scene) confirms character and art style. Image 3 (b02-expression) is only a provisional native scale/detail guide. Show a restrained natural blink with NO head turn: left original open eyes and shallow relaxed smile, middle both eyes halfway closed, right both eyes fully closed with soft upper-lid arcs and SAME shallow smile. All three share camera, right-facing three-quarter orientation, head volume/silhouette, eyeline, neck/shoulder placement and apparent scale. Preserve asymmetric fringe openings, rounded swept brown crown, loosely tied rear hair clumps, pale tie, soft cheek/jaw, olive hooded jacket, off-white shirt and cream tote strap. Preserve warm skin and material relationships, selective dark contours and deliberate cinematic pixel-art planes of the canonical originals. Change only eyelid closure: keep mouth, brows, head tilt and hairstyle the same. Simplify tiny texture before altering identity. Each panel has same head/shoulder crop with full hair and generous equal margins. Plain mid-gray backdrop, no text, labels, grids, borders, scenery, extra faces or effects. This is proposed key-pose reference for later native cleanup and timing, not a finished animation or replacement identity.",
+    "referenced_image_paths": [
+      "/Users/guhan/Guhan/Projects/combat-art-lab/assets/references/approved-2026-10-26/character-closeup.png",
+      "/Users/guhan/Guhan/Projects/combat-art-lab/assets/references/approved-2026-10-26/character-scene.png",
+      "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-27-assisted-head-comparison/b02-expression.png"
+    ],
+    "transparent_background": false
+  },
+  "result": "generated-blink-reference.png",
+  "result_dimensions": [
+    2029,
+    775
+  ],
+  "model_identifier": "not exposed by tool",
+  "cost": "not exposed",
+  "review": "agent accepted eyelid guidance only; user approval pending"
+}

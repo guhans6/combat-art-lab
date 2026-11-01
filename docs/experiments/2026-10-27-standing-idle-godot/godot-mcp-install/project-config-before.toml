@@ -1,0 +1,10 @@
+[mcp_servers.aseprite-ai-artist]
+command = "/Users/guhan/.local/bin/node"
+args = ["/Users/guhan/Guhan/Projects/combat-art-lab/.art-tools/pebbly/node_modules/@pebbly/aseprite-ai-artist/dist/cli.js", "serve", "--headless", "--aseprite", "/Applications/Aseprite.app/Contents/MacOS/aseprite"]
+cwd = "/Users/guhan/Guhan/Projects/combat-art-lab"
+startup_timeout_sec = 30
+tool_timeout_sec = 60
+
+[mcp_servers.aseprite-ai-artist.env]
+ASEPRITE_AI_ALLOW_LUA = "0"
+ASEPRITE_USER_FOLDER = "/Users/guhan/Guhan/Projects/combat-art-lab/.art-tools/pebbly/user-folder"

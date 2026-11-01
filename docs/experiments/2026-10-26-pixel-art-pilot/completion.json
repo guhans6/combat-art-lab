@@ -1,0 +1,12 @@
+{
+  "verified_utc": "2026-10-26T10:40:04.983975+00:00",
+  "preservation_passed": true,
+  "preexisting_files": 206,
+  "handoff_original_prefix_preserved": true,
+  "pilot_owned_backend_exit_code": 0,
+  "native_candidate_sha256": "aa0051d6c2113dd1ebe057640ec17526326200baf0a1e98f8c9641cede26febd",
+  "export_sha256": "4acd1e72348472656c6438eaf61001bb0e64f8b63f409bab9da1ac2cbbb7f761",
+  "artistic_approval": "pending",
+  "automatic_client_mcp_reload": "not_observed",
+  "commit_or_publication": "not_performed"
+}

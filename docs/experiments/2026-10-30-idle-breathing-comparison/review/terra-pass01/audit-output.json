@@ -1,0 +1,250 @@
+{
+  "candidate": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/pass01.aseprite",
+  "candidate_sha256": "3ea95ac7cd738e3920bac50d22641b8d296ed28a61234f65898d43f4737964ee",
+  "baseline": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breath-blink/luna/passes/pass01/luna6-idle-breath-blink-pass01.aseprite",
+  "baseline_sha256": "d5b9d7675de8bea50a1941361d3e3bed3c187b3ee7e1d7e0585d51f8d37cc8ed",
+  "baseline_expected_sha256": "d5b9d7675de8bea50a1941361d3e3bed3c187b3ee7e1d7e0585d51f8d37cc8ed",
+  "canvas": [
+    128,
+    192
+  ],
+  "frame_count": 8,
+  "header_equal": true,
+  "layer_metadata_equal": true,
+  "frame_metadata_equal": true,
+  "cel_keys_equal": true,
+  "durations_ms": [
+    600,
+    350,
+    550,
+    600,
+    50,
+    80,
+    50,
+    250
+  ],
+  "artistic_quality": "not established by script",
+  "actual_speed_watched": false,
+  "seam_changed_pixels": 0,
+  "blink_frames_4_5_6_exact": [
+    true,
+    true,
+    true
+  ],
+  "exports": {
+    "count": 8,
+    "count_matches_native": true,
+    "frames": [
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/frame-0.png",
+        "sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/frame-1.png",
+        "sha256": "671ca5152282f61ce36dd14aeaaa28dffd9858737cb540100afe91970771cbaf",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/frame-2.png",
+        "sha256": "5ef16bd06f4b2b263de82e07423d4c3bcae2bcc859bc51196457bb32a78f1271",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/frame-3.png",
+        "sha256": "671ca5152282f61ce36dd14aeaaa28dffd9858737cb540100afe91970771cbaf",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/frame-4.png",
+        "sha256": "0dfb4d6984fd9557b9561564bf302979313739b92bf12444c2ea006b00e7d65e",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/frame-5.png",
+        "sha256": "0ffca6751ce6a8fd5eccf06424173f52bebc69ec65a3dd9414966af44ec3b4e8",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/frame-6.png",
+        "sha256": "0dfb4d6984fd9557b9561564bf302979313739b92bf12444c2ea006b00e7d65e",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/frame-7.png",
+        "sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+        "equals_native": true
+      }
+    ]
+  },
+  "reopen_exports": {
+    "count": 8,
+    "count_matches_native": true,
+    "frames": [
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/proof/reopen-0.png",
+        "sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/proof/reopen-1.png",
+        "sha256": "671ca5152282f61ce36dd14aeaaa28dffd9858737cb540100afe91970771cbaf",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/proof/reopen-2.png",
+        "sha256": "5ef16bd06f4b2b263de82e07423d4c3bcae2bcc859bc51196457bb32a78f1271",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/proof/reopen-3.png",
+        "sha256": "671ca5152282f61ce36dd14aeaaa28dffd9858737cb540100afe91970771cbaf",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/proof/reopen-4.png",
+        "sha256": "0dfb4d6984fd9557b9561564bf302979313739b92bf12444c2ea006b00e7d65e",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/proof/reopen-5.png",
+        "sha256": "0ffca6751ce6a8fd5eccf06424173f52bebc69ec65a3dd9414966af44ec3b4e8",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/proof/reopen-6.png",
+        "sha256": "0dfb4d6984fd9557b9561564bf302979313739b92bf12444c2ea006b00e7d65e",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/proof/reopen-7.png",
+        "sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+        "equals_native": true
+      }
+    ]
+  },
+  "gifs": [
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/pass01.gif",
+      "sha256": "a1d32ef3c278ece017a702711c2e60465231ad6386161995dfa082c6588967f7",
+      "size": [
+        128,
+        192
+      ],
+      "frame_count": 8,
+      "loop": 0,
+      "frames": [
+        {
+          "duration_ms": 600,
+          "nearest_integer_scale": 1.0,
+          "equals_native_transparent": true,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 350,
+          "nearest_integer_scale": 1.0,
+          "equals_native_transparent": true,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 550,
+          "nearest_integer_scale": 1.0,
+          "equals_native_transparent": true,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 600,
+          "nearest_integer_scale": 1.0,
+          "equals_native_transparent": true,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 50,
+          "nearest_integer_scale": 1.0,
+          "equals_native_transparent": true,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 80,
+          "nearest_integer_scale": 1.0,
+          "equals_native_transparent": true,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 50,
+          "nearest_integer_scale": 1.0,
+          "equals_native_transparent": true,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 250,
+          "nearest_integer_scale": 1.0,
+          "equals_native_transparent": true,
+          "equals_native_on_corner_matte": true
+        }
+      ],
+      "durations_equal_native": true
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/terra/proof/neutral-3x.gif",
+      "sha256": "5d2aea3c174f0b5f6abb931f86cfe98660abda6228bc41bd760f67e3d481063e",
+      "size": [
+        384,
+        576
+      ],
+      "frame_count": 8,
+      "loop": 0,
+      "frames": [
+        {
+          "duration_ms": 600,
+          "nearest_integer_scale": 3.0,
+          "equals_native_transparent": false,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 350,
+          "nearest_integer_scale": 3.0,
+          "equals_native_transparent": false,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 550,
+          "nearest_integer_scale": 3.0,
+          "equals_native_transparent": false,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 600,
+          "nearest_integer_scale": 3.0,
+          "equals_native_transparent": false,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 50,
+          "nearest_integer_scale": 3.0,
+          "equals_native_transparent": false,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 80,
+          "nearest_integer_scale": 3.0,
+          "equals_native_transparent": false,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 50,
+          "nearest_integer_scale": 3.0,
+          "equals_native_transparent": false,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 250,
+          "nearest_integer_scale": 3.0,
+          "equals_native_transparent": false,
+          "equals_native_on_corner_matte": true
+        }
+      ],
+      "durations_equal_native": true
+    }
+  ]
+}

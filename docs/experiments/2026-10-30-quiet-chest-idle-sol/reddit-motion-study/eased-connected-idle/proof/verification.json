@@ -1,0 +1,1957 @@
+{
+  "native_sha256": "c113c1f8438cca1f7a18c478e01c439269c5f79f748a600223c3470f6b19185f",
+  "canvas": [
+    128,
+    192
+  ],
+  "frame_count": 12,
+  "layers": 12,
+  "cels": 144,
+  "header_matches_prepared_retimed_baseline": true,
+  "header_changed_legacy_speed_ms": {
+    "before": 600,
+    "after": 650
+  },
+  "original_header_except_legacy_speed_preserved": true,
+  "layers_preserved": true,
+  "prepared_frame_metadata_palette_tags_unchanged": true,
+  "durations_ms": [
+    650,
+    240,
+    240,
+    420,
+    380,
+    260,
+    360,
+    500,
+    50,
+    80,
+    50,
+    720
+  ],
+  "cycle_ms": 3950,
+  "cel_geometry_opacity_z_preserved": true,
+  "protected_native_violations": [],
+  "frames": [
+    {
+      "frame": 1,
+      "old_source_frame": 1,
+      "head_translation_y_px": 0,
+      "head_composite_exact_registered": true,
+      "head_neck_hair_native_exact_registered": [
+        true,
+        true
+      ],
+      "lower_legs_y118_plus_exact": true,
+      "shoes_native_exact": true,
+      "hidden_guide_native_exact": true,
+      "blink_full_composite_exact": null,
+      "png_native_exact": true,
+      "fresh_reopen_png_exact": true
+    },
+    {
+      "frame": 2,
+      "old_source_frame": 1,
+      "head_translation_y_px": 0,
+      "head_composite_exact_registered": true,
+      "head_neck_hair_native_exact_registered": [
+        true,
+        true
+      ],
+      "lower_legs_y118_plus_exact": true,
+      "shoes_native_exact": true,
+      "hidden_guide_native_exact": true,
+      "blink_full_composite_exact": null,
+      "png_native_exact": true,
+      "fresh_reopen_png_exact": true
+    },
+    {
+      "frame": 3,
+      "old_source_frame": 2,
+      "head_translation_y_px": -1,
+      "head_composite_exact_registered": true,
+      "head_neck_hair_native_exact_registered": [
+        true,
+        true
+      ],
+      "lower_legs_y118_plus_exact": true,
+      "shoes_native_exact": true,
+      "hidden_guide_native_exact": true,
+      "blink_full_composite_exact": null,
+      "png_native_exact": true,
+      "fresh_reopen_png_exact": true
+    },
+    {
+      "frame": 4,
+      "old_source_frame": 3,
+      "head_translation_y_px": -1,
+      "head_composite_exact_registered": true,
+      "head_neck_hair_native_exact_registered": [
+        true,
+        true
+      ],
+      "lower_legs_y118_plus_exact": true,
+      "shoes_native_exact": true,
+      "hidden_guide_native_exact": true,
+      "blink_full_composite_exact": null,
+      "png_native_exact": true,
+      "fresh_reopen_png_exact": true
+    },
+    {
+      "frame": 5,
+      "old_source_frame": 3,
+      "head_translation_y_px": -1,
+      "head_composite_exact_registered": true,
+      "head_neck_hair_native_exact_registered": [
+        true,
+        true
+      ],
+      "lower_legs_y118_plus_exact": true,
+      "shoes_native_exact": true,
+      "hidden_guide_native_exact": true,
+      "blink_full_composite_exact": null,
+      "png_native_exact": true,
+      "fresh_reopen_png_exact": true
+    },
+    {
+      "frame": 6,
+      "old_source_frame": 3,
+      "head_translation_y_px": -1,
+      "head_composite_exact_registered": true,
+      "head_neck_hair_native_exact_registered": [
+        true,
+        true
+      ],
+      "lower_legs_y118_plus_exact": true,
+      "shoes_native_exact": true,
+      "hidden_guide_native_exact": true,
+      "blink_full_composite_exact": null,
+      "png_native_exact": true,
+      "fresh_reopen_png_exact": true
+    },
+    {
+      "frame": 7,
+      "old_source_frame": 4,
+      "head_translation_y_px": 0,
+      "head_composite_exact_registered": true,
+      "head_neck_hair_native_exact_registered": [
+        true,
+        true
+      ],
+      "lower_legs_y118_plus_exact": true,
+      "shoes_native_exact": true,
+      "hidden_guide_native_exact": true,
+      "blink_full_composite_exact": null,
+      "png_native_exact": true,
+      "fresh_reopen_png_exact": true
+    },
+    {
+      "frame": 8,
+      "old_source_frame": 4,
+      "head_translation_y_px": 0,
+      "head_composite_exact_registered": true,
+      "head_neck_hair_native_exact_registered": [
+        true,
+        true
+      ],
+      "lower_legs_y118_plus_exact": true,
+      "shoes_native_exact": true,
+      "hidden_guide_native_exact": true,
+      "blink_full_composite_exact": null,
+      "png_native_exact": true,
+      "fresh_reopen_png_exact": true
+    },
+    {
+      "frame": 9,
+      "old_source_frame": 5,
+      "head_translation_y_px": 0,
+      "head_composite_exact_registered": true,
+      "head_neck_hair_native_exact_registered": [
+        true,
+        true
+      ],
+      "lower_legs_y118_plus_exact": true,
+      "shoes_native_exact": true,
+      "hidden_guide_native_exact": true,
+      "blink_full_composite_exact": true,
+      "png_native_exact": true,
+      "fresh_reopen_png_exact": true
+    },
+    {
+      "frame": 10,
+      "old_source_frame": 6,
+      "head_translation_y_px": 0,
+      "head_composite_exact_registered": true,
+      "head_neck_hair_native_exact_registered": [
+        true,
+        true
+      ],
+      "lower_legs_y118_plus_exact": true,
+      "shoes_native_exact": true,
+      "hidden_guide_native_exact": true,
+      "blink_full_composite_exact": true,
+      "png_native_exact": true,
+      "fresh_reopen_png_exact": true
+    },
+    {
+      "frame": 11,
+      "old_source_frame": 7,
+      "head_translation_y_px": 0,
+      "head_composite_exact_registered": true,
+      "head_neck_hair_native_exact_registered": [
+        true,
+        true
+      ],
+      "lower_legs_y118_plus_exact": true,
+      "shoes_native_exact": true,
+      "hidden_guide_native_exact": true,
+      "blink_full_composite_exact": true,
+      "png_native_exact": true,
+      "fresh_reopen_png_exact": true
+    },
+    {
+      "frame": 12,
+      "old_source_frame": 8,
+      "head_translation_y_px": 0,
+      "head_composite_exact_registered": true,
+      "head_neck_hair_native_exact_registered": [
+        true,
+        true
+      ],
+      "lower_legs_y118_plus_exact": true,
+      "shoes_native_exact": true,
+      "hidden_guide_native_exact": true,
+      "blink_full_composite_exact": null,
+      "png_native_exact": true,
+      "fresh_reopen_png_exact": true
+    }
+  ],
+  "original_non_tag_chunks_palette_exact": true,
+  "alpha_coverage": [
+    {
+      "frame": 1,
+      "enclosed_hole_pixels": [
+        [
+          38,
+          20
+        ],
+        [
+          38,
+          21
+        ],
+        [
+          40,
+          23
+        ],
+        [
+          40,
+          24
+        ],
+        [
+          40,
+          25
+        ],
+        [
+          40,
+          26
+        ],
+        [
+          41,
+          15
+        ],
+        [
+          41,
+          27
+        ],
+        [
+          44,
+          28
+        ],
+        [
+          45,
+          28
+        ],
+        [
+          46,
+          28
+        ],
+        [
+          49,
+          31
+        ],
+        [
+          49,
+          32
+        ],
+        [
+          49,
+          33
+        ],
+        [
+          50,
+          32
+        ],
+        [
+          50,
+          33
+        ],
+        [
+          51,
+          7
+        ],
+        [
+          51,
+          31
+        ],
+        [
+          51,
+          32
+        ],
+        [
+          51,
+          33
+        ],
+        [
+          52,
+          29
+        ],
+        [
+          53,
+          29
+        ],
+        [
+          54,
+          32
+        ],
+        [
+          55,
+          31
+        ],
+        [
+          63,
+          116
+        ],
+        [
+          71,
+          30
+        ],
+        [
+          72,
+          28
+        ],
+        [
+          72,
+          29
+        ],
+        [
+          72,
+          30
+        ],
+        [
+          74,
+          24
+        ],
+        [
+          74,
+          25
+        ],
+        [
+          76,
+          12
+        ],
+        [
+          77,
+          13
+        ]
+      ],
+      "unexplained_new_hole_pixels": []
+    },
+    {
+      "frame": 2,
+      "enclosed_hole_pixels": [
+        [
+          38,
+          20
+        ],
+        [
+          38,
+          21
+        ],
+        [
+          40,
+          23
+        ],
+        [
+          40,
+          24
+        ],
+        [
+          40,
+          25
+        ],
+        [
+          40,
+          26
+        ],
+        [
+          41,
+          15
+        ],
+        [
+          41,
+          27
+        ],
+        [
+          44,
+          28
+        ],
+        [
+          45,
+          28
+        ],
+        [
+          46,
+          28
+        ],
+        [
+          49,
+          31
+        ],
+        [
+          49,
+          32
+        ],
+        [
+          49,
+          33
+        ],
+        [
+          50,
+          32
+        ],
+        [
+          50,
+          33
+        ],
+        [
+          51,
+          7
+        ],
+        [
+          51,
+          31
+        ],
+        [
+          51,
+          32
+        ],
+        [
+          51,
+          33
+        ],
+        [
+          52,
+          29
+        ],
+        [
+          53,
+          29
+        ],
+        [
+          54,
+          32
+        ],
+        [
+          55,
+          31
+        ],
+        [
+          63,
+          116
+        ],
+        [
+          71,
+          30
+        ],
+        [
+          72,
+          28
+        ],
+        [
+          72,
+          29
+        ],
+        [
+          72,
+          30
+        ],
+        [
+          74,
+          24
+        ],
+        [
+          74,
+          25
+        ],
+        [
+          76,
+          12
+        ],
+        [
+          77,
+          13
+        ]
+      ],
+      "unexplained_new_hole_pixels": []
+    },
+    {
+      "frame": 3,
+      "enclosed_hole_pixels": [
+        [
+          38,
+          19
+        ],
+        [
+          38,
+          20
+        ],
+        [
+          40,
+          22
+        ],
+        [
+          40,
+          23
+        ],
+        [
+          40,
+          24
+        ],
+        [
+          40,
+          25
+        ],
+        [
+          41,
+          14
+        ],
+        [
+          41,
+          26
+        ],
+        [
+          44,
+          27
+        ],
+        [
+          45,
+          27
+        ],
+        [
+          46,
+          27
+        ],
+        [
+          49,
+          30
+        ],
+        [
+          49,
+          31
+        ],
+        [
+          49,
+          32
+        ],
+        [
+          50,
+          31
+        ],
+        [
+          50,
+          32
+        ],
+        [
+          51,
+          6
+        ],
+        [
+          51,
+          30
+        ],
+        [
+          51,
+          31
+        ],
+        [
+          51,
+          32
+        ],
+        [
+          52,
+          28
+        ],
+        [
+          53,
+          28
+        ],
+        [
+          54,
+          31
+        ],
+        [
+          55,
+          30
+        ],
+        [
+          63,
+          116
+        ],
+        [
+          71,
+          29
+        ],
+        [
+          72,
+          27
+        ],
+        [
+          72,
+          28
+        ],
+        [
+          72,
+          29
+        ],
+        [
+          74,
+          23
+        ],
+        [
+          74,
+          24
+        ],
+        [
+          76,
+          11
+        ],
+        [
+          77,
+          12
+        ]
+      ],
+      "unexplained_new_hole_pixels": []
+    },
+    {
+      "frame": 4,
+      "enclosed_hole_pixels": [
+        [
+          38,
+          19
+        ],
+        [
+          38,
+          20
+        ],
+        [
+          40,
+          22
+        ],
+        [
+          40,
+          23
+        ],
+        [
+          40,
+          24
+        ],
+        [
+          40,
+          25
+        ],
+        [
+          41,
+          14
+        ],
+        [
+          41,
+          26
+        ],
+        [
+          44,
+          27
+        ],
+        [
+          45,
+          27
+        ],
+        [
+          46,
+          27
+        ],
+        [
+          49,
+          30
+        ],
+        [
+          49,
+          31
+        ],
+        [
+          49,
+          32
+        ],
+        [
+          50,
+          31
+        ],
+        [
+          50,
+          32
+        ],
+        [
+          51,
+          6
+        ],
+        [
+          51,
+          30
+        ],
+        [
+          51,
+          31
+        ],
+        [
+          51,
+          32
+        ],
+        [
+          52,
+          28
+        ],
+        [
+          53,
+          28
+        ],
+        [
+          54,
+          31
+        ],
+        [
+          55,
+          30
+        ],
+        [
+          63,
+          116
+        ],
+        [
+          71,
+          29
+        ],
+        [
+          72,
+          27
+        ],
+        [
+          72,
+          28
+        ],
+        [
+          72,
+          29
+        ],
+        [
+          74,
+          23
+        ],
+        [
+          74,
+          24
+        ],
+        [
+          76,
+          11
+        ],
+        [
+          77,
+          12
+        ]
+      ],
+      "unexplained_new_hole_pixels": []
+    },
+    {
+      "frame": 5,
+      "enclosed_hole_pixels": [
+        [
+          38,
+          19
+        ],
+        [
+          38,
+          20
+        ],
+        [
+          40,
+          22
+        ],
+        [
+          40,
+          23
+        ],
+        [
+          40,
+          24
+        ],
+        [
+          40,
+          25
+        ],
+        [
+          41,
+          14
+        ],
+        [
+          41,
+          26
+        ],
+        [
+          44,
+          27
+        ],
+        [
+          45,
+          27
+        ],
+        [
+          46,
+          27
+        ],
+        [
+          49,
+          30
+        ],
+        [
+          49,
+          31
+        ],
+        [
+          49,
+          32
+        ],
+        [
+          50,
+          31
+        ],
+        [
+          50,
+          32
+        ],
+        [
+          51,
+          6
+        ],
+        [
+          51,
+          30
+        ],
+        [
+          51,
+          31
+        ],
+        [
+          51,
+          32
+        ],
+        [
+          52,
+          28
+        ],
+        [
+          53,
+          28
+        ],
+        [
+          54,
+          31
+        ],
+        [
+          55,
+          30
+        ],
+        [
+          64,
+          116
+        ],
+        [
+          71,
+          29
+        ],
+        [
+          72,
+          27
+        ],
+        [
+          72,
+          28
+        ],
+        [
+          72,
+          29
+        ],
+        [
+          74,
+          23
+        ],
+        [
+          74,
+          24
+        ],
+        [
+          76,
+          11
+        ],
+        [
+          77,
+          12
+        ]
+      ],
+      "unexplained_new_hole_pixels": []
+    },
+    {
+      "frame": 6,
+      "enclosed_hole_pixels": [
+        [
+          38,
+          19
+        ],
+        [
+          38,
+          20
+        ],
+        [
+          40,
+          22
+        ],
+        [
+          40,
+          23
+        ],
+        [
+          40,
+          24
+        ],
+        [
+          40,
+          25
+        ],
+        [
+          41,
+          14
+        ],
+        [
+          41,
+          26
+        ],
+        [
+          44,
+          27
+        ],
+        [
+          45,
+          27
+        ],
+        [
+          46,
+          27
+        ],
+        [
+          49,
+          30
+        ],
+        [
+          49,
+          31
+        ],
+        [
+          49,
+          32
+        ],
+        [
+          50,
+          31
+        ],
+        [
+          50,
+          32
+        ],
+        [
+          51,
+          6
+        ],
+        [
+          51,
+          30
+        ],
+        [
+          51,
+          31
+        ],
+        [
+          51,
+          32
+        ],
+        [
+          52,
+          28
+        ],
+        [
+          53,
+          28
+        ],
+        [
+          54,
+          31
+        ],
+        [
+          55,
+          30
+        ],
+        [
+          64,
+          116
+        ],
+        [
+          71,
+          29
+        ],
+        [
+          72,
+          27
+        ],
+        [
+          72,
+          28
+        ],
+        [
+          72,
+          29
+        ],
+        [
+          74,
+          23
+        ],
+        [
+          74,
+          24
+        ],
+        [
+          76,
+          11
+        ],
+        [
+          77,
+          12
+        ]
+      ],
+      "unexplained_new_hole_pixels": []
+    },
+    {
+      "frame": 7,
+      "enclosed_hole_pixels": [
+        [
+          38,
+          20
+        ],
+        [
+          38,
+          21
+        ],
+        [
+          40,
+          23
+        ],
+        [
+          40,
+          24
+        ],
+        [
+          40,
+          25
+        ],
+        [
+          40,
+          26
+        ],
+        [
+          41,
+          15
+        ],
+        [
+          41,
+          27
+        ],
+        [
+          44,
+          28
+        ],
+        [
+          45,
+          28
+        ],
+        [
+          46,
+          28
+        ],
+        [
+          49,
+          31
+        ],
+        [
+          49,
+          32
+        ],
+        [
+          49,
+          33
+        ],
+        [
+          50,
+          32
+        ],
+        [
+          50,
+          33
+        ],
+        [
+          51,
+          7
+        ],
+        [
+          51,
+          31
+        ],
+        [
+          51,
+          32
+        ],
+        [
+          51,
+          33
+        ],
+        [
+          52,
+          29
+        ],
+        [
+          53,
+          29
+        ],
+        [
+          54,
+          32
+        ],
+        [
+          55,
+          31
+        ],
+        [
+          63,
+          116
+        ],
+        [
+          71,
+          30
+        ],
+        [
+          72,
+          28
+        ],
+        [
+          72,
+          29
+        ],
+        [
+          72,
+          30
+        ],
+        [
+          74,
+          24
+        ],
+        [
+          74,
+          25
+        ],
+        [
+          76,
+          12
+        ],
+        [
+          77,
+          13
+        ]
+      ],
+      "unexplained_new_hole_pixels": []
+    },
+    {
+      "frame": 8,
+      "enclosed_hole_pixels": [
+        [
+          38,
+          20
+        ],
+        [
+          38,
+          21
+        ],
+        [
+          40,
+          23
+        ],
+        [
+          40,
+          24
+        ],
+        [
+          40,
+          25
+        ],
+        [
+          40,
+          26
+        ],
+        [
+          41,
+          15
+        ],
+        [
+          41,
+          27
+        ],
+        [
+          44,
+          28
+        ],
+        [
+          45,
+          28
+        ],
+        [
+          46,
+          28
+        ],
+        [
+          49,
+          31
+        ],
+        [
+          49,
+          32
+        ],
+        [
+          49,
+          33
+        ],
+        [
+          50,
+          32
+        ],
+        [
+          50,
+          33
+        ],
+        [
+          51,
+          7
+        ],
+        [
+          51,
+          31
+        ],
+        [
+          51,
+          32
+        ],
+        [
+          51,
+          33
+        ],
+        [
+          52,
+          29
+        ],
+        [
+          53,
+          29
+        ],
+        [
+          54,
+          32
+        ],
+        [
+          55,
+          31
+        ],
+        [
+          63,
+          116
+        ],
+        [
+          71,
+          30
+        ],
+        [
+          72,
+          28
+        ],
+        [
+          72,
+          29
+        ],
+        [
+          72,
+          30
+        ],
+        [
+          74,
+          24
+        ],
+        [
+          74,
+          25
+        ],
+        [
+          76,
+          12
+        ],
+        [
+          77,
+          13
+        ]
+      ],
+      "unexplained_new_hole_pixels": []
+    },
+    {
+      "frame": 9,
+      "enclosed_hole_pixels": [
+        [
+          38,
+          20
+        ],
+        [
+          38,
+          21
+        ],
+        [
+          40,
+          23
+        ],
+        [
+          40,
+          24
+        ],
+        [
+          40,
+          25
+        ],
+        [
+          40,
+          26
+        ],
+        [
+          41,
+          15
+        ],
+        [
+          41,
+          27
+        ],
+        [
+          44,
+          28
+        ],
+        [
+          45,
+          28
+        ],
+        [
+          46,
+          28
+        ],
+        [
+          49,
+          31
+        ],
+        [
+          49,
+          32
+        ],
+        [
+          49,
+          33
+        ],
+        [
+          50,
+          32
+        ],
+        [
+          50,
+          33
+        ],
+        [
+          51,
+          7
+        ],
+        [
+          51,
+          31
+        ],
+        [
+          51,
+          32
+        ],
+        [
+          51,
+          33
+        ],
+        [
+          52,
+          29
+        ],
+        [
+          53,
+          29
+        ],
+        [
+          54,
+          32
+        ],
+        [
+          55,
+          31
+        ],
+        [
+          63,
+          116
+        ],
+        [
+          71,
+          30
+        ],
+        [
+          72,
+          28
+        ],
+        [
+          72,
+          29
+        ],
+        [
+          72,
+          30
+        ],
+        [
+          74,
+          24
+        ],
+        [
+          74,
+          25
+        ],
+        [
+          76,
+          12
+        ],
+        [
+          77,
+          13
+        ]
+      ],
+      "unexplained_new_hole_pixels": []
+    },
+    {
+      "frame": 10,
+      "enclosed_hole_pixels": [
+        [
+          38,
+          20
+        ],
+        [
+          38,
+          21
+        ],
+        [
+          40,
+          23
+        ],
+        [
+          40,
+          24
+        ],
+        [
+          40,
+          25
+        ],
+        [
+          40,
+          26
+        ],
+        [
+          41,
+          15
+        ],
+        [
+          41,
+          27
+        ],
+        [
+          44,
+          28
+        ],
+        [
+          45,
+          28
+        ],
+        [
+          46,
+          28
+        ],
+        [
+          49,
+          31
+        ],
+        [
+          49,
+          32
+        ],
+        [
+          49,
+          33
+        ],
+        [
+          50,
+          32
+        ],
+        [
+          50,
+          33
+        ],
+        [
+          51,
+          7
+        ],
+        [
+          51,
+          31
+        ],
+        [
+          51,
+          32
+        ],
+        [
+          51,
+          33
+        ],
+        [
+          52,
+          29
+        ],
+        [
+          53,
+          29
+        ],
+        [
+          54,
+          32
+        ],
+        [
+          55,
+          31
+        ],
+        [
+          63,
+          116
+        ],
+        [
+          71,
+          30
+        ],
+        [
+          72,
+          28
+        ],
+        [
+          72,
+          29
+        ],
+        [
+          72,
+          30
+        ],
+        [
+          74,
+          24
+        ],
+        [
+          74,
+          25
+        ],
+        [
+          76,
+          12
+        ],
+        [
+          77,
+          13
+        ]
+      ],
+      "unexplained_new_hole_pixels": []
+    },
+    {
+      "frame": 11,
+      "enclosed_hole_pixels": [
+        [
+          38,
+          20
+        ],
+        [
+          38,
+          21
+        ],
+        [
+          40,
+          23
+        ],
+        [
+          40,
+          24
+        ],
+        [
+          40,
+          25
+        ],
+        [
+          40,
+          26
+        ],
+        [
+          41,
+          15
+        ],
+        [
+          41,
+          27
+        ],
+        [
+          44,
+          28
+        ],
+        [
+          45,
+          28
+        ],
+        [
+          46,
+          28
+        ],
+        [
+          49,
+          31
+        ],
+        [
+          49,
+          32
+        ],
+        [
+          49,
+          33
+        ],
+        [
+          50,
+          32
+        ],
+        [
+          50,
+          33
+        ],
+        [
+          51,
+          7
+        ],
+        [
+          51,
+          31
+        ],
+        [
+          51,
+          32
+        ],
+        [
+          51,
+          33
+        ],
+        [
+          52,
+          29
+        ],
+        [
+          53,
+          29
+        ],
+        [
+          54,
+          32
+        ],
+        [
+          55,
+          31
+        ],
+        [
+          63,
+          116
+        ],
+        [
+          71,
+          30
+        ],
+        [
+          72,
+          28
+        ],
+        [
+          72,
+          29
+        ],
+        [
+          72,
+          30
+        ],
+        [
+          74,
+          24
+        ],
+        [
+          74,
+          25
+        ],
+        [
+          76,
+          12
+        ],
+        [
+          77,
+          13
+        ]
+      ],
+      "unexplained_new_hole_pixels": []
+    },
+    {
+      "frame": 12,
+      "enclosed_hole_pixels": [
+        [
+          38,
+          20
+        ],
+        [
+          38,
+          21
+        ],
+        [
+          40,
+          23
+        ],
+        [
+          40,
+          24
+        ],
+        [
+          40,
+          25
+        ],
+        [
+          40,
+          26
+        ],
+        [
+          41,
+          15
+        ],
+        [
+          41,
+          27
+        ],
+        [
+          44,
+          28
+        ],
+        [
+          45,
+          28
+        ],
+        [
+          46,
+          28
+        ],
+        [
+          49,
+          31
+        ],
+        [
+          49,
+          32
+        ],
+        [
+          49,
+          33
+        ],
+        [
+          50,
+          32
+        ],
+        [
+          50,
+          33
+        ],
+        [
+          51,
+          7
+        ],
+        [
+          51,
+          31
+        ],
+        [
+          51,
+          32
+        ],
+        [
+          51,
+          33
+        ],
+        [
+          52,
+          29
+        ],
+        [
+          53,
+          29
+        ],
+        [
+          54,
+          32
+        ],
+        [
+          55,
+          31
+        ],
+        [
+          63,
+          116
+        ],
+        [
+          71,
+          30
+        ],
+        [
+          72,
+          28
+        ],
+        [
+          72,
+          29
+        ],
+        [
+          72,
+          30
+        ],
+        [
+          74,
+          24
+        ],
+        [
+          74,
+          25
+        ],
+        [
+          76,
+          12
+        ],
+        [
+          77,
+          13
+        ]
+      ],
+      "unexplained_new_hole_pixels": []
+    }
+  ],
+  "original_hashes_unchanged": {
+    "docs/experiments/2026-10-30-quiet-chest-idle-sol/reddit-motion-study/prototype/pass01.aseprite": true,
+    "docs/experiments/2026-10-30-quiet-chest-idle-sol/reddit-motion-study/reference.mp4": true,
+    "assets/references/approved-2026-10-26/character-cutout.png": true,
+    "assets/references/approved-2026-10-26/character-scene.png": true,
+    "assets/references/approved-2026-10-26/character-closeup.png": true
+  },
+  "native_gif": [
+    {
+      "frame": 1,
+      "duration_ms": 650,
+      "visible_pixels_exact": true
+    },
+    {
+      "frame": 2,
+      "duration_ms": 240,
+      "visible_pixels_exact": true
+    },
+    {
+      "frame": 3,
+      "duration_ms": 240,
+      "visible_pixels_exact": true
+    },
+    {
+      "frame": 4,
+      "duration_ms": 420,
+      "visible_pixels_exact": true
+    },
+    {
+      "frame": 5,
+      "duration_ms": 380,
+      "visible_pixels_exact": true
+    },
+    {
+      "frame": 6,
+      "duration_ms": 260,
+      "visible_pixels_exact": true
+    },
+    {
+      "frame": 7,
+      "duration_ms": 360,
+      "visible_pixels_exact": true
+    },
+    {
+      "frame": 8,
+      "duration_ms": 500,
+      "visible_pixels_exact": true
+    },
+    {
+      "frame": 9,
+      "duration_ms": 50,
+      "visible_pixels_exact": true
+    },
+    {
+      "frame": 10,
+      "duration_ms": 80,
+      "visible_pixels_exact": true
+    },
+    {
+      "frame": 11,
+      "duration_ms": 50,
+      "visible_pixels_exact": true
+    },
+    {
+      "frame": 12,
+      "duration_ms": 720,
+      "visible_pixels_exact": true
+    }
+  ]
+}

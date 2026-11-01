@@ -1,0 +1,49 @@
+{
+  "panels": [
+    {
+      "role": "APPROVED ORIGINAL (caller-selected)",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/references/approved-2026-10-26/character-closeup.png",
+      "sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7",
+      "native_image_size": [
+        1448,
+        1086
+      ],
+      "crop_xyxy_half_open": [
+        380,
+        64,
+        860,
+        512
+      ],
+      "display_size": [
+        566,
+        528
+      ],
+      "display_height_ratio": 1.1785714285714286,
+      "resampling": "nearest-neighbor"
+    },
+    {
+      "role": "ACTUAL CANDIDATE EXPORT",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02.png",
+      "sha256": "9214fac8f9c6199073028396183ed6d575a7e0ac270c686f709ed81a7721e294",
+      "native_image_size": [
+        160,
+        176
+      ],
+      "crop_xyxy_half_open": [
+        0,
+        0,
+        160,
+        176
+      ],
+      "display_size": [
+        480,
+        528
+      ],
+      "display_height_ratio": 3.0,
+      "resampling": "nearest-neighbor"
+    }
+  ],
+  "artistic_judgment": "not computed",
+  "alignment": "crop heights only; anatomy not validated",
+  "source_images_modified": false
+}

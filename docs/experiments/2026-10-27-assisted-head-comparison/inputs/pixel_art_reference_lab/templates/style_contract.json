@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "status": "proposed experiment contract; not a newly approved rendering specification",
+  "goal": "same recognizable character, aesthetic, expression and visual language; not exact source-pixel replication",
+  "canonical_references": [
+    "assets/references/approved-2026-10-26/character-scene.png",
+    "assets/references/approved-2026-10-26/character-closeup.png"
+  ],
+  "invariants": [
+    "distinctive tied brown hair, fringe and pale tie",
+    "recognizable face and near/far eye relationship",
+    "natural long-legged proportions",
+    "olive jacket, light shirt, wide jeans, pale shoes and cream tote where visible",
+    "material color relationships, selective contours and intentional shading clusters"
+  ],
+  "allowed_variation": [
+    "requested pose/view/expression",
+    "fewer secondary strands/folds/texture at a smaller grid",
+    "minor deliberate cluster changes preserving identity and style"
+  ],
+  "needs_explicit_art_decision": [
+    "major costume/hair redesign",
+    "materially different facial identity",
+    "new weapon",
+    "persistent camera/style change",
+    "removing accessories for animation"
+  ],
+  "native_canvas": null,
+  "occupied_bounds": null,
+  "display_scale": null,
+  "palette_policy": "provisional; do not inherit illustrative 32-color test as a restriction",
+  "reference_supply": "multiple generated/supplied views, poses, expressions and sheets allowed when useful",
+  "approval": {
+    "concept_direction": "existing user-selected originals",
+    "supplementary_references": [],
+    "native_candidate": null
+  }
+}

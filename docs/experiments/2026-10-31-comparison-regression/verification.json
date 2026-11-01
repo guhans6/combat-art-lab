@@ -1,0 +1,58 @@
+{
+  "passed": true,
+  "git_head": "9e35c5c13987a153e942e6f93f49f247fad13c3a",
+  "baseline_file_count": 4351,
+  "intentional_existing_changes": [
+    "docs/art/motion-guide.md",
+    "docs/experiments/experiment-template.md",
+    "docs/handoff.md",
+    "docs/workflow/art-production.md",
+    "tools/pixel-art-director/SKILL.md",
+    "tools/pixel-art-director/references/animation.md",
+    "tools/pixel-art-director/scripts/pixel_checks.py"
+  ],
+  "unrelated_folder_metadata_drift_preserved": [
+    "assets/source/.DS_Store"
+  ],
+  "historical_art_native_files_byte_exact": 2684,
+  "all_other_baseline_files_unchanged": true,
+  "source_and_standalone_tests": 42,
+  "local_canonical_skill_discovery": true,
+  "local_markdown_targets_exist": true,
+  "packets": {
+    "replay/target-only": {
+      "fresh": true,
+      "stale_files": [],
+      "mechanical_passed": false,
+      "visual_acceptance": "pending",
+      "user_approval": "pending",
+      "limits": "Freshness is not inspection or artistic acceptance; bind manual review to packet SHA256."
+    },
+    "replay/complete": {
+      "fresh": true,
+      "stale_files": [],
+      "mechanical_passed": true,
+      "visual_acceptance": "pending",
+      "user_approval": "pending",
+      "limits": "Freshness is not inspection or artistic acceptance; bind manual review to packet SHA256."
+    },
+    "replay-verified/target-only": {
+      "fresh": true,
+      "stale_files": [],
+      "mechanical_passed": false,
+      "visual_acceptance": "pending",
+      "user_approval": "pending",
+      "limits": "Freshness is not inspection or artistic acceptance; bind manual review to packet SHA256."
+    },
+    "replay-verified/complete": {
+      "fresh": true,
+      "stale_files": [],
+      "mechanical_passed": true,
+      "visual_acceptance": "pending",
+      "user_approval": "pending",
+      "limits": "Freshness is not inspection or artistic acceptance; bind manual review to packet SHA256."
+    }
+  },
+  "official_skill_validator": "unavailable: bundled Python lacks PyYAML; Ruby YAML frontmatter parse passed",
+  "limits": "Mechanical/source-local evidence only; visual-probe false clearance retained. No semantic judge, art approval, bundle refresh, installation elsewhere or publication."
+}

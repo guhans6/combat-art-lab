@@ -1,0 +1,82 @@
+{
+  "base": "v02",
+  "nativeCanvas": [
+    128,
+    192
+  ],
+  "baseVersionsFileHashesUnchanged": true,
+  "changedCompositePixels": 369,
+  "changesOutsideHeadMask": 0,
+  "neckAndAllRowsFrom31Unchanged": true,
+  "paletteColorsAdded": 0,
+  "visibleColors": 51,
+  "nativeReopenExportIdentical": true,
+  "binaryAlpha": true,
+  "pupilLocations": {
+    "near": [
+      64,
+      21
+    ],
+    "far": [
+      70,
+      21
+    ]
+  },
+  "pupilSeparationPixels": 6,
+  "eyeCheckLimit": "Authored pupil and white-cluster pixels verified; native readability also needs visual review.",
+  "layers": [
+    {
+      "name": "01-hair-back",
+      "changedPixels": 322
+    },
+    {
+      "name": "02-tote-body",
+      "changedPixels": 0
+    },
+    {
+      "name": "03-jeans",
+      "changedPixels": 0
+    },
+    {
+      "name": "04-sneakers",
+      "changedPixels": 0
+    },
+    {
+      "name": "05-skin-face",
+      "changedPixels": 64
+    },
+    {
+      "name": "06-tee",
+      "changedPixels": 0
+    },
+    {
+      "name": "07-jacket",
+      "changedPixels": 0
+    },
+    {
+      "name": "08-hands",
+      "changedPixels": 0
+    },
+    {
+      "name": "09-tote-strap",
+      "changedPixels": 0
+    },
+    {
+      "name": "10-hair-front",
+      "changedPixels": 110
+    },
+    {
+      "name": "11-face-features",
+      "changedPixels": 40
+    },
+    {
+      "name": "12-guide-ground-hidden",
+      "changedPixels": 0
+    }
+  ],
+  "nativeSHA256": "33554ab866b10c41cbd78604dacf78b3f6172f96e9103d45898da4f89de0605e",
+  "exportSHA256": "a22618c38c103a9add6a24940b5c731b13d70d192721a25e77e5d95ddaa65c3e",
+  "referenceComparison": "Original 384x256 crop and 48x32 sprite crops displayed at equal sizes; nearest neighbor for previews only.",
+  "visualApproval": "pending",
+  "GodotPlayback": "not performed"
+}

@@ -1,0 +1,25 @@
+{
+  "findings": [
+    {
+      "frame": 8,
+      "bbox": [
+        91,
+        92,
+        34,
+        47
+      ],
+      "non_prop_opaque_pixels_in_old_composite_crop": 346
+    },
+    {
+      "frame": 9,
+      "bbox": [
+        149,
+        83,
+        30,
+        49
+      ],
+      "non_prop_opaque_pixels_in_old_composite_crop": 115
+    }
+  ],
+  "decision": "Use dedicatednativeownerisolatedpropsheet instead of fullcompositecrop. Earlier runtimeprobe retained, not final."
+}

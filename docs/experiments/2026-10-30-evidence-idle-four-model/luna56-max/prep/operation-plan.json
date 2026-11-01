@@ -1,0 +1,49 @@
+{
+  "status": "executed_native",
+  "model": "gpt-5.6-luna/max",
+  "source": "../inputs/neutral.aseprite",
+  "frame_plan": [
+    {"frame": 1, "duration_ms": 420, "role": "exact-neutral-rest"},
+    {"frame": 2, "duration_ms": 140, "role": "early-inhale"},
+    {"frame": 3, "duration_ms": 180, "role": "inhale-crest"},
+    {"frame": 4, "duration_ms": 220, "role": "crest-hold-and-settle"},
+    {"frame": 5, "duration_ms": 180, "role": "exhale-transition"},
+    {"frame": 6, "duration_ms": 560, "role": "exact-neutral-seam-hold"}
+  ],
+  "upper_body_layers": [
+    "02a-jacket-left",
+    "02b-jacket-right",
+    "03-shirt",
+    "06a-left-hand",
+    "06b-right-hand",
+    "07-face-and-neck",
+    "08-hair-tie-and-hair"
+  ],
+  "secondary_layers": ["04-tote", "05-tote-strap"],
+  "protected_layers": ["00-shoes", "01-denim"],
+  "planned_relative_cel_moves": {
+    "frame_2": {"upper_body": [0, -1], "secondary": [0, 0]},
+    "frame_3": {"upper_body": [0, -1], "secondary": [0, -1]},
+    "frame_4": {"upper_body": [0, -1], "secondary": [1, -1]},
+    "frame_5": {"upper_body": [0, 0], "secondary": [1, 0]}
+  },
+  "planned_draw_regions": [
+    "shirt upper chest and collar transition",
+    "jacket shoulder/hem overlap where a cel move exposes a row",
+    "tote hanging contour and strap overlap on delayed frames",
+    "one-pixel hair curl settle only if native ownership remains clean"
+  ],
+  "actual_native_operations": [
+    "Opened inputs/neutral.aseprite through headless Aseprite MCP and saved as luna56-idle.aseprite.",
+    "Duplicated the one source frame five times with linkCels=false, retaining all twelve named layers and the hidden guide.",
+    "Set durations to 420/140/180/220/180/560 ms and created the idle-breathe tag over frames 1-6.",
+    "Moved the declared upper-body layers by (0,-1) on frames 2-4; moved tote and strap by (0,-1) on frame 3, (1,-1) on frame 4 and (1,0) on frame 5; kept shoes and denim fixed.",
+    "No artistic contour-repair draw pass was needed after the native filmstrip review; no layer was added.",
+    "Saved, exported native frames and 1x/3x GIFs, exported a duplicate for local revision proof, then freshly reopened/exported the main source and compared the results offline."
+  ],
+  "notes": [
+    "Confirm layer/cel ownership and full-canvas versus cropped cel origins through MCP before applying any move.",
+    "Do not use blanket row-band warp; preserve identity, expression, palette and planted feet.",
+    "The plan is now an executed record; detailed evidence and hash tables are in ../verification.json and ../record.md."
+  ]
+}

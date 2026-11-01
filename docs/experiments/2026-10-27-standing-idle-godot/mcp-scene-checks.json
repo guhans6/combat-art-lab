@@ -1,0 +1,36 @@
+{
+  "source": "Aseprite MCP save/close/reopen/read_pixels",
+  "scene_canvas": [
+    362,
+    272
+  ],
+  "frame_count": 8,
+  "durations_ms": [
+    700,
+    650,
+    50,
+    100,
+    70,
+    600,
+    500,
+    330
+  ],
+  "character_root": [
+    108,
+    48
+  ],
+  "per_frame_source_pixel_differences": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "scene_layers": 14,
+  "native_character_master_layers": 14,
+  "scene_character_layer": "composited runtime frames; semantic character master retained separately",
+  "passed": true
+}

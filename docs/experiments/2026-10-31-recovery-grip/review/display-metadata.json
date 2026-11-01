@@ -1,0 +1,18 @@
+{
+  "body_crop_native_xyxy": [
+    96,
+    0,
+    224,
+    192
+  ],
+  "focus_crop_native_xyxy": [
+    140,
+    60,
+    205,
+    130
+  ],
+  "focus_display_scale": 6,
+  "pose_display_scale": 3,
+  "source_rgba_pixels_modified": false,
+  "note": "Clean display derivatives only; packet contains exact-grid differences and hashes."
+}

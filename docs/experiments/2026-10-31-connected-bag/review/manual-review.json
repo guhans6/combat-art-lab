@@ -1,0 +1,26 @@
+{
+  "native_sha256": "3a628bd6960903db95e5908182ff1e62899e852a6cf284cb0be273be96650ec9",
+  "packet_sha256": "ef84a53bee51c24840528bf59119acf4e818560b94cd2590a2cad62a2ead8112",
+  "reviewers": [
+    "primary constructor/reviewer",
+    "fresh global_reviewer structural and final read-only review"
+  ],
+  "views": [
+    "three-poses.png",
+    "join-comparison.png",
+    "final-neighbors.png",
+    "final-owners-f8.png",
+    "final-owners-f9.png",
+    "final-owners-f10.png",
+    "final-guide-f8.png",
+    "final-guide-f9.png",
+    "final-guide-f10.png"
+  ],
+  "proportions": "continue: common bag body and sewn-root design through3angles; all character cels unchanged",
+  "attachments": "continue: near loops enter front fabric; rear roots hidden under rim; gathered bundle under existing hands; obsolete fork ends removed",
+  "continuity": "continue within F8-F10:43/17/10degree construction; F7/F11 context only, exact outer root correspondence not claimed",
+  "regressions": "none blocking observed; sparse fold detail preserves all cleared alpha geometry",
+  "selected": "connected-bag.aseprite, candidate for user review",
+  "user_approval": "pending",
+  "playback": "GIF pixels and timing verified, no continuous temporal perception or new Godot run"
+}

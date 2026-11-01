@@ -1,0 +1,167 @@
+{
+  "base": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/source/attack-repaired.aseprite",
+  "base_sha256": "5fb9a4f776ea46df1ee86c3eb5e10c8be32b094aa265004e908e832b7f4518ea",
+  "frames": {
+    "8": {
+      "grip": [
+        174,
+        94
+      ],
+      "angle": 43,
+      "crop": [
+        155,
+        73,
+        217,
+        145
+      ],
+      "sites": {
+        "grip": [
+          174,
+          94
+        ],
+        "far_left": [
+          180,
+          110
+        ],
+        "far_right": [
+          190,
+          101
+        ],
+        "near_left": [
+          183,
+          113
+        ],
+        "near_right": [
+          193,
+          104
+        ],
+        "bottom": [
+          203,
+          125
+        ]
+      },
+      "allowed_owners": [
+        "06-continuous-handle-tension",
+        "04-tote-and-handles",
+        "05-loaded-grip-drawing"
+      ]
+    },
+    "9": {
+      "grip": [
+        160,
+        79
+      ],
+      "angle": 17,
+      "crop": [
+        145,
+        67,
+        195,
+        133
+      ],
+      "sites": {
+        "grip": [
+          160,
+          79
+        ],
+        "far_left": [
+          158,
+          96
+        ],
+        "far_right": [
+          171,
+          92
+        ],
+        "near_left": [
+          159,
+          100
+        ],
+        "near_right": [
+          173,
+          96
+        ],
+        "bottom": [
+          172,
+          119
+        ]
+      },
+      "allowed_owners": [
+        "06-continuous-handle-tension",
+        "04-tote-and-handles",
+        "05-loaded-grip-drawing"
+      ]
+    },
+    "10": {
+      "grip": [
+        150,
+        70
+      ],
+      "angle": 10,
+      "crop": [
+        135,
+        60,
+        183,
+        124
+      ],
+      "sites": {
+        "grip": [
+          150,
+          70
+        ],
+        "far_left": [
+          146,
+          87
+        ],
+        "far_right": [
+          160,
+          85
+        ],
+        "near_left": [
+          147,
+          91
+        ],
+        "near_right": [
+          160,
+          88
+        ],
+        "bottom": [
+          157,
+          111
+        ]
+      },
+      "allowed_owners": [
+        "06-continuous-handle-tension",
+        "04-tote-and-handles",
+        "05-loaded-grip-drawing"
+      ]
+    }
+  },
+  "sites_local": {
+    "grip": [
+      0,
+      0
+    ],
+    "far_left": [
+      -7,
+      16
+    ],
+    "far_right": [
+      7,
+      16
+    ],
+    "near_left": [
+      -7,
+      20
+    ],
+    "near_right": [
+      7,
+      20
+    ],
+    "bottom": [
+      0,
+      42
+    ]
+  },
+  "body_construction_width": 24,
+  "body_construction_height": 26,
+  "note": "geometry is a proposed common cloth construction, not a physical simulation or art score"
+}

@@ -1,0 +1,86 @@
+{
+  "passed": true,
+  "failures": [],
+  "pass01_native": "docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/idle-candidate.aseprite",
+  "pass01_sha256": "a84f1336358155a22831ab539f24c3bf82ff1b190dfd6818eda0db0ea63e54e8",
+  "expected_pass01_sha256": "a84f1336358155a22831ab539f24c3bf82ff1b190dfd6818eda0db0ea63e54e8",
+  "corrected_native": "docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/idle-candidate-corrected.aseprite",
+  "corrected_sha256": "57d27225db3b800816bf8399fbd0443188cca4ed1fab41b641c2194de953bbe4",
+  "changed_cels": [
+    {
+      "frame": 4,
+      "layer": "03-shirt",
+      "pixels": [
+        [
+          60,
+          53
+        ],
+        [
+          61,
+          53
+        ],
+        [
+          60,
+          54
+        ],
+        [
+          61,
+          54
+        ]
+      ],
+      "before_rgba": [
+        [
+          253,
+          228,
+          204,
+          255
+        ],
+        [
+          253,
+          228,
+          204,
+          255
+        ],
+        [
+          214,
+          183,
+          187,
+          255
+        ],
+        [
+          214,
+          183,
+          187,
+          255
+        ]
+      ],
+      "after_rgba": [
+        [
+          214,
+          183,
+          187,
+          255
+        ],
+        [
+          214,
+          183,
+          187,
+          255
+        ],
+        [
+          253,
+          228,
+          204,
+          255
+        ],
+        [
+          253,
+          228,
+          204,
+          255
+        ]
+      ]
+    }
+  ],
+  "correction": "At inhale peak F4, lift the existing two-pixel rose-gray shirt crease by one pixel; reuse existing palette colors."
+}

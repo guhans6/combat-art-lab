@@ -1,0 +1,92 @@
+{
+  "cache_key": "685706ba8c60b1e15f47126ff98be675f978cf4d084c31ad4f4e1a70a3821ede",
+  "chunks": [
+    {
+      "end_seconds": 602.0,
+      "id": "chunk-001",
+      "index": 1,
+      "primary_end_seconds": 600.0,
+      "primary_start_seconds": 0.0,
+      "start_seconds": 0.0
+    },
+    {
+      "end_seconds": 1079.0,
+      "id": "chunk-002",
+      "index": 2,
+      "primary_end_seconds": 1077.0,
+      "primary_start_seconds": 600.0,
+      "start_seconds": 598.0
+    }
+  ],
+  "extraction_config": {
+    "allow_long": false,
+    "duration_seconds": 1077.0,
+    "max_frames": 60
+  },
+  "schema_version": "video-context.run.v1",
+  "source": {
+    "duration_seconds": 1077.0,
+    "kind": "generic_url",
+    "media_links": {
+      "default": "https://rr5---sn-cvhelnll.googlevideo.com/videoplayback?expire=1793385723&ei=m5DkapnmA7W73LUPh-DL0QE&ip=2a09%3Abac1%3A36e0%3A88%3A%3A1c6%3Af&id=o-ABppvxQU6EL4O1hWFtEwZ_QhZkek3-JQOM-EIM2ZHemJ&itag=137&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=242&met=1793364123%2C&mh=8I&mm=31%2C29&mn=sn-cvhelnll%2Csn-cvh7kn6z&ms=au%2Crdu&mv=m&mvi=5&pl=49&rms=au%2Cau&initcwndbps=1962375&bui=AZFAFb9GY19IIBnMZVWWHJFZ9EZhToKSjjNUjlnB7mjmihzLwZBkDTlZM652tZRrQ4yj80edy0ADcQZr&spc=mpRQ_2qlka-N9NcBPmF2wnnxfGEZkTqWz281_lnURQdW3rZS__9irJD_SKuZ&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=44430570&dur=1076.766&lmt=1726732582052401&mt=1793363618&fvip=3&epbp=1&keepalive=yes&fexp=51565115%2C52184237%2C52271469&c=VISIONOS&txp=5432434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AE0s2JYwRQIhAOkrp_3PPsOgZvBqHg-5PQUiWPJT5KZGcXBZ7RP6XMlyAiBFsCF-64v7b-z0ouEj7taEr9j2xMmfLYCzfKv7IMwtcw%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAOOD8Kko0ZJZLqOkYlY8HM8f-KoA9X5SLq_wMyhWUgruAiEAppEJwOGFjKsaSGp_xwPVvB4Avi4dgECmMyWoatjc5J4%3D"
+    },
+    "media_provenance": {
+      "cached_path": "output/2026-10-30-pixel-idle/.video-context-media-cache/c946289c8fc1ff74faf4fbc0206c58f2e1c9eebd37e18f595f5418e9b5e93a95.mp4",
+      "kind": "explicit_local_media_override",
+      "original_path": "/Users/guhan/Guhan/Projects/AgentWatch/output/2026-10-30-pixel-idle/media/complete-1080p-en.mp4",
+      "sha256": "c946289c8fc1ff74faf4fbc0206c58f2e1c9eebd37e18f595f5418e9b5e93a95",
+      "url_equivalence": "unverified"
+    },
+    "path": "output/2026-10-30-pixel-idle/.video-context-media-cache/c946289c8fc1ff74faf4fbc0206c58f2e1c9eebd37e18f595f5418e9b5e93a95.mp4",
+    "provider_metadata_sha256": "100616c7dd8d8b15299ad87bb8a99f82d953441589bab2b39205174e5ac9df8a",
+    "selected_transcript": {
+      "backend": "faster-whisper",
+      "candidate_count": 2,
+      "candidate_filename": "stt.faster-whisper.large-v3-turbo.en.jsonl",
+      "candidate_id": "stt-faster-whisper-large-v3-turbo-en",
+      "config": {
+        "backend": "faster-whisper",
+        "beam_size": 5,
+        "compute_type": "int8",
+        "condition_on_previous_text": false,
+        "device": "cpu",
+        "language": "en",
+        "model_name": "large-v3-turbo",
+        "vad_filter": true,
+        "word_timestamps": true
+      },
+      "duration_coverage_ratio": 1.0,
+      "language_detected": "en",
+      "language_probability": null,
+      "language_requested": "en",
+      "model": "large-v3-turbo",
+      "model_path": null,
+      "model_quantization": null,
+      "origin": "stt_fallback",
+      "quality_flags": [],
+      "quality_signals": {
+        "duration_coverage_ratio": 1.0,
+        "max_gap_seconds": 5.86,
+        "repetition_ratio": 0.04,
+        "segment_count": 172,
+        "words_per_minute": 161.77
+      },
+      "segment_count": 172,
+      "selected": true
+    },
+    "sha256": "c946289c8fc1ff74faf4fbc0206c58f2e1c9eebd37e18f595f5418e9b5e93a95",
+    "title": "Pixel Art Class - Simple Character Idle Animation",
+    "transcript_diagnostics": {
+      "automatic_caption_check": {
+        "caption_language": "en",
+        "similarity_ratio": 0.9616055846422339,
+        "status": "close_match"
+      }
+    },
+    "transcript_origin": "stt_fallback",
+    "url": "https://www.youtube.com/watch?v=vs-ierVdE7I",
+    "warning_codes": [
+      "TRANSCRIPT_SOURCE_AUTO_CAPTIONS_UNVERIFIED"
+    ]
+  }
+}

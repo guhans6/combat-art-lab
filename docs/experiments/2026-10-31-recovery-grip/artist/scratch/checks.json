@@ -1,0 +1,28 @@
+{
+  "asymmetric_pattern": "red triangle expands right/down at2,2; blue column9,4..5 greenpixel10,4",
+  "single_color_change_xy": [
+    10,
+    4
+  ],
+  "transparent_skip_preserved_xy": [
+    9,
+    4
+  ],
+  "erase_xy": [
+    9,
+    5
+  ],
+  "protected_layer_exact": true,
+  "save_reopen_export_exact": true,
+  "changed_pixels_total_after_separate_erase": [
+    [
+      10,
+      4
+    ],
+    [
+      9,
+      5
+    ]
+  ],
+  "controlled_out_of_mask_detection": true
+}

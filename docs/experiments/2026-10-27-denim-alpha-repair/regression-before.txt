@@ -1,0 +1,77 @@
+EEEEEEEE
+======================================================================
+ERROR: test_actual_cuff_fixture_fails (test_alpha_coverage.AlphaCoverageTests.test_actual_cuff_fixture_fails)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/guhan/Guhan/Projects/combat-art-lab/tools/pixel-art-director/tests/test_alpha_coverage.py", line 11, in test_actual_cuff_fixture_fails
+    report = pixel_checks.check_alpha_coverage(image)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'pixel_checks' has no attribute 'check_alpha_coverage'
+
+======================================================================
+ERROR: test_colored_background_cannot_hide_alpha_damage (test_alpha_coverage.AlphaCoverageTests.test_colored_background_cannot_hide_alpha_damage)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/guhan/Guhan/Projects/combat-art-lab/tools/pixel-art-director/tests/test_alpha_coverage.py", line 51, in test_colored_background_cannot_hide_alpha_damage
+    self.assertFalse(pixel_checks.check_alpha_coverage(image)["passed"])
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'pixel_checks' has no attribute 'check_alpha_coverage'
+
+======================================================================
+ERROR: test_exact_reviewed_hole_is_allowed (test_alpha_coverage.AlphaCoverageTests.test_exact_reviewed_hole_is_allowed)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/guhan/Guhan/Projects/combat-art-lab/tools/pixel-art-director/tests/test_alpha_coverage.py", line 27, in test_exact_reviewed_hole_is_allowed
+    self.assertTrue(pixel_checks.check_alpha_coverage(image, allowed_holes={(1, 1)})["passed"])
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'pixel_checks' has no attribute 'check_alpha_coverage'
+
+======================================================================
+ERROR: test_leg_gap_connected_to_exterior_is_allowed (test_alpha_coverage.AlphaCoverageTests.test_leg_gap_connected_to_exterior_is_allowed)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/guhan/Guhan/Projects/combat-art-lab/tools/pixel-art-director/tests/test_alpha_coverage.py", line 23, in test_leg_gap_connected_to_exterior_is_allowed
+    self.assertTrue(pixel_checks.check_alpha_coverage(image)["passed"])
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'pixel_checks' has no attribute 'check_alpha_coverage'
+
+======================================================================
+ERROR: test_region_and_mask_dimensions_are_validated (test_alpha_coverage.AlphaCoverageTests.test_region_and_mask_dimensions_are_validated)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/guhan/Guhan/Projects/combat-art-lab/tools/pixel-art-director/tests/test_alpha_coverage.py", line 43, in test_region_and_mask_dimensions_are_validated
+    with self.assertRaises(ValueError): pixel_checks.check_alpha_coverage(image, region=(0, 0, 5, 4))
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'pixel_checks' has no attribute 'check_alpha_coverage'
+
+======================================================================
+ERROR: test_repaired_fixture_passes (test_alpha_coverage.AlphaCoverageTests.test_repaired_fixture_passes)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/guhan/Guhan/Projects/combat-art-lab/tools/pixel-art-director/tests/test_alpha_coverage.py", line 18, in test_repaired_fixture_passes
+    self.assertTrue(pixel_checks.check_alpha_coverage(image)["passed"])
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'pixel_checks' has no attribute 'check_alpha_coverage'
+
+======================================================================
+ERROR: test_roi_does_not_turn_external_gap_into_hole (test_alpha_coverage.AlphaCoverageTests.test_roi_does_not_turn_external_gap_into_hole)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/guhan/Guhan/Projects/combat-art-lab/tools/pixel-art-director/tests/test_alpha_coverage.py", line 32, in test_roi_does_not_turn_external_gap_into_hole
+    self.assertTrue(pixel_checks.check_alpha_coverage(image, region=(1, 1, 6, 6))["passed"])
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'pixel_checks' has no attribute 'check_alpha_coverage'
+
+======================================================================
+ERROR: test_solid_mask_catches_open_edge_loss (test_alpha_coverage.AlphaCoverageTests.test_solid_mask_catches_open_edge_loss)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/guhan/Guhan/Projects/combat-art-lab/tools/pixel-art-director/tests/test_alpha_coverage.py", line 39, in test_solid_mask_catches_open_edge_loss
+    self.assertEqual(pixel_checks.check_alpha_coverage(image, solid_mask=mask)["missing_solid_pixels_xy"], [[0, 2]])
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'pixel_checks' has no attribute 'check_alpha_coverage'
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.008s
+
+FAILED (errors=8)

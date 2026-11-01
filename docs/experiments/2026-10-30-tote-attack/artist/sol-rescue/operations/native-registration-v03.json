@@ -1,0 +1,86 @@
+{
+  "baked_into_native": true,
+  "root_offsets_zero": true,
+  "per_frame_translation_xy": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      -2
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      18,
+      6
+    ],
+    [
+      18,
+      6
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "correction": {
+    "F7_F8_dx": 18,
+    "F9_F10_curl": {
+      "clear_xy": [
+        [
+          161,
+          0
+        ],
+        [
+          162,
+          0
+        ]
+      ],
+      "paint_xy_colors": [
+        [
+          161,
+          1,
+          "#532e26"
+        ],
+        [
+          162,
+          1,
+          "#45241c"
+        ]
+      ]
+    }
+  },
+  "foot_phase_note": "F6\u2013F8 share the same braking/front-sole point. Subsequent stance-reset keys use deliberate step/contact locations; continuous step naturalness awaits user playback."
+}

@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "references": [
+    {
+      "id": "replace-with-stable-id",
+      "path": null,
+      "sha256": null,
+      "role": "identity | style | pose | expression | production-simplicity | lighting | occlusion",
+      "parent_reference_ids": [],
+      "origin": "user-supplied | generated | processed",
+      "tool": null,
+      "model_if_observed": null,
+      "prompt_file": null,
+      "input_paths_and_hashes": [],
+      "requested_dimensions": null,
+      "actual_dimensions": null,
+      "transforms": [],
+      "review_status": "pending",
+      "review_observations": null,
+      "user_approval": null
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "layer": "Pass 01 \u2014 face and fringe",
+  "operation": {
+    "kind": "grid",
+    "x": 62,
+    "y": 20,
+    "rows": [
+      ".............",
+      ".B.......SD..",
+      "...D.........",
+      ".............",
+      ".............",
+      ".............",
+      ".............",
+      "......MM.....",
+      "....MM.......",
+      "............."
+    ],
+    "legend": {
+      "B": "#4c2a24",
+      "D": "#2d2427",
+      "S": "#fde4cd",
+      "M": "#774634"
+    },
+    "transparent": "skip"
+  },
+  "rationale": "At native size the near/far eye marks are weak and the approved shallow smile is lost. Add a near-eye upper edge and rightward pupil, a smaller far-eye highlight/pupil, and a restrained rising 4-pixel mouth curve using only existing source-palette colors.",
+  "points": [
+    {
+      "x": 63,
+      "y": 21,
+      "glyph": "B",
+      "color": "#4c2a24"
+    },
+    {
+      "x": 65,
+      "y": 22,
+      "glyph": "D",
+      "color": "#2d2427"
+    },
+    {
+      "x": 71,
+      "y": 21,
+      "glyph": "S",
+      "color": "#fde4cd"
+    },
+    {
+      "x": 72,
+      "y": 21,
+      "glyph": "D",
+      "color": "#2d2427"
+    },
+    {
+      "x": 68,
+      "y": 27,
+      "glyph": "M",
+      "color": "#774634"
+    },
+    {
+      "x": 69,
+      "y": 27,
+      "glyph": "M",
+      "color": "#774634"
+    },
+    {
+      "x": 66,
+      "y": 28,
+      "glyph": "M",
+      "color": "#774634"
+    },
+    {
+      "x": 67,
+      "y": 28,
+      "glyph": "M",
+      "color": "#774634"
+    }
+  ]
+}

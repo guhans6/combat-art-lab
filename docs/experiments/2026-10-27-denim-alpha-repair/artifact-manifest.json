@@ -1,0 +1,30 @@
+[
+  {
+    "path": "tools/pixel-art-director/SKILL.md",
+    "sha256": "404a89851f858c4c93c5a328ae578d329339f1a00f5a9237094a5f2ec39dbbcb"
+  },
+  {
+    "path": "tools/pixel-art-director/references/alpha-coverage.md",
+    "sha256": "66bafca8c7ebcf913ebc5eae581b50670548c8f65fe83a86c9ed52e1e698aa6c"
+  },
+  {
+    "path": "tools/pixel-art-director/scripts/pixel_checks.py",
+    "sha256": "948d0ef0b040ba16512fe3abcf05803abca6ac516e0a47f3c77874d8c1c65c00"
+  },
+  {
+    "path": "tools/pixel-art-director/tests/test_alpha_coverage.py",
+    "sha256": "06d94c11f0f1732791a4240bf701cc6f0eb7393e10e32abe1adabd61dbb83b77"
+  },
+  {
+    "path": "godot/standing-idle-lab/preview.gd",
+    "sha256": "0e5168996d741a2d1f71b5efed07f8269915073a742d7a1fcf24498ef311901f"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/part_sprite.gd",
+    "sha256": "9564ad11d71d935ba567b5b87ce0e962f455aaf600d632ab7c9a14624cdf3040"
+  },
+  {
+    "path": "assets/source/standing-alpha-v02/standing-idle.aseprite",
+    "sha256": "9bde6c25c51f3ba8555643b2b72de7175804645ead156ffcd17c77bee3b62801"
+  }
+]

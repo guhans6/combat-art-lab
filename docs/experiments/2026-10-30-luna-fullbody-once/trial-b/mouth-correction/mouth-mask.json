@@ -1,0 +1,21 @@
+{
+  "status": "frozen-before-draw",
+  "coordinate_system": "zero-based canvas pixels",
+  "rectangle_half_open": [68, 28, 71, 30],
+  "editable_pixels": [
+    [68, 28], [69, 28], [70, 28],
+    [68, 29], [69, 29], [70, 29]
+  ],
+  "native_owner_layer": "08-hair-tie-and-hair",
+  "owner_evidence": "Aseprite MCP read_pixels(composite=false): owner cel contains all six mask pixels; 07-face-and-neck is transparent there.",
+  "baseline_native_sha256": "dbdf2f693872d2b3c5f102cea01bc1e2441d2452d790770b7b68effd6c563348",
+  "baseline_png_sha256": "c162e373a9b0ed72e2e82f91a6fe6608952444ed3ef9151534fcd29843b65def",
+  "approved_closeup_sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7",
+  "approved_scene_sha256": "a274a80133371b61387848495bf0dd93546ba5daf0a60c051b27109237160eae",
+  "planned_operation": [
+    {"x": 68, "y": 29, "color": "#744c40"},
+    {"x": 69, "y": 28, "color": "#744c40"},
+    {"x": 70, "y": 28, "color": "#744c40"}
+  ],
+  "palette_policy": "Use existing palette color #744c40; palette lock remains enabled."
+}

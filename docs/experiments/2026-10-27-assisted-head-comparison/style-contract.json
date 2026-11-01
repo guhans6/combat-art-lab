@@ -1,0 +1,52 @@
+{
+  "identity": [
+    "rounded swept brown crown",
+    "asymmetric broken fringe",
+    "loosely tied rear clumps and pale tie",
+    "soft turned cheek/jaw",
+    "unequal near/far eyes with rightward gaze",
+    "olive hooded jacket, off-white shirt, cream tote strap"
+  ],
+  "static_expression": "restrained shallow smile",
+  "pose_expression": "blink may close lids; mouth and brows held",
+  "style": [
+    "warm material colors",
+    "selective dark contours",
+    "visible coherent shading clusters",
+    "secondary texture may simplify"
+  ],
+  "allowed_methods": [
+    "source-coordinate tracing",
+    "sampled colors",
+    "source-derived masks and pixels",
+    "conversion plus cleanup",
+    "hybrid"
+  ],
+  "scope": "head/shoulder crop; not full character",
+  "crop": [
+    380,
+    64,
+    860,
+    512
+  ],
+  "grid": [
+    120,
+    112
+  ],
+  "palette_policy": "48 source-derived opaque RGB entries plus transparent; same policy both arms; not a production color limit",
+  "display_assumptions": {
+    "native": "1x",
+    "projected_diagnostic": "2x",
+    "zoom": "4x nearest neighbor",
+    "gameplay": "unknown; no Godot run"
+  },
+  "pass_budget": {
+    "trace": 2,
+    "conversion": 2,
+    "supplementary_generation_calls": 1,
+    "motion": "one five-frame expression probe",
+    "hybrid_follow_up": "one selective source-mouth rollback after B02 regression"
+  },
+  "approval": "agent provisional recommendation only",
+  "chosen_candidate": "C01: B02 eye clarity plus B01 source-derived shallow mouth"
+}

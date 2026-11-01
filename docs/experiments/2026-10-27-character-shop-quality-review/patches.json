@@ -1,0 +1,46 @@
+{
+  "character": {
+    "source": "assets/source/standing-alpha-v02/standing-idle.aseprite",
+    "destination": "assets/source/standing-alpha-v03/standing-idle.aseprite",
+    "operation": "remove neck curl (33,38) from 01-denim on all frames; place #352221 on 10-rear-hair at (33,38) on rest/exhale and (33,37) on inhale"
+  },
+  "shop": {
+    "source": "assets/source/shop-modular-v01/shop.aseprite",
+    "destination": "assets/source/shop-modular-v02/shop.aseprite",
+    "layers": {
+      "00-wall-backing": {
+        "color": "#5a3423",
+        "rows": [
+          "AAAAAAA",
+          "....AAA"
+        ],
+        "origin": [
+          27,
+          18
+        ]
+      },
+      "05-blue-awning": {
+        "color": "#5a3423",
+        "rows": [
+          "AA"
+        ],
+        "origin": [
+          104,
+          39
+        ]
+      },
+      "09-small-planter": [
+        {
+          "x": 35,
+          "y": 228,
+          "color": "#4d3132"
+        },
+        {
+          "x": 35,
+          "y": 229,
+          "color": "#4e3b47"
+        }
+      ]
+    }
+  }
+}

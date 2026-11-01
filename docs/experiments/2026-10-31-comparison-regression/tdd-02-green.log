@@ -1,0 +1,34 @@
+test_freshness_checks_sources_spec_evidence_and_generated_sheets (test_comparison_review.ComparisonReviewTests.test_freshness_checks_sources_spec_evidence_and_generated_sheets) ... 
+  test_freshness_checks_sources_spec_evidence_and_generated_sheets (test_comparison_review.ComparisonReviewTests.test_freshness_checks_sources_spec_evidence_and_generated_sheets) (path=PosixPath('/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/tmpuv23uoch/after.png')) ... FAIL
+  test_freshness_checks_sources_spec_evidence_and_generated_sheets (test_comparison_review.ComparisonReviewTests.test_freshness_checks_sources_spec_evidence_and_generated_sheets) (path=PosixPath('/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/tmpuv23uoch/packet-spec.json')) ... FAIL
+  test_freshness_checks_sources_spec_evidence_and_generated_sheets (test_comparison_review.ComparisonReviewTests.test_freshness_checks_sources_spec_evidence_and_generated_sheets) (path=PosixPath('/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/tmpuv23uoch/native-proof.txt')) ... FAIL
+test_remote_edit_fails_scope_and_close_review_coverage (test_comparison_review.ComparisonReviewTests.test_remote_edit_fails_scope_and_close_review_coverage) ... ok
+
+======================================================================
+FAIL: test_freshness_checks_sources_spec_evidence_and_generated_sheets (test_comparison_review.ComparisonReviewTests.test_freshness_checks_sources_spec_evidence_and_generated_sheets) (path=PosixPath('/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/tmpuv23uoch/after.png'))
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/guhan/Guhan/Projects/combat-art-lab/tools/pixel-art-director/tests/test_comparison_review.py", line 61, in test_freshness_checks_sources_spec_evidence_and_generated_sheets
+    self.assertIn(str(path), [f['path'] for f in check['stale_files']])
+AssertionError: '/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/tmpuv23uoch/after.png' not found in ['/private/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/tmpuv23uoch/after.png']
+
+======================================================================
+FAIL: test_freshness_checks_sources_spec_evidence_and_generated_sheets (test_comparison_review.ComparisonReviewTests.test_freshness_checks_sources_spec_evidence_and_generated_sheets) (path=PosixPath('/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/tmpuv23uoch/packet-spec.json'))
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/guhan/Guhan/Projects/combat-art-lab/tools/pixel-art-director/tests/test_comparison_review.py", line 61, in test_freshness_checks_sources_spec_evidence_and_generated_sheets
+    self.assertIn(str(path), [f['path'] for f in check['stale_files']])
+AssertionError: '/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/tmpuv23uoch/packet-spec.json' not found in ['/private/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/tmpuv23uoch/packet-spec.json']
+
+======================================================================
+FAIL: test_freshness_checks_sources_spec_evidence_and_generated_sheets (test_comparison_review.ComparisonReviewTests.test_freshness_checks_sources_spec_evidence_and_generated_sheets) (path=PosixPath('/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/tmpuv23uoch/native-proof.txt'))
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/guhan/Guhan/Projects/combat-art-lab/tools/pixel-art-director/tests/test_comparison_review.py", line 61, in test_freshness_checks_sources_spec_evidence_and_generated_sheets
+    self.assertIn(str(path), [f['path'] for f in check['stale_files']])
+AssertionError: '/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/tmpuv23uoch/native-proof.txt' not found in ['/private/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/tmpuv23uoch/native-proof.txt']
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.015s
+
+FAILED (failures=3)

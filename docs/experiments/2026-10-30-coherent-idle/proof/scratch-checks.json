@@ -1,0 +1,17 @@
+{
+  "orientation": "warm L at 2,2; green pair at8,4; blue at9,5 and13,12",
+  "actual_edit_xy": [
+    [
+      9,
+      4
+    ],
+    [
+      9,
+      5
+    ]
+  ],
+  "skip_and_erase_exact": true,
+  "protected_native_layer_exact": true,
+  "fresh_reopen_export_exact": true,
+  "out_of_scope_mutation_rejected": true
+}

@@ -1,0 +1,38 @@
+{
+  "method": "source-assisted reconstruction seed",
+  "inputs": {
+    "source": "input/source-cutout.png",
+    "source_sha256": "12e971cc9e3cbfa7add2a17a62ff53d1f45b3c55197ce23c336a6447bed1f49e",
+    "scene_reference": "input/character-scene.png",
+    "scene_sha256": "a274a80133371b61387848495bf0dd93546ba5daf0a60c051b27109237160eae",
+    "closeup_reference": "input/character-closeup.png",
+    "closeup_sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7"
+  },
+  "canvas": [
+    128,
+    192
+  ],
+  "source_crop": [
+    0,
+    0,
+    1024,
+    1536
+  ],
+  "source_alpha_threshold": 32,
+  "resampling": "8:1 BOX in premultiplied-alpha space",
+  "native_alpha": "binary; area coverage >= 128",
+  "palette": {
+    "method": "Pillow MEDIANCUT",
+    "colors": 40,
+    "dither": "none"
+  },
+  "seed_path": "prep/seed-128x192.png",
+  "seed_sha256": "672cfa0a5672943174ac6c4047dea5765ec38a40b814daaa9aaafc606d18d742",
+  "visible_pixels": 7834,
+  "visible_bbox": [
+    32,
+    3,
+    104,
+    185
+  ]
+}

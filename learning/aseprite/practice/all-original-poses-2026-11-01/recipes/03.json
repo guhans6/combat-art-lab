@@ -1,0 +1,17 @@
+{
+  "source": "../inputs/03-strap-grip.png",
+  "mask": "../inputs/mask-03.png",
+  "scale": 0.17906066536203522,
+  "canvas": [
+    256,
+    208
+  ],
+  "source_anchor": [
+    704,
+    1034
+  ],
+  "target_anchor": [
+    124,
+    193
+  ]
+}

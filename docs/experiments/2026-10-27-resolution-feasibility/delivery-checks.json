@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-27",
+  "base_revision": "9e35c5c13987a153e942e6f93f49f247fad13c3a",
+  "branch": "main",
+  "changed_document_paths": [
+    "CONTEXT.md",
+    "docs/handoff.md",
+    "docs/workflow/art-production.md",
+    "docs/art/style-guide.md",
+    "docs/art/asset-contract.md",
+    "docs/research/aseprite-reconstruction-principles.md",
+    "docs/research/concept-to-native-pixel-art.md",
+    "tools/pixel-art-director/SKILL.md",
+    "tools/pixel-art-director/references/craft.md",
+    "tools/pixel-art-director/references/reconstruction.md"
+  ],
+  "local_links_and_anchors_checked": 152,
+  "missing_local_links": [],
+  "external_availability_report": "external-link-checks.json",
+  "preserved_preexisting_files": 350,
+  "utility_tests": {
+    "command": "bundled python3 -B -m unittest discover -s tools/pixel-art-director/tests -v",
+    "passed": 18
+  },
+  "new_python_scripts": {
+    "paths": [
+      "check.py",
+      "check-pass02.py",
+      "verify-evidence.py"
+    ],
+    "executed": true,
+    "ast_parse": "pass"
+  },
+  "native_evidence": {
+    "four_original_strict_checks": "expected rejection: palette/header change, raw report preserved",
+    "two_normalized_strict_checks": "pass with unchanged reader",
+    "pixel_reopen_and_duplicate_edit_checks": "pass",
+    "art_quality": "not established; resolution comparison inconclusive"
+  },
+  "skill_validation": {
+    "ruby_yaml_frontmatter": "pass",
+    "quick_validate_py": "unavailable: PyYAML absent; no dependencies installed",
+    "independent_forward_tests": "fresh reconstruction and protected correction; two ambiguities fixed; targeted recheck passed"
+  },
+  "git_diff_check": "pass",
+  "user_visual_approval": "unknown",
+  "godot_or_animation": "not performed",
+  "commit_push_publication": "not performed",
+  "new_tool_installation": "not performed",
+  "artistic_time_operation_totals_cost": "not measured"
+}

@@ -1,0 +1,25 @@
+{
+  "canvas": [
+    128,
+    192
+  ],
+  "baseline_visible_rgba": 7844,
+  "final_visible_rgba": 7844,
+  "changed_composite_pixels": 3,
+  "changed_outside_union_mask": 0,
+  "alpha_changed_pixels": 0,
+  "changed_coords": [
+    [
+      67,
+      28
+    ],
+    [
+      65,
+      29
+    ],
+    [
+      66,
+      29
+    ]
+  ]
+}

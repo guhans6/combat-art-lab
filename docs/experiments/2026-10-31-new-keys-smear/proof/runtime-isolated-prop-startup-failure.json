@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"output\": [\n    \"Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\",\n    \"\",\n    \"OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro\",\n    \"\",\n    \"\",\n    \"\",\n    \"\",\n    \"Debugger Break, Reason: 'Invalid call. Nonexistent function 'has_alpha' in base 'Image'.'\",\n    \"*Frame 0 - res://smear_comparison.gd:133 in function '_validate_prop_alpha'\",\n    \"Enter \\\"help\\\" for assistance.\",\n    \"debug> \"\n  ],\n  \"errors\": [\n    \"SCRIPT ERROR: Invalid call. Nonexistent function 'has_alpha' in base 'Image'.\",\n    \"          at: _validate_prop_alpha (res://smear_comparison.gd:133)\",\n    \"          GDScript backtrace (most recent call first):\",\n    \"              [0] _validate_prop_alpha (res://smear_comparison.gd:133)\",\n    \"              [1] _load_export_contract (res://smear_comparison.gd:99)\",\n    \"              [2] _ready (res://smear_comparison.gd:59)\",\n    \"\"\n  ]\n}"
+    }
+  ]
+}

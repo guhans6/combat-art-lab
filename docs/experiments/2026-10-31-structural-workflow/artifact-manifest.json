@@ -1,0 +1,23 @@
+{
+  "tools/pixel-art-director/SKILL.md": "ca30c31338d187cef1fb449e892c903a663780038b401f3e1bdedffc6f0e483a",
+  "tools/pixel-art-director/references/animation.md": "b7d2aaf6c41cf61f55f20e70f58331dfe365c54760ce75257c2cb1349d57eeb4",
+  "tools/pixel-art-director/references/comparison-review.md": "f8c90d1f89461acd7ac936cb49b1bf06d05103d483a02c5745c0aa1f85b48022",
+  "docs/workflow/art-production.md": "f6806eb636581b8d11d31c32a6906c95e9346fe4dca7783f3f41d611bbad464b",
+  "docs/experiments/experiment-template.md": "37d36332c0ccca3bcf373074d0e4689a96f04949587acd6d6ae40a3fc718924e",
+  "docs/art/motion-guide.md": "9146ea374ce28d8eda92124376a4c134c9beff985f19d89324e56aa9c81fecb7",
+  "docs/handoff.md": "b622c3a209647141a342e63d6071ea1bcdd6de23cfbe05ab3c3a0288cad68c91",
+  "tools/pixel-art-director/references/structure.md": "892a65017ccdc5fb70677dfdf31bc9288fef04bf39807938c8cdeb8b0df7e035",
+  "docs/adr/0002-structural-animation-checkpoints.md": "40a43d4846be3091c7f5a4d139972cdfb928e35fc463317e526cfc7c402eaef9",
+  "docs/experiments/2026-10-31-structural-workflow/evidence.json": "022211f69b69a8ee30b562408e0e5861393c8ec8487e7196d749b951cc4772a8",
+  "docs/experiments/2026-10-31-structural-workflow/record.md": "c0aa5dfe8ae4003b9cc24188b191f7dbe79dc69061f68b91840605a7056dc45c",
+  "docs/experiments/2026-10-31-structural-workflow/protected-inputs.json": "37899372005b810843eaa9c66ad8f4d0aa004d265d8c536901051cd21cd50ea7",
+  "docs/experiments/2026-10-31-structural-workflow/workflow.patch": "76d1832ad6d8dddacf4f2e4865722a8deb81cc1722fa34d4db39ea9fef292fb9",
+  "docs/experiments/2026-10-31-structural-workflow/maintained-files.json": "b4ea0d0b17c8adef7443008ad8a07c5bb3b5b02dd7dda284db7a94a648cb2ed9",
+  "docs/experiments/2026-10-31-structural-workflow/exercise.py": "f20e711c0c627da2227a833d10d3fed65bb1c521605e8c530a191f36f5e021f9",
+  "docs/experiments/2026-10-31-structural-workflow/scenarios.md": "abdd2bad3c40a15469b0dd4b341566c407c532f3c9ae8194a68d1faa67307da7",
+  "docs/experiments/2026-10-31-structural-workflow/proportion-case.png": "76063d5161d93b4160efb4399e5a068984f1ed05aafa02ea685a405cfabb2340",
+  "docs/experiments/2026-10-31-structural-workflow/verification.json": "29ab3f317cb0cb80aa7f18c12895447473bdcc4d9a73bc1723173da182c57e7e",
+  "docs/experiments/2026-10-31-structural-workflow/retrospective-record.md": "28ee715346b2c728e297ee665a5d7f3346a04d5ee7ab3ccee4970f85c177ca9d",
+  "docs/experiments/2026-10-31-structural-workflow/request.md": "cd2c7ffe28a347e9074bc60c57ea94955a6422269675ae9cbc9b9c816eada5c6",
+  "docs/experiments/2026-10-31-structural-workflow/review.md": "997133ff4cc3544fe231fb5d499c4bcd9bb5adf4f0403adba49fbdf2acc79d5c"
+}

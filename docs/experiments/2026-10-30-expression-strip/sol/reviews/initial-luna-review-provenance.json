@@ -1,0 +1,45 @@
+{
+  "reference": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/references/approved-2026-10-26/character-closeup.png",
+  "reference_sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7",
+  "reference_crop": [
+    520,
+    170,
+    820,
+    470
+  ],
+  "reference_preview": [
+    30,
+    30
+  ],
+  "reference_preview_filter": "Lanczos for diagnostic only",
+  "sprite_head_crop": [
+    50,
+    10,
+    80,
+    40
+  ],
+  "sprite_scale": "integer nearest-neighbor only",
+  "approximate_registration": "near eye ref(655,289)->native(63.5,21.9), far eye(720,278)->(70,20.8), mouth(690,342)->(67,27.2), chin y374->30.4. Residual pose and geometry differences remain.",
+  "panels": [
+    {
+      "label": "Original baseline",
+      "actual_export": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-luna-fullbody-once/trial-b/passes/luna6-fullbody-cleanup.png",
+      "sha256": "c162e373a9b0ed72e2e82f91a6fe6608952444ed3ef9151534fcd29843b65def"
+    },
+    {
+      "label": "Neutral",
+      "actual_export": "docs/experiments/2026-10-30-expression-strip/luna/passes/luna6-neutral.png",
+      "sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad"
+    },
+    {
+      "label": "Subtle smile",
+      "actual_export": "docs/experiments/2026-10-30-expression-strip/luna/passes/luna6-subtle-smile.png",
+      "sha256": "4a89a227014f3d450d3de24d8b22ec15cb8fa7e2322a2117fbd74ecf0df2599f"
+    },
+    {
+      "label": "Surprise",
+      "actual_export": "docs/experiments/2026-10-30-expression-strip/luna/passes/luna6-surprise.png",
+      "sha256": "82fd8efffe3b0c3a5df0e9b215711ecc532d360e610312c03a547eb5566e4af1"
+    }
+  ]
+}

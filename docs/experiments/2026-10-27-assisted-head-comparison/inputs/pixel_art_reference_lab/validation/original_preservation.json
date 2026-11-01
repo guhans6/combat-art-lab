@@ -1,0 +1,20 @@
+[
+  {
+    "packaged_path": "references/approved_concept_upload.png",
+    "source_sha256": "f519d27fcc9ce82499749ed6a86490463d5ed5d72d64f11c95051a71221ac9ed",
+    "packaged_sha256": "f519d27fcc9ce82499749ed6a86490463d5ed5d72d64f11c95051a71221ac9ed",
+    "exact_bytes_preserved": true
+  },
+  {
+    "packaged_path": "references/supplied_sprite.png",
+    "source_sha256": "271f0b64ec8344ba66be907ba5f1513a6c82558b5cec0e9aeeea39e39e1a6c3e",
+    "packaged_sha256": "271f0b64ec8344ba66be907ba5f1513a6c82558b5cec0e9aeeea39e39e1a6c3e",
+    "exact_bytes_preserved": true
+  },
+  {
+    "packaged_path": "references/supplied_head_comparison.png",
+    "source_sha256": "96e4f2f6fa080d97c816b12237dd950878552f0746670d4337b167c7b796ee2e",
+    "packaged_sha256": "96e4f2f6fa080d97c816b12237dd950878552f0746670d4337b167c7b796ee2e",
+    "exact_bytes_preserved": true
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "source_file": "image.png",
+  "source_dimensions": [
+    1448,
+    1086
+  ],
+  "source_sha256": "f519d27fcc9ce82499749ed6a86490463d5ed5d72d64f11c95051a71221ac9ed",
+  "crop_xyxy": [
+    380,
+    100,
+    800,
+    415
+  ],
+  "crop_dimensions": [
+    420,
+    315
+  ],
+  "palette": "32-color median-cut palette derived once from the fixed crop",
+  "dithering": "none",
+  "resolution_study": "BOX reduction, then mapping to the shared palette",
+  "native_crop_sizes": [
+    [
+      56,
+      42
+    ],
+    [
+      84,
+      63
+    ],
+    [
+      112,
+      84
+    ]
+  ],
+  "limitations": [
+    "No foreground/background segmentation or native Aseprite source.",
+    "No tracing, manual pixel cleanup, or generated artwork.",
+    "Not a controlled comparison against existing sprites with different proportions.",
+    "No full-character scale equivalence, animation test, or Godot validation.",
+    "The 32-color choice is illustrative, not an approved production constraint."
+  ]
+}

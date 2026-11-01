@@ -1,0 +1,106 @@
+{
+  "baseline_role": "rejected diagnostic full-attack-repair, not artistically approved",
+  "registration": "same320x192 native canvas; unchanged body cels/root, no image fitting",
+  "required_frame_ids": [
+    "F8",
+    "F9",
+    "F10"
+  ],
+  "allow_new_colors": true,
+  "zoom": 5,
+  "evidence": [
+    {
+      "role": "candidate native",
+      "path": "source/connected-bag.aseprite"
+    },
+    {
+      "role": "frozen scope and object sites",
+      "path": "scope.json"
+    },
+    {
+      "role": "all-frame native scope proof",
+      "path": "review/final-checks.json"
+    },
+    {
+      "role": "neighbor poses F7-F11",
+      "path": "review/final-neighbors.png"
+    },
+    {
+      "role": "F8 actual owner/hide evidence",
+      "path": "review/final-owners-f8.png"
+    },
+    {
+      "role": "F8 site guide",
+      "path": "review/final-guide-f8.png"
+    },
+    {
+      "role": "F9 actual owner/hide evidence",
+      "path": "review/final-owners-f9.png"
+    },
+    {
+      "role": "F9 site guide",
+      "path": "review/final-guide-f9.png"
+    },
+    {
+      "role": "F10 actual owner/hide evidence",
+      "path": "review/final-owners-f10.png"
+    },
+    {
+      "role": "F10 site guide",
+      "path": "review/final-guide-f10.png"
+    }
+  ],
+  "frames": [
+    {
+      "id": "F8",
+      "before": "../2026-10-31-full-attack-repair/frames/candidate-7.png",
+      "after": "frames/candidate-7.png",
+      "mask": "review/allowed-f8.png",
+      "regions": [
+        {
+          "name": "whole connected grip-straps-rim-body",
+          "crop": [
+            155,
+            73,
+            221,
+            145
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F9",
+      "before": "../2026-10-31-full-attack-repair/frames/candidate-8.png",
+      "after": "frames/candidate-8.png",
+      "mask": "review/allowed-f9.png",
+      "regions": [
+        {
+          "name": "whole connected grip-straps-rim-body",
+          "crop": [
+            145,
+            67,
+            195,
+            133
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F10",
+      "before": "../2026-10-31-full-attack-repair/frames/candidate-9.png",
+      "after": "frames/candidate-9.png",
+      "mask": "review/allowed-f10.png",
+      "regions": [
+        {
+          "name": "whole connected grip-straps-rim-body",
+          "crop": [
+            135,
+            60,
+            183,
+            124
+          ]
+        }
+      ]
+    }
+  ]
+}

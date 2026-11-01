@@ -1,0 +1,12 @@
+{
+  "kit_source": "/Users/guhan/Downloads/Zen/pixel-art-agent-kit.zip",
+  "kit_sha256": "02776a674e43835e31c1a7938eea7b78af17216af2faa5c7a259d09c8b958760",
+  "extraction": "/private/tmp/pixel-art-pilot-kit/pixel-art-agent-kit; no pre-extracted directory located in searched paths",
+  "canonical_skill": "tools/pixel-art-director",
+  "discovery_link": ".agents/skills/pixel-art-director -> ../../tools/pixel-art-director",
+  "skill_tree_sha256": "4d47c45d2135a30281de78526e5ed3ec457c728fcd7dbcdced67f8c936dc9fd1",
+  "backend_archive_sha256": "d5fee2208952d8b06e3e3c5ffb1ee81525e075869f969da5b8db286b4e15808c",
+  "npm_integrity_verified": true,
+  "reviewed_source": "npm package contents + INSTALL.md and SECURITY.md at recorded commit; entrypoint, installer, headless transport, schemas, fix workflow, MIT license and dependencies inspected",
+  "raw_lua_enabled": false
+}

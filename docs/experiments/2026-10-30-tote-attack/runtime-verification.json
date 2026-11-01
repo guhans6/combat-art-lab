@@ -1,0 +1,263 @@
+{
+  "passed": true,
+  "engine": "4.7.2-stable (official)",
+  "tolerance_ms": 50,
+  "timing": [
+    {
+      "run": 1,
+      "observed_duration_ms": 1673,
+      "authored_duration_ms": 1680,
+      "frame_clock_deviations": [
+        {
+          "frame": 1,
+          "deviation_ms": 0
+        },
+        {
+          "frame": 2,
+          "deviation_ms": 0
+        },
+        {
+          "frame": 3,
+          "deviation_ms": -14
+        },
+        {
+          "frame": 4,
+          "deviation_ms": -4
+        },
+        {
+          "frame": 5,
+          "deviation_ms": -11
+        },
+        {
+          "frame": 6,
+          "deviation_ms": -6
+        },
+        {
+          "frame": 7,
+          "deviation_ms": 1
+        },
+        {
+          "frame": 8,
+          "deviation_ms": -9
+        },
+        {
+          "frame": 9,
+          "deviation_ms": -19
+        },
+        {
+          "frame": 10,
+          "deviation_ms": -13
+        },
+        {
+          "frame": 11,
+          "deviation_ms": -18
+        },
+        {
+          "frame": 12,
+          "deviation_ms": -11
+        },
+        {
+          "frame": 13,
+          "deviation_ms": -12
+        }
+      ],
+      "hit_frame": 6,
+      "hit_elapsed_ms": 584
+    },
+    {
+      "run": 2,
+      "observed_duration_ms": 1667,
+      "authored_duration_ms": 1680,
+      "frame_clock_deviations": [
+        {
+          "frame": 1,
+          "deviation_ms": 0
+        },
+        {
+          "frame": 2,
+          "deviation_ms": -2
+        },
+        {
+          "frame": 3,
+          "deviation_ms": -12
+        },
+        {
+          "frame": 4,
+          "deviation_ms": -10
+        },
+        {
+          "frame": 5,
+          "deviation_ms": -12
+        },
+        {
+          "frame": 6,
+          "deviation_ms": -13
+        },
+        {
+          "frame": 7,
+          "deviation_ms": -8
+        },
+        {
+          "frame": 8,
+          "deviation_ms": -7
+        },
+        {
+          "frame": 9,
+          "deviation_ms": -17
+        },
+        {
+          "frame": 10,
+          "deviation_ms": -15
+        },
+        {
+          "frame": 11,
+          "deviation_ms": -10
+        },
+        {
+          "frame": 12,
+          "deviation_ms": -9
+        },
+        {
+          "frame": 13,
+          "deviation_ms": -15
+        }
+      ],
+      "hit_frame": 6,
+      "hit_elapsed_ms": 577
+    },
+    {
+      "run": 3,
+      "observed_duration_ms": 1666,
+      "authored_duration_ms": 1680,
+      "frame_clock_deviations": [
+        {
+          "frame": 1,
+          "deviation_ms": 0
+        },
+        {
+          "frame": 2,
+          "deviation_ms": -2
+        },
+        {
+          "frame": 3,
+          "deviation_ms": -12
+        },
+        {
+          "frame": 4,
+          "deviation_ms": -14
+        },
+        {
+          "frame": 5,
+          "deviation_ms": -12
+        },
+        {
+          "frame": 6,
+          "deviation_ms": -7
+        },
+        {
+          "frame": 7,
+          "deviation_ms": -8
+        },
+        {
+          "frame": 8,
+          "deviation_ms": -12
+        },
+        {
+          "frame": 9,
+          "deviation_ms": -14
+        },
+        {
+          "frame": 10,
+          "deviation_ms": -19
+        },
+        {
+          "frame": 11,
+          "deviation_ms": -13
+        },
+        {
+          "frame": 12,
+          "deviation_ms": -20
+        },
+        {
+          "frame": 13,
+          "deviation_ms": -10
+        }
+      ],
+      "hit_frame": 6,
+      "hit_elapsed_ms": 583
+    }
+  ],
+  "rendered_frames": [
+    {
+      "frame": 1,
+      "rendered_opaque_pixels_equal_source": true,
+      "mode": "live playback capture"
+    },
+    {
+      "frame": 2,
+      "rendered_opaque_pixels_equal_source": true,
+      "mode": "live playback capture"
+    },
+    {
+      "frame": 3,
+      "rendered_opaque_pixels_equal_source": true,
+      "mode": "live playback capture"
+    },
+    {
+      "frame": 4,
+      "rendered_opaque_pixels_equal_source": true,
+      "mode": "live playback capture"
+    },
+    {
+      "frame": 5,
+      "rendered_opaque_pixels_equal_source": true,
+      "mode": "live playback capture"
+    },
+    {
+      "frame": 6,
+      "rendered_opaque_pixels_equal_source": true,
+      "mode": "live playback capture"
+    },
+    {
+      "frame": 7,
+      "rendered_opaque_pixels_equal_source": true,
+      "mode": "live playback capture"
+    },
+    {
+      "frame": 8,
+      "rendered_opaque_pixels_equal_source": true,
+      "mode": "live playback capture"
+    },
+    {
+      "frame": 9,
+      "rendered_opaque_pixels_equal_source": true,
+      "mode": "live playback capture"
+    },
+    {
+      "frame": 10,
+      "rendered_opaque_pixels_equal_source": true,
+      "mode": "live playback capture"
+    },
+    {
+      "frame": 11,
+      "rendered_opaque_pixels_equal_source": true,
+      "mode": "live playback capture"
+    },
+    {
+      "frame": 12,
+      "rendered_opaque_pixels_equal_source": true,
+      "mode": "live playback capture"
+    },
+    {
+      "frame": 13,
+      "rendered_opaque_pixels_equal_source": true,
+      "mode": "live playback capture"
+    }
+  ],
+  "live_frame_capture_count": 13,
+  "paused_inspection_count": 0,
+  "three_idle_returns_pixel_exact": true,
+  "physical_keyboard_tested": false,
+  "synthetic_space_route_tested": true,
+  "limits": "Observed one-shot/synthetic input/declared-hitbox/return and pixel-timing proof. Not continuous agent temporal perception, cloth physics, final combat balance or user artistic approval."
+}

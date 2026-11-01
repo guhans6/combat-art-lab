@@ -1,0 +1,192 @@
+{
+  "native": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-coherent-idle/source/coherent-idle-v02.aseprite",
+  "native_sha256": "b5051489af54beef68b9dd4176d1cddb4fc990dfed4054de278416f06f0e6b40",
+  "canvas": [
+    128,
+    192
+  ],
+  "frames": 8,
+  "durations_ms": [
+    1100,
+    180,
+    120,
+    360,
+    220,
+    160,
+    240,
+    1000
+  ],
+  "cycle_ms": 3380,
+  "all_native_targets_and_fresh_exports_exact": true,
+  "native_original_layer_metadata_and_palette_exact": true,
+  "protected_layers": [
+    "guide-source-seed (hidden)",
+    "00-shoes",
+    "01-denim",
+    "04-tote",
+    "06a-left-hand",
+    "06b-right-hand"
+  ],
+  "lower_body_y90_plus_exact": true,
+  "loop_seam_exact_rest": true,
+  "primary_phase_audit": [
+    {
+      "artifact": "original",
+      "primary_pose_mismatch_frames_1based": [
+        3,
+        6
+      ]
+    },
+    {
+      "artifact": "candidate",
+      "primary_pose_mismatch_frames_1based": []
+    }
+  ],
+  "alpha": {
+    "passed": true,
+    "frames": [
+      {
+        "frame_1based": 1,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 2,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 3,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 4,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 5,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 6,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 7,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 8,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      }
+    ],
+    "inherited_body_holes_xy": [
+      [
+        63,
+        116
+      ]
+    ],
+    "limits": "Enclosed body-hole/binary-alpha check only; moving silhouette and intentional head/hair gaps need scoped review."
+  },
+  "gifs": {
+    "1": {
+      "sha256": "08ef7e7bcdcb3c2354e997565c7a9c09542ca52eaf96ade07f9cbee7f25504cb",
+      "encoded_frames": 5,
+      "durations_ms": [
+        1100,
+        180,
+        700,
+        160,
+        1240
+      ],
+      "cycle_ms": 3380,
+      "loop": 0,
+      "matte_rgb": [
+        52,
+        54,
+        58
+      ],
+      "timeline_equals_native": true
+    },
+    "3": {
+      "sha256": "b2cae34f203b663650db8ff3b02f637939fb75bba3cbc119f8d84d7afb8c25d9",
+      "encoded_frames": 5,
+      "durations_ms": [
+        1100,
+        180,
+        700,
+        160,
+        1240
+      ],
+      "cycle_ms": 3380,
+      "loop": 0,
+      "matte_rgb": [
+        52,
+        54,
+        58
+      ],
+      "timeline_equals_native": true
+    }
+  },
+  "localized_v01_v02_edit": [
+    [],
+    [],
+    [
+      {
+        "layer": 5,
+        "points": [
+          [
+            60,
+            55
+          ],
+          [
+            61,
+            55
+          ]
+        ]
+      }
+    ],
+    [
+      {
+        "layer": 5,
+        "points": [
+          [
+            60,
+            55
+          ],
+          [
+            61,
+            55
+          ]
+        ]
+      }
+    ],
+    [
+      {
+        "layer": 5,
+        "points": [
+          [
+            60,
+            55
+          ],
+          [
+            61,
+            55
+          ]
+        ]
+      }
+    ],
+    [],
+    [],
+    []
+  ],
+  "artistic_approval": "pending user",
+  "temporal_perception": "not established by decoded frames",
+  "godot": "separate runtime report"
+}

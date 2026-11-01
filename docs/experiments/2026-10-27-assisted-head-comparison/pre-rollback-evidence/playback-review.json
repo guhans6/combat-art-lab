@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-27",
+  "target": "Codex in-app browser; localhost playback.html",
+  "source": "five actual Aseprite-exported PNGs",
+  "observed": "native-timing loop progressed through all 5 displayed frames; saved AX log shows cycles and timestamps; paused half/closed poses inspected at native 1x and integer 2x",
+  "evidence": [
+    "playback-observed.txt",
+    "playback-playing.png",
+    "playback-half.png",
+    "playback-closed.png"
+  ],
+  "visual_findings": [
+    "Blink closure/reopening reads as one expression change",
+    "No head/clothing/tie scale or position change",
+    "Closed lids fairly straight; half pose sleepy in isolation",
+    "Fine hair remains dense; not a broader motion-quality proof"
+  ],
+  "godot": "not run",
+  "combat": "not tested",
+  "user_approval": "pending"
+}

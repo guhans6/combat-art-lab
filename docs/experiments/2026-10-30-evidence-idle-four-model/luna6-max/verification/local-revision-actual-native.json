@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "failures": [],
+  "baseline_native": "docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/idle-candidate-corrected.aseprite",
+  "baseline_sha256": "57d27225db3b800816bf8399fbd0443188cca4ed1fab41b641c2194de953bbe4",
+  "expected_baseline_sha256": "57d27225db3b800816bf8399fbd0443188cca4ed1fab41b641c2194de953bbe4",
+  "revision_native": "docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/verification/actual-native-revision/idle-revision-copy.aseprite",
+  "revision_sha256": "04f9e8a77803469d450c4c29af2f457f4a3a68c08cf1b8669a3e022ab1d375b2",
+  "fresh_png": "docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/verification/actual-native-revision/revision-fresh-reopen.png",
+  "fresh_png_sha256": "427813069ac155a73d5c16ac1c76b50f993d10760d711070d13ae5e1e65f74a2",
+  "baseline_png_sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+  "declared_edit": {
+    "frame": 4,
+    "layer": "03-shirt",
+    "pixel": [
+      60,
+      53
+    ]
+  },
+  "changed_cels": [
+    {
+      "frame": 4,
+      "layer": "03-shirt",
+      "pixels": [
+        [
+          60,
+          53
+        ]
+      ]
+    }
+  ],
+  "fresh_reopen_export_matches_revision_composite": true,
+  "scope": "MCP-saved duplicate-only local revision proof; delivered native remains unchanged"
+}

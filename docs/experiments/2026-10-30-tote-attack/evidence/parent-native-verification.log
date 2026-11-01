@@ -1,0 +1,89 @@
+{
+  "passed": true,
+  "native": "artist/sol-rescue/source/tote-attack-v03.aseprite",
+  "native_sha256": "1f6d68c6927bbcc594be9913156f74a6b0939aa373a9be9971dcd5be8ab52065",
+  "canvas": [
+    320,
+    192
+  ],
+  "frame_count": 13,
+  "durations_ms": [
+    60,
+    110,
+    140,
+    210,
+    70,
+    60,
+    90,
+    110,
+    140,
+    170,
+    140,
+    160,
+    220
+  ],
+  "cycle_ms": 1680,
+  "active_frames_1based": [
+    6
+  ],
+  "all_native_exports_and_fresh_reopen_exact": true,
+  "rest_return_exact_existing_neutral": true,
+  "shared_native_palette_and_binary_alpha": true,
+  "gifs": {
+    "gif_1x": {
+      "sha256": "e34f784c625a3718292366477cf11d5165d838f1a84a1ca91da9343487f5ed15",
+      "encoded_frames": 13,
+      "durations_ms": [
+        60,
+        110,
+        140,
+        210,
+        70,
+        60,
+        90,
+        110,
+        140,
+        170,
+        140,
+        160,
+        220
+      ],
+      "cycle_ms": 1680,
+      "loop": 0,
+      "matte_rgb": [
+        0,
+        0,
+        0
+      ],
+      "timeline_equals_native": true
+    },
+    "gif_3x": {
+      "sha256": "58ac65a78a60505dbb3bcf8790a4dd53c1aaed4a4ce7d2b46036c7cd2cce41fc",
+      "encoded_frames": 13,
+      "durations_ms": [
+        60,
+        110,
+        140,
+        210,
+        70,
+        60,
+        90,
+        110,
+        140,
+        170,
+        140,
+        160,
+        220
+      ],
+      "cycle_ms": 1680,
+      "loop": 0,
+      "matte_rgb": [
+        0,
+        0,
+        0
+      ],
+      "timeline_equals_native": true
+    }
+  },
+  "limits": "Geometry/palette/timeline/source proof only. Coverage holes are diagnostic pending reviewed handle/limb/hair openings; movement quality requires visual/user review."
+}

@@ -1,0 +1,130 @@
+{
+  "base": "../2026-10-30-tote-attack/artist/sol-rescue/source/tote-attack-v03.aseprite",
+  "base_sha256": "1f6d68c6927bbcc594be9913156f74a6b0939aa373a9be9971dcd5be8ab52065",
+  "target_sha256": "5fb9a4f776ea46df1ee86c3eb5e10c8be32b094aa265004e908e832b7f4518ea",
+  "backend": "Pebbly0.8.2/headless Aseprite1.3.18.6-dev",
+  "native_mutation": "dedicated Aseprite MCP only",
+  "batches": [
+    {
+      "path": "operations/pass03-f02.json",
+      "sha256": "62ea9bd0f253bb30cf9b45d6c114bcd28a47a6f4d4323d17b3d01668e304b4fa",
+      "calls": 7
+    },
+    {
+      "path": "operations/pass03-f03.json",
+      "sha256": "2241f0c58f274cc81b07010a51be489ac78804b802dad38292a0ad368c2903b8",
+      "calls": 7
+    },
+    {
+      "path": "operations/pass03-f04.json",
+      "sha256": "a4e4d15de73ab50e9423f744c58022f8b14bec2fd1fad371ab41528fa42e2d3b",
+      "calls": 7
+    },
+    {
+      "path": "operations/pass03-f05.json",
+      "sha256": "a12f7918b4cbe7c40334991b4cf9f189229ce76327f0ff5de7c534b8253822ca",
+      "calls": 7
+    },
+    {
+      "path": "operations/pass03-f06.json",
+      "sha256": "61b254f76e195948333af10e4e44dc87764fefd94869603a74fbca466ed869e1",
+      "calls": 7
+    },
+    {
+      "path": "operations/pass03-f07.json",
+      "sha256": "e4fd8d262638c7859232c4d05d9aee1f790184929587c9d26dbaa8535b9ebf9c",
+      "calls": 7
+    },
+    {
+      "path": "operations/pass03-f08.json",
+      "sha256": "037c2d12b2cb82601af59c4bac72cf3d25a42efa99499519ce98679aebac28ee",
+      "calls": 7
+    },
+    {
+      "path": "operations/pass03-f09.json",
+      "sha256": "5f238570b89eff7537964587b57c6591e22dced615c4b35a71ee4fbb425db532",
+      "calls": 7
+    },
+    {
+      "path": "operations/pass03-f10.json",
+      "sha256": "1d6512880be40b207166b1d8d8b4b70635d31ab40bf0978a84dd31e51e425009",
+      "calls": 7
+    },
+    {
+      "path": "operations/pass03-f11.json",
+      "sha256": "75b1434001a6f5ac32daf86828b5997864807afa292aed435454fde0c64b3a36",
+      "calls": 7
+    },
+    {
+      "path": "operations/pass03-f12.json",
+      "sha256": "0d838339be442e328411e3a1fe7b884f3cf392c490914be033de3ec2d9598595",
+      "calls": 7
+    },
+    {
+      "path": "operations/finish-f02.json",
+      "sha256": "efbfdd73507d1672c9f5a27418e801226111c577b5c9fd84aa650fce9c054f75",
+      "calls": 3
+    },
+    {
+      "path": "operations/finish-f08.json",
+      "sha256": "6c942ca76766abd178906122b3c9e86cc1ca394627f452073cf508ebd2032a97",
+      "calls": 3
+    },
+    {
+      "path": "operations/finish-f09.json",
+      "sha256": "83fa8fbd9cb2ef4b05ba282e1089244d4f87a297a96abf9ff0bc31e184bc2d63",
+      "calls": 3
+    },
+    {
+      "path": "operations/finish-f10.json",
+      "sha256": "73397f9a612d353ef256ca23b8990572c319c7e8b47f55af58c202192ef4346c",
+      "calls": 3
+    },
+    {
+      "path": "operations/finish-f12.json",
+      "sha256": "2370fadb12cdb1345a1ffc28518ba291a28bc96d3b8d75e20be06eb2fef91412",
+      "calls": 3
+    },
+    {
+      "path": "operations/connections.json",
+      "sha256": "d665773c26f34f08cb50810de5a7b82e80b73b0bbc9cc13f00a0ca06286b77c6",
+      "calls": 5
+    },
+    {
+      "path": "operations/remnant-cleanup.json",
+      "sha256": "5d37f20b82315605a5fec0832a9326108d4ea3f26550820713d3fb9e0ade0d9e",
+      "calls": 5
+    },
+    {
+      "path": "operations/arrest-grip-clarity.json",
+      "sha256": "b3541a0b878d0694dd6f700265954020f5948b1d3fe4b3416b8f20823cacaffb",
+      "calls": 2
+    },
+    {
+      "path": "operations/coverage-repair.json",
+      "sha256": "60bdff0b65bec30101f186ebe9514fe3702bf480dc7ef2957713b2045509acf9",
+      "calls": 6
+    }
+  ],
+  "after_finish_f12": {
+    "tool": "layer",
+    "args": {
+      "op": "reorder",
+      "name": "06-continuous-handle-tension",
+      "index": 5
+    }
+  },
+  "after_all_batches": {
+    "tool": "tag",
+    "args": {
+      "op": "create",
+      "name": "tote_attack",
+      "from": 1,
+      "to": 13,
+      "direction": "forward"
+    }
+  },
+  "scope": "all11actionposes authorized; F1/F13 exactneutral. Whole-actor comparison mask intentional. Per-frame new colors allowed only within unchanged255-entry palette, enforced by package checker.",
+  "path_base": "..",
+  "path_resolution": "Resolve path_base relative to the replay-plan.json directory; resolve base and every batch path from that directory."
+}

@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "actual_native_open_png_layer_editable": true,
+  "source_size": [
+    128,
+    192
+  ],
+  "normal_RGB_layer_saved_as_native": true,
+  "actual_native_changed_pixels": [
+    [
+      0,
+      0
+    ]
+  ],
+  "source_input_unchanged": true,
+  "conclusion": "The reference.import route is not the only native raster entry. sprite_manage.open PNG creates an editable paint-layer document; layer copy or palette-locked grids provide native construction. Reported no-raster-import blocker is disproven locally."
+}

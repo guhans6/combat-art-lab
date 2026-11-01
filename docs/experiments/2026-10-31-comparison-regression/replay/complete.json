@@ -1,0 +1,55 @@
+{
+  "baseline_role": "diagnostic source-derived pre-repair F9; not approved art",
+  "registration": "Same320x192 source-part composite from build_native_inputs.py; no fitting. Masks are retrospective diagnostic scope, not original authorization.",
+  "required_frame_ids": [
+    "F9"
+  ],
+  "evidence": [
+    {
+      "role": "candidate native",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/source/tote-attack-v03.aseprite"
+    },
+    {
+      "role": "fresh read-only native/export proof",
+      "path": "native-readback.json"
+    },
+    {
+      "role": "adjacent F8",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-7.png"
+    },
+    {
+      "role": "adjacent F10",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-9.png"
+    }
+  ],
+  "allow_new_colors": true,
+  "frames": [
+    {
+      "id": "F9",
+      "before": "before.png",
+      "after": "candidate.png",
+      "mask": "complete-diagnostic-mask.png",
+      "regions": [
+        {
+          "name": "arms-grip-handles-rim-and-bag",
+          "crop": [
+            140,
+            55,
+            225,
+            165
+          ]
+        },
+        {
+          "name": "curl-tip-change",
+          "crop": [
+            155,
+            0,
+            170,
+            3
+          ]
+        }
+      ]
+    }
+  ],
+  "zoom": 4
+}

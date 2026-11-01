@@ -1,0 +1,143 @@
+{
+  "inputs": [
+    {
+      "name": "evidence-pack.zip",
+      "source": "/Users/guhan/Guhan/Projects/AgentWatch/output/2026-10-30-pixel-idle/pixel-idle-evidence-pack.zip",
+      "frozen": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/inputs/evidence-pack.zip",
+      "sha256": "d1b8998eb2eace9e74062a7afb3c5bc0e8711a6666ef95c8c723ac134eb65457"
+    },
+    {
+      "name": "neutral.aseprite",
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-expression-strip/luna/passes/luna6-neutral.aseprite",
+      "frozen": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/inputs/neutral.aseprite",
+      "sha256": "d76266fa8afcd1de643e6b6421ec4dfe4fa77f8044a1d083205b921eb2f25540"
+    },
+    {
+      "name": "neutral.png",
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-natural-idle-sol/frame-0.png",
+      "frozen": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/inputs/neutral.png",
+      "sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad"
+    },
+    {
+      "name": "blink-source.aseprite",
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-natural-idle-sol/pass01.aseprite",
+      "frozen": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/inputs/blink-source.aseprite",
+      "sha256": "25ae8dc1952cf5ef62d081735f52a56cb4cd726c08423d639b3c510b2d6f6f42"
+    },
+    {
+      "name": "character-scene.png",
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/references/approved-2026-10-26/character-scene.png",
+      "frozen": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/inputs/character-scene.png",
+      "sha256": "a274a80133371b61387848495bf0dd93546ba5daf0a60c051b27109237160eae"
+    },
+    {
+      "name": "character-closeup.png",
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/references/approved-2026-10-26/character-closeup.png",
+      "frozen": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/inputs/character-closeup.png",
+      "sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7"
+    }
+  ],
+  "canvas": [
+    128,
+    192
+  ],
+  "layers": [
+    {
+      "name": "guide-source-seed (hidden)",
+      "flags": 0,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "00-shoes",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "01-denim",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "02a-jacket-left",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "02b-jacket-right",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "03-shirt",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "04-tote",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "05-tote-strap",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "06a-left-hand",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "06b-right-hand",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "07-face-and-neck",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "08-hair-tie-and-hair",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    }
+  ],
+  "neutral_export_exact": true
+}

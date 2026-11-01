@@ -1,0 +1,106 @@
+{
+  "provenance": "Creator chapter metadata retained from yt-dlp provider metadata. The generic AgentWatch adapter exported no chapter rows; this audit is a separate supplement and does not change the immutable package.",
+  "count_basis": "Unique requested sample times across prepared frames, Compact export and cumulative follow-up; not a count of unique pixels or proof of semantic completeness.",
+  "chapters": [
+    {
+      "chapter_id": "provider-chapter-001",
+      "title": "Introduction",
+      "start_seconds": 0,
+      "end_seconds": 34,
+      "delivered_requested_sample_count": 3,
+      "first_requested_sample_ms": 0,
+      "last_requested_sample_ms": 30000,
+      "coverage_status": "sampled"
+    },
+    {
+      "chapter_id": "provider-chapter-002",
+      "title": "Setup",
+      "start_seconds": 34,
+      "end_seconds": 296,
+      "delivered_requested_sample_count": 20,
+      "first_requested_sample_ms": 44875,
+      "last_requested_sample_ms": 285000,
+      "coverage_status": "sampled"
+    },
+    {
+      "chapter_id": "provider-chapter-003",
+      "title": "Core Frames",
+      "start_seconds": 296,
+      "end_seconds": 390,
+      "delivered_requested_sample_count": 10,
+      "first_requested_sample_ms": 300000,
+      "last_requested_sample_ms": 375000,
+      "coverage_status": "sampled"
+    },
+    {
+      "chapter_id": "provider-chapter-004",
+      "title": "Chest Sub-pixel Animation",
+      "start_seconds": 390,
+      "end_seconds": 612,
+      "delivered_requested_sample_count": 20,
+      "first_requested_sample_ms": 390000,
+      "last_requested_sample_ms": 600000,
+      "coverage_status": "sampled"
+    },
+    {
+      "chapter_id": "provider-chapter-005",
+      "title": "Arms Secondary Motion",
+      "start_seconds": 612,
+      "end_seconds": 722,
+      "delivered_requested_sample_count": 10,
+      "first_requested_sample_ms": 615000,
+      "last_requested_sample_ms": 720000,
+      "coverage_status": "sampled"
+    },
+    {
+      "chapter_id": "provider-chapter-006",
+      "title": "Hair Secondary Motion",
+      "start_seconds": 722,
+      "end_seconds": 848,
+      "delivered_requested_sample_count": 10,
+      "first_requested_sample_ms": 735000,
+      "last_requested_sample_ms": 840000,
+      "coverage_status": "sampled"
+    },
+    {
+      "chapter_id": "provider-chapter-007",
+      "title": "Sub-pixel Shading",
+      "start_seconds": 848,
+      "end_seconds": 919,
+      "delivered_requested_sample_count": 6,
+      "first_requested_sample_ms": 852625,
+      "last_requested_sample_ms": 915000,
+      "coverage_status": "sampled"
+    },
+    {
+      "chapter_id": "provider-chapter-008",
+      "title": "Preparing for Export",
+      "start_seconds": 919,
+      "end_seconds": 1037,
+      "delivered_requested_sample_count": 11,
+      "first_requested_sample_ms": 930000,
+      "last_requested_sample_ms": 1035000,
+      "coverage_status": "sampled"
+    },
+    {
+      "chapter_id": "provider-chapter-009",
+      "title": "Wrap Up",
+      "start_seconds": 1037,
+      "end_seconds": 1057,
+      "delivered_requested_sample_count": 1,
+      "first_requested_sample_ms": 1050000,
+      "last_requested_sample_ms": 1050000,
+      "coverage_status": "sampled"
+    },
+    {
+      "chapter_id": "provider-chapter-010",
+      "title": "Outro",
+      "start_seconds": 1057,
+      "end_seconds": 1077,
+      "delivered_requested_sample_count": 3,
+      "first_requested_sample_ms": 1065000,
+      "last_requested_sample_ms": 1076999,
+      "coverage_status": "sampled"
+    }
+  ]
+}

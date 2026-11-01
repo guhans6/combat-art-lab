@@ -1,0 +1,66 @@
+{
+  "source_content_sha256": "c946289c8fc1ff74faf4fbc0206c58f2e1c9eebd37e18f595f5418e9b5e93a95",
+  "scope": "Six individually inspected delivered native images. Other assets are available but are not asserted to have received individual semantic review. Motion excerpts were checked for stream presence and duration, not independently watched in full.",
+  "observations": [
+    {
+      "observation_id": "review-chunk-002-frame-004",
+      "support": "direct_native_image_inspection",
+      "timestamp_seconds": 645,
+      "derived_from": [
+        "chunk-002-frame-004"
+      ],
+      "asset_path": "prepared-frames/chunk-002-frame-004.jpg",
+      "text": "The canvas is zoomed into the torso and gloves. The timeline visibly runs from 1 through 24 under the Idle tag."
+    },
+    {
+      "observation_id": "review-chunk-002-frame-012",
+      "support": "direct_native_image_inspection",
+      "timestamp_seconds": 750,
+      "derived_from": [
+        "chunk-002-frame-012"
+      ],
+      "asset_path": "prepared-frames/chunk-002-frame-012.jpg",
+      "text": "The canvas is zoomed into the head and the separate curled hair strand. The timeline still shows 24 numbered columns."
+    },
+    {
+      "observation_id": "review-chunk-002-frame-021",
+      "support": "direct_native_image_inspection",
+      "timestamp_seconds": 870,
+      "derived_from": [
+        "chunk-002-frame-021"
+      ],
+      "asset_path": "prepared-frames/chunk-002-frame-021.jpg",
+      "text": "The lower torso, shorts, knees and boots are visible at enlarged scale, including the shadow under the shorts."
+    },
+    {
+      "observation_id": "review-chunk-002-frame-028",
+      "support": "direct_native_image_inspection",
+      "timestamp_seconds": 960,
+      "derived_from": [
+        "chunk-002-frame-028"
+      ],
+      "asset_path": "prepared-frames/chunk-002-frame-028.jpg",
+      "text": "The Breathe label is visible above timeline columns numbered 1 through 13. Two character views remain visible in the canvas."
+    },
+    {
+      "observation_id": "review-chunk-002-frame-032",
+      "support": "direct_native_image_inspection",
+      "timestamp_seconds": 1020,
+      "derived_from": [
+        "chunk-002-frame-032"
+      ],
+      "asset_path": "prepared-frames/chunk-002-frame-032.jpg",
+      "text": "A single character is visible on the smaller centered checkerboard canvas. Idle and Breathe tags are both visible above 14 total timeline columns."
+    },
+    {
+      "observation_id": "review-final-export",
+      "support": "direct_native_image_inspection",
+      "timestamp_seconds": 1025.0,
+      "derived_from": [
+        "follow-up-74e95e8d2e3cc427804c423c640ee9d31c4f3281a7f6c985d2e2496dd4cc7720-2832d0ed62641c7abb07819eb7cb76c01aa3a0494bcbd6d0333d27d7509efefa"
+      ],
+      "asset_path": "agentwatch-cumulative/assets/frames/follow-up-74e95e8d2e3cc427804c423c640ee9d31c4f3281a7f6c985d2e2496dd4cc7720-2832d0ed62641c7abb07819eb7cb76c01aa3a0494bcbd6d0333d27d7509efefa.jpg",
+      "text": "The isolated character is visible on the centered checkerboard canvas. Idle and Breathe tags remain visible with 14 total timeline columns. This still does not reveal the export script contents or every export setting."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "source": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/source/standing-v03/standing.aseprite",
+    "copy": "input/baseline.aseprite",
+    "sha256": "33554ab866b10c41cbd78604dacf78b3f6172f96e9103d45898da4f89de0605e"
+  },
+  {
+    "source": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/export/standing-v03/standing.png",
+    "copy": "input/baseline.png",
+    "sha256": "a22618c38c103a9add6a24940b5c731b13d70d192721a25e77e5d95ddaa65c3e"
+  },
+  {
+    "source": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/references/approved-2026-10-26/character-closeup.png",
+    "copy": "input/reference-00-primary-face.png",
+    "sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7"
+  },
+  {
+    "source": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/references/approved-2026-10-26/character-scene.png",
+    "copy": "input/reference-01-primary-design-and-style.png",
+    "sha256": "a274a80133371b61387848495bf0dd93546ba5daf0a60c051b27109237160eae"
+  },
+  {
+    "source": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/references/approved-2026-10-26/character-cutout.png",
+    "copy": "input/reference-02-supporting-only-cutout.png",
+    "sha256": "4dd54a802798adc994a14349025ab48bc5830e43507d1c1c09822de692c280b8"
+  },
+  {
+    "source": null,
+    "copy": "input/editable-mask.png",
+    "sha256": "c345c84768729f87c4da24ebee056a2ac2a91b621d18d665992774bf776da496"
+  }
+]

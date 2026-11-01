@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "fixture_only_not_attack_art": true,
+  "three_one_shot_runs": true,
+  "exactly_one_hit_in_declared_interval_per_run": true,
+  "all_runs_return_to_idle": true,
+  "observed_durations_ms": [
+    299,
+    300,
+    300
+  ],
+  "source": "runtime/controller-fixture/evidence/attack-observation.json"
+}

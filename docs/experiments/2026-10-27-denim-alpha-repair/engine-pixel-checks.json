@@ -1,0 +1,42 @@
+[
+  {
+    "frame": 0,
+    "pixels_checked": 12,
+    "mismatches": 0
+  },
+  {
+    "frame": 1,
+    "pixels_checked": 59,
+    "mismatches": 0
+  },
+  {
+    "frame": 2,
+    "pixels_checked": 59,
+    "mismatches": 0
+  },
+  {
+    "frame": 3,
+    "pixels_checked": 59,
+    "mismatches": 0
+  },
+  {
+    "frame": 4,
+    "pixels_checked": 59,
+    "mismatches": 0
+  },
+  {
+    "frame": 5,
+    "pixels_checked": 59,
+    "mismatches": 0
+  },
+  {
+    "frame": 6,
+    "pixels_checked": 12,
+    "mismatches": 0
+  },
+  {
+    "frame": 7,
+    "pixels_checked": 12,
+    "mismatches": 0
+  }
+]

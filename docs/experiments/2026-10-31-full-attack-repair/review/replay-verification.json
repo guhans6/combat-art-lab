@@ -1,0 +1,9 @@
+{
+  "candidate_sha256": "5fb9a4f776ea46df1ee86c3eb5e10c8be32b094aa265004e908e832b7f4518ea",
+  "replay_sha256": "5fb9a4f776ea46df1ee86c3eb5e10c8be32b094aa265004e908e832b7f4518ea",
+  "native_bytes_exact": true,
+  "layers_exact": true,
+  "frames_exact": true,
+  "all_cels_exact": true,
+  "all_composites_exact": true
+}

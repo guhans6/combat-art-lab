@@ -1,0 +1,14 @@
+{
+  "gated/a02-expression": {
+    "fresh_folder_rgba_match": true,
+    "rebuild_png_sha256": "90370e62f076295938b4ec4894c5b2f1dabe6e3cfce5990c8b1562d630ea2eb9"
+  },
+  "b02-expression": {
+    "fresh_folder_rgba_match": true,
+    "rebuild_png_sha256": "83f69a2e53ef062387d23d5d071029f558e9faa8f28f2fda31fceeddbdf32916"
+  },
+  "c01-restored-mouth": {
+    "fresh_folder_rgba_match": true,
+    "rebuild_png_sha256": "28d8044cdacbd1b61fa0da13701b3f97203a67d8862c67d6f296d28bc6813816"
+  }
+}

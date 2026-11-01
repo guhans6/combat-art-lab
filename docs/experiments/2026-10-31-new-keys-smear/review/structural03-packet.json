@@ -1,0 +1,30 @@
+{
+  "native": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/source/structural-pass03.aseprite",
+  "sha256": "57f0a3c7c3df01ac68b7902875f2a0f08ede6a7ade2b3e83a16bd2ddb61cef98",
+  "native_export_equal": true,
+  "files": {
+    "review/key-3-guides.png": "a672947dc41de925d33536607c6cfe5ded56d0c5c321e965dae79ecadd233567",
+    "review/key-6-guides.png": "e1518ff5df7ce062f210c30d9da9bd2503702a888258652402c161ef33a6c999",
+    "review/key-2-owners.png": "c6674f6771bcfbe1373146435fd1907289464680aaeaa4be9e3c45907eaec6e3",
+    "review/key-2-hidden.png": "0acf90ce757cbcd3db51cd0fea3480c2f17e51c44d30fbdf8a34f75f929f2f1d",
+    "review/key-5-hidden.png": "610a1f352615b10b8c95013b7be09c70ba1c1d6fef5a51b697e25d8fab02ee74",
+    "review/key-5-owners.png": "d051c306f0f2e81a94d97d039d2794f2691eccedfdf644ec420fee16966b7d15",
+    "review/key-1-guides.png": "0ef16e6923a19d22e5b8bd0ff0aa48d992175e55d22487b847022f590553c077",
+    "review/key-4-guides.png": "cb999c61f78a473c00024d2f3d179c2e5c9df7d4a704e7dae8df5d50416e2dfd",
+    "review/key-3-owners.png": "7c8c2b9a687e11b713bd4f3f9a0ebe106ea5bf89e5c44b5ac10f016514ef3978",
+    "review/key-3-hidden.png": "9b0c6be89dd7106d73e3149796af3a84da9e87fc08db6015dcec810000a98aab",
+    "review/key-2-guides.png": "7a43c87ea48c9b4659849694aca09b396c5b51a18a6995bab5bba2fbe9002030",
+    "review/key-6-owners.png": "af6692dfd25217ccd3b8995732820f6f393e85f83b72c03aec0f8a4b36981847",
+    "review/key-6-hidden.png": "c27da701252814e17bc70add02506ac907e928ba0fd62a543a8363edfc913029",
+    "review/key-1-hidden.png": "d252d8e74c7927857efe05fde30e5f7c1b80003ecd9d4f8c5882c2f121031b2c",
+    "review/key-1-owners.png": "543171b1523502b750e243aa2b99f720017de627f070671ef09d7458935960fd",
+    "review/key-5-guides.png": "5e0a102235e3a8a14d651947f6dca4b85e9c11e773fef3b11c715bbd2607b404",
+    "review/key-4-hidden.png": "2ddc9bce1d629e9678564384b683a0e4b8ce73fcef5a606818cf8d2b448c23dd",
+    "review/key-4-owners.png": "f3cd868e90159e9edc0aeb38650953906ee7c33fbad1b6f56164a3cfc37c7969",
+    "review/original-key-comparison.png": "539dcfbb27a6efd26183882a7fd9d0f92f8b0b264a8a994b135556d5ea547629",
+    "review/structural03-keys-2x.png": "38bb2e20db0a06202b12e8ebb6d8e810e644e240e7f2bcfef3bdb9cf337f9a4e",
+    "recipe/anatomical-observations.json": "092900b3b28b091d5afc4ecc977ea4340e4a27537924f28b6a525b1c093fd876",
+    "recipe/key-sites.json": "4eb31d5bbad05df99b92b8adbc0668bc366d3655879b2fab55f98a68d0d3029d"
+  },
+  "evidence_boundary": "Fresh direct image hashes; native-export equality independently checked; semantic review remains separate"
+}

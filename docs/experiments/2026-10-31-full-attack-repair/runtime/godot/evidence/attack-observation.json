@@ -1,0 +1,516 @@
+{
+	"active_frames_1based": [
+		6.0
+	],
+	"authored_durations_ms": [
+		60.0,
+		110.0,
+		140.0,
+		210.0,
+		70.0,
+		60.0,
+		90.0,
+		110.0,
+		140.0,
+		170.0,
+		140.0,
+		160.0,
+		220.0
+	],
+	"base_root": [
+		30.0,
+		69.0
+	],
+	"completed": [
+		{
+			"attack": 1,
+			"duration_ms": 1666,
+			"frame_after": 0,
+			"hit": true,
+			"returned_to_idle": true,
+			"state_after": "idle"
+		},
+		{
+			"attack": 2,
+			"duration_ms": 1681,
+			"frame_after": 0,
+			"hit": true,
+			"returned_to_idle": true,
+			"state_after": "idle"
+		},
+		{
+			"attack": 3,
+			"duration_ms": 1661,
+			"frame_after": 0,
+			"hit": true,
+			"returned_to_idle": true,
+			"state_after": "idle"
+		}
+	],
+	"display_server": "macOS",
+	"engine": "4.7.2-stable (official)",
+	"filter": "nearest",
+	"frame_events": [
+		{
+			"attack": 1,
+			"elapsed_ms": 0,
+			"frame": 1,
+			"phase": "ready idle",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 1,
+			"elapsed_ms": 53,
+			"frame": 2,
+			"phase": "pickup",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 1,
+			"elapsed_ms": 153,
+			"frame": 3,
+			"phase": "shared grip",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 1,
+			"elapsed_ms": 300,
+			"frame": 4,
+			"phase": "counter-windup",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 1,
+			"elapsed_ms": 516,
+			"frame": 5,
+			"phase": "acceleration",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 1,
+			"elapsed_ms": 586,
+			"frame": 6,
+			"phase": "committed contact",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 1,
+			"elapsed_ms": 652,
+			"frame": 7,
+			"phase": "follow-through",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 1,
+			"elapsed_ms": 733,
+			"frame": 8,
+			"phase": "arrest and redirect",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 1,
+			"elapsed_ms": 836,
+			"frame": 9,
+			"phase": "controlled recovery",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 1,
+			"elapsed_ms": 976,
+			"frame": 10,
+			"phase": "tote settle",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 1,
+			"elapsed_ms": 1152,
+			"frame": 11,
+			"phase": "re-shoulder",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 1,
+			"elapsed_ms": 1285,
+			"frame": 12,
+			"phase": "release and settle",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 1,
+			"elapsed_ms": 1450,
+			"frame": 13,
+			"phase": "ready idle return",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 2,
+			"elapsed_ms": 0,
+			"frame": 1,
+			"phase": "ready idle",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 2,
+			"elapsed_ms": 65,
+			"frame": 2,
+			"phase": "pickup",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 2,
+			"elapsed_ms": 165,
+			"frame": 3,
+			"phase": "shared grip",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 2,
+			"elapsed_ms": 301,
+			"frame": 4,
+			"phase": "counter-windup",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 2,
+			"elapsed_ms": 509,
+			"frame": 5,
+			"phase": "acceleration",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 2,
+			"elapsed_ms": 585,
+			"frame": 6,
+			"phase": "committed contact",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 2,
+			"elapsed_ms": 648,
+			"frame": 7,
+			"phase": "follow-through",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 2,
+			"elapsed_ms": 734,
+			"frame": 8,
+			"phase": "arrest and redirect",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 2,
+			"elapsed_ms": 848,
+			"frame": 9,
+			"phase": "controlled recovery",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 2,
+			"elapsed_ms": 981,
+			"frame": 10,
+			"phase": "tote settle",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 2,
+			"elapsed_ms": 1152,
+			"frame": 11,
+			"phase": "re-shoulder",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 2,
+			"elapsed_ms": 1298,
+			"frame": 12,
+			"phase": "release and settle",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 2,
+			"elapsed_ms": 1452,
+			"frame": 13,
+			"phase": "ready idle return",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 3,
+			"elapsed_ms": 0,
+			"frame": 1,
+			"phase": "ready idle",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 3,
+			"elapsed_ms": 58,
+			"frame": 2,
+			"phase": "pickup",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 3,
+			"elapsed_ms": 158,
+			"frame": 3,
+			"phase": "shared grip",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 3,
+			"elapsed_ms": 300,
+			"frame": 4,
+			"phase": "counter-windup",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 3,
+			"elapsed_ms": 508,
+			"frame": 5,
+			"phase": "acceleration",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 3,
+			"elapsed_ms": 578,
+			"frame": 6,
+			"phase": "committed contact",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 3,
+			"elapsed_ms": 641,
+			"frame": 7,
+			"phase": "follow-through",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 3,
+			"elapsed_ms": 727,
+			"frame": 8,
+			"phase": "arrest and redirect",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 3,
+			"elapsed_ms": 841,
+			"frame": 9,
+			"phase": "controlled recovery",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 3,
+			"elapsed_ms": 975,
+			"frame": 10,
+			"phase": "tote settle",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 3,
+			"elapsed_ms": 1142,
+			"frame": 11,
+			"phase": "re-shoulder",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 3,
+			"elapsed_ms": 1278,
+			"frame": 12,
+			"phase": "release and settle",
+			"position": [
+				30.0,
+				69.0
+			]
+		},
+		{
+			"attack": 3,
+			"elapsed_ms": 1442,
+			"frame": 13,
+			"phase": "ready idle return",
+			"position": [
+				30.0,
+				69.0
+			]
+		}
+	],
+	"hit_events": [
+		{
+			"attack": 1,
+			"bag_rect": [
+				217.0,
+				114.0,
+				50.0,
+				32.0
+			],
+			"elapsed_ms": 586,
+			"frame": 6
+		},
+		{
+			"attack": 2,
+			"bag_rect": [
+				217.0,
+				114.0,
+				50.0,
+				32.0
+			],
+			"elapsed_ms": 585,
+			"frame": 6
+		},
+		{
+			"attack": 3,
+			"bag_rect": [
+				217.0,
+				114.0,
+				50.0,
+				32.0
+			],
+			"elapsed_ms": 578,
+			"frame": 6
+		}
+	],
+	"hit_method": "declared bag bounds intersect dummy hurtbox during authored active frames; at most one hit per attack",
+	"hurtbox": [
+		235.0,
+		108.0,
+		14.0,
+		44.0
+	],
+	"inspection_only_frames_1based": [],
+	"live_rendered_frames_0based": [
+		0,
+		1,
+		2,
+		3,
+		4,
+		5,
+		6,
+		7,
+		8,
+		9,
+		10,
+		11,
+		12
+	],
+	"native_frame_size": [
+		320.0,
+		192.0
+	],
+	"physical_keyboard_tested": false,
+	"source_sha256": "5fb9a4f776ea46df1ee86c3eb5e10c8be32b094aa265004e908e832b7f4518ea",
+	"space_events_received": 3,
+	"synthetic_space_events_sent": 3,
+	"viewport": [
+		362,
+		304
+	],
+	"window_scale": 2
+}

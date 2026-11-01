@@ -1,0 +1,799 @@
+{
+  "frames": [
+    {
+      "frame": 1,
+      "layers": {
+        "01-denim": {
+          "changed": 12,
+          "xy": [
+            [
+              59,
+              116
+            ],
+            [
+              39,
+              121
+            ],
+            [
+              47,
+              150
+            ],
+            [
+              37,
+              155
+            ],
+            [
+              50,
+              162
+            ],
+            [
+              27,
+              177
+            ],
+            [
+              31,
+              182
+            ],
+            [
+              67,
+              186
+            ],
+            [
+              70,
+              186
+            ],
+            [
+              59,
+              189
+            ],
+            [
+              39,
+              190
+            ],
+            [
+              59,
+              190
+            ]
+          ]
+        },
+        "02-shoes": {
+          "changed": 0
+        },
+        "03-far-shoe": {
+          "changed": 0
+        },
+        "04-tote": {
+          "changed": 0
+        },
+        "05-jacket": {
+          "changed": 0
+        },
+        "06-shirt": {
+          "changed": 0
+        },
+        "07-hands": {
+          "changed": 0
+        },
+        "08-near-hand": {
+          "changed": 0
+        },
+        "09-neck-face": {
+          "changed": 0
+        },
+        "10-rear-hair": {
+          "changed": 0
+        },
+        "11-crown-fringe": {
+          "changed": 0
+        },
+        "12-hair-tie": {
+          "changed": 0
+        },
+        "13-eyes-mouth": {
+          "changed": 0
+        },
+        "14-strap": {
+          "changed": 0
+        }
+      }
+    },
+    {
+      "frame": 2,
+      "layers": {
+        "01-denim": {
+          "changed": 12,
+          "xy": [
+            [
+              59,
+              116
+            ],
+            [
+              39,
+              121
+            ],
+            [
+              47,
+              150
+            ],
+            [
+              37,
+              155
+            ],
+            [
+              50,
+              162
+            ],
+            [
+              27,
+              177
+            ],
+            [
+              31,
+              182
+            ],
+            [
+              67,
+              186
+            ],
+            [
+              70,
+              186
+            ],
+            [
+              59,
+              189
+            ],
+            [
+              39,
+              190
+            ],
+            [
+              59,
+              190
+            ]
+          ]
+        },
+        "02-shoes": {
+          "changed": 0
+        },
+        "03-far-shoe": {
+          "changed": 0
+        },
+        "04-tote": {
+          "changed": 0
+        },
+        "05-jacket": {
+          "changed": 0
+        },
+        "06-shirt": {
+          "changed": 0
+        },
+        "07-hands": {
+          "changed": 0
+        },
+        "08-near-hand": {
+          "changed": 0
+        },
+        "09-neck-face": {
+          "changed": 0
+        },
+        "10-rear-hair": {
+          "changed": 0
+        },
+        "11-crown-fringe": {
+          "changed": 0
+        },
+        "12-hair-tie": {
+          "changed": 0
+        },
+        "13-eyes-mouth": {
+          "changed": 0
+        },
+        "14-strap": {
+          "changed": 0
+        }
+      }
+    },
+    {
+      "frame": 3,
+      "layers": {
+        "01-denim": {
+          "changed": 12,
+          "xy": [
+            [
+              59,
+              116
+            ],
+            [
+              39,
+              121
+            ],
+            [
+              47,
+              150
+            ],
+            [
+              37,
+              155
+            ],
+            [
+              50,
+              162
+            ],
+            [
+              27,
+              177
+            ],
+            [
+              31,
+              182
+            ],
+            [
+              67,
+              186
+            ],
+            [
+              70,
+              186
+            ],
+            [
+              59,
+              189
+            ],
+            [
+              39,
+              190
+            ],
+            [
+              59,
+              190
+            ]
+          ]
+        },
+        "02-shoes": {
+          "changed": 0
+        },
+        "03-far-shoe": {
+          "changed": 0
+        },
+        "04-tote": {
+          "changed": 0
+        },
+        "05-jacket": {
+          "changed": 0
+        },
+        "06-shirt": {
+          "changed": 0
+        },
+        "07-hands": {
+          "changed": 0
+        },
+        "08-near-hand": {
+          "changed": 0
+        },
+        "09-neck-face": {
+          "changed": 0
+        },
+        "10-rear-hair": {
+          "changed": 0
+        },
+        "11-crown-fringe": {
+          "changed": 0
+        },
+        "12-hair-tie": {
+          "changed": 0
+        },
+        "13-eyes-mouth": {
+          "changed": 0
+        },
+        "14-strap": {
+          "changed": 0
+        }
+      }
+    },
+    {
+      "frame": 4,
+      "layers": {
+        "01-denim": {
+          "changed": 12,
+          "xy": [
+            [
+              59,
+              116
+            ],
+            [
+              39,
+              121
+            ],
+            [
+              47,
+              150
+            ],
+            [
+              37,
+              155
+            ],
+            [
+              50,
+              162
+            ],
+            [
+              27,
+              177
+            ],
+            [
+              31,
+              182
+            ],
+            [
+              67,
+              186
+            ],
+            [
+              70,
+              186
+            ],
+            [
+              59,
+              189
+            ],
+            [
+              39,
+              190
+            ],
+            [
+              59,
+              190
+            ]
+          ]
+        },
+        "02-shoes": {
+          "changed": 0
+        },
+        "03-far-shoe": {
+          "changed": 0
+        },
+        "04-tote": {
+          "changed": 0
+        },
+        "05-jacket": {
+          "changed": 0
+        },
+        "06-shirt": {
+          "changed": 0
+        },
+        "07-hands": {
+          "changed": 0
+        },
+        "08-near-hand": {
+          "changed": 0
+        },
+        "09-neck-face": {
+          "changed": 0
+        },
+        "10-rear-hair": {
+          "changed": 0
+        },
+        "11-crown-fringe": {
+          "changed": 0
+        },
+        "12-hair-tie": {
+          "changed": 0
+        },
+        "13-eyes-mouth": {
+          "changed": 0
+        },
+        "14-strap": {
+          "changed": 0
+        }
+      }
+    },
+    {
+      "frame": 5,
+      "layers": {
+        "01-denim": {
+          "changed": 12,
+          "xy": [
+            [
+              59,
+              116
+            ],
+            [
+              39,
+              121
+            ],
+            [
+              47,
+              150
+            ],
+            [
+              37,
+              155
+            ],
+            [
+              50,
+              162
+            ],
+            [
+              27,
+              177
+            ],
+            [
+              31,
+              182
+            ],
+            [
+              67,
+              186
+            ],
+            [
+              70,
+              186
+            ],
+            [
+              59,
+              189
+            ],
+            [
+              39,
+              190
+            ],
+            [
+              59,
+              190
+            ]
+          ]
+        },
+        "02-shoes": {
+          "changed": 0
+        },
+        "03-far-shoe": {
+          "changed": 0
+        },
+        "04-tote": {
+          "changed": 0
+        },
+        "05-jacket": {
+          "changed": 0
+        },
+        "06-shirt": {
+          "changed": 0
+        },
+        "07-hands": {
+          "changed": 0
+        },
+        "08-near-hand": {
+          "changed": 0
+        },
+        "09-neck-face": {
+          "changed": 0
+        },
+        "10-rear-hair": {
+          "changed": 0
+        },
+        "11-crown-fringe": {
+          "changed": 0
+        },
+        "12-hair-tie": {
+          "changed": 0
+        },
+        "13-eyes-mouth": {
+          "changed": 0
+        },
+        "14-strap": {
+          "changed": 0
+        }
+      }
+    },
+    {
+      "frame": 6,
+      "layers": {
+        "01-denim": {
+          "changed": 12,
+          "xy": [
+            [
+              59,
+              116
+            ],
+            [
+              39,
+              121
+            ],
+            [
+              47,
+              150
+            ],
+            [
+              37,
+              155
+            ],
+            [
+              50,
+              162
+            ],
+            [
+              27,
+              177
+            ],
+            [
+              31,
+              182
+            ],
+            [
+              67,
+              186
+            ],
+            [
+              70,
+              186
+            ],
+            [
+              59,
+              189
+            ],
+            [
+              39,
+              190
+            ],
+            [
+              59,
+              190
+            ]
+          ]
+        },
+        "02-shoes": {
+          "changed": 0
+        },
+        "03-far-shoe": {
+          "changed": 0
+        },
+        "04-tote": {
+          "changed": 0
+        },
+        "05-jacket": {
+          "changed": 0
+        },
+        "06-shirt": {
+          "changed": 0
+        },
+        "07-hands": {
+          "changed": 0
+        },
+        "08-near-hand": {
+          "changed": 0
+        },
+        "09-neck-face": {
+          "changed": 0
+        },
+        "10-rear-hair": {
+          "changed": 0
+        },
+        "11-crown-fringe": {
+          "changed": 0
+        },
+        "12-hair-tie": {
+          "changed": 0
+        },
+        "13-eyes-mouth": {
+          "changed": 0
+        },
+        "14-strap": {
+          "changed": 0
+        }
+      }
+    },
+    {
+      "frame": 7,
+      "layers": {
+        "01-denim": {
+          "changed": 12,
+          "xy": [
+            [
+              59,
+              116
+            ],
+            [
+              39,
+              121
+            ],
+            [
+              47,
+              150
+            ],
+            [
+              37,
+              155
+            ],
+            [
+              50,
+              162
+            ],
+            [
+              27,
+              177
+            ],
+            [
+              31,
+              182
+            ],
+            [
+              67,
+              186
+            ],
+            [
+              70,
+              186
+            ],
+            [
+              59,
+              189
+            ],
+            [
+              39,
+              190
+            ],
+            [
+              59,
+              190
+            ]
+          ]
+        },
+        "02-shoes": {
+          "changed": 0
+        },
+        "03-far-shoe": {
+          "changed": 0
+        },
+        "04-tote": {
+          "changed": 0
+        },
+        "05-jacket": {
+          "changed": 0
+        },
+        "06-shirt": {
+          "changed": 0
+        },
+        "07-hands": {
+          "changed": 0
+        },
+        "08-near-hand": {
+          "changed": 0
+        },
+        "09-neck-face": {
+          "changed": 0
+        },
+        "10-rear-hair": {
+          "changed": 0
+        },
+        "11-crown-fringe": {
+          "changed": 0
+        },
+        "12-hair-tie": {
+          "changed": 0
+        },
+        "13-eyes-mouth": {
+          "changed": 0
+        },
+        "14-strap": {
+          "changed": 0
+        }
+      }
+    },
+    {
+      "frame": 8,
+      "layers": {
+        "01-denim": {
+          "changed": 12,
+          "xy": [
+            [
+              59,
+              116
+            ],
+            [
+              39,
+              121
+            ],
+            [
+              47,
+              150
+            ],
+            [
+              37,
+              155
+            ],
+            [
+              50,
+              162
+            ],
+            [
+              27,
+              177
+            ],
+            [
+              31,
+              182
+            ],
+            [
+              67,
+              186
+            ],
+            [
+              70,
+              186
+            ],
+            [
+              59,
+              189
+            ],
+            [
+              39,
+              190
+            ],
+            [
+              59,
+              190
+            ]
+          ]
+        },
+        "02-shoes": {
+          "changed": 0
+        },
+        "03-far-shoe": {
+          "changed": 0
+        },
+        "04-tote": {
+          "changed": 0
+        },
+        "05-jacket": {
+          "changed": 0
+        },
+        "06-shirt": {
+          "changed": 0
+        },
+        "07-hands": {
+          "changed": 0
+        },
+        "08-near-hand": {
+          "changed": 0
+        },
+        "09-neck-face": {
+          "changed": 0
+        },
+        "10-rear-hair": {
+          "changed": 0
+        },
+        "11-crown-fringe": {
+          "changed": 0
+        },
+        "12-hair-tie": {
+          "changed": 0
+        },
+        "13-eyes-mouth": {
+          "changed": 0
+        },
+        "14-strap": {
+          "changed": 0
+        }
+      }
+    }
+  ],
+  "exposed_metadata_same": true,
+  "new_layer": {
+    "isTilemap": false,
+    "cels": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "name": "00-joint-underpaint",
+    "index": 1,
+    "opacity": 255,
+    "isGroup": false,
+    "editable": true,
+    "blendMode": "3",
+    "visible": true
+  },
+  "protected_layers_unchanged": true
+}

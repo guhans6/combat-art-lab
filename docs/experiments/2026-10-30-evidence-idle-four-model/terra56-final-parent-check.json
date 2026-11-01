@@ -1,0 +1,143 @@
+{
+  "status": "technical_delivery_pass",
+  "native": "terra56/native/terra56-breathe-seam-repair.aseprite",
+  "native_sha256": "9db6aa3cce3210376b6b6ce9b3f013f8798dd59b70fecf13adff7453ce7d5df8",
+  "frame_count": 8,
+  "durations_ms": [
+    110,
+    90,
+    80,
+    90,
+    110,
+    90,
+    80,
+    90
+  ],
+  "cycle_ms": 740,
+  "gif_native_frame_indices_0based": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "native_export_exact": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "rest_frames_1based": [
+    1,
+    2,
+    7,
+    8
+  ],
+  "native_palette_and_existing_layer_metadata_exact": true,
+  "declared_added_layers": [
+    "09-breath-seam-backing"
+  ],
+  "shoes_and_hidden_guide_preserved": true,
+  "gifs": {
+    "1x": {
+      "sha256": "198de39cce310d9009ef09c6aa30f45ced312ca086bcfa9366c68602ab09227f",
+      "encoded_frames": 5,
+      "durations_ms": [
+        200,
+        80,
+        200,
+        90,
+        170
+      ],
+      "cycle_ms": 740,
+      "loop": 0,
+      "matte_rgb": [
+        0,
+        0,
+        0
+      ],
+      "timeline_equals_native": true
+    },
+    "3x": {
+      "sha256": "b519d03fd847762f74459e88065d5d7e4622ed1e1fc6d5ce29d6609c2d7b8f0d",
+      "encoded_frames": 5,
+      "durations_ms": [
+        200,
+        80,
+        200,
+        90,
+        170
+      ],
+      "cycle_ms": 740,
+      "loop": 0,
+      "matte_rgb": [
+        0,
+        0,
+        0
+      ],
+      "timeline_equals_native": true
+    }
+  },
+  "alpha": {
+    "passed": true,
+    "frames": [
+      {
+        "frame_1based": 1,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 2,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 3,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 4,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 5,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 6,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 7,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 8,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      }
+    ],
+    "inherited_body_holes_xy": [
+      [
+        63,
+        116
+      ]
+    ],
+    "limits": "Enclosed body-hole/binary-alpha check only; moving silhouette and intentional head/hair gaps need scoped review."
+  },
+  "record": "terra56/record.md",
+  "verification": "terra56/verification/repair-gif-checks.json",
+  "limits": "No automatic artistic verdict, temporal observation, or engine proof."
+}

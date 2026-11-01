@@ -1,0 +1,37 @@
+{
+  "base_revision": "9e35c5c13987a153e942e6f93f49f247fad13c3a",
+  "state": "local uncommitted artwork; user acceptance pending",
+  "changed_existing_documents": [
+    "CONTEXT.md",
+    "docs/handoff.md"
+  ],
+  "original_files_checked": 477,
+  "unchanged_files": 475,
+  "unexpected_changes": 0,
+  "local_links_checked": 101,
+  "missing_local_links": [],
+  "python_scripts_ast": "pass",
+  "new_python_script_runs": [
+    "check.py: pass",
+    "make-review.py: pass; output visually inspected"
+  ],
+  "native_and_reopen_checks": "pass for all three checkpoints and edit proof; original checker unchanged",
+  "protected_clothing_layers": 4,
+  "native_layers": 10,
+  "native_canvas": [
+    120,
+    112
+  ],
+  "visible_final_rgb_colors": 25,
+  "palette_rgb_slots": 40,
+  "palette_transparency_slot": 1,
+  "git_diff_check": "pass",
+  "visual_review": "provisional improvement; remaining likeness gaps; not approved",
+  "drawing_passes": 3,
+  "aseprite_invocations": {
+    "successful": 5,
+    "parse_failure_before_any_face_output": 1
+  },
+  "animation_godot_installation_paid_art_service_commit_push_publication": "none",
+  "artistic_cost_and_total_operation_counts": "unknown"
+}

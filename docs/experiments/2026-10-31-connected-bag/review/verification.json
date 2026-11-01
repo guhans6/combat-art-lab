@@ -1,0 +1,58 @@
+{
+  "native_sha256": "3a628bd6960903db95e5908182ff1e62899e852a6cf284cb0be273be96650ec9",
+  "base_unchanged": true,
+  "all13_native_export_reopen_equal": true,
+  "other10frames_exact": true,
+  "scope_and_body_protection": true,
+  "palette_timing_layers_chunks_exact": true,
+  "gif_checks": {
+    "context": {
+      "sha256": "00061fb8cd57e4f541d79979d49d3519015a8e3dcdf944a5156349992541f6b8",
+      "encoded_frames": 5,
+      "durations_ms": [
+        90,
+        110,
+        140,
+        170,
+        140
+      ],
+      "cycle_ms": 650,
+      "loop": 0,
+      "matte_rgb": [
+        48,
+        51,
+        54
+      ],
+      "timeline_equals_native": true
+    },
+    "full-cycle": {
+      "sha256": "c6c69f4d522242fa6f9918a78db2331770da727d3d1320898b8c3df27ec3aff3",
+      "encoded_frames": 13,
+      "durations_ms": [
+        60,
+        110,
+        140,
+        210,
+        70,
+        60,
+        90,
+        110,
+        140,
+        170,
+        140,
+        160,
+        220
+      ],
+      "cycle_ms": 1680,
+      "loop": 0,
+      "matte_rgb": [
+        48,
+        51,
+        54
+      ],
+      "timeline_equals_native": true
+    }
+  },
+  "runtime": "not run; scoped pose repair; no gameplay validation claimed",
+  "validate_tool": "advertised but not exposed; independent checks used"
+}

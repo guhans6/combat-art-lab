@@ -1,0 +1,267 @@
+[
+  {
+    "frame": 2,
+    "layer": "01-leg-base-and-shoes",
+    "label": "Remove reviewed detached old-outline remnants",
+    "ops": [
+      {
+        "kind": "grid",
+        "x": 148,
+        "y": 104,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      },
+      {
+        "kind": "grid",
+        "x": 148,
+        "y": 105,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      }
+    ]
+  },
+  {
+    "frame": 3,
+    "layer": "01-leg-base-and-shoes",
+    "label": "Remove reviewed detached old-outline remnants",
+    "ops": [
+      {
+        "kind": "grid",
+        "x": 179,
+        "y": 118,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      },
+      {
+        "kind": "grid",
+        "x": 182,
+        "y": 121,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      },
+      {
+        "kind": "grid",
+        "x": 182,
+        "y": 122,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      },
+      {
+        "kind": "grid",
+        "x": 176,
+        "y": 115,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      },
+      {
+        "kind": "grid",
+        "x": 176,
+        "y": 116,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      },
+      {
+        "kind": "grid",
+        "x": 189,
+        "y": 128,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      },
+      {
+        "kind": "grid",
+        "x": 189,
+        "y": 127,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      }
+    ]
+  },
+  {
+    "frame": 5,
+    "layer": "01-leg-base-and-shoes",
+    "label": "Remove reviewed detached old-outline remnants",
+    "ops": [
+      {
+        "kind": "grid",
+        "x": 174,
+        "y": 118,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      },
+      {
+        "kind": "grid",
+        "x": 177,
+        "y": 122,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      },
+      {
+        "kind": "grid",
+        "x": 177,
+        "y": 121,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      },
+      {
+        "kind": "grid",
+        "x": 172,
+        "y": 116,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      },
+      {
+        "kind": "grid",
+        "x": 172,
+        "y": 115,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      },
+      {
+        "kind": "grid",
+        "x": 184,
+        "y": 128,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      },
+      {
+        "kind": "grid",
+        "x": 184,
+        "y": 127,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      }
+    ]
+  },
+  {
+    "frame": 7,
+    "layer": "02-jacket-shirt-and-sleeves",
+    "label": "Remove reviewed detached old-outline remnants",
+    "ops": [
+      {
+        "kind": "grid",
+        "x": 122,
+        "y": 40,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      },
+      {
+        "kind": "grid",
+        "x": 121,
+        "y": 40,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      },
+      {
+        "kind": "grid",
+        "x": 122,
+        "y": 41,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      },
+      {
+        "kind": "grid",
+        "x": 123,
+        "y": 41,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      },
+      {
+        "kind": "grid",
+        "x": 123,
+        "y": 42,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      },
+      {
+        "kind": "grid",
+        "x": 124,
+        "y": 43,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      }
+    ]
+  },
+  {
+    "frame": 12,
+    "layer": "02-jacket-shirt-and-sleeves",
+    "label": "Remove reviewed detached old-outline remnants",
+    "ops": [
+      {
+        "kind": "grid",
+        "x": 165,
+        "y": 75,
+        "rows": [
+          "."
+        ],
+        "legend": {},
+        "transparent": "erase"
+      }
+    ]
+  }
+]

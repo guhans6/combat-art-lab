@@ -1,0 +1,1542 @@
+{
+  "schema_version": 1,
+  "baseline_role": "rejected v03 diagnostic baseline",
+  "registration_claim": "same320x192 native canvas/root plane185; explicit per-form reconstruction, no independent bbox fitting",
+  "sources": [
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-spec.json",
+      "role": "spec",
+      "sha256": "6c3181d512cfcd5c5fe87af527c68b61b4b7960ef77e9c7bc4668530fcc260fd"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/source/attack-repaired.aseprite",
+      "role": "candidate native",
+      "sha256": "5fb9a4f776ea46df1ee86c3eb5e10c8be32b094aa265004e908e832b7f4518ea"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/reopened-sheet.png",
+      "role": "fresh reopen",
+      "sha256": "7b01b4a9aa450e2763667198350ec553f2272b3535dbba71faab92026751f085"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/attack-1x.gif",
+      "role": "authored playback candidate",
+      "sha256": "e14e6722c6884514f257dfebc366ca0eeece7a2008299ac7b7da40c9a1e09342"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-1.png",
+      "role": "F2 baseline",
+      "sha256": "dfb9d09ac160fa39b37fe7ec82163c8f2b3aa80d1afba13d8eafc66350038361"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/frames/candidate-1.png",
+      "role": "F2 candidate",
+      "sha256": "d4ca7259a870dc1fa3ba706fd02f0fddb875494b613f75b079b24b591c36140d"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/allowed-actor.png",
+      "role": "F2 allowed edit mask",
+      "sha256": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-2.png",
+      "role": "F3 baseline",
+      "sha256": "730f653f2a1e46edb3538d80ce4d1550d8d497235ea01b426b36bdee7e5ea013"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/frames/candidate-2.png",
+      "role": "F3 candidate",
+      "sha256": "caec0b17af1a403d3e788c2725dd5dedc36efe07fd4b87fd2219f6626cfbb7be"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/allowed-actor.png",
+      "role": "F3 allowed edit mask",
+      "sha256": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-3.png",
+      "role": "F4 baseline",
+      "sha256": "bf3428477843624c83304c9dc39a843fb6e02a27d3236889a6f421b10046d8fb"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/frames/candidate-3.png",
+      "role": "F4 candidate",
+      "sha256": "c765335ba3d448422efaa1ebe45b3bf6a0538129aa8b150ac0af2f798517ae54"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/allowed-actor.png",
+      "role": "F4 allowed edit mask",
+      "sha256": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-4.png",
+      "role": "F5 baseline",
+      "sha256": "1b5e7f9f70ce842452587ab5742d4911f5f6b38aa434fb6adedf2ef2c8c40ddd"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/frames/candidate-4.png",
+      "role": "F5 candidate",
+      "sha256": "853da2e11bb8a5a6a750573f83e45cdacc83018a75b1768648f0cdeb69565627"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/allowed-actor.png",
+      "role": "F5 allowed edit mask",
+      "sha256": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-5.png",
+      "role": "F6 baseline",
+      "sha256": "d6daad89fe96832ae1bc0f2cfde4a23b346b70b03feabea676d6e65d9165c1aa"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/frames/candidate-5.png",
+      "role": "F6 candidate",
+      "sha256": "7079de18d27afd6c14dbaef5354239a5f77f0817b953204b76f4a8ae6c8adeac"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/allowed-actor.png",
+      "role": "F6 allowed edit mask",
+      "sha256": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-6.png",
+      "role": "F7 baseline",
+      "sha256": "e42113d042a4d4fda1b9e0f0fa0d76effd81601b6106be87ea37bf118d4ea120"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/frames/candidate-6.png",
+      "role": "F7 candidate",
+      "sha256": "6af8363a250c1a06a9293ce6f42b2a542b031d072d3b1fea7fd3bac306c61d47"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/allowed-actor.png",
+      "role": "F7 allowed edit mask",
+      "sha256": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-7.png",
+      "role": "F8 baseline",
+      "sha256": "c1e0de57578a3887768edc92ed699b3d4ba92b2734e98b4fe3ce54426cab6f81"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/frames/candidate-7.png",
+      "role": "F8 candidate",
+      "sha256": "b099ccd23dca0c6cd75e4c58ce3d13409a051715d6058aabf94989ad7990871f"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/allowed-actor.png",
+      "role": "F8 allowed edit mask",
+      "sha256": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-8.png",
+      "role": "F9 baseline",
+      "sha256": "754cfbca68fe90cb70051983992369d40dd1545068d47f3404138d1e5d65f3cb"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/frames/candidate-8.png",
+      "role": "F9 candidate",
+      "sha256": "3f577144d97d9525954b397173e939376deaf6bc412ecc5ab2bf0d7673a13e58"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/allowed-actor.png",
+      "role": "F9 allowed edit mask",
+      "sha256": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-9.png",
+      "role": "F10 baseline",
+      "sha256": "ed7a14e5b0e127f12f8aafe0e3b0ea081724f5477c6e28c29bcd62cf44f89449"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/frames/candidate-9.png",
+      "role": "F10 candidate",
+      "sha256": "b1efe1a119a4516fa4867453601f0a20d6ec0fa2359f744a89219dd59718ab6a"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/allowed-actor.png",
+      "role": "F10 allowed edit mask",
+      "sha256": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-10.png",
+      "role": "F11 baseline",
+      "sha256": "28c387c2e7876d1d2dec8a876aaf677cb5d0b5d4032fd8ec667d2e3efbd164bf"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/frames/candidate-10.png",
+      "role": "F11 candidate",
+      "sha256": "ed02cca02c92d637c4aca2b253fb932e0256ddbc220791cfbc95e2dfac10d86c"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/allowed-actor.png",
+      "role": "F11 allowed edit mask",
+      "sha256": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-11.png",
+      "role": "F12 baseline",
+      "sha256": "d82ee21c7f9b0bfbf79e47cafc753732090f682e3657b3653dcc9ebedfa9da76"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/frames/candidate-11.png",
+      "role": "F12 candidate",
+      "sha256": "cec2922b48c6360cdab58a287fc6e47c60222b0b1b6dd8c7b599ddf8aafb783c"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/allowed-actor.png",
+      "role": "F12 allowed edit mask",
+      "sha256": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+    }
+  ],
+  "sheets": [
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-000-region-00.png",
+      "sha256": "c1562a05b948cd40e4e0bd62c8ea4674523c21556a94963c3450d55ac35d8088"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-000-region-01.png",
+      "sha256": "3e2e6100866a218e0bce6ac8c4fb02fb49a98bf072cde7bc0c0da9dbd61dc158"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-000-region-02.png",
+      "sha256": "c5ecc92c350282d1adb718e204dac10cca653f8649c554e61a41549eeeaa094c"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-001-region-00.png",
+      "sha256": "fb78d8993eb0f18249fb996018f692c86272438a913dd773d297c2eb7cdec829"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-001-region-01.png",
+      "sha256": "bfe72db4c7fdd821b96bc2a064e87bf1b912f4b219d5c7f4eb52f281b357de20"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-001-region-02.png",
+      "sha256": "0e2b303e08816b2bdb5151513fa0e921249bede68e64c2b506a10b892469dc1c"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-002-region-00.png",
+      "sha256": "3d93848cc57f9546d0fb1ba700dd0e7afc6389d0efe184864cc75b35f3ae81fa"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-002-region-01.png",
+      "sha256": "a38250615a6daea6c27fa0ffea58c5b73d642544c542586eb35085a8c84a0157"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-002-region-02.png",
+      "sha256": "a99138f1465f1c954a032b2c6cd9efd905db0e5af3be50f326984477fb8374aa"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-003-region-00.png",
+      "sha256": "3cf19b12b5011db8fc2f4616ba3db9842c3e0405378871bf6a0c38ea0ffea6a0"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-003-region-01.png",
+      "sha256": "dd27aab86e5d09997eec5cd92cc4b09c61277a187ae34dc84bad9f5186ae7596"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-003-region-02.png",
+      "sha256": "f56ca0d0793c7756ad0c98961764a59a9e9a5ba80242a562177a7c5512865442"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-004-region-00.png",
+      "sha256": "90372ab8a81b417222ed73a210ed540970bf42a2b352e6b7439a3834c53b49d5"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-004-region-01.png",
+      "sha256": "9a73d34e8c15c887af9f3b8834ca5cd95ef4026c3681c81805f8feed0e114507"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-004-region-02.png",
+      "sha256": "0945942dd22c4a39f296ec6ca7b5c099bee199d59a135018d6a00b3b3d90aaae"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-005-region-00.png",
+      "sha256": "2d1436b6e3cb0e3a0a05c73588374464aa3f660f6493a213a13b804631ab8a80"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-005-region-01.png",
+      "sha256": "0061824a33adec1850857c895d1bcb2fce4312a21a3a1e035dd3ccc97fc4dbd9"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-005-region-02.png",
+      "sha256": "00572e3bc6382df28613bbea2af73f8af4af5378404a36ff3d56ef0346f3558b"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-006-region-00.png",
+      "sha256": "dc671536e656b92d74215098d7840b114a1e3c97e34fb29877f351def71e0519"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-006-region-01.png",
+      "sha256": "952c63af2982feb71e64cba82bea9c3cf046619494d52fa23ceba855f3dd2859"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-006-region-02.png",
+      "sha256": "d132775ecbf7b6ffc0fe6e8d4d8072c6964465bcee469194944c46bef6c12167"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-007-region-00.png",
+      "sha256": "a36e55c022ad4c1b9ef73ff876ff1af7bfdbe0b592acecef7aa4c6dff1e047fd"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-007-region-01.png",
+      "sha256": "e7b09fbb14c3e1ed4824f5969dedf13173900c317dae45eb762461d989b28184"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-007-region-02.png",
+      "sha256": "44b332728591bdf159c0767b547c949ffa53fe6c4470484d298e6cc71942d5c9"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-008-region-00.png",
+      "sha256": "08a365cbedf355132af6a4df6560353c9dfe13663979d146f22e4df3e547a870"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-008-region-01.png",
+      "sha256": "45a67885a15c903620dadef2d20b5a7685d39b8c1e052512cadc11947099c863"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-008-region-02.png",
+      "sha256": "8c1a1cfcb9c63e723ff93dcc1af294c1f676ae6050d4d857f7df0ad7f714cb13"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-009-region-00.png",
+      "sha256": "ab11517a5fc772ef64e16775329537e9bb6153971859267c9a0aade77004b769"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-009-region-01.png",
+      "sha256": "22d866520b149cc75efde742967fa4bab2b7688cf0791d02f2085209df35243e"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-009-region-02.png",
+      "sha256": "69c3043c28c55c822261b9406e875ae6c49200232db344fa804ab463f617df73"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-010-region-00.png",
+      "sha256": "b14cb97ad44a153081c44c9f855bd128f6fa63a042ca65b015f4b8cdc3baeced"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-010-region-01.png",
+      "sha256": "7925a214e9a2df8670148e76995cbaa60b5e578bdafa8cec7bd4e2048cb980fd"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-010-region-02.png",
+      "sha256": "04b9d9a69bc9116961f0591014ee573dbdc3c4c2d247e14508a40a2bccbcf814"
+    }
+  ],
+  "frames": [
+    {
+      "id": "F2",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          320,
+          192
+        ],
+        "changed_pixels": 10972,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          88,
+          2,
+          181,
+          185
+        ],
+        "visible_colors_before": 241,
+        "visible_colors_after": 237,
+        "new_visible_rgb_colors": [
+          [
+            10,
+            28,
+            61
+          ],
+          [
+            47,
+            11,
+            0
+          ],
+          [
+            51,
+            15,
+            5
+          ],
+          [
+            57,
+            24,
+            15
+          ],
+          [
+            112,
+            102,
+            62
+          ],
+          [
+            120,
+            55,
+            28
+          ],
+          [
+            220,
+            164,
+            127
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 7807,
+        "silhouette_changed_pixels": 4178,
+        "alpha_changed_pixels": 4178,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "dfb9d09ac160fa39b37fe7ec82163c8f2b3aa80d1afba13d8eafc66350038361",
+          "after": "d4ca7259a870dc1fa3ba706fd02f0fddb875494b613f75b079b24b591c36140d",
+          "mask": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop_xyxy_half_open": [
+            75,
+            0,
+            205,
+            65
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-000-region-00.png"
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop_xyxy_half_open": [
+            45,
+            35,
+            290,
+            160
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-000-region-01.png"
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop_xyxy_half_open": [
+            65,
+            70,
+            225,
+            186
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-000-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F3",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          320,
+          192
+        ],
+        "changed_pixels": 11446,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          77,
+          10,
+          231,
+          185
+        ],
+        "visible_colors_before": 236,
+        "visible_colors_after": 238,
+        "new_visible_rgb_colors": [
+          [
+            47,
+            11,
+            0
+          ],
+          [
+            56,
+            21,
+            14
+          ],
+          [
+            57,
+            24,
+            15
+          ],
+          [
+            66,
+            25,
+            8
+          ],
+          [
+            120,
+            55,
+            28
+          ],
+          [
+            254,
+            252,
+            247
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 8828,
+        "silhouette_changed_pixels": 5137,
+        "alpha_changed_pixels": 5137,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "730f653f2a1e46edb3538d80ce4d1550d8d497235ea01b426b36bdee7e5ea013",
+          "after": "caec0b17af1a403d3e788c2725dd5dedc36efe07fd4b87fd2219f6626cfbb7be",
+          "mask": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop_xyxy_half_open": [
+            75,
+            0,
+            205,
+            65
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-001-region-00.png"
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop_xyxy_half_open": [
+            45,
+            35,
+            290,
+            160
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-001-region-01.png"
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop_xyxy_half_open": [
+            65,
+            70,
+            225,
+            186
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-001-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F4",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          320,
+          192
+        ],
+        "changed_pixels": 10901,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          51,
+          7,
+          223,
+          185
+        ],
+        "visible_colors_before": 229,
+        "visible_colors_after": 228,
+        "new_visible_rgb_colors": [
+          [
+            47,
+            11,
+            0
+          ],
+          [
+            51,
+            15,
+            5
+          ],
+          [
+            53,
+            21,
+            10
+          ],
+          [
+            56,
+            21,
+            14
+          ],
+          [
+            112,
+            102,
+            62
+          ],
+          [
+            213,
+            150,
+            114
+          ],
+          [
+            220,
+            164,
+            127
+          ],
+          [
+            250,
+            180,
+            124
+          ],
+          [
+            251,
+            192,
+            149
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 8336,
+        "silhouette_changed_pixels": 5393,
+        "alpha_changed_pixels": 5393,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "bf3428477843624c83304c9dc39a843fb6e02a27d3236889a6f421b10046d8fb",
+          "after": "c765335ba3d448422efaa1ebe45b3bf6a0538129aa8b150ac0af2f798517ae54",
+          "mask": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop_xyxy_half_open": [
+            75,
+            0,
+            205,
+            65
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-002-region-00.png"
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop_xyxy_half_open": [
+            45,
+            35,
+            290,
+            160
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-002-region-01.png"
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop_xyxy_half_open": [
+            65,
+            70,
+            225,
+            186
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-002-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F5",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          320,
+          192
+        ],
+        "changed_pixels": 11656,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          71,
+          7,
+          225,
+          185
+        ],
+        "visible_colors_before": 236,
+        "visible_colors_after": 233,
+        "new_visible_rgb_colors": [
+          [
+            47,
+            11,
+            0
+          ],
+          [
+            56,
+            21,
+            14
+          ],
+          [
+            57,
+            24,
+            15
+          ],
+          [
+            66,
+            25,
+            8
+          ],
+          [
+            120,
+            55,
+            28
+          ],
+          [
+            254,
+            252,
+            247
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 8936,
+        "silhouette_changed_pixels": 5353,
+        "alpha_changed_pixels": 5353,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "1b5e7f9f70ce842452587ab5742d4911f5f6b38aa434fb6adedf2ef2c8c40ddd",
+          "after": "853da2e11bb8a5a6a750573f83e45cdacc83018a75b1768648f0cdeb69565627",
+          "mask": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop_xyxy_half_open": [
+            75,
+            0,
+            205,
+            65
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-003-region-00.png"
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop_xyxy_half_open": [
+            45,
+            35,
+            290,
+            160
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-003-region-01.png"
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop_xyxy_half_open": [
+            65,
+            70,
+            225,
+            186
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-003-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F6",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          320,
+          192
+        ],
+        "changed_pixels": 12489,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          88,
+          5,
+          268,
+          185
+        ],
+        "visible_colors_before": 235,
+        "visible_colors_after": 233,
+        "new_visible_rgb_colors": [
+          [
+            53,
+            21,
+            10
+          ],
+          [
+            105,
+            68,
+            45
+          ],
+          [
+            112,
+            102,
+            62
+          ],
+          [
+            129,
+            52,
+            31
+          ],
+          [
+            220,
+            164,
+            127
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 9482,
+        "silhouette_changed_pixels": 6146,
+        "alpha_changed_pixels": 6146,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "d6daad89fe96832ae1bc0f2cfde4a23b346b70b03feabea676d6e65d9165c1aa",
+          "after": "7079de18d27afd6c14dbaef5354239a5f77f0817b953204b76f4a8ae6c8adeac",
+          "mask": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop_xyxy_half_open": [
+            75,
+            0,
+            205,
+            65
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-004-region-00.png"
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop_xyxy_half_open": [
+            45,
+            35,
+            290,
+            160
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-004-region-01.png"
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop_xyxy_half_open": [
+            65,
+            70,
+            225,
+            186
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-004-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F7",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          320,
+          192
+        ],
+        "changed_pixels": 12848,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          83,
+          7,
+          282,
+          185
+        ],
+        "visible_colors_before": 229,
+        "visible_colors_after": 235,
+        "new_visible_rgb_colors": [
+          [
+            47,
+            11,
+            0
+          ],
+          [
+            50,
+            26,
+            14
+          ],
+          [
+            51,
+            15,
+            5
+          ],
+          [
+            53,
+            21,
+            10
+          ],
+          [
+            57,
+            24,
+            15
+          ],
+          [
+            61,
+            32,
+            22
+          ],
+          [
+            105,
+            68,
+            45
+          ],
+          [
+            112,
+            102,
+            62
+          ],
+          [
+            120,
+            55,
+            28
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 9393,
+        "silhouette_changed_pixels": 6638,
+        "alpha_changed_pixels": 6638,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "e42113d042a4d4fda1b9e0f0fa0d76effd81601b6106be87ea37bf118d4ea120",
+          "after": "6af8363a250c1a06a9293ce6f42b2a542b031d072d3b1fea7fd3bac306c61d47",
+          "mask": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop_xyxy_half_open": [
+            75,
+            0,
+            205,
+            65
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-005-region-00.png"
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop_xyxy_half_open": [
+            45,
+            35,
+            290,
+            160
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-005-region-01.png"
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop_xyxy_half_open": [
+            65,
+            70,
+            225,
+            186
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-005-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F8",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          320,
+          192
+        ],
+        "changed_pixels": 11322,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          83,
+          12,
+          245,
+          185
+        ],
+        "visible_colors_before": 230,
+        "visible_colors_after": 227,
+        "new_visible_rgb_colors": [
+          [
+            47,
+            11,
+            0
+          ],
+          [
+            53,
+            21,
+            10
+          ],
+          [
+            56,
+            21,
+            14
+          ],
+          [
+            57,
+            24,
+            15
+          ],
+          [
+            66,
+            25,
+            8
+          ],
+          [
+            129,
+            52,
+            31
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 9113,
+        "silhouette_changed_pixels": 5211,
+        "alpha_changed_pixels": 5211,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "c1e0de57578a3887768edc92ed699b3d4ba92b2734e98b4fe3ce54426cab6f81",
+          "after": "b099ccd23dca0c6cd75e4c58ce3d13409a051715d6058aabf94989ad7990871f",
+          "mask": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop_xyxy_half_open": [
+            75,
+            0,
+            205,
+            65
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-006-region-00.png"
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop_xyxy_half_open": [
+            45,
+            35,
+            290,
+            160
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-006-region-01.png"
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop_xyxy_half_open": [
+            65,
+            70,
+            225,
+            186
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-006-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F9",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          320,
+          192
+        ],
+        "changed_pixels": 9207,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          106,
+          1,
+          205,
+          185
+        ],
+        "visible_colors_before": 232,
+        "visible_colors_after": 227,
+        "new_visible_rgb_colors": [
+          [
+            27,
+            14,
+            13
+          ],
+          [
+            47,
+            11,
+            0
+          ],
+          [
+            56,
+            21,
+            14
+          ],
+          [
+            66,
+            25,
+            8
+          ],
+          [
+            173,
+            77,
+            45
+          ],
+          [
+            200,
+            146,
+            117
+          ],
+          [
+            213,
+            150,
+            114
+          ],
+          [
+            220,
+            164,
+            127
+          ],
+          [
+            250,
+            180,
+            124
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 7777,
+        "silhouette_changed_pixels": 3517,
+        "alpha_changed_pixels": 3517,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "754cfbca68fe90cb70051983992369d40dd1545068d47f3404138d1e5d65f3cb",
+          "after": "3f577144d97d9525954b397173e939376deaf6bc412ecc5ab2bf0d7673a13e58",
+          "mask": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop_xyxy_half_open": [
+            75,
+            0,
+            205,
+            65
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-007-region-00.png"
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop_xyxy_half_open": [
+            45,
+            35,
+            290,
+            160
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-007-region-01.png"
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop_xyxy_half_open": [
+            65,
+            70,
+            225,
+            186
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-007-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F10",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          320,
+          192
+        ],
+        "changed_pixels": 8762,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          106,
+          1,
+          197,
+          185
+        ],
+        "visible_colors_before": 232,
+        "visible_colors_after": 228,
+        "new_visible_rgb_colors": [
+          [
+            27,
+            14,
+            13
+          ],
+          [
+            47,
+            11,
+            0
+          ],
+          [
+            56,
+            21,
+            14
+          ],
+          [
+            66,
+            25,
+            8
+          ],
+          [
+            173,
+            77,
+            45
+          ],
+          [
+            200,
+            146,
+            117
+          ],
+          [
+            213,
+            150,
+            114
+          ],
+          [
+            220,
+            164,
+            127
+          ],
+          [
+            250,
+            180,
+            124
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 7526,
+        "silhouette_changed_pixels": 3162,
+        "alpha_changed_pixels": 3162,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "ed7a14e5b0e127f12f8aafe0e3b0ea081724f5477c6e28c29bcd62cf44f89449",
+          "after": "b1efe1a119a4516fa4867453601f0a20d6ec0fa2359f744a89219dd59718ab6a",
+          "mask": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop_xyxy_half_open": [
+            75,
+            0,
+            205,
+            65
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-008-region-00.png"
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop_xyxy_half_open": [
+            45,
+            35,
+            290,
+            160
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-008-region-01.png"
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop_xyxy_half_open": [
+            65,
+            70,
+            225,
+            186
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-008-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F11",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          320,
+          192
+        ],
+        "changed_pixels": 8314,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          108,
+          1,
+          190,
+          185
+        ],
+        "visible_colors_before": 230,
+        "visible_colors_after": 232,
+        "new_visible_rgb_colors": [
+          [
+            47,
+            11,
+            0
+          ],
+          [
+            50,
+            26,
+            14
+          ],
+          [
+            51,
+            15,
+            5
+          ],
+          [
+            56,
+            21,
+            14
+          ],
+          [
+            57,
+            24,
+            15
+          ],
+          [
+            66,
+            25,
+            8
+          ],
+          [
+            254,
+            252,
+            247
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 7202,
+        "silhouette_changed_pixels": 3193,
+        "alpha_changed_pixels": 3193,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "28c387c2e7876d1d2dec8a876aaf677cb5d0b5d4032fd8ec667d2e3efbd164bf",
+          "after": "ed02cca02c92d637c4aca2b253fb932e0256ddbc220791cfbc95e2dfac10d86c",
+          "mask": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop_xyxy_half_open": [
+            75,
+            0,
+            205,
+            65
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-009-region-00.png"
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop_xyxy_half_open": [
+            45,
+            35,
+            290,
+            160
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-009-region-01.png"
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop_xyxy_half_open": [
+            65,
+            70,
+            225,
+            186
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-009-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F12",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          320,
+          192
+        ],
+        "changed_pixels": 11535,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          104,
+          3,
+          199,
+          185
+        ],
+        "visible_colors_before": 233,
+        "visible_colors_after": 234,
+        "new_visible_rgb_colors": [
+          [
+            47,
+            11,
+            0
+          ],
+          [
+            50,
+            26,
+            14
+          ],
+          [
+            53,
+            21,
+            10
+          ],
+          [
+            56,
+            21,
+            14
+          ],
+          [
+            57,
+            24,
+            15
+          ],
+          [
+            61,
+            32,
+            22
+          ],
+          [
+            66,
+            25,
+            8
+          ],
+          [
+            80,
+            93,
+            121
+          ],
+          [
+            112,
+            102,
+            62
+          ],
+          [
+            120,
+            55,
+            28
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 7486,
+        "silhouette_changed_pixels": 5884,
+        "alpha_changed_pixels": 5884,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "d82ee21c7f9b0bfbf79e47cafc753732090f682e3657b3653dcc9ebedfa9da76",
+          "after": "cec2922b48c6360cdab58a287fc6e47c60222b0b1b6dd8c7b599ddf8aafb783c",
+          "mask": "f0291526480b371cf6b385c764bf8536c21825c894dc8c93e9587e8475f60ed1"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-neck-shoulders",
+          "crop_xyxy_half_open": [
+            75,
+            0,
+            205,
+            65
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-010-region-00.png"
+        },
+        {
+          "name": "arms-hands-tote-torso",
+          "crop_xyxy_half_open": [
+            45,
+            35,
+            290,
+            160
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-010-region-01.png"
+        },
+        {
+          "name": "hips-legs-feet",
+          "crop_xyxy_half_open": [
+            65,
+            70,
+            225,
+            186
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-full-attack-repair/review/comparison-final/frame-010-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    }
+  ],
+  "zoom": 2,
+  "resampling": "integer nearest-neighbor",
+  "matte": "checkerboard RGB49,49,61 / 61,61,73",
+  "mechanical_passed": true,
+  "visual_acceptance": "pending",
+  "user_approval": "pending",
+  "limits": "Coverage means pixels are available for inspection. Scope/coverage cannot judge anatomy, occlusion, grip or improvement. Registration and affected-frame inventory are caller declarations. Bound native/report hashes do not prove export correspondence or hidden-layer integrity. Source or packet changes require fresh review."
+}

@@ -1,0 +1,23 @@
+{
+  "native_reopen_export_identical": true,
+  "binary_alpha_only": true,
+  "canvas": [
+    128,
+    192
+  ],
+  "drawn_bounds": [
+    32,
+    2,
+    104,
+    186
+  ],
+  "visible_palette_colors": 45,
+  "visible_tote_revision_pixels": 171,
+  "all_visible_revision_pixels_inside_tote_layer": true,
+  "native_sha256": "46b76d29971156ed6e9f36854e0ac78b98224be7ccbbd7ffcaf5fe4abb7a79ad",
+  "export_sha256": "7dbf8ea70416d61f7e6c19662c72fa50935c891d034ba39502f5004e1e8a27d7",
+  "silhouette_iou_at_common_grid": 0.9024,
+  "metric_limit": "Unregistered pixel-mask overlap after reference alpha cleanup; not face/color/style fidelity or human approval.",
+  "reference_preview_processing": "Nearest-neighbor 128x192, alpha>180, retain largest connected component; original untouched",
+  "godot_playback": "not performed"
+}

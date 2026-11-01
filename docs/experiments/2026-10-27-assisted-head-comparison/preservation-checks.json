@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "pre_task_files": 512,
+  "unchanged": 502,
+  "intended_modified": [
+    "tools/pixel-art-director/SKILL.md",
+    "tools/pixel-art-director/references/craft.md",
+    "tools/pixel-art-director/references/reconstruction.md",
+    "CONTEXT.md",
+    "docs/handoff.md",
+    "docs/art/style-guide.md",
+    "docs/art/asset-contract.md",
+    "docs/art/motion-guide.md",
+    "docs/workflow/art-production.md",
+    "docs/research/concept-to-native-pixel-art.md"
+  ],
+  "unexpected_modified": [],
+  "missing": [],
+  "all_preexisting_art_and_experiments_unchanged": true
+}

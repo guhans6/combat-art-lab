@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Native bust blink probe</title>
+<style>body{background:#24242d;color:#eee;font:16px system-ui;margin:28px;max-width:1280px}button,select{font:inherit;padding:8px;margin:8px}img{image-rendering:pixelated;background:#34343e}.views{display:flex;align-items:start;gap:40px}.small{width:120px;height:112px}.large{width:240px;height:224px}li{display:inline-block;margin:4px;padding:4px;background:#34343e}h1{font-size:24px}#film{width:1240px;height:280px}</style>
+<h1>Native bust blink probe — provisional</h1><p>Five actual Aseprite exports. Fixed 120×112 grid; only the eye layer moves. Zero root travel.</p>
+<button id="play">Pause</button><label>Speed <select id="speed"><option value="1">1× native timing</option><option value="0.25">0.25× inspection</option></select></label><button id="restart">Restart</button><button id="step">Pause and step</button><p id="status" aria-live="polite">Loading actual exports…</p>
+<div class="views"><div><p>Native 1×</p><img class="small" id="small" alt="Native blink frame"></div><div><p>Integer zoom 2×</p><img class="large" id="large" alt="Enlarged native blink frame"></div></div>
+<p>Displayed-frame events, newest last (elapsed preview time):</p><ol id="events"></ol>
+<p>Filmstrip for pose inspection; played review above is separate. No combat/contact or Godot validation.</p><img id="film" src="blink-filmstrip.png" alt="Five-frame native blink filmstrip">
+<script>
+const durations=[1600,50,90,60,600],total=2400,urls=durations.map((_,i)=>`blink-final-frame-${i+1}.png`);let playing=true,elapsed=0,last=performance.now(),current=-1,rate=1,cycles=0;
+const small=document.getElementById('small'),large=document.getElementById('large'),status=document.getElementById('status'),events=document.getElementById('events');
+function display(i){if(i===current)return;current=i;small.src=large.src=urls[i];const li=document.createElement('li');li.textContent=`${Math.round(elapsed)} ms → frame ${i+1}`;events.append(li);while(events.children.length>24)events.firstChild.remove();}
+function tick(now){if(playing)elapsed+=Math.max(0,now-last)*rate;last=now;let p=elapsed%total,i=0;while(p>=durations[i]&&i<4){p-=durations[i];i++}display(i);status.textContent=`${playing?'Playing':'Paused'} · frame ${i+1}/5 · ${durations[i]} ms native hold · cycle ${Math.floor(elapsed/total)+1} · ${rate}×`;requestAnimationFrame(tick)}
+document.getElementById('play').onclick=()=>{playing=!playing;document.getElementById('play').textContent=playing?'Pause':'Play'};
+document.getElementById('speed').onchange=e=>{rate=Number(e.target.value)};
+document.getElementById('restart').onclick=()=>{elapsed=0;current=-1;events.replaceChildren();};
+document.getElementById('step').onclick=()=>{playing=false;document.getElementById('play').textContent='Play';elapsed=durations.slice(0,(current+1)%5).reduce((a,b)=>a+b,0)+1};
+Promise.all(urls.map(src=>new Promise(resolve=>{const im=new Image;im.onload=resolve;im.src=src}))).then(()=>{last=performance.now();requestAnimationFrame(tick)});
+</script></html>

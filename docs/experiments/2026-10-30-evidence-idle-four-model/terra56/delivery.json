@@ -1,0 +1,26 @@
+{
+  "status": "delivery_ready_user_visual_selection_pending",
+  "artist": {
+    "model": "gpt-5.6-terra",
+    "reasoning_effort": "medium",
+    "tool": "mcp__aseprite_ai_artist headless; Aseprite 1.3.18.6-dev"
+  },
+  "native": "native/terra56-breathe-seam-repair.aseprite",
+  "added_layers": ["09-breath-seam-backing"],
+  "frames": [
+    "exports/repair/frames/terra56_0.png",
+    "exports/repair/frames/terra56_1.png",
+    "exports/repair/frames/terra56_2.png",
+    "exports/repair/frames/terra56_3.png",
+    "exports/repair/frames/terra56_4.png",
+    "exports/repair/frames/terra56_5.png",
+    "exports/repair/frames/terra56_6.png",
+    "exports/repair/frames/terra56_7.png"
+  ],
+  "durations_ms": [110, 90, 80, 90, 110, 90, 80, 90],
+  "gif_1x": "exports/repair/terra56-breathe-repair-1x.gif",
+  "gif_3x": "exports/repair/terra56-breathe-repair-3x.gif",
+  "gif_frame_indices": [0, 1, 2, 3, 4, 5, 6, 7],
+  "verification": "verification/repair-gif-checks.json",
+  "record": "record.md"
+}

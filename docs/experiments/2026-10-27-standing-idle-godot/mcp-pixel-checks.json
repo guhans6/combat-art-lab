@@ -1,0 +1,48 @@
+{
+  "source": "Aseprite MCP read_pixels on actual native file",
+  "canvas": [
+    96,
+    216
+  ],
+  "frames": 8,
+  "cycle_ms": 3000,
+  "feet_rows": [
+    190,
+    215
+  ],
+  "feet_composite_unchanged": true,
+  "exact_return_to_rest": true,
+  "blink_changes": [
+    {
+      "frame": 3,
+      "changed_composite_pixels": 16,
+      "outside_eye_regions": 0
+    },
+    {
+      "frame": 4,
+      "changed_composite_pixels": 24,
+      "outside_eye_regions": 0
+    },
+    {
+      "frame": 5,
+      "changed_composite_pixels": 16,
+      "outside_eye_regions": 0
+    }
+  ],
+  "passed": true,
+  "native_protected_layers": [
+    {
+      "name": "01-denim",
+      "all_eight_native_cels_pixel_equal": true
+    },
+    {
+      "name": "02-shoes",
+      "all_eight_native_cels_pixel_equal": true
+    },
+    {
+      "name": "03-far-shoe",
+      "all_eight_native_cels_pixel_equal": true
+    }
+  ],
+  "binary_alpha": true
+}

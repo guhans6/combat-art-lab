@@ -1,0 +1,39 @@
+{
+  "reopen_exports_identical": true,
+  "exports": [
+    {
+      "file": "scratch-smoke.png",
+      "sha256": "8913f8d305b0ffe557357b78dd75632b193cb736963b61152c0c268217bf0715",
+      "rgba_sha256": "f16c60a0daf1c7a5d7b51734cb2c6def0e59ed5ee5aadf4400130c7b6206ad2f",
+      "dimensions": [
+        16,
+        16
+      ]
+    },
+    {
+      "file": "scratch-smoke-reopen.png",
+      "sha256": "8913f8d305b0ffe557357b78dd75632b193cb736963b61152c0c268217bf0715",
+      "rgba_sha256": "f16c60a0daf1c7a5d7b51734cb2c6def0e59ed5ee5aadf4400130c7b6206ad2f",
+      "dimensions": [
+        16,
+        16
+      ]
+    },
+    {
+      "file": "scratch-smoke-original-reopen.png",
+      "sha256": "8913f8d305b0ffe557357b78dd75632b193cb736963b61152c0c268217bf0715",
+      "rgba_sha256": "f16c60a0daf1c7a5d7b51734cb2c6def0e59ed5ee5aadf4400130c7b6206ad2f",
+      "dimensions": [
+        16,
+        16
+      ]
+    }
+  ],
+  "out_of_mask_diff_vs_original": [
+    [
+      15,
+      15
+    ]
+  ],
+  "out_of_mask_checker": "REJECTED AS EXPECTED"
+}

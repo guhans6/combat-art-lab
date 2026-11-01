@@ -1,0 +1,163 @@
+{
+  "forward": [
+    3,
+    7,
+    8,
+    4
+  ],
+  "return": [
+    6,
+    8,
+    7,
+    3,
+    2,
+    1
+  ],
+  "sites": {
+    "release": {
+      "frame": 7,
+      "sites": {
+        "G": [
+          157,
+          43
+        ],
+        "FL": [
+          155,
+          74
+        ],
+        "FR": [
+          165,
+          72
+        ],
+        "NL": [
+          156,
+          80
+        ],
+        "NR": [
+          166,
+          79
+        ],
+        "M": [
+          160,
+          75
+        ],
+        "bottom": [
+          163,
+          105
+        ]
+      },
+      "arms": [
+        [
+          [
+            112,
+            50
+          ],
+          [
+            126,
+            73
+          ],
+          [
+            151,
+            62
+          ],
+          [
+            156,
+            61
+          ]
+        ],
+        [
+          [
+            140,
+            49
+          ],
+          [
+            167,
+            67
+          ],
+          [
+            157,
+            44
+          ],
+          [
+            157,
+            42
+          ]
+        ]
+      ],
+      "roles": "Right hand retains original shoulder strap, lifts bundle outside shoulder atx157/y43; left catches lower strand at154/61. No strap remains resting on shoulder."
+    },
+    "gather": {
+      "frame": 8,
+      "sites": {
+        "G": [
+          134,
+          86
+        ],
+        "FL": [
+          128,
+          104
+        ],
+        "FR": [
+          144,
+          102
+        ],
+        "NL": [
+          128,
+          110
+        ],
+        "NR": [
+          144,
+          108
+        ],
+        "M": [
+          136,
+          104
+        ],
+        "bottom": [
+          139,
+          134
+        ]
+      },
+      "arms": [
+        [
+          [
+            112,
+            50
+          ],
+          [
+            110,
+            74
+          ],
+          [
+            129,
+            85
+          ],
+          [
+            132,
+            85
+          ]
+        ],
+        [
+          [
+            140,
+            49
+          ],
+          [
+            143,
+            73
+          ],
+          [
+            136,
+            84
+          ],
+          [
+            135,
+            85
+          ]
+        ]
+      ],
+      "roles": "Both hands gather same near/far straps at134/86; right retains original bundle; left closes around lower bundle; no release before strike."
+    }
+  },
+  "intent": "On return, right lifts retained bundle to shoulder; shoulder accepts loop in key3; left releases only after shoulder supports load, then right releases to pocket through key2\u2192neutral. No bag redesign."
+}

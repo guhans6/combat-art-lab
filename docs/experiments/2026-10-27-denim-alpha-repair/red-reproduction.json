@@ -1,0 +1,10 @@
+[
+  {
+    "exit": 1,
+    "output": "{\"file\": \"/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-27-denim-alpha-repair/minimal-hole.png\", \"leg_holes\": [[[1, 1]]], \"missing_pixels\": 1}\n"
+  },
+  {
+    "exit": 1,
+    "output": "{\"file\": \"/Users/guhan/Guhan/Projects/combat-art-lab/godot/standing-idle-lab/textures/idle/frame-00.png\", \"leg_holes\": [[[59, 116]], [[39, 121]], [[47, 150]], [[37, 155]], [[50, 162]], [[27, 177]], [[31, 182]], [[67, 186]], [[70, 186]], [[59, 189], [59, 190]], [[39, 190]]], \"missing_pixels\": 12}\n"
+  }
+]

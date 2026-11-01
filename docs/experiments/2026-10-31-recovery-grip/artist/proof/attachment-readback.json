@@ -1,0 +1,278 @@
+{
+  "native_sha256": "b2508d390693adaacc8f6db9ed9f3f129828a6071d20a1c4f9b6779c78009f38",
+  "coordinates_native_320x192": {
+    "175,83": {
+      "composite": "#dfb39bff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#ea9368ff",
+        "06-continuous-handle-tension": "#dfb39bff"
+      }
+    },
+    "176,83": {
+      "composite": "#795246ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#78371cff",
+        "06-continuous-handle-tension": "#795246ff"
+      }
+    },
+    "174,84": {
+      "composite": "#fcaf80ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#fcaf80ff",
+        "06-continuous-handle-tension": "#00000000"
+      }
+    },
+    "175,84": {
+      "composite": "#e48558ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#e48558ff",
+        "06-continuous-handle-tension": "#00000000"
+      }
+    },
+    "176,84": {
+      "composite": "#78371cff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#78371cff",
+        "06-continuous-handle-tension": "#00000000"
+      }
+    },
+    "173,85": {
+      "composite": "#fcaf80ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#fcaf80ff",
+        "06-continuous-handle-tension": "#00000000"
+      }
+    },
+    "174,85": {
+      "composite": "#ea9368ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#ea9368ff",
+        "06-continuous-handle-tension": "#00000000"
+      }
+    },
+    "175,85": {
+      "composite": "#78371cff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#78371cff",
+        "06-continuous-handle-tension": "#00000000"
+      }
+    },
+    "172,86": {
+      "composite": "#fcaf80ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#fcaf80ff",
+        "06-continuous-handle-tension": "#00000000"
+      }
+    },
+    "173,86": {
+      "composite": "#e48558ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#e48558ff",
+        "06-continuous-handle-tension": "#00000000"
+      }
+    },
+    "174,86": {
+      "composite": "#78371cff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#78371cff",
+        "06-continuous-handle-tension": "#00000000"
+      }
+    },
+    "171,87": {
+      "composite": "#fcaf80ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#fcaf80ff",
+        "06-continuous-handle-tension": "#00000000"
+      }
+    },
+    "172,87": {
+      "composite": "#e48558ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#e48558ff",
+        "06-continuous-handle-tension": "#00000000"
+      }
+    },
+    "173,87": {
+      "composite": "#78371cff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#78371cff",
+        "06-continuous-handle-tension": "#00000000"
+      }
+    },
+    "170,88": {
+      "composite": "#fda977ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#fda977ff",
+        "06-continuous-handle-tension": "#00000000"
+      }
+    },
+    "171,88": {
+      "composite": "#e48558ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#e48558ff",
+        "06-continuous-handle-tension": "#00000000"
+      }
+    },
+    "172,88": {
+      "composite": "#78371cff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#78371cff",
+        "06-continuous-handle-tension": "#00000000"
+      }
+    },
+    "170,89": {
+      "composite": "#ea9368ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#ea9368ff",
+        "06-continuous-handle-tension": "#00000000"
+      }
+    },
+    "171,89": {
+      "composite": "#78371cff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#78371cff",
+        "06-continuous-handle-tension": "#00000000"
+      }
+    },
+    "171,90": {
+      "composite": "#dfb39bff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#524c34ff",
+        "06-continuous-handle-tension": "#dfb39bff"
+      }
+    },
+    "172,90": {
+      "composite": "#f2cdb5ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#524c34ff",
+        "06-continuous-handle-tension": "#f2cdb5ff"
+      }
+    },
+    "173,90": {
+      "composite": "#795246ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#524c34ff",
+        "06-continuous-handle-tension": "#795246ff"
+      }
+    },
+    "174,90": {
+      "composite": "#795246ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#524c34ff",
+        "06-continuous-handle-tension": "#795246ff"
+      }
+    },
+    "175,90": {
+      "composite": "#dfb39bff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#524c34ff",
+        "06-continuous-handle-tension": "#dfb39bff"
+      }
+    },
+    "176,90": {
+      "composite": "#f2cdb5ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#524c34ff",
+        "06-continuous-handle-tension": "#f2cdb5ff"
+      }
+    },
+    "172,91": {
+      "composite": "#795246ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#524c34ff",
+        "06-continuous-handle-tension": "#795246ff"
+      }
+    },
+    "174,91": {
+      "composite": "#524c34ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#524c34ff",
+        "06-continuous-handle-tension": "#00000000"
+      }
+    },
+    "175,91": {
+      "composite": "#795246ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#524c34ff",
+        "06-continuous-handle-tension": "#795246ff"
+      }
+    },
+    "161,109": {
+      "composite": "#795246ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#00000000",
+        "06-continuous-handle-tension": "#795246ff"
+      }
+    },
+    "162,109": {
+      "composite": "#dfb39bff",
+      "owners": {
+        "04-tote-and-handles": "#553732ff",
+        "05-loaded-grip-drawing": "#00000000",
+        "06-continuous-handle-tension": "#dfb39bff"
+      }
+    },
+    "163,109": {
+      "composite": "#f2cdb5ff",
+      "owners": {
+        "04-tote-and-handles": "#a47b71ff",
+        "05-loaded-grip-drawing": "#00000000",
+        "06-continuous-handle-tension": "#f2cdb5ff"
+      }
+    },
+    "187,99": {
+      "composite": "#dfb39bff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#00000000",
+        "06-continuous-handle-tension": "#dfb39bff"
+      }
+    },
+    "188,99": {
+      "composite": "#f2cdb5ff",
+      "owners": {
+        "04-tote-and-handles": "#553732ff",
+        "05-loaded-grip-drawing": "#00000000",
+        "06-continuous-handle-tension": "#f2cdb5ff"
+      }
+    },
+    "189,99": {
+      "composite": "#795246ff",
+      "owners": {
+        "04-tote-and-handles": "#00000000",
+        "05-loaded-grip-drawing": "#00000000",
+        "06-continuous-handle-tension": "#795246ff"
+      }
+    }
+  },
+  "F9": 9
+}

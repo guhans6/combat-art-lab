@@ -1,0 +1,84 @@
+{
+  "model": "gpt-5.6-luna/max",
+  "tool": {
+    "server": "mcp__aseprite_ai_artist",
+    "product": "Aseprite AI Artist",
+    "mode": "headless",
+    "aseprite": "1.3.18.6-dev",
+    "extension": "Pebbly 0.8.2"
+  },
+  "native": "technical-repair/luna56-idle-repaired.aseprite",
+  "frames": [
+    "technical-repair/frames/frame-0.png",
+    "technical-repair/frames/frame-1.png",
+    "technical-repair/frames/frame-2.png",
+    "technical-repair/frames/frame-3.png",
+    "technical-repair/frames/frame-4.png",
+    "technical-repair/frames/frame-5.png"
+  ],
+  "durations_ms": [420, 140, 180, 220, 180, 560],
+  "tag": "idle-breathe",
+  "gif_1x": "technical-repair/proof/idle-1x.gif",
+  "gif_3x": "technical-repair/proof/idle-3x.gif",
+  "contacts": [
+    "technical-repair/contacts/idle-contact.png"
+  ],
+  "verification": "technical-repair/verification.json",
+  "record": "record.md",
+  "added_layers": ["09-anim-overlap-repair"],
+  "repair": {
+    "kind": "declared_normal_blend_backing_layer",
+    "purpose": "Sparse baseline-colored overlap pixels only at the parent alpha check's enclosed body-hole coordinates on frames 2-5.",
+    "frames_repaired_1based": [2, 3, 4, 5],
+    "pixels_added_by_frame": {"2": 64, "3": 44, "4": 83, "5": 65},
+    "original_preserved": {
+      "native": "luna56-idle.aseprite",
+      "frames": ["frames/frame-0.png", "frames/frame-1.png", "frames/frame-2.png", "frames/frame-3.png", "frames/frame-4.png", "frames/frame-5.png"],
+      "gif_1x": "proof/idle-1x.gif",
+      "gif_3x": "proof/idle-3x.gif",
+      "verification": "verification.json"
+    }
+  },
+  "source": {
+    "repo_path": "inputs/neutral.aseprite",
+    "sha256": "d76266fa8afcd1de643e6b6421ec4dfe4fa77f8044a1d083205b921eb2f25540",
+    "neutral_png_sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+    "evidence_pack_sha256": "c946289c8fc1ff74faf4fbc0206c58f2e1c9eebd37e18f595f5418e9b5e93a95"
+  },
+  "sha256": {
+    "luna56-idle.aseprite": "4911b83d1608dc72338f9ba3367b37ca022576ff45c6ec4a2914fafaa9419c9e",
+    "frames/frame-0.png": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+    "frames/frame-1.png": "acc47b21834850c97bc612d0aed1dfb0d2232436689db9d8c58ea773e0948f85",
+    "frames/frame-2.png": "aa97b0edc862eb74a5d63543575f16caa4805aaa4736a953f81706991793148e",
+    "frames/frame-3.png": "53bae469c2ba37dae3b5c0e909e288ce8483a7e11e90d403fbf10b3b7e7187d7",
+    "frames/frame-4.png": "ae34739dcf9f3141726531a4ffae31c2d013dbe15b81840be9d29b98b69f7f45",
+    "frames/frame-5.png": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+    "proof/idle-1x.gif": "2253c7a1d4a9781ae9caedad09515b57ca7329299d6062c1ab7e50f1a7a911ba",
+    "proof/idle-3x.gif": "7f18292752bf513438193b2d68667cb701111fa1a089fc589c02c211841d0272",
+    "contacts/idle-contact.png": "248524a930ec8563a1bd3ecea74e1769d2a30ee0c52b323a8b7120b8de1fb57e",
+    "contacts/idle-contact-1x.png": "88b2e46ce14fc2e01f4452ec2cf3cb0455b721e285e75b20f6c0996beae35aba",
+    "revision/luna56-idle-duplicate.aseprite": "c8255006ac18210f2d89e121305198c7ed37341e2b30438eba0da8017d254520",
+    "revision/revised-frame-3.png": "40940b26c5e69d26f63eb55897d472f2859ff52d1d165b00d64f8b32f8e3d8dc",
+    "verification.json": "97db3abcefafcf0784f74cc7648343e59af86f760ba913f6a732a745df880ff6",
+    "technical-repair/luna56-idle-repaired.aseprite": "f7aa4235209d78823d7fe769e4ba53035692bc014d1af2e5fda11af93ed655d9",
+    "technical-repair/frames/frame-0.png": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+    "technical-repair/frames/frame-1.png": "fae8d469a96c1ec2c6aebbe3d02869ed5f3a04392da7a63ce339f5a7067195da",
+    "technical-repair/frames/frame-2.png": "c1bbf74f014e1d05bbcccf16dc0e10808a11de659fb475e8247d073f2791e8ea",
+    "technical-repair/frames/frame-3.png": "fd979f4d93926917c4813a4a0c6d6d75b3dca18d9c6e3a5792066ae23958a8b9",
+    "technical-repair/frames/frame-4.png": "cd30ed74efa589764d11fadc2923d8d8a001b476133711accd3a47cec193bd92",
+    "technical-repair/frames/frame-5.png": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+    "technical-repair/proof/idle-1x.gif": "6ce8e13887e46e0f1dc5f32f64509ecd8d8ede92fa56247e1ee7910a93fa981c",
+    "technical-repair/proof/idle-3x.gif": "4ee60625fb2511ef332729898d209df4fd2e4c929379948099d6431c89b7256c",
+    "technical-repair/proof/reopen-frame-0.png": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+    "technical-repair/proof/reopen-frame-1.png": "fae8d469a96c1ec2c6aebbe3d02869ed5f3a04392da7a63ce339f5a7067195da",
+    "technical-repair/proof/reopen-frame-2.png": "c1bbf74f014e1d05bbcccf16dc0e10808a11de659fb475e8247d073f2791e8ea",
+    "technical-repair/proof/reopen-frame-3.png": "fd979f4d93926917c4813a4a0c6d6d75b3dca18d9c6e3a5792066ae23958a8b9",
+    "technical-repair/proof/reopen-frame-4.png": "cd30ed74efa589764d11fadc2923d8d8a001b476133711accd3a47cec193bd92",
+    "technical-repair/proof/reopen-frame-5.png": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+    "technical-repair/contacts/idle-contact.png": "0be390c8517562f06d4f06be99a5b1c08b451252bd69ee1c32039eefb36288c9",
+    "technical-repair/revision/luna56-idle-repaired-duplicate.aseprite": "4f9299be5bc729cfe10664cd95c9d83f0dd103ca268ed7121d766ceef8fd4a50",
+    "technical-repair/revision/revised-frame-2.png": "90dd6c9c88be0ee31309106b672d789c9e05185aac1968b6d83393dc9a2857f3",
+    "technical-repair/verification.json": "e332c114cd247855cd117f81b502ad9e160f80ded374f7f98c485ff320f07fd2",
+    "record.md": "ab51be6aab55fe8c0fa2dc79aa0ca2c2e54683d0f3ee5359aaca934aae9b1eb8"
+  }
+}

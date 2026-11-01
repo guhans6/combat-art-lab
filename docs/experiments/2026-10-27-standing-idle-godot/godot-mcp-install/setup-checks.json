@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "installed_source_matches_reviewed_tarball": true,
+  "server_source_sha256": "fd3f5df677988285606283bf29eb7ca006d2ed89faf75870091c890638806dc0",
+  "project_config_parses": true,
+  "existing_aseprite_config_preserved": true,
+  "only_added_server": "godot-art-lab",
+  "protocol_smoke_passed": true,
+  "global_config_written": false,
+  "native_chat_catalog_exposed": false,
+  "code_mcp_used_for_installation": false
+}

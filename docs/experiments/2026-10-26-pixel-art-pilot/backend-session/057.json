@@ -1,0 +1,24 @@
+{
+  "id": "057",
+  "time": "2026-10-26T10:33:55.651Z",
+  "call": {
+    "name": "sprite_manage",
+    "arguments": {
+      "op": "close"
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "close: pass-02.aseprite. Refer to it as '#120'."
+      }
+    ],
+    "structuredContent": {
+      "op": "close",
+      "sprite": "pass-02.aseprite",
+      "id": 120
+    }
+  },
+  "images": []
+}

@@ -1,0 +1,225 @@
+{
+  "visible_changed": 83,
+  "native_layers_before": [
+    "guide-source-seed (hidden)",
+    "00-shoes",
+    "01-denim",
+    "02a-jacket-left",
+    "02b-jacket-right",
+    "03-shirt",
+    "04-tote",
+    "05-tote-strap",
+    "06a-left-hand",
+    "06b-right-hand",
+    "07-face-and-neck",
+    "08-hair-tie-and-hair"
+  ],
+  "native_layers_rejected": [
+    "guide-source-seed (hidden)",
+    "00-shoes",
+    "01-denim",
+    "02a-jacket-left",
+    "02b-jacket-right",
+    "03-shirt",
+    "04-tote",
+    "05-tote-strap",
+    "06a-left-hand",
+    "06b-right-hand",
+    "07-face-and-neck",
+    "08-hair-tie-and-hair"
+  ],
+  "bag_region_changes": [
+    {
+      "x": 94,
+      "y": 80,
+      "before": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        184,
+        120,
+        90,
+        255
+      ]
+    },
+    {
+      "x": 94,
+      "y": 81,
+      "before": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        184,
+        120,
+        90,
+        255
+      ]
+    },
+    {
+      "x": 95,
+      "y": 82,
+      "before": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        184,
+        120,
+        90,
+        255
+      ]
+    },
+    {
+      "x": 95,
+      "y": 83,
+      "before": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        184,
+        120,
+        90,
+        255
+      ]
+    },
+    {
+      "x": 95,
+      "y": 84,
+      "before": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        184,
+        120,
+        90,
+        255
+      ]
+    },
+    {
+      "x": 95,
+      "y": 85,
+      "before": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        184,
+        120,
+        90,
+        255
+      ]
+    },
+    {
+      "x": 95,
+      "y": 86,
+      "before": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        184,
+        120,
+        90,
+        255
+      ]
+    },
+    {
+      "x": 95,
+      "y": 87,
+      "before": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        184,
+        120,
+        90,
+        255
+      ]
+    },
+    {
+      "x": 95,
+      "y": 88,
+      "before": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        184,
+        120,
+        90,
+        255
+      ]
+    },
+    {
+      "x": 95,
+      "y": 89,
+      "before": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        184,
+        120,
+        90,
+        255
+      ]
+    },
+    {
+      "x": 95,
+      "y": 90,
+      "before": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        184,
+        120,
+        90,
+        255
+      ]
+    },
+    {
+      "x": 95,
+      "y": 91,
+      "before": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "after": [
+        184,
+        120,
+        90,
+        255
+      ]
+    }
+  ]
+}

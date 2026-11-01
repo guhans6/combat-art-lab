@@ -1,0 +1,25 @@
+{
+  "packet_sha256": "87d41ad67f79842caff7a9c1fec2593b94f86541ebdb69c2c01a8ebb44f681c6",
+  "native_sha256": "5fb9a4f776ea46df1ee86c3eb5e10c8be32b094aa265004e908e832b7f4518ea",
+  "reviewers": [
+    "primary requested Astra High session",
+    "independent Sol/high read-only visual critic"
+  ],
+  "views": [
+    "approved original scene and close-up",
+    "neutral.png at1x and6x crop",
+    "all13native composites and contact-1x.png",
+    "compare-f01..13.png same-grid2x",
+    "native hand/cuff/grip regions with coordinate readback",
+    "contrasting alpha-inspection.png",
+    "actual runtime-frame-05.png and all13pixel comparisons"
+  ],
+  "playback_perceived": "No continuous temporal perception; authored-speed1x/3x GIFs supplied; actualGodot events and still captures inspected.",
+  "decisions": {
+    "target_improvement": "Entry/return anatomy, head identity, tote scale/return, F8\u2013F10 grip ordering materially improved in stills.",
+    "regressions": "Observed cuff-mask losses, opaque remnants and50shoe/denim/waist alpha gaps repaired. Body mapping changes fold topology and reused head can feel rigid; remaining motion/style uncertainty.",
+    "selection": "Retained candidate for user review; not production-approved.",
+    "user_approval": "pending"
+  },
+  "limits": "The final50coverage pixels were primary-reviewed after the independent grip/remnant review. Packet freshness is mechanical; it does not authenticate art judgment."
+}

@@ -1,0 +1,75 @@
+{
+  "id": "051",
+  "time": "2026-10-26T10:32:48.424Z",
+  "call": {
+    "name": "draw",
+    "arguments": {
+      "layer": "01-hair-back",
+      "frame": 1,
+      "selectionOnly": true,
+      "label": "pass02 break rear hair disk into overlapping clumps",
+      "ops": [
+        {
+          "kind": "grid",
+          "x": 34,
+          "y": 10,
+          "rows": [
+            "............FDDDKKKMD...",
+            "..........FDDFFDKKKKD...",
+            ".......FDKKvvvFFDKKD....",
+            ".....FDDMMMMvvFFDDDD....",
+            "....FDMMMMMMKvvFFFFD....",
+            "....DMMMMKKDKvvKFFFFD...",
+            "...DMMMKKKKDKKKKFFFFD...",
+            "..FDMMKKGGDGKKDKFFFFFD..",
+            ".FDKMKKGGGDGGKDGGGFFFD..",
+            ".DFKKKKKGDGGGDGGGGGFFD..",
+            "..DFKMKKGDGGGDGGKGGFFFD.",
+            "..DFGMKGGGGGDGGKKKGFFFD.",
+            "...DDGKGGGGFDGKKKKGFFFD.",
+            "...DDGKGGGFDGGKMKGGFF.D.",
+            "....DDMKGFFGGGMKGGFFFD..",
+            "....DDGMFFFFGKMKGFFFFD..",
+            "...FFKDDMKFFDMKGGFFFD...",
+            "....FFKKDDDFDGGGFFF.D...",
+            ".....FFK...DGGGKFFDD....",
+            ".....DFFF...DGFFKD......",
+            ".......DD..D.DFFKK......"
+          ],
+          "legend": {
+            "F": "#49322d",
+            "D": "#402b29",
+            "K": "#6b4435",
+            "M": "#7d503a",
+            "v": "#e8d8b9",
+            "G": "#57382e"
+          },
+          "transparent": "erase"
+        }
+      ]
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "1 op(s), 504 pixel(s) changed on '01-hair-back' frame 1. Now call look to see the result before moving on."
+      }
+    ],
+    "structuredContent": {
+      "bounds": {
+        "y": 10,
+        "width": 24,
+        "height": 21,
+        "x": 34
+      },
+      "frame": 1,
+      "colorsSnapped": [],
+      "sprite": "pass-01.aseprite",
+      "pixelsChanged": 504,
+      "opsApplied": 1,
+      "layer": "01-hair-back"
+    }
+  },
+  "images": []
+}

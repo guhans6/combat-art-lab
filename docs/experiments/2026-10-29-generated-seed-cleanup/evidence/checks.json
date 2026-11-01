@@ -1,0 +1,20 @@
+{
+  "baseline_sha256": "aa7dbc1201f80a9908f0174a1145f868132f116b2c984162b8e5af4e83561578",
+  "candidate_sha256": "3ac5b964ffd539e63a74607537db4716d53d60de59d427533d5af42b124394aa",
+  "reopened_sha256": "3ac5b964ffd539e63a74607537db4716d53d60de59d427533d5af42b124394aa",
+  "source_sha256": "12e971cc9e3cbfa7add2a17a62ff53d1f45b3c55197ce23c336a6447bed1f49e",
+  "dimensions": [
+    128,
+    192
+  ],
+  "candidate_equals_reopened_rgba": true,
+  "changed_pixels": 14,
+  "alpha_changes": 0,
+  "protected_changes": 0,
+  "face_lock": [
+    19,
+    7,
+    78,
+    82
+  ]
+}

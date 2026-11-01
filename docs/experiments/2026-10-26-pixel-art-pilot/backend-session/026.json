@@ -1,0 +1,26 @@
+{
+  "id": "026",
+  "time": "2026-10-26T10:29:11.325Z",
+  "call": {
+    "name": "sprite_manage",
+    "arguments": {
+      "op": "save_as",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-26-pixel-art-pilot/smoke/erase.aseprite"
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "save_as: erase.aseprite. Refer to it as '#48'."
+      }
+    ],
+    "structuredContent": {
+      "op": "save_as",
+      "sprite": "erase.aseprite",
+      "id": 48,
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-26-pixel-art-pilot/smoke/erase.aseprite"
+    }
+  },
+  "images": []
+}

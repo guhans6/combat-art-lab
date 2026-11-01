@@ -1,0 +1,3857 @@
+{
+  "candidate": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/luna/passes/pass02/luna6-clear-breathing-pass02.aseprite",
+  "candidate_sha256": "cc1f870f02dac8ad8da707131ce2574dcb0bb118bf8659a1525461a8c178ada7",
+  "baseline": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breath-blink/luna/passes/pass01/luna6-idle-breath-blink-pass01.aseprite",
+  "baseline_sha256": "d5b9d7675de8bea50a1941361d3e3bed3c187b3ee7e1d7e0585d51f8d37cc8ed",
+  "baseline_expected_sha256": "d5b9d7675de8bea50a1941361d3e3bed3c187b3ee7e1d7e0585d51f8d37cc8ed",
+  "canvas": [
+    128,
+    192
+  ],
+  "frame_count": 8,
+  "header_equal": true,
+  "layer_metadata_equal": true,
+  "frame_metadata_equal": true,
+  "cel_keys_equal": true,
+  "layers": [
+    {
+      "name": "guide-source-seed (hidden)",
+      "flags": 0,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "00-shoes",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "01-denim",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "02a-jacket-left",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "02b-jacket-right",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "03-shirt",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "04-tote",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "05-tote-strap",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "06a-left-hand",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "06b-right-hand",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "07-face-and-neck",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "08-hair-tie-and-hair",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    }
+  ],
+  "durations_ms": [
+    600,
+    350,
+    550,
+    600,
+    50,
+    80,
+    50,
+    250
+  ],
+  "frames": [
+    {
+      "frame": 0,
+      "duration_ms": 600,
+      "vs_same_baseline_frame": 0,
+      "vs_neutral": 0,
+      "changed_bounds": null,
+      "vs_previous": 0,
+      "vs_previous_bounds": null,
+      "opaque": 7844,
+      "nonbinary_alpha": 0,
+      "alpha_lost_vs_neutral": 0,
+      "alpha_added_vs_neutral": 0,
+      "holes": [
+        {
+          "size": 8,
+          "xy": [
+            [
+              49,
+              31
+            ],
+            [
+              49,
+              32
+            ],
+            [
+              49,
+              33
+            ],
+            [
+              50,
+              32
+            ],
+            [
+              50,
+              33
+            ],
+            [
+              51,
+              31
+            ],
+            [
+              51,
+              32
+            ],
+            [
+              51,
+              33
+            ]
+          ]
+        },
+        {
+          "size": 4,
+          "xy": [
+            [
+              40,
+              23
+            ],
+            [
+              40,
+              24
+            ],
+            [
+              40,
+              25
+            ],
+            [
+              40,
+              26
+            ]
+          ]
+        },
+        {
+          "size": 4,
+          "xy": [
+            [
+              71,
+              30
+            ],
+            [
+              72,
+              28
+            ],
+            [
+              72,
+              29
+            ],
+            [
+              72,
+              30
+            ]
+          ]
+        },
+        {
+          "size": 3,
+          "xy": [
+            [
+              44,
+              28
+            ],
+            [
+              45,
+              28
+            ],
+            [
+              46,
+              28
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              38,
+              20
+            ],
+            [
+              38,
+              21
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              52,
+              29
+            ],
+            [
+              53,
+              29
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              74,
+              24
+            ],
+            [
+              74,
+              25
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              41,
+              15
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              41,
+              27
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              51,
+              7
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              54,
+              32
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              55,
+              31
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              63,
+              116
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              76,
+              12
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              77,
+              13
+            ]
+          ]
+        }
+      ],
+      "holes_equal_baseline": true,
+      "face_head_y0_43_equal_same_baseline_frame": true,
+      "lower_y105_plus_equal": true,
+      "native_layers": [
+        {
+          "name": "guide-source-seed (hidden)",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "00-shoes",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "01-denim",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "02a-jacket-left",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "02b-jacket-right",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "03-shirt",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "04-tote",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "05-tote-strap",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "06a-left-hand",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "06b-right-hand",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "07-face-and-neck",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "08-hair-tie-and-hair",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        }
+      ]
+    },
+    {
+      "frame": 1,
+      "duration_ms": 350,
+      "vs_same_baseline_frame": 75,
+      "vs_neutral": 85,
+      "changed_bounds": [
+        39,
+        44,
+        89,
+        58
+      ],
+      "vs_previous": 85,
+      "vs_previous_bounds": [
+        39,
+        44,
+        89,
+        58
+      ],
+      "opaque": 7852,
+      "nonbinary_alpha": 0,
+      "alpha_lost_vs_neutral": 0,
+      "alpha_added_vs_neutral": 8,
+      "holes": [
+        {
+          "size": 8,
+          "xy": [
+            [
+              49,
+              31
+            ],
+            [
+              49,
+              32
+            ],
+            [
+              49,
+              33
+            ],
+            [
+              50,
+              32
+            ],
+            [
+              50,
+              33
+            ],
+            [
+              51,
+              31
+            ],
+            [
+              51,
+              32
+            ],
+            [
+              51,
+              33
+            ]
+          ]
+        },
+        {
+          "size": 4,
+          "xy": [
+            [
+              40,
+              23
+            ],
+            [
+              40,
+              24
+            ],
+            [
+              40,
+              25
+            ],
+            [
+              40,
+              26
+            ]
+          ]
+        },
+        {
+          "size": 4,
+          "xy": [
+            [
+              71,
+              30
+            ],
+            [
+              72,
+              28
+            ],
+            [
+              72,
+              29
+            ],
+            [
+              72,
+              30
+            ]
+          ]
+        },
+        {
+          "size": 3,
+          "xy": [
+            [
+              44,
+              28
+            ],
+            [
+              45,
+              28
+            ],
+            [
+              46,
+              28
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              38,
+              20
+            ],
+            [
+              38,
+              21
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              52,
+              29
+            ],
+            [
+              53,
+              29
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              74,
+              24
+            ],
+            [
+              74,
+              25
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              41,
+              15
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              41,
+              27
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              51,
+              7
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              54,
+              32
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              55,
+              31
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              63,
+              116
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              76,
+              12
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              77,
+              13
+            ]
+          ]
+        }
+      ],
+      "holes_equal_baseline": true,
+      "face_head_y0_43_equal_same_baseline_frame": true,
+      "lower_y105_plus_equal": true,
+      "native_layers": [
+        {
+          "name": "guide-source-seed (hidden)",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "00-shoes",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "01-denim",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "02a-jacket-left",
+          "changed_vs_same_baseline_frame": 2,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "02b-jacket-right",
+          "changed_vs_same_baseline_frame": 2,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "03-shirt",
+          "changed_vs_same_baseline_frame": 71,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "04-tote",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "05-tote-strap",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "06a-left-hand",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "06b-right-hand",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "07-face-and-neck",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "08-hair-tie-and-hair",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        }
+      ]
+    },
+    {
+      "frame": 2,
+      "duration_ms": 550,
+      "vs_same_baseline_frame": 138,
+      "vs_neutral": 154,
+      "changed_bounds": [
+        38,
+        42,
+        89,
+        59
+      ],
+      "vs_previous": 86,
+      "vs_previous_bounds": [
+        38,
+        42,
+        89,
+        59
+      ],
+      "opaque": 7862,
+      "nonbinary_alpha": 0,
+      "alpha_lost_vs_neutral": 0,
+      "alpha_added_vs_neutral": 18,
+      "holes": [
+        {
+          "size": 8,
+          "xy": [
+            [
+              49,
+              31
+            ],
+            [
+              49,
+              32
+            ],
+            [
+              49,
+              33
+            ],
+            [
+              50,
+              32
+            ],
+            [
+              50,
+              33
+            ],
+            [
+              51,
+              31
+            ],
+            [
+              51,
+              32
+            ],
+            [
+              51,
+              33
+            ]
+          ]
+        },
+        {
+          "size": 4,
+          "xy": [
+            [
+              40,
+              23
+            ],
+            [
+              40,
+              24
+            ],
+            [
+              40,
+              25
+            ],
+            [
+              40,
+              26
+            ]
+          ]
+        },
+        {
+          "size": 4,
+          "xy": [
+            [
+              71,
+              30
+            ],
+            [
+              72,
+              28
+            ],
+            [
+              72,
+              29
+            ],
+            [
+              72,
+              30
+            ]
+          ]
+        },
+        {
+          "size": 3,
+          "xy": [
+            [
+              44,
+              28
+            ],
+            [
+              45,
+              28
+            ],
+            [
+              46,
+              28
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              38,
+              20
+            ],
+            [
+              38,
+              21
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              52,
+              29
+            ],
+            [
+              53,
+              29
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              74,
+              24
+            ],
+            [
+              74,
+              25
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              41,
+              15
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              41,
+              27
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              51,
+              7
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              54,
+              32
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              55,
+              31
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              63,
+              116
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              76,
+              12
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              77,
+              13
+            ]
+          ]
+        }
+      ],
+      "holes_equal_baseline": true,
+      "face_head_y0_43_equal_same_baseline_frame": false,
+      "lower_y105_plus_equal": true,
+      "native_layers": [
+        {
+          "name": "guide-source-seed (hidden)",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "00-shoes",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "01-denim",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "02a-jacket-left",
+          "changed_vs_same_baseline_frame": 4,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "02b-jacket-right",
+          "changed_vs_same_baseline_frame": 5,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "03-shirt",
+          "changed_vs_same_baseline_frame": 129,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "04-tote",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "05-tote-strap",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "06a-left-hand",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "06b-right-hand",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "07-face-and-neck",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "08-hair-tie-and-hair",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        }
+      ]
+    },
+    {
+      "frame": 3,
+      "duration_ms": 600,
+      "vs_same_baseline_frame": 75,
+      "vs_neutral": 85,
+      "changed_bounds": [
+        39,
+        44,
+        89,
+        58
+      ],
+      "vs_previous": 86,
+      "vs_previous_bounds": [
+        38,
+        42,
+        89,
+        59
+      ],
+      "opaque": 7852,
+      "nonbinary_alpha": 0,
+      "alpha_lost_vs_neutral": 0,
+      "alpha_added_vs_neutral": 8,
+      "holes": [
+        {
+          "size": 8,
+          "xy": [
+            [
+              49,
+              31
+            ],
+            [
+              49,
+              32
+            ],
+            [
+              49,
+              33
+            ],
+            [
+              50,
+              32
+            ],
+            [
+              50,
+              33
+            ],
+            [
+              51,
+              31
+            ],
+            [
+              51,
+              32
+            ],
+            [
+              51,
+              33
+            ]
+          ]
+        },
+        {
+          "size": 4,
+          "xy": [
+            [
+              40,
+              23
+            ],
+            [
+              40,
+              24
+            ],
+            [
+              40,
+              25
+            ],
+            [
+              40,
+              26
+            ]
+          ]
+        },
+        {
+          "size": 4,
+          "xy": [
+            [
+              71,
+              30
+            ],
+            [
+              72,
+              28
+            ],
+            [
+              72,
+              29
+            ],
+            [
+              72,
+              30
+            ]
+          ]
+        },
+        {
+          "size": 3,
+          "xy": [
+            [
+              44,
+              28
+            ],
+            [
+              45,
+              28
+            ],
+            [
+              46,
+              28
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              38,
+              20
+            ],
+            [
+              38,
+              21
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              52,
+              29
+            ],
+            [
+              53,
+              29
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              74,
+              24
+            ],
+            [
+              74,
+              25
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              41,
+              15
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              41,
+              27
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              51,
+              7
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              54,
+              32
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              55,
+              31
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              63,
+              116
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              76,
+              12
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              77,
+              13
+            ]
+          ]
+        }
+      ],
+      "holes_equal_baseline": true,
+      "face_head_y0_43_equal_same_baseline_frame": true,
+      "lower_y105_plus_equal": true,
+      "native_layers": [
+        {
+          "name": "guide-source-seed (hidden)",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "00-shoes",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "01-denim",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "02a-jacket-left",
+          "changed_vs_same_baseline_frame": 2,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "02b-jacket-right",
+          "changed_vs_same_baseline_frame": 2,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "03-shirt",
+          "changed_vs_same_baseline_frame": 71,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "04-tote",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "05-tote-strap",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "06a-left-hand",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "06b-right-hand",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "07-face-and-neck",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "08-hair-tie-and-hair",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        }
+      ]
+    },
+    {
+      "frame": 4,
+      "duration_ms": 50,
+      "vs_same_baseline_frame": 0,
+      "vs_neutral": 13,
+      "changed_bounds": [
+        62,
+        20,
+        73,
+        22
+      ],
+      "vs_previous": 98,
+      "vs_previous_bounds": [
+        39,
+        20,
+        89,
+        58
+      ],
+      "opaque": 7844,
+      "nonbinary_alpha": 0,
+      "alpha_lost_vs_neutral": 0,
+      "alpha_added_vs_neutral": 0,
+      "holes": [
+        {
+          "size": 8,
+          "xy": [
+            [
+              49,
+              31
+            ],
+            [
+              49,
+              32
+            ],
+            [
+              49,
+              33
+            ],
+            [
+              50,
+              32
+            ],
+            [
+              50,
+              33
+            ],
+            [
+              51,
+              31
+            ],
+            [
+              51,
+              32
+            ],
+            [
+              51,
+              33
+            ]
+          ]
+        },
+        {
+          "size": 4,
+          "xy": [
+            [
+              40,
+              23
+            ],
+            [
+              40,
+              24
+            ],
+            [
+              40,
+              25
+            ],
+            [
+              40,
+              26
+            ]
+          ]
+        },
+        {
+          "size": 4,
+          "xy": [
+            [
+              71,
+              30
+            ],
+            [
+              72,
+              28
+            ],
+            [
+              72,
+              29
+            ],
+            [
+              72,
+              30
+            ]
+          ]
+        },
+        {
+          "size": 3,
+          "xy": [
+            [
+              44,
+              28
+            ],
+            [
+              45,
+              28
+            ],
+            [
+              46,
+              28
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              38,
+              20
+            ],
+            [
+              38,
+              21
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              52,
+              29
+            ],
+            [
+              53,
+              29
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              74,
+              24
+            ],
+            [
+              74,
+              25
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              41,
+              15
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              41,
+              27
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              51,
+              7
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              54,
+              32
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              55,
+              31
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              63,
+              116
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              76,
+              12
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              77,
+              13
+            ]
+          ]
+        }
+      ],
+      "holes_equal_baseline": true,
+      "face_head_y0_43_equal_same_baseline_frame": true,
+      "lower_y105_plus_equal": true,
+      "native_layers": [
+        {
+          "name": "guide-source-seed (hidden)",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "00-shoes",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "01-denim",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "02a-jacket-left",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "02b-jacket-right",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "03-shirt",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "04-tote",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "05-tote-strap",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "06a-left-hand",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "06b-right-hand",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "07-face-and-neck",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "08-hair-tie-and-hair",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        }
+      ]
+    },
+    {
+      "frame": 5,
+      "duration_ms": 80,
+      "vs_same_baseline_frame": 0,
+      "vs_neutral": 26,
+      "changed_bounds": [
+        62,
+        20,
+        73,
+        24
+      ],
+      "vs_previous": 18,
+      "vs_previous_bounds": [
+        62,
+        20,
+        73,
+        24
+      ],
+      "opaque": 7844,
+      "nonbinary_alpha": 0,
+      "alpha_lost_vs_neutral": 0,
+      "alpha_added_vs_neutral": 0,
+      "holes": [
+        {
+          "size": 8,
+          "xy": [
+            [
+              49,
+              31
+            ],
+            [
+              49,
+              32
+            ],
+            [
+              49,
+              33
+            ],
+            [
+              50,
+              32
+            ],
+            [
+              50,
+              33
+            ],
+            [
+              51,
+              31
+            ],
+            [
+              51,
+              32
+            ],
+            [
+              51,
+              33
+            ]
+          ]
+        },
+        {
+          "size": 4,
+          "xy": [
+            [
+              40,
+              23
+            ],
+            [
+              40,
+              24
+            ],
+            [
+              40,
+              25
+            ],
+            [
+              40,
+              26
+            ]
+          ]
+        },
+        {
+          "size": 4,
+          "xy": [
+            [
+              71,
+              30
+            ],
+            [
+              72,
+              28
+            ],
+            [
+              72,
+              29
+            ],
+            [
+              72,
+              30
+            ]
+          ]
+        },
+        {
+          "size": 3,
+          "xy": [
+            [
+              44,
+              28
+            ],
+            [
+              45,
+              28
+            ],
+            [
+              46,
+              28
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              38,
+              20
+            ],
+            [
+              38,
+              21
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              52,
+              29
+            ],
+            [
+              53,
+              29
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              74,
+              24
+            ],
+            [
+              74,
+              25
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              41,
+              15
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              41,
+              27
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              51,
+              7
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              54,
+              32
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              55,
+              31
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              63,
+              116
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              76,
+              12
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              77,
+              13
+            ]
+          ]
+        }
+      ],
+      "holes_equal_baseline": true,
+      "face_head_y0_43_equal_same_baseline_frame": true,
+      "lower_y105_plus_equal": true,
+      "native_layers": [
+        {
+          "name": "guide-source-seed (hidden)",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "00-shoes",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "01-denim",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "02a-jacket-left",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "02b-jacket-right",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "03-shirt",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "04-tote",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "05-tote-strap",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "06a-left-hand",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "06b-right-hand",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "07-face-and-neck",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "08-hair-tie-and-hair",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        }
+      ]
+    },
+    {
+      "frame": 6,
+      "duration_ms": 50,
+      "vs_same_baseline_frame": 0,
+      "vs_neutral": 13,
+      "changed_bounds": [
+        62,
+        20,
+        73,
+        22
+      ],
+      "vs_previous": 18,
+      "vs_previous_bounds": [
+        62,
+        20,
+        73,
+        24
+      ],
+      "opaque": 7844,
+      "nonbinary_alpha": 0,
+      "alpha_lost_vs_neutral": 0,
+      "alpha_added_vs_neutral": 0,
+      "holes": [
+        {
+          "size": 8,
+          "xy": [
+            [
+              49,
+              31
+            ],
+            [
+              49,
+              32
+            ],
+            [
+              49,
+              33
+            ],
+            [
+              50,
+              32
+            ],
+            [
+              50,
+              33
+            ],
+            [
+              51,
+              31
+            ],
+            [
+              51,
+              32
+            ],
+            [
+              51,
+              33
+            ]
+          ]
+        },
+        {
+          "size": 4,
+          "xy": [
+            [
+              40,
+              23
+            ],
+            [
+              40,
+              24
+            ],
+            [
+              40,
+              25
+            ],
+            [
+              40,
+              26
+            ]
+          ]
+        },
+        {
+          "size": 4,
+          "xy": [
+            [
+              71,
+              30
+            ],
+            [
+              72,
+              28
+            ],
+            [
+              72,
+              29
+            ],
+            [
+              72,
+              30
+            ]
+          ]
+        },
+        {
+          "size": 3,
+          "xy": [
+            [
+              44,
+              28
+            ],
+            [
+              45,
+              28
+            ],
+            [
+              46,
+              28
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              38,
+              20
+            ],
+            [
+              38,
+              21
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              52,
+              29
+            ],
+            [
+              53,
+              29
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              74,
+              24
+            ],
+            [
+              74,
+              25
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              41,
+              15
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              41,
+              27
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              51,
+              7
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              54,
+              32
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              55,
+              31
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              63,
+              116
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              76,
+              12
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              77,
+              13
+            ]
+          ]
+        }
+      ],
+      "holes_equal_baseline": true,
+      "face_head_y0_43_equal_same_baseline_frame": true,
+      "lower_y105_plus_equal": true,
+      "native_layers": [
+        {
+          "name": "guide-source-seed (hidden)",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "00-shoes",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "01-denim",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "02a-jacket-left",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "02b-jacket-right",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "03-shirt",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "04-tote",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "05-tote-strap",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "06a-left-hand",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "06b-right-hand",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "07-face-and-neck",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "08-hair-tie-and-hair",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        }
+      ]
+    },
+    {
+      "frame": 7,
+      "duration_ms": 250,
+      "vs_same_baseline_frame": 0,
+      "vs_neutral": 0,
+      "changed_bounds": null,
+      "vs_previous": 13,
+      "vs_previous_bounds": [
+        62,
+        20,
+        73,
+        22
+      ],
+      "opaque": 7844,
+      "nonbinary_alpha": 0,
+      "alpha_lost_vs_neutral": 0,
+      "alpha_added_vs_neutral": 0,
+      "holes": [
+        {
+          "size": 8,
+          "xy": [
+            [
+              49,
+              31
+            ],
+            [
+              49,
+              32
+            ],
+            [
+              49,
+              33
+            ],
+            [
+              50,
+              32
+            ],
+            [
+              50,
+              33
+            ],
+            [
+              51,
+              31
+            ],
+            [
+              51,
+              32
+            ],
+            [
+              51,
+              33
+            ]
+          ]
+        },
+        {
+          "size": 4,
+          "xy": [
+            [
+              40,
+              23
+            ],
+            [
+              40,
+              24
+            ],
+            [
+              40,
+              25
+            ],
+            [
+              40,
+              26
+            ]
+          ]
+        },
+        {
+          "size": 4,
+          "xy": [
+            [
+              71,
+              30
+            ],
+            [
+              72,
+              28
+            ],
+            [
+              72,
+              29
+            ],
+            [
+              72,
+              30
+            ]
+          ]
+        },
+        {
+          "size": 3,
+          "xy": [
+            [
+              44,
+              28
+            ],
+            [
+              45,
+              28
+            ],
+            [
+              46,
+              28
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              38,
+              20
+            ],
+            [
+              38,
+              21
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              52,
+              29
+            ],
+            [
+              53,
+              29
+            ]
+          ]
+        },
+        {
+          "size": 2,
+          "xy": [
+            [
+              74,
+              24
+            ],
+            [
+              74,
+              25
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              41,
+              15
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              41,
+              27
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              51,
+              7
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              54,
+              32
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              55,
+              31
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              63,
+              116
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              76,
+              12
+            ]
+          ]
+        },
+        {
+          "size": 1,
+          "xy": [
+            [
+              77,
+              13
+            ]
+          ]
+        }
+      ],
+      "holes_equal_baseline": true,
+      "face_head_y0_43_equal_same_baseline_frame": true,
+      "lower_y105_plus_equal": true,
+      "native_layers": [
+        {
+          "name": "guide-source-seed (hidden)",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "00-shoes",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "01-denim",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "02a-jacket-left",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "02b-jacket-right",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "03-shirt",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "04-tote",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "05-tote-strap",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "06a-left-hand",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "06b-right-hand",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "07-face-and-neck",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        },
+        {
+          "name": "08-hair-tie-and-hair",
+          "changed_vs_same_baseline_frame": 0,
+          "geometry_baseline": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "geometry_candidate": [
+            0,
+            0,
+            128,
+            192
+          ],
+          "opacity_equal": true,
+          "z_equal": true
+        }
+      ]
+    }
+  ],
+  "artistic_quality": "not established by script",
+  "actual_speed_watched": false,
+  "seam_changed_pixels": 0,
+  "blink_frames_4_5_6_exact": [
+    true,
+    true,
+    true
+  ],
+  "exports": {
+    "count": 8,
+    "count_matches_native": true,
+    "frames": [
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/luna/exports/pass02/frame-0.png",
+        "sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/luna/exports/pass02/frame-1.png",
+        "sha256": "0ffe3b233fe3d465b4748f4f43a3fbe94871355f55ff2eb6d416d4022b193202",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/luna/exports/pass02/frame-2.png",
+        "sha256": "f540fa2a683c013163ae455e43737094378e7c48557a54531f7cdd90343d4085",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/luna/exports/pass02/frame-3.png",
+        "sha256": "0ffe3b233fe3d465b4748f4f43a3fbe94871355f55ff2eb6d416d4022b193202",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/luna/exports/pass02/frame-4.png",
+        "sha256": "0dfb4d6984fd9557b9561564bf302979313739b92bf12444c2ea006b00e7d65e",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/luna/exports/pass02/frame-5.png",
+        "sha256": "0ffca6751ce6a8fd5eccf06424173f52bebc69ec65a3dd9414966af44ec3b4e8",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/luna/exports/pass02/frame-6.png",
+        "sha256": "0dfb4d6984fd9557b9561564bf302979313739b92bf12444c2ea006b00e7d65e",
+        "equals_native": true
+      },
+      {
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/luna/exports/pass02/frame-7.png",
+        "sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+        "equals_native": true
+      }
+    ]
+  },
+  "reopen_exports": {
+    "count": 0,
+    "count_matches_native": false,
+    "frames": []
+  },
+  "gifs": [
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breathing-comparison/luna/exports/pass02/luna6-clear-breathing-pass02.gif",
+      "sha256": "baa582a1685c3323a2159a685010c0b43fe49c9cf5f2614ccaeb61b5fa0e3106",
+      "size": [
+        128,
+        192
+      ],
+      "frame_count": 8,
+      "loop": 0,
+      "frames": [
+        {
+          "duration_ms": 600,
+          "nearest_integer_scale": 1.0,
+          "equals_native_transparent": true,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 350,
+          "nearest_integer_scale": 1.0,
+          "equals_native_transparent": true,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 550,
+          "nearest_integer_scale": 1.0,
+          "equals_native_transparent": true,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 600,
+          "nearest_integer_scale": 1.0,
+          "equals_native_transparent": true,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 50,
+          "nearest_integer_scale": 1.0,
+          "equals_native_transparent": true,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 80,
+          "nearest_integer_scale": 1.0,
+          "equals_native_transparent": true,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 50,
+          "nearest_integer_scale": 1.0,
+          "equals_native_transparent": true,
+          "equals_native_on_corner_matte": true
+        },
+        {
+          "duration_ms": 250,
+          "nearest_integer_scale": 1.0,
+          "equals_native_transparent": true,
+          "equals_native_on_corner_matte": true
+        }
+      ],
+      "durations_equal_native": true
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "exact_one_pixel": true,
+  "changed": [
+    [
+      8,
+      8
+    ]
+  ],
+  "protected_layer_exact": true,
+  "fresh_reopen_png_equal": true,
+  "negative_mask_rejected": true,
+  "skip_readback": "blue at7,8 retained; green8,8 retained",
+  "erase_readback": "transparent7,8; green8,8"
+}

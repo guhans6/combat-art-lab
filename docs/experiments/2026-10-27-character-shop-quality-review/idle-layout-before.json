@@ -1,0 +1,87 @@
+{
+  "canvas": [
+    96,
+    216
+  ],
+  "durations_ms": [
+    700,
+    650,
+    50,
+    100,
+    70,
+    600,
+    500,
+    330
+  ],
+  "root_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "ground_anchor": [
+    48,
+    206
+  ],
+  "root_position": [
+    108,
+    48
+  ],
+  "scene_art_canvas": [
+    362,
+    272
+  ],
+  "viewport": [
+    362,
+    304
+  ],
+  "phases": [
+    "rest",
+    "inhale",
+    "half",
+    "closed",
+    "half",
+    "inhale",
+    "exhale",
+    "rest"
+  ],
+  "motion": "upper-body one-pixel inhale; fixed denim/feet; existing generated blink guidance, native authored eye closure",
+  "palette": "same 64-entry character source palette",
+  "default_window_scale": 2,
+  "filter": "nearest",
+  "frame_directory": "res://textures/idle-alpha-v02",
+  "alpha_review_region": [
+    0,
+    55,
+    96,
+    205
+  ]
+}

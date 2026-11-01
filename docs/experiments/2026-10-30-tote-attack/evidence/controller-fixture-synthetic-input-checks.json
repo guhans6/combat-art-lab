@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "fixture_only_not_attack_art": true,
+  "synthetic_space_route": true,
+  "three_completed_one_shots": true,
+  "three_interval_constrained_hits": true,
+  "three_idle_returns": true,
+  "physical_keyboard_tested": false
+}

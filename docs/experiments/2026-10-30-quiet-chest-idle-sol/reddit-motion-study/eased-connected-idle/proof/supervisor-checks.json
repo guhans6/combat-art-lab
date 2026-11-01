@@ -1,0 +1,20 @@
+{
+  "frames": 12,
+  "duration_ms": [
+    650,
+    240,
+    240,
+    420,
+    380,
+    260,
+    360,
+    500,
+    50,
+    80,
+    50,
+    720
+  ],
+  "reopen_exact": true,
+  "feet_lowerlegs_fixed": true,
+  "blink_exact": true
+}

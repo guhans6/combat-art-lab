@@ -1,0 +1,13 @@
+{
+  "variant": "surprise",
+  "coordinateConvention": "zero-based, half-open xyxy",
+  "canvas": [128, 192],
+  "editableRegions": [
+    { "feature": "brows-and-eyes", "xyxy": [61, 18, 74, 24] },
+    { "feature": "mouth", "xyxy": [66, 26, 71, 29] }
+  ],
+  "nativeOwner": "08-hair-tie-and-hair",
+  "frame": 1,
+  "protectedLandmarks": [[71, 24]],
+  "lockedOutside": true
+}

@@ -1,0 +1,20 @@
+{
+  "native_sha256": "b5051489af54beef68b9dd4176d1cddb4fc990dfed4054de278416f06f0e6b40",
+  "cycle_ms": 3380,
+  "all_native_targets_and_fresh_exports_exact": true,
+  "lower_body_y90_plus_exact": true,
+  "loop_seam_exact_rest": true,
+  "primary_phase_audit": [
+    {
+      "artifact": "original",
+      "primary_pose_mismatch_frames_1based": [
+        3,
+        6
+      ]
+    },
+    {
+      "artifact": "candidate",
+      "primary_pose_mismatch_frames_1based": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "order": "frame 1\u20135 left to right on top row; frame 6\u201310 left to right on bottom row",
+  "matte_rgb": [
+    128,
+    128,
+    128
+  ],
+  "torso_crop_xyxy": [
+    28,
+    30,
+    104,
+    88
+  ],
+  "columns": 5,
+  "files": {
+    "full_1x": {
+      "path": "docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/reviews/full-contact-1x.png",
+      "dimensions": [
+        676,
+        402
+      ]
+    },
+    "torso_1x": {
+      "path": "docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/reviews/torso-contact-1x.png",
+      "dimensions": [
+        416,
+        134
+      ]
+    },
+    "full_3x": {
+      "path": "docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/reviews/full-contact-3x.png",
+      "dimensions": [
+        2028,
+        1206
+      ]
+    },
+    "torso_3x": {
+      "path": "docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/reviews/torso-contact-3x.png",
+      "dimensions": [
+        1248,
+        402
+      ]
+    }
+  }
+}

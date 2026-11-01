@@ -1,0 +1,463 @@
+{
+  "action": "approve_all",
+  "context": {
+    "duration_ms": 1077000,
+    "package_id": "pkg-27f82cd7-dcb1-4305-a5dd-278495b4c140",
+    "package_payload_sha256": "b244c58aef00d97d424ae8219f37ddd57b8dce2c628ff8a67e673f8f07e52749",
+    "run_id": "run-685706ba8c60b1e15f47126ff98be675f978cf4d084c31ad4f4e1a70a3821ede",
+    "run_manifest_sha256": "2a303c1b1a208517a533893b3bc06938b1a7e1530e770e9b4488c137aec98768",
+    "source_content_sha256": "c946289c8fc1ff74faf4fbc0206c58f2e1c9eebd37e18f595f5418e9b5e93a95",
+    "source_id": "src-c946289c8fc1ff74faf4fbc0"
+  },
+  "items": [
+    {
+      "display_label": "core-poses",
+      "edge": 1920,
+      "end_ms": 315000,
+      "every_ms": 3000,
+      "fulfillment_item_id": "sha256:e3738d5adfc390b60cfd64ad6074ca617eb89dfbc281b46db24214ee323be4f5",
+      "input": {
+        "edge": 1920,
+        "every": 3000,
+        "max": 3,
+        "ocr": true,
+        "t": [
+          306000,
+          315000
+        ]
+      },
+      "input_spans": [
+        {
+          "column": 1,
+          "end_column": 17,
+          "line": 7
+        },
+        {
+          "column": 1,
+          "end_column": 59,
+          "line": 8
+        },
+        {
+          "column": 1,
+          "end_column": 95,
+          "line": 9
+        }
+      ],
+      "item_id": "item-7de10e571c0867254051be5d07c7c825cdd78f8a42c4b359e1dff9b5d9162071",
+      "known_reused_samples": [],
+      "max": 3,
+      "native_dimensions": {
+        "height": 1080,
+        "width": 1920
+      },
+      "ocr": true,
+      "requested_samples_ms": [
+        306000,
+        309000,
+        312000
+      ],
+      "start_ms": 306000,
+      "status": "valid",
+      "type": "frames",
+      "why": "Recover the one-pixel body shift and the early timeline before later frame counts change."
+    },
+    {
+      "display_label": "chest-tone-transition",
+      "edge": 1920,
+      "end_ms": 437000,
+      "every_ms": 3000,
+      "fulfillment_item_id": "sha256:abe34be602a838a84eeab597a1c99dbc27ab6587029893c893a5c4e9f9d59924",
+      "input": {
+        "edge": 1920,
+        "every": 3000,
+        "max": 3,
+        "ocr": true,
+        "t": [
+          428000,
+          437000
+        ]
+      },
+      "input_spans": [
+        {
+          "column": 1,
+          "end_column": 28,
+          "line": 11
+        },
+        {
+          "column": 1,
+          "end_column": 59,
+          "line": 12
+        },
+        {
+          "column": 1,
+          "end_column": 86,
+          "line": 13
+        }
+      ],
+      "item_id": "item-1998ac0b4db8b82fbc61aea4853fd7a65d78351450b47862996f1db93457403e",
+      "known_reused_samples": [],
+      "max": 3,
+      "native_dimensions": {
+        "height": 1080,
+        "width": 1920
+      },
+      "ocr": true,
+      "requested_samples_ms": [
+        428000,
+        431000,
+        434000
+      ],
+      "start_ms": 428000,
+      "status": "valid",
+      "type": "frames",
+      "why": "Recover adjacent chest highlight states; OCR cannot establish sub-pixel changes."
+    },
+    {
+      "display_label": "arms-delay",
+      "edge": 1920,
+      "end_ms": 631000,
+      "every_ms": 3000,
+      "fulfillment_item_id": "sha256:e0b642c4bb4f1a1506d7b8909a3c3e5c9e30459caa563372b2ef53408855c79a",
+      "input": {
+        "edge": 1920,
+        "every": 3000,
+        "max": 3,
+        "ocr": true,
+        "t": [
+          622000,
+          631000
+        ]
+      },
+      "input_spans": [
+        {
+          "column": 1,
+          "end_column": 17,
+          "line": 15
+        },
+        {
+          "column": 1,
+          "end_column": 59,
+          "line": 16
+        },
+        {
+          "column": 1,
+          "end_column": 55,
+          "line": 17
+        }
+      ],
+      "item_id": "item-590475492ad5db82b7135c8ce7e7ee169ff37bab18ef959b70916bdebfd1e8e2",
+      "known_reused_samples": [],
+      "max": 3,
+      "native_dimensions": {
+        "height": 1080,
+        "width": 1920
+      },
+      "ocr": true,
+      "requested_samples_ms": [
+        622000,
+        625000,
+        628000
+      ],
+      "start_ms": 622000,
+      "status": "valid",
+      "type": "frames",
+      "why": "Recover delayed hand motion at native resolution."
+    },
+    {
+      "display_label": "hair-settle",
+      "edge": 1920,
+      "end_ms": 741000,
+      "every_ms": 3000,
+      "fulfillment_item_id": "sha256:e5259affdaf85111ee2b9a3d327aa57c9dc474d5e0848c2787b59c84cb08dd16",
+      "input": {
+        "edge": 1920,
+        "every": 3000,
+        "max": 3,
+        "ocr": true,
+        "t": [
+          732000,
+          741000
+        ]
+      },
+      "input_spans": [
+        {
+          "column": 1,
+          "end_column": 18,
+          "line": 19
+        },
+        {
+          "column": 1,
+          "end_column": 59,
+          "line": 20
+        },
+        {
+          "column": 1,
+          "end_column": 81,
+          "line": 21
+        }
+      ],
+      "item_id": "item-2087cc2832017bec2fe9bc7116aa5a194f9506bbbc287962d45d3058f8aa99ca",
+      "known_reused_samples": [],
+      "max": 3,
+      "native_dimensions": {
+        "height": 1080,
+        "width": 1920
+      },
+      "ocr": true,
+      "requested_samples_ms": [
+        732000,
+        735000,
+        738000
+      ],
+      "start_ms": 732000,
+      "status": "valid",
+      "type": "frames",
+      "why": "Recover the hair flare and settling states, poorly served by sparse stills."
+    },
+    {
+      "display_label": "leg-shading",
+      "edge": 1920,
+      "end_ms": 883000,
+      "every_ms": 3000,
+      "fulfillment_item_id": "sha256:5f70e36addc658b3c19e97edae1ad6f7ec65907dc2892e2963b0fc06b1a31fc4",
+      "input": {
+        "edge": 1920,
+        "every": 3000,
+        "max": 3,
+        "ocr": true,
+        "t": [
+          874000,
+          883000
+        ]
+      },
+      "input_spans": [
+        {
+          "column": 1,
+          "end_column": 18,
+          "line": 23
+        },
+        {
+          "column": 1,
+          "end_column": 59,
+          "line": 24
+        },
+        {
+          "column": 1,
+          "end_column": 76,
+          "line": 25
+        }
+      ],
+      "item_id": "item-a3450732090126734bd0ab3eb26cadd9ee1e1f167fccc8e3bdd057f9f90da898",
+      "known_reused_samples": [],
+      "max": 3,
+      "native_dimensions": {
+        "height": 1080,
+        "width": 1920
+      },
+      "ocr": true,
+      "requested_samples_ms": [
+        874000,
+        877000,
+        880000
+      ],
+      "start_ms": 874000,
+      "status": "valid",
+      "type": "frames",
+      "why": "Recover lower-body shading detail omitted by the Compact pixel budget."
+    },
+    {
+      "display_label": "breathe-reorder",
+      "edge": 1920,
+      "end_ms": 959000,
+      "every_ms": 3000,
+      "fulfillment_item_id": "sha256:66dfe463dedca495389cf1a309cfd7aa2e932fe3824ba0ff939938355fcdf299",
+      "input": {
+        "edge": 1920,
+        "every": 3000,
+        "max": 3,
+        "ocr": true,
+        "t": [
+          950000,
+          959000
+        ]
+      },
+      "input_spans": [
+        {
+          "column": 1,
+          "end_column": 22,
+          "line": 27
+        },
+        {
+          "column": 1,
+          "end_column": 59,
+          "line": 28
+        },
+        {
+          "column": 1,
+          "end_column": 104,
+          "line": 29
+        }
+      ],
+      "item_id": "item-f3be028b9f4b131011fc5a822407a4cb8868a432f17b5a56565e6fd0d54decda",
+      "known_reused_samples": [],
+      "max": 3,
+      "native_dimensions": {
+        "height": 1080,
+        "width": 1920
+      },
+      "ocr": true,
+      "requested_samples_ms": [
+        950000,
+        953000,
+        956000
+      ],
+      "start_ms": 950000,
+      "status": "valid",
+      "type": "frames",
+      "why": "Recover tag and frame reordering so early 10-12 frame counts are not mistaken for the final count."
+    }
+  ],
+  "original_request_utf8": "AGENTWATCH-FOLLOW-UP v1\nsource=src-c946289c8fc1ff74faf4fbc0\nrun=run-685706ba8c60b1e15f47126ff98be675f978cf4d084c31ad4f4e1a70a3821ede\npackage=pkg-27f82cd7-dcb1-4305-a5dd-278495b4c140\nrequest=pixel-idle-20261030-r1\n\n[gap core-poses]\nframes t=306000,315000 every=3000 max=3 edge=1920 ocr=true\nwhy: Recover the one-pixel body shift and the early timeline before later frame counts change.\n\n[gap chest-tone-transition]\nframes t=428000,437000 every=3000 max=3 edge=1920 ocr=true\nwhy: Recover adjacent chest highlight states; OCR cannot establish sub-pixel changes.\n\n[gap arms-delay]\nframes t=622000,631000 every=3000 max=3 edge=1920 ocr=true\nwhy: Recover delayed hand motion at native resolution.\n\n[gap hair-settle]\nframes t=732000,741000 every=3000 max=3 edge=1920 ocr=true\nwhy: Recover the hair flare and settling states, poorly served by sparse stills.\n\n[gap leg-shading]\nframes t=874000,883000 every=3000 max=3 edge=1920 ocr=true\nwhy: Recover lower-body shading detail omitted by the Compact pixel budget.\n\n[gap breathe-reorder]\nframes t=950000,959000 every=3000 max=3 edge=1920 ocr=true\nwhy: Recover tag and frame reordering so early 10-12 frame counts are not mistaken for the final count.\n\nEND-AGENTWATCH-FOLLOW-UP\n",
+  "package_id": "pkg-27f82cd7-dcb1-4305-a5dd-278495b4c140",
+  "package_path": "output/2026-10-30-pixel-idle/source-run/evidence-packs/pkg-27f82cd7-dcb1-4305-a5dd-278495b4c140",
+  "policy_digest": "9646a8e3bd6e2a5357f7bd8cc0e9ab54b4436da8a6d1cbf1905ee33c1832f589",
+  "policy_version": "video-context.follow-up-policy.v1",
+  "preview_id": "preview-14cb88cc-c1a3-411e-97a1-d724e333d793",
+  "preview_revision": 1,
+  "receipt_revision": [],
+  "report": {
+    "context": {
+      "duration_ms": 1077000,
+      "package_id": "pkg-27f82cd7-dcb1-4305-a5dd-278495b4c140",
+      "package_payload_sha256": "b244c58aef00d97d424ae8219f37ddd57b8dce2c628ff8a67e673f8f07e52749",
+      "run_id": "run-685706ba8c60b1e15f47126ff98be675f978cf4d084c31ad4f4e1a70a3821ede",
+      "run_manifest_sha256": "2a303c1b1a208517a533893b3bc06938b1a7e1530e770e9b4488c137aec98768",
+      "source_content_sha256": "c946289c8fc1ff74faf4fbc0206c58f2e1c9eebd37e18f595f5418e9b5e93a95",
+      "source_id": "src-c946289c8fc1ff74faf4fbc0"
+    },
+    "copyable_text": "source=src-c946289c8fc1ff74faf4fbc0\nrun=run-685706ba8c60b1e15f47126ff98be675f978cf4d084c31ad4f4e1a70a3821ede\npackage=pkg-27f82cd7-dcb1-4305-a5dd-278495b4c140\ncore-poses: valid\nchest-tone-transition: valid\narms-delay: valid\nhair-settle: valid\nleg-shading: valid\nbreathe-reorder: valid\nAllowed edges: 1280, 1920, 2560; times are source-absolute integer milliseconds.",
+    "excluded_count": 0,
+    "invalid_count": 0,
+    "messages": [],
+    "selected_count": 6,
+    "valid_count": 6
+  },
+  "request_digest": "sha256:187ceb78e237917dcc25ff2a9f7b0d27e67acb7db5a31f92210aac224c38deeb",
+  "request_id": "pixel-idle-20261030-r1",
+  "resources": {
+    "approved_upper_bound": {
+      "gaps": 6,
+      "new_asset_bytes": 113154048,
+      "new_decoded_frames": 18,
+      "new_pixels": 37324800,
+      "new_rasters": 18,
+      "ocr_targets": 18,
+      "samples": 18,
+      "span_ms": 54000
+    },
+    "estimated": {
+      "gaps": 6,
+      "new_asset_bytes": 113154048,
+      "new_decoded_frames": 18,
+      "new_pixels": 37324800,
+      "new_rasters": 18,
+      "ocr_targets": 18,
+      "samples": 18,
+      "span_ms": 54000
+    },
+    "item_upper_bounds": {
+      "item-1998ac0b4db8b82fbc61aea4853fd7a65d78351450b47862996f1db93457403e": {
+        "gaps": 1,
+        "new_asset_bytes": 18859008,
+        "new_decoded_frames": 3,
+        "new_pixels": 6220800,
+        "new_rasters": 3,
+        "ocr_targets": 3,
+        "samples": 3,
+        "span_ms": 9000
+      },
+      "item-2087cc2832017bec2fe9bc7116aa5a194f9506bbbc287962d45d3058f8aa99ca": {
+        "gaps": 1,
+        "new_asset_bytes": 18859008,
+        "new_decoded_frames": 3,
+        "new_pixels": 6220800,
+        "new_rasters": 3,
+        "ocr_targets": 3,
+        "samples": 3,
+        "span_ms": 9000
+      },
+      "item-590475492ad5db82b7135c8ce7e7ee169ff37bab18ef959b70916bdebfd1e8e2": {
+        "gaps": 1,
+        "new_asset_bytes": 18859008,
+        "new_decoded_frames": 3,
+        "new_pixels": 6220800,
+        "new_rasters": 3,
+        "ocr_targets": 3,
+        "samples": 3,
+        "span_ms": 9000
+      },
+      "item-7de10e571c0867254051be5d07c7c825cdd78f8a42c4b359e1dff9b5d9162071": {
+        "gaps": 1,
+        "new_asset_bytes": 18859008,
+        "new_decoded_frames": 3,
+        "new_pixels": 6220800,
+        "new_rasters": 3,
+        "ocr_targets": 3,
+        "samples": 3,
+        "span_ms": 9000
+      },
+      "item-a3450732090126734bd0ab3eb26cadd9ee1e1f167fccc8e3bdd057f9f90da898": {
+        "gaps": 1,
+        "new_asset_bytes": 18859008,
+        "new_decoded_frames": 3,
+        "new_pixels": 6220800,
+        "new_rasters": 3,
+        "ocr_targets": 3,
+        "samples": 3,
+        "span_ms": 9000
+      },
+      "item-f3be028b9f4b131011fc5a822407a4cb8868a432f17b5a56565e6fd0d54decda": {
+        "gaps": 1,
+        "new_asset_bytes": 18859008,
+        "new_decoded_frames": 3,
+        "new_pixels": 6220800,
+        "new_rasters": 3,
+        "ocr_targets": 3,
+        "samples": 3,
+        "span_ms": 9000
+      }
+    },
+    "known_reused": {
+      "gaps": 0,
+      "new_asset_bytes": 0,
+      "new_decoded_frames": 0,
+      "new_pixels": 0,
+      "new_rasters": 0,
+      "ocr_targets": 0,
+      "samples": 0,
+      "span_ms": 0
+    },
+    "reasons": [],
+    "requested": {
+      "gaps": 6,
+      "new_asset_bytes": 0,
+      "new_decoded_frames": 18,
+      "new_pixels": 0,
+      "new_rasters": 18,
+      "ocr_targets": 18,
+      "samples": 18,
+      "span_ms": 54000
+    }
+  },
+  "schema_version": "video-context.follow-up.v1",
+  "selected_item_ids": [
+    "item-1998ac0b4db8b82fbc61aea4853fd7a65d78351450b47862996f1db93457403e",
+    "item-2087cc2832017bec2fe9bc7116aa5a194f9506bbbc287962d45d3058f8aa99ca",
+    "item-590475492ad5db82b7135c8ce7e7ee169ff37bab18ef959b70916bdebfd1e8e2",
+    "item-7de10e571c0867254051be5d07c7c825cdd78f8a42c4b359e1dff9b5d9162071",
+    "item-a3450732090126734bd0ab3eb26cadd9ee1e1f167fccc8e3bdd057f9f90da898",
+    "item-f3be028b9f4b131011fc5a822407a4cb8868a432f17b5a56565e6fd0d54decda"
+  ],
+  "selection_digest": "sha256:5067b1c0a5fda10155f73baa659cb75edb77eff0a34946048fe9d38ee876fed2",
+  "status": "ready"
+}

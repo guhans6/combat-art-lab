@@ -1,0 +1,133 @@
+[
+  {
+    "url": "https://derekyu.com/makegames/pixelart.html",
+    "status": 200,
+    "resolved_url": "https://derekyu.com/makegames/pixelart.html"
+  },
+  {
+    "url": "https://docs.godotengine.org/en/4.6/tutorials/2d/2d_lights_and_shadows.html",
+    "status": 200,
+    "resolved_url": "https://docs.godotengine.org/en/4.6/tutorials/2d/2d_lights_and_shadows.html"
+  },
+  {
+    "url": "https://docs.godotengine.org/en/stable/classes/class_canvasmodulate.html",
+    "status": 200,
+    "resolved_url": "https://docs.godotengine.org/en/stable/classes/class_canvasmodulate.html"
+  },
+  {
+    "url": "https://docs.godotengine.org/en/stable/classes/class_canvastexture.html",
+    "status": 200,
+    "resolved_url": "https://docs.godotengine.org/en/stable/classes/class_canvastexture.html"
+  },
+  {
+    "url": "https://docs.godotengine.org/en/stable/classes/class_spriteframes.html",
+    "status": 200,
+    "resolved_url": "https://docs.godotengine.org/en/stable/classes/class_spriteframes.html"
+  },
+  {
+    "url": "https://docs.godotengine.org/en/stable/tutorials/2d/2d_parallax.html",
+    "status": 200,
+    "resolved_url": "https://docs.godotengine.org/en/stable/tutorials/2d/2d_parallax.html"
+  },
+  {
+    "url": "https://docs.godotengine.org/en/stable/tutorials/2d/2d_sprite_animation.html",
+    "status": 200,
+    "resolved_url": "https://docs.godotengine.org/en/stable/tutorials/2d/2d_sprite_animation.html"
+  },
+  {
+    "url": "https://docs.godotengine.org/en/stable/tutorials/animation/2d_skeletons.html",
+    "status": 200,
+    "resolved_url": "https://docs.godotengine.org/en/stable/tutorials/animation/2d_skeletons.html"
+  },
+  {
+    "url": "https://docs.godotengine.org/en/stable/tutorials/animation/cutout_animation.html",
+    "status": 200,
+    "resolved_url": "https://docs.godotengine.org/en/stable/tutorials/animation/cutout_animation.html"
+  },
+  {
+    "url": "https://docs.godotengine.org/en/stable/tutorials/rendering/multiple_resolutions.html",
+    "status": 200,
+    "resolved_url": "https://docs.godotengine.org/en/stable/tutorials/rendering/multiple_resolutions.html"
+  },
+  {
+    "url": "https://docs.godotengine.org/en/stable/tutorials/shaders/screen-reading_shaders.html",
+    "status": 200,
+    "resolved_url": "https://docs.godotengine.org/en/stable/tutorials/shaders/screen-reading_shaders.html"
+  },
+  {
+    "url": "https://github.com/guhans6/combat-art-lab",
+    "error": "HTTP Error 404: Not Found",
+    "alternate_verification": "Authenticated gh repo view returned exact URL and isPrivate=true; anonymous 404 expected for private repository."
+  },
+  {
+    "url": "https://lospec.com/articles/pixel-art-where-to-start/",
+    "status": 200,
+    "resolved_url": "https://lospec.com/articles/pixel-art-where-to-start/"
+  },
+  {
+    "url": "https://pixeljoint.com/forum/forum_posts.asp?TID=11299",
+    "status": 200,
+    "resolved_url": "https://pixeljoint.com/forum/forum_posts.asp?TID=11299"
+  },
+  {
+    "url": "https://saint11.art/blog/consistency/",
+    "status": 200,
+    "resolved_url": "https://saint11.art/blog/consistency/"
+  },
+  {
+    "url": "https://saint11.art/pixel_art_articles/",
+    "status": 200,
+    "resolved_url": "https://saint11.art/pixel_art_articles/"
+  },
+  {
+    "url": "https://saint11.org/",
+    "status": 200,
+    "resolved_url": "https://saint11.org/"
+  },
+  {
+    "url": "https://saint11.org/blog/pixel-art-tutorials/",
+    "status": 200,
+    "resolved_url": "https://saint11.org/blog/pixel-art-tutorials/"
+  },
+  {
+    "url": "https://www.aseprite.org/api",
+    "status": 200,
+    "resolved_url": "https://www.aseprite.org/api"
+  },
+  {
+    "url": "https://www.aseprite.org/docs/animation/",
+    "status": 200,
+    "resolved_url": "https://www.aseprite.org/docs/animation/"
+  },
+  {
+    "url": "https://www.aseprite.org/docs/basics/",
+    "status": 200,
+    "resolved_url": "https://www.aseprite.org/docs/basics/"
+  },
+  {
+    "url": "https://www.aseprite.org/docs/color-mode/",
+    "status": 200,
+    "resolved_url": "https://www.aseprite.org/docs/color-mode/"
+  },
+  {
+    "url": "https://www.aseprite.org/docs/drawing/",
+    "status": 200,
+    "resolved_url": "https://www.aseprite.org/docs/drawing/"
+  },
+  {
+    "url": "https://www.gamedeveloper.com/production/art-design-deep-dive-using-a-3d-pipeline-for-2d-animation-in-i-dead-cells-i-",
+    "status": 200,
+    "resolved_url": "https://www.gamedeveloper.com/production/art-design-deep-dive-using-a-3d-pipeline-for-2d-animation-in-i-dead-cells-i-"
+  },
+  {
+    "url": "https://www.reddit.com/r/NintendoSwitch/comments/1m0j796/ama_we_are_polychroma_games_the_studio_behind_the/",
+    "error": "HTTP Error 403: Blocked",
+    "alternate_verification": "Primary developer AMA read successfully through web tool on 2026-10-27; unauthenticated HTTP HEAD blocked."
+  },
+  {
+    "url": "https://saint11.art/blog/pixel-art-tutorials/",
+    "status": 200,
+    "resolved_url": "https://saint11.art/blog/pixel-art-tutorials/",
+    "note": "Link availability only; source research disclosed redirect/content not reverified."
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "note": "Counts expose method changes; not an art score. Primary inspected actualbefore/aftercomposite/nativepreview. Skincontour revision intentional, jacketalpha exact.",
+  "frames": {
+    "4": {
+      "02-jacket-sleeves": {
+        "before_colors": 45,
+        "after_colors": 46,
+        "alpha_identical": true
+      },
+      "06-hands-forearms": {
+        "before_colors": 4,
+        "after_colors": 23,
+        "alpha_identical": false
+      }
+    },
+    "5": {
+      "02-jacket-sleeves": {
+        "before_colors": 38,
+        "after_colors": 43,
+        "alpha_identical": true
+      },
+      "06-hands-forearms": {
+        "before_colors": 4,
+        "after_colors": 19,
+        "alpha_identical": false
+      }
+    },
+    "6": {
+      "02-jacket-sleeves": {
+        "before_colors": 18,
+        "after_colors": 28,
+        "alpha_identical": true
+      },
+      "06-hands-forearms": {
+        "before_colors": 3,
+        "after_colors": 17,
+        "alpha_identical": false
+      }
+    },
+    "8": {
+      "02-jacket-sleeves": {
+        "before_colors": 18,
+        "after_colors": 28,
+        "alpha_identical": true
+      },
+      "06-hands-forearms": {
+        "before_colors": 3,
+        "after_colors": 18,
+        "alpha_identical": false
+      }
+    },
+    "9": {
+      "02-jacket-sleeves": {
+        "before_colors": 20,
+        "after_colors": 28,
+        "alpha_identical": true
+      },
+      "06-hands-forearms": {
+        "before_colors": 3,
+        "after_colors": 21,
+        "alpha_identical": false
+      }
+    },
+    "14": {
+      "02-jacket-sleeves": {
+        "before_colors": 20,
+        "after_colors": 27,
+        "alpha_identical": true
+      },
+      "06-hands-forearms": {
+        "before_colors": 3,
+        "after_colors": 16,
+        "alpha_identical": false
+      }
+    },
+    "15": {
+      "02-jacket-sleeves": {
+        "before_colors": 38,
+        "after_colors": 43,
+        "alpha_identical": true
+      },
+      "06-hands-forearms": {
+        "before_colors": 4,
+        "after_colors": 19,
+        "alpha_identical": false
+      }
+    },
+    "16": {
+      "02-jacket-sleeves": {
+        "before_colors": 45,
+        "after_colors": 46,
+        "alpha_identical": true
+      },
+      "06-hands-forearms": {
+        "before_colors": 4,
+        "after_colors": 23,
+        "alpha_identical": false
+      }
+    }
+  }
+}

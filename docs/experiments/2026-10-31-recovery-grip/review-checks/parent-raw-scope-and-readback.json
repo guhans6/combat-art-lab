@@ -1,0 +1,111 @@
+{
+  "passed": true,
+  "raw_native_owner_changes": [
+    {
+      "frame_index": 8,
+      "layer_index": 4,
+      "raw_RGBA_changed_pixels": 200,
+      "raw_RGBA_changes_outside_mask": 0
+    },
+    {
+      "frame_index": 8,
+      "layer_index": 5,
+      "raw_RGBA_changed_pixels": 142,
+      "raw_RGBA_changes_outside_mask": 0
+    },
+    {
+      "frame_index": 8,
+      "layer_index": 6,
+      "raw_RGBA_changed_pixels": 276,
+      "raw_RGBA_changes_outside_mask": 0
+    }
+  ],
+  "remaining_native_cels_exact": 56,
+  "native_coordinate_RGBA_readback": {
+    "175,83": [
+      223,
+      179,
+      155,
+      255
+    ],
+    "176,83": [
+      121,
+      82,
+      70,
+      255
+    ],
+    "174,84": [
+      252,
+      175,
+      128,
+      255
+    ],
+    "175,84": [
+      228,
+      133,
+      88,
+      255
+    ],
+    "176,84": [
+      120,
+      55,
+      28,
+      255
+    ],
+    "171,90": [
+      223,
+      179,
+      155,
+      255
+    ],
+    "172,90": [
+      242,
+      205,
+      181,
+      255
+    ],
+    "175,90": [
+      223,
+      179,
+      155,
+      255
+    ],
+    "176,90": [
+      242,
+      205,
+      181,
+      255
+    ],
+    "174,91": [
+      82,
+      76,
+      52,
+      255
+    ],
+    "162,109": [
+      223,
+      179,
+      155,
+      255
+    ],
+    "163,109": [
+      242,
+      205,
+      181,
+      255
+    ],
+    "187,99": [
+      223,
+      179,
+      155,
+      255
+    ],
+    "188,99": [
+      242,
+      205,
+      181,
+      255
+    ]
+  },
+  "limits": "Pixel ownership and color readback, not semantic anatomy proof."
+}

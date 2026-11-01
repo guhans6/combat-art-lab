@@ -1,0 +1,240 @@
+{
+  "changes_by_glyph": {
+    ".": [
+      [
+        35,
+        20
+      ],
+      [
+        35,
+        21
+      ],
+      [
+        35,
+        22
+      ],
+      [
+        36,
+        22
+      ],
+      [
+        35,
+        23
+      ],
+      [
+        36,
+        23
+      ],
+      [
+        36,
+        24
+      ],
+      [
+        37,
+        24
+      ],
+      [
+        37,
+        25
+      ],
+      [
+        42,
+        28
+      ],
+      [
+        43,
+        28
+      ],
+      [
+        44,
+        28
+      ],
+      [
+        43,
+        29
+      ],
+      [
+        44,
+        29
+      ],
+      [
+        45,
+        29
+      ],
+      [
+        43,
+        30
+      ],
+      [
+        44,
+        30
+      ]
+    ],
+    "D": [
+      [
+        36,
+        20
+      ],
+      [
+        36,
+        21
+      ],
+      [
+        37,
+        22
+      ],
+      [
+        37,
+        23
+      ],
+      [
+        38,
+        24
+      ],
+      [
+        38,
+        25
+      ],
+      [
+        42,
+        27
+      ],
+      [
+        43,
+        27
+      ],
+      [
+        44,
+        27
+      ],
+      [
+        45,
+        28
+      ],
+      [
+        46,
+        29
+      ]
+    ],
+    "G": [
+      [
+        38,
+        21
+      ],
+      [
+        39,
+        22
+      ],
+      [
+        39,
+        23
+      ],
+      [
+        40,
+        25
+      ]
+    ]
+  },
+  "calls": [
+    {
+      "name": "select",
+      "arguments": {
+        "op": "rect",
+        "rect": {
+          "x": 34,
+          "y": 10,
+          "width": 24,
+          "height": 21
+        }
+      }
+    },
+    {
+      "name": "draw",
+      "arguments": {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "selectionOnly": true,
+        "label": "pass02 break rear hair disk into overlapping clumps",
+        "ops": [
+          {
+            "kind": "grid",
+            "x": 34,
+            "y": 10,
+            "rows": [
+              "............FDDDKKKMD...",
+              "..........FDDFFDKKKKD...",
+              ".......FDKKvvvFFDKKD....",
+              ".....FDDMMMMvvFFDDDD....",
+              "....FDMMMMMMKvvFFFFD....",
+              "....DMMMMKKDKvvKFFFFD...",
+              "...DMMMKKKKDKKKKFFFFD...",
+              "..FDMMKKGGDGKKDKFFFFFD..",
+              ".FDKMKKGGGDGGKDGGGFFFD..",
+              ".DFKKKKKGDGGGDGGGGGFFD..",
+              "..DFKMKKGDGGGDGGKGGFFFD.",
+              "..DFGMKGGGGGDGGKKKGFFFD.",
+              "...DDGKGGGGFDGKKKKGFFFD.",
+              "...DDGKGGGFDGGKMKGGFF.D.",
+              "....DDMKGFFGGGMKGGFFFD..",
+              "....DDGMFFFFGKMKGFFFFD..",
+              "...FFKDDMKFFDMKGGFFFD...",
+              "....FFKKDDDFDGGGFFF.D...",
+              ".....FFK...DGGGKFFDD....",
+              ".....DFFF...DGFFKD......",
+              ".......DD..D.DFFKK......"
+            ],
+            "legend": {
+              "F": "#49322d",
+              "D": "#402b29",
+              "K": "#6b4435",
+              "M": "#7d503a",
+              "v": "#e8d8b9",
+              "G": "#57382e"
+            },
+            "transparent": "erase"
+          }
+        ]
+      }
+    },
+    {
+      "name": "select",
+      "arguments": {
+        "op": "none"
+      }
+    },
+    {
+      "name": "sprite_manage",
+      "arguments": {
+        "op": "save_as",
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/art-runs/2026-10-26-gpt61-sol-pilot-01/passes/pass-02.aseprite"
+      }
+    },
+    {
+      "name": "export",
+      "arguments": {
+        "op": "png",
+        "path": "/Users/guhan/Guhan/Projects/combat-art-lab/art-runs/2026-10-26-gpt61-sol-pilot-01/passes/pass-02.png"
+      }
+    },
+    {
+      "name": "look",
+      "arguments": {
+        "op": "preview",
+        "region": {
+          "x": 32,
+          "y": 0,
+          "width": 50,
+          "height": 34
+        },
+        "scale": 12
+      }
+    },
+    {
+      "name": "look",
+      "arguments": {
+        "op": "preview",
+        "scale": 1
+      }
+    }
+  ]
+}

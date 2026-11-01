@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "native": "artist/source/recovery-grip-pass02.aseprite",
+  "native_sha256": "b2508d390693adaacc8f6db9ed9f3f129828a6071d20a1c4f9b6779c78009f38",
+  "png": "artist/proof/recovery-grip-pass02.png",
+  "png_sha256": "a916398f9999bdccba9cd612ed2090b8c9496e70aa2d23a5dd99d4fa5a3db7c4",
+  "mask_sha256": "43673f865fea17460e7dcaf6d6fd354ea61d7cf0b3e88e0b73bbdc034b9f451d",
+  "changed_cels": [
+    {
+      "frame_1based": 9,
+      "layer_0based": 4,
+      "name": "04-tote-and-handles",
+      "changed_pixels": 200
+    },
+    {
+      "frame_1based": 9,
+      "layer_0based": 5,
+      "name": "05-loaded-grip-drawing",
+      "changed_pixels": 132
+    },
+    {
+      "frame_1based": 9,
+      "layer_0based": 6,
+      "name": "06-continuous-handle-tension",
+      "changed_pixels": 276
+    }
+  ],
+  "composite_changed_pixels": 422,
+  "changed_bbox_xyxy": [
+    159,
+    80,
+    191,
+    110
+  ],
+  "all_other_12_poses_exact": true,
+  "protected_owners_and_outside_mask_exact": true,
+  "layer_structure_palette_timing_exact": true,
+  "native_png_visible_RGBA_equal": true,
+  "native_export_invisible_RGB_differences": 10,
+  "fresh_reopen_PNG_pixels_exact": true,
+  "limits": "Pose-only technical proof. Alpha openings require visual review; no grip/anatomy or artistic approval inferred."
+}

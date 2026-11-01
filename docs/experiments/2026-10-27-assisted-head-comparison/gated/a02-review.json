@@ -1,0 +1,49 @@
+{
+  "panels": [
+    {
+      "role": "APPROVED ORIGINAL (caller-selected)",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/references/approved-2026-10-26/character-closeup.png",
+      "sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7",
+      "native_image_size": [
+        1448,
+        1086
+      ],
+      "crop_xyxy_half_open": [
+        380,
+        64,
+        860,
+        512
+      ],
+      "display_size": [
+        480,
+        448
+      ],
+      "display_height_ratio": 1.0,
+      "resampling": "none"
+    },
+    {
+      "role": "ACTUAL CANDIDATE EXPORT",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-27-assisted-head-comparison/gated/a02-expression.png",
+      "sha256": "90370e62f076295938b4ec4894c5b2f1dabe6e3cfce5990c8b1562d630ea2eb9",
+      "native_image_size": [
+        120,
+        112
+      ],
+      "crop_xyxy_half_open": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "display_size": [
+        480,
+        448
+      ],
+      "display_height_ratio": 4.0,
+      "resampling": "nearest-neighbor"
+    }
+  ],
+  "artistic_judgment": "not computed",
+  "alignment": "crop heights only; anatomy not validated",
+  "source_images_modified": false
+}

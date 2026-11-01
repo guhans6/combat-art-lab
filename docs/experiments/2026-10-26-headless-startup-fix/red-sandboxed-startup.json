@@ -1,0 +1,18 @@
+{
+  "command": "python3 docs/experiments/2026-10-26-headless-startup-fix/probe-startup.py",
+  "runs": [
+    {
+      "passed": false,
+      "returncode": -6,
+      "stdout": "",
+      "seconds": 0.152
+    },
+    {
+      "passed": false,
+      "returncode": -6,
+      "stdout": "",
+      "seconds": 0.141
+    }
+  ],
+  "mode": "normal shell command sandbox"
+}

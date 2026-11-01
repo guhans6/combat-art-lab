@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-27",
+  "base_revision": "9e35c5c13987a153e942e6f93f49f247fad13c3a",
+  "modified_existing_files": [
+    "CONTEXT.md",
+    "docs/handoff.md",
+    "docs/workflow/art-production.md",
+    "tools/pixel-art-director/SKILL.md",
+    "tools/pixel-art-director/references/reconstruction.md"
+  ],
+  "new_toolkit_files": [
+    "tools/pixel-art-director/scripts/reference_review.py",
+    "tools/pixel-art-director/tests/test_reference_review.py"
+  ],
+  "local_links_and_anchors_checked": 119,
+  "missing_local_links": [],
+  "preservation": {
+    "preexisting_checked": 451,
+    "unchanged": 446,
+    "intentional_changed": 5,
+    "unexpected_changed": 0
+  },
+  "utility_tests": {
+    "passed": 24,
+    "prior_tests": 18,
+    "new_helper_tests": 6,
+    "command": "bundled python3 -B -m unittest discover -s tools/pixel-art-director/tests -v"
+  },
+  "python_ast": "pass for all new Python scripts",
+  "skill_frontmatter": "Ruby YAML.safe_load passed name/description validation",
+  "git_diff_check": "pass",
+  "reference_review_sidecars_validated": [
+    "original-vs-blockout-v02.json",
+    "original-vs-blockout-v03.json",
+    "original-vs-blockout.json",
+    "original-vs-failed-192.json",
+    "original-vs-failed-256.json",
+    "original-vs-features.json"
+  ],
+  "native_reopen_export": "exact for source and tie-edit proof",
+  "native_protected_pixels": "only 15 tie-layer pixels changed; nine other layer images unchanged",
+  "native_metadata": "strict comparison rejects header/palette changes; no exemption added",
+  "artistic_result": "new study rejected by agent for likeness; old resolution studies rejected by user",
+  "new_grid_decision": "none",
+  "godot_animation": "not run",
+  "publication_installation_paid_art_service": "none",
+  "artistic_time_operation_totals_cost": "not measured"
+}

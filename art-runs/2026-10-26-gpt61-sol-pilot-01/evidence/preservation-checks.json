@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "files_checked": 206,
+  "modified_original_files": [],
+  "npm_archive_integrity_matches_registry": true,
+  "verified_utc": "2026-10-26T10:39:31.838077+00:00",
+  "handoff_update": {
+    "append_only": true,
+    "original_prefix_bytes": 4357,
+    "original_prefix_sha256": "ebb8d6c6a84819839475169ae0f1c46e53480c34e4f5748dfcbee2d2b899c045",
+    "prior_content_copy": "handoff-before-append.md"
+  }
+}

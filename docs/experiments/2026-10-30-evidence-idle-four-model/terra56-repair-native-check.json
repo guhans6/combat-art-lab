@@ -1,0 +1,73 @@
+{
+  "native": "terra56/native/terra56-breathe-seam-repair.aseprite",
+  "sha256": "9db6aa3cce3210376b6b6ce9b3f013f8798dd59b70fecf13adff7453ce7d5df8",
+  "layers": [
+    "guide-source-seed (hidden)",
+    "00-shoes",
+    "01-denim",
+    "02a-jacket-left",
+    "02b-jacket-right",
+    "03-shirt",
+    "04-tote",
+    "05-tote-strap",
+    "06a-left-hand",
+    "06b-right-hand",
+    "07-face-and-neck",
+    "09-breath-seam-backing",
+    "08-hair-tie-and-hair"
+  ],
+  "frames": 8,
+  "rest_exact": true,
+  "coverage": {
+    "passed": true,
+    "frames": [
+      {
+        "frame_1based": 1,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 2,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 3,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 4,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 5,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 6,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 7,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 8,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      }
+    ],
+    "inherited_body_holes_xy": [
+      [
+        63,
+        116
+      ]
+    ],
+    "limits": "Enclosed body-hole/binary-alpha check only; moving silhouette and intentional head/hair gaps need scoped review."
+  }
+}

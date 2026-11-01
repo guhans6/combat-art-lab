@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"output\": [\n    \"Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\",\n    \"\",\n    \"OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro\",\n    \"\",\n    \"\",\n    \"\",\n    \"\",\n    \"Debugger Break, Reason: 'Invalid assignment of property or key 'text' with value of type 'String' on a base object of type 'Nil'.'\",\n    \"*Frame 0 - res://preview.gd:84 in function '_update_status'\",\n    \"Enter \\\"help\\\" for assistance.\",\n    \"debug> \"\n  ],\n  \"errors\": [\n    \"ERROR: ART_LAB_ALPHA_FAIL frame=0 source=res://textures/idle-alpha-v03\",\n    \"   at: push_error (core/variant/variant_utility.cpp:1023)\",\n    \"   GDScript backtrace (most recent call first):\",\n    \"       [0] _ready (res://preview.gd:54)\",\n    \"\",\n    \"SCRIPT ERROR: Invalid assignment of property or key 'text' with value of type 'String' on a base object of type 'Nil'.\",\n    \"          at: _update_status (res://preview.gd:84)\",\n    \"          GDScript backtrace (most recent call first):\",\n    \"              [0] _update_status (res://preview.gd:84)\",\n    \"              [1] _unhandled_key_input (res://preview.gd:130)\",\n    \"\"\n  ]\n}"
+    }
+  ]
+}

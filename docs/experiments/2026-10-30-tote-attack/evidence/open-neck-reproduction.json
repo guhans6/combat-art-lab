@@ -1,0 +1,13 @@
+{
+  "artifact": "artist/checkpoints/recovery-seed-v01.png",
+  "head_xy": [
+    140,
+    25
+  ],
+  "thorax_xy": [
+    145,
+    65
+  ],
+  "connected": false,
+  "verdict": "Rejected: declared head/thorax opaque anchors are disconnected; not an enclosed-hole-only check."
+}

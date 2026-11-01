@@ -1,0 +1,68 @@
+{
+  "Pillow_version": "12.3.0",
+  "checks": [
+    {
+      "file": "method_2_56x42.png",
+      "dimensions": [
+        56,
+        42
+      ],
+      "visible_rgb_colors": 1741,
+      "reproduced_pixels_equal": true
+    },
+    {
+      "file": "method_3_56x42.png",
+      "dimensions": [
+        56,
+        42
+      ],
+      "visible_rgb_colors": 32,
+      "reproduced_pixels_equal": true
+    },
+    {
+      "file": "conversion_seed_56x42_32colors.png",
+      "dimensions": [
+        56,
+        42
+      ],
+      "visible_rgb_colors": 32,
+      "reproduced_pixels_equal": true
+    },
+    {
+      "file": "conversion_seed_112x84_32colors.png",
+      "dimensions": [
+        112,
+        84
+      ],
+      "visible_rgb_colors": 32,
+      "reproduced_pixels_equal": true
+    },
+    {
+      "file": "method_4_56x42.png",
+      "dimensions": [
+        56,
+        42
+      ],
+      "visible_rgb_colors": 32,
+      "reproduced_pixels_equal": true
+    },
+    {
+      "file": "method_1_56x42.png",
+      "dimensions": [
+        56,
+        42
+      ],
+      "visible_rgb_colors": 1827,
+      "reproduced_pixels_equal": true
+    },
+    {
+      "file": "conversion_seed_84x63_32colors.png",
+      "dimensions": [
+        84,
+        63
+      ],
+      "visible_rgb_colors": 32,
+      "reproduced_pixels_equal": true
+    }
+  ]
+}

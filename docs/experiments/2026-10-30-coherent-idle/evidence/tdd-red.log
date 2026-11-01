@@ -1,0 +1,17 @@
+test_finite_loop_is_rejected (test_delivery_contract.DeliveredContractTests.test_finite_loop_is_rejected) ... /Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-coherent-idle/verify_contract.py:45: ResourceWarning: unclosed file <_io.BufferedReader name='/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/tmppyfz7ut4/finite-loop.gif'>
+  try:gif_check(Path(gif_path),frames,times,1)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+FAIL
+
+======================================================================
+FAIL: test_finite_loop_is_rejected (test_delivery_contract.DeliveredContractTests.test_finite_loop_is_rejected)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-coherent-idle/tests/test_delivery_contract.py", line 18, in test_finite_loop_is_rejected
+    self.assertFalse(result['passed'])
+AssertionError: True is not false
+
+----------------------------------------------------------------------
+Ran 1 test in 0.141s
+
+FAILED (failures=1)

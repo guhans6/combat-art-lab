@@ -1,0 +1,22 @@
+{
+  "pass_1": {
+    "artifact": "outputs/candidate-pass1-rejected-exterior-pixels.aseprite",
+    "attempted_pixels": 40,
+    "result": "rejected",
+    "reason": "Visual inspection found marks outside the character around the tote/shoe coordinate assumptions."
+  },
+  "pass_1_alpha_rebuild": {
+    "artifact": "outputs/candidate-pass1-rejected-alpha-changes.aseprite",
+    "attempted_pixels": 25,
+    "actual_changed_pixels": 24,
+    "result": "rejected",
+    "reason": "Ten changed pixels altered alpha coverage, violating the all-alpha lock."
+  },
+  "final": {
+    "artifact": "outputs/candidate-cleaned.aseprite",
+    "declared_coordinates": 15,
+    "actual_changed_pixels": 14,
+    "result": "retained for before/after review",
+    "reason": "All actual changes are interior denim pixels with unchanged alpha."
+  }
+}

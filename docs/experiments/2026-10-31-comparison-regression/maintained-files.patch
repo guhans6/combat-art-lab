@@ -1,0 +1,105 @@
+--- task-start/tools/pixel-art-director/SKILL.md
++++ current/tools/pixel-art-director/SKILL.md
+@@ -143,6 +143,10 @@
+ 
+ ## 5. Evaluate both correctness and appearance
+ 
++For a meaningful before/candidate revision, apply
++[comparison review](references/comparison-review.md): account for changed content,
++inspect its connected context, and decide target improvement and regressions separately.
++
+ After transparency cleanup or part motion, read [alpha coverage](references/alpha-coverage.md).
+ Check actual exported frames for unintended fabric/body holes before dependent work.
+ 
+--- task-start/tools/pixel-art-director/references/animation.md
++++ current/tools/pixel-art-director/references/animation.md
+@@ -118,6 +118,10 @@
+ 
+ ## Make separate review decisions
+ 
++For revised keys, apply [comparison review](comparison-review.md) to the actual
++before/candidate exports and affected-frame inventory. Carry the attachment/context
++observations through adjacent keys; crop coverage is not anatomical clearance.
++
+ Before extending keys into a cycle, and again on actual exported transitions and
+ loop return, record observations and a decision for each relevant dimension:
+ 
+--- task-start/tools/pixel-art-director/scripts/pixel_checks.py
++++ current/tools/pixel-art-director/scripts/pixel_checks.py
+@@ -212,7 +212,7 @@
+         tile.alpha_composite(image)
+         out.paste(tile.convert('RGB'), (x, top))
+         detail = tile.crop(crop).resize(((x1 - x0) * scale, (y1 - y0) * scale), Image.Resampling.NEAREST)
+-        draw.text((x, bottom_y - 18), f'Head crop, {scale}x nearest-neighbor', fill='white')
++        draw.text((x, bottom_y - 18), f'Review crop, {scale}x nearest-neighbor', fill='white')
+         out.paste(detail.convert('RGB'), (x, bottom_y))
+     return out
+ 
+--- task-start/docs/workflow/art-production.md
++++ current/docs/workflow/art-production.md
+@@ -335,6 +335,11 @@
+ 
+ ## Visual review rubric
+ 
++For a meaningful before/candidate revision, use the director's
++[comparison review](../../tools/pixel-art-director/references/comparison-review.md).
++Account for changed content and record target improvement separately from regressions
++in the edited feature, its connections and full context before selecting a result.
++
+ Record concrete observations, unresolved gaps, evidence paths and reviewer for each relevant dimension. Use **observed / uncertain / not tested** with reasons; do not sum dimensions into an automated quality score.
+ 
+ | Dimension | Review question | Evidence required |
+--- task-start/docs/experiments/experiment-template.md
++++ current/docs/experiments/experiment-template.md
+@@ -48,6 +48,10 @@
+ post-edit export/hash, and the fresh independent inspection; an editor's prior review
+ does not approve the changed output.
+ 
++For before/candidate revisions, attach the director's
++[comparison packet and two review decisions](../../tools/pixel-art-director/references/comparison-review.md):
++target improvement and surrounding/global regressions, bound to the reviewed packet hash.
++
+ **Selection summary:** best/preferred artifact and reason; last attempted artifact and
+ status; user preference/approval scope; remaining defects and next owner. “None
+ selected” and “not reviewed” are valid outcomes.
+--- task-start/docs/art/motion-guide.md
++++ current/docs/art/motion-guide.md
+@@ -18,6 +18,10 @@
+ direction only. See the [diagnosis and evidence boundaries](../experiments/2026-10-30-animation-workflow-integration/record.md).
+ 
+ ## Tote attack prototype — 31 October 2026
++
++Subsequent feedback rejects v03's recovery grip/handle join. The earlier parent
++visual clearance is withdrawn; technical playback evidence below remains scoped
++technical evidence. See the [superseding rejection](../experiments/2026-10-30-tote-attack/record.md).
+ 
+ The user chose a two-handed tote swing as the next bounded combat test.
+ [Native v03 and evidence](../experiments/2026-10-30-tote-attack/record.md) use13frames
+--- task-start/docs/handoff.md
++++ current/docs/handoff.md
+@@ -1,4 +1,25 @@
+ # Continue in Codex
++
++## Before/after regression checkpoint — 31 October 2026
++
++[Workflow correction](experiments/2026-10-31-comparison-regression/record.md) implements
++the user's requested separate Sol High research and Sol High planning passes. New
++director comparison helper reuses existing pixel checks, detects outside-scope and
++uncovered changes, binds inputs/evidence/sheets to exact hashes, and verifies freshness.
++One disclosed procedure requires target-improvement and regression decisions over
++edited/connected/global content; seven new tests bring the director suite to42/42,
++also passing in a standalone source copy. Real F9 replay flags30omitted changes;
++complete coverage passes mechanics while visual approval remains pending. Old
++unregistered256/320pair is refused. Standards finding on removable asserts fixed;
++optimized replay passes; Spec review no findings. See review/evidence in the record.
++
++Important limit: a fresh visual critic initially also cleared the known bad grip and
++cited incorrect native coordinates. This is negative evidence, not automatic defect
++detection success. Coordinate grounding/readback is now explicit; the user's v03
++rejection remains authoritative. No art was changed or approved. Local canonical
++source/symlink updated; no bundle refresh, external installation, engine run, commit
++or publication. Next art task starts with a single convincing recovery grip proof
++and the revised regression checkpoint. Do not treat a complete packet as art approval.
+ 
+ ## Tote recovery rejection supersedes v03 readiness — 31 October 2026
+ 

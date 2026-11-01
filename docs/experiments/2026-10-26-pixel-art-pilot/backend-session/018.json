@@ -1,0 +1,27 @@
+{
+  "id": "018",
+  "time": "2026-10-26T10:28:43.740Z",
+  "call": {
+    "name": "sprite_manage",
+    "arguments": {
+      "op": "open",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-26-pixel-art-pilot/smoke/one-pixel.aseprite"
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "open: one-pixel.aseprite. Refer to it as '#48'."
+      }
+    ],
+    "structuredContent": {
+      "op": "open",
+      "sprite": "one-pixel.aseprite",
+      "id": 48,
+      "height": 16,
+      "width": 16
+    }
+  },
+  "images": []
+}

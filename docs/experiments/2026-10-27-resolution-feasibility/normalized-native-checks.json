@@ -1,0 +1,274 @@
+{
+  "study-192-pass02": {
+    "passed": true,
+    "failures": [],
+    "layers": [
+      {
+        "name": "Back hair",
+        "changed_pixels": 1,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      },
+      {
+        "name": "Jacket",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      },
+      {
+        "name": "Shirt",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      },
+      {
+        "name": "Neck and face",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      },
+      {
+        "name": "Features",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      },
+      {
+        "name": "Front hair",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      },
+      {
+        "name": "Tote strap",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          132
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          132
+        ]
+      }
+    ],
+    "frame_metadata_equal": true,
+    "layer_metadata_equal": true,
+    "header_equal": true,
+    "source_sha256": "cc49ea2243fc8caeb06b01b4bf7ad36fe737a3f3d6da52f6ded224af20cff5c1",
+    "native_canvas": [
+      120,
+      132
+    ],
+    "native_layer_count": 7,
+    "normalized_export_matches_original": true,
+    "composite_changed_pixels": 1
+  },
+  "study-256-pass02": {
+    "passed": true,
+    "failures": [],
+    "layers": [
+      {
+        "name": "Back hair",
+        "changed_pixels": 1,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      },
+      {
+        "name": "Jacket",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      },
+      {
+        "name": "Shirt",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      },
+      {
+        "name": "Neck and face",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      },
+      {
+        "name": "Features",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      },
+      {
+        "name": "Front hair",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      },
+      {
+        "name": "Tote strap",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          160,
+          176
+        ],
+        "after_cel": [
+          0,
+          0,
+          160,
+          176
+        ]
+      }
+    ],
+    "frame_metadata_equal": true,
+    "layer_metadata_equal": true,
+    "header_equal": true,
+    "source_sha256": "006402388d2370d1a937a4816460ca3d7336d0a9e0483c9f41977854c2093708",
+    "native_canvas": [
+      160,
+      176
+    ],
+    "native_layer_count": 7,
+    "normalized_export_matches_original": true,
+    "composite_changed_pixels": 1
+  }
+}

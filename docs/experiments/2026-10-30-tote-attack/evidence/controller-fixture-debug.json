@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"message\": \"Godot project stopped\",\n  \"finalOutput\": [\n    \"Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\",\n    \"\",\n    \"OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro\",\n    \"\",\n    \"\",\n    \"\",\n    \"TOTE_READY engine=4.7.2-stable (official) frames=3 filter=nearest viewport=(362.0, 304.0)\",\n    \"\",\n    \"TOTE_CAPTURE startup error=0\",\n    \"\",\n    \"TOTE_ATTACK_START 1\",\n    \"\",\n    \"TOTE_CAPTURE frame-00 error=0\",\n    \"\",\n    \"TOTE_HIT attack=1 frame=2\",\n    \"\",\n    \"TOTE_CAPTURE frame-01 error=0\",\n    \"\",\n    \"TOTE_CAPTURE frame-02 error=0\",\n    \"\",\n    \"TOTE_ATTACK_END 1 duration=299 hits=1\",\n    \"\",\n    \"TOTE_CAPTURE return-01 error=0\",\n    \"\",\n    \"TOTE_ATTACK_START 2\",\n    \"\",\n    \"TOTE_HIT attack=2 frame=2\",\n    \"\",\n    \"TOTE_ATTACK_END 2 duration=300 hits=2\",\n    \"\",\n    \"TOTE_CAPTURE return-02 error=0\",\n    \"\",\n    \"TOTE_ATTACK_START 3\",\n    \"\",\n    \"TOTE_HIT attack=3 frame=2\",\n    \"\",\n    \"TOTE_ATTACK_END 3 duration=300 hits=3\",\n    \"\",\n    \"TOTE_CAPTURE return-03 error=0\",\n    \"\",\n    \"TOTE_THREE_ATTACKS_COMPLETE\",\n    \"\"\n  ],\n  \"finalErrors\": []\n}"
+    }
+  ]
+}

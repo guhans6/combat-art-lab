@@ -1,0 +1,16 @@
+{
+  "started_utc": "2026-10-27T09:47:03.164909+00:00",
+  "crop": [
+    380,
+    64,
+    860,
+    512
+  ],
+  "native": [
+    120,
+    112
+  ],
+  "budget": "seed/blockout + two refinement checkpoints per arm; one duplicate-only edit proof per arm; no motion before convincing static review",
+  "reference_sufficiency": "Original closeup resolves present head turn, expression and hair; no new generation needed before original-source comparison",
+  "tool": "Aseprite CLI/Lua 1.3.18.6-dev, Pillow 12.3.0; existing runtime; no installs"
+}

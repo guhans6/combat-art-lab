@@ -1,0 +1,59 @@
+{
+  "baseline_original": {
+    "path": "docs/experiments/2026-10-27-reference-drift-audit/head-shoulders-features.aseprite",
+    "sha256": "457eae1e96d88129bd714d8a927ffea1dae3e07724d199dec653360aa7848d00"
+  },
+  "approved_references": [
+    {
+      "path": "assets/references/approved-2026-10-26/character-scene.png",
+      "sha256": "a274a80133371b61387848495bf0dd93546ba5daf0a60c051b27109237160eae"
+    },
+    {
+      "path": "assets/references/approved-2026-10-26/character-closeup.png",
+      "sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7"
+    }
+  ],
+  "palette_policy": "Explicit union of baseline colors and proposed reference-informed ramps, pinned before freezing normalized baseline. RGB artwork; no arbitrary color-count limit.",
+  "palette_rgb": [
+    "302121",
+    "333b2e",
+    "352a29",
+    "392b29",
+    "3e2927",
+    "402620",
+    "42332d",
+    "4f523e",
+    "50322e",
+    "594234",
+    "5b3931",
+    "5d3529",
+    "614236",
+    "654a39",
+    "66634a",
+    "674336",
+    "79503c",
+    "85513e",
+    "946048",
+    "9b5039",
+    "9e5d3b",
+    "ada3a0",
+    "b56548",
+    "b67858",
+    "b7a58e",
+    "bb6c48",
+    "bc9775",
+    "ce8a68",
+    "cf7853",
+    "d9875e",
+    "ded0b2",
+    "ded4c3",
+    "dfc9a9",
+    "e39468",
+    "e4c9a4",
+    "e6a37a",
+    "e7d6ba",
+    "e8c6a4",
+    "ecac80",
+    "f0d0ae"
+  ]
+}

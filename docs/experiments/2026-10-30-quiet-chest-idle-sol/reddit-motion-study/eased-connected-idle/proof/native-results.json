@@ -1,0 +1,688 @@
+{
+  "backend": "Aseprite AI Artist0.8.2 headless; Aseprite1.3.18.6-dev",
+  "frame_duplicate_source_indices_one_based": [
+    1,
+    4,
+    5,
+    7
+  ],
+  "new_durations_ms": [
+    650,
+    240,
+    240,
+    420,
+    380,
+    260,
+    360,
+    500,
+    50,
+    80,
+    50,
+    720
+  ],
+  "idle_tag_frames": [
+    1,
+    12
+  ],
+  "draw_calls": [
+    {
+      "layer": "02a-jacket-left",
+      "opsApplied": 21,
+      "frame": 2,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 50,
+        "height": 14,
+        "width": 21,
+        "x": 33
+      },
+      "pixelsChanged": 132,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "02b-jacket-right",
+      "opsApplied": 22,
+      "frame": 2,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 50,
+        "height": 14,
+        "width": 21,
+        "x": 74
+      },
+      "pixelsChanged": 88,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "03-shirt",
+      "opsApplied": 25,
+      "frame": 2,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 50,
+        "height": 14,
+        "width": 25,
+        "x": 51
+      },
+      "pixelsChanged": 158,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "05-tote-strap",
+      "opsApplied": 29,
+      "frame": 2,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 50,
+        "height": 14,
+        "width": 9,
+        "x": 75
+      },
+      "pixelsChanged": 86,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "02a-jacket-left",
+      "opsApplied": 28,
+      "frame": 3,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 52,
+        "height": 17,
+        "width": 23,
+        "x": 32
+      },
+      "pixelsChanged": 171,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "02b-jacket-right",
+      "opsApplied": 23,
+      "frame": 3,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 52,
+        "height": 17,
+        "width": 21,
+        "x": 74
+      },
+      "pixelsChanged": 116,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "03-shirt",
+      "opsApplied": 31,
+      "frame": 3,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 52,
+        "height": 17,
+        "width": 25,
+        "x": 51
+      },
+      "pixelsChanged": 186,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "05-tote-strap",
+      "opsApplied": 30,
+      "frame": 3,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 52,
+        "height": 17,
+        "width": 9,
+        "x": 75
+      },
+      "pixelsChanged": 99,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "06a-left-hand",
+      "opsApplied": 11,
+      "frame": 3,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 66,
+        "height": 3,
+        "width": 12,
+        "x": 40
+      },
+      "pixelsChanged": 22,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "06b-right-hand",
+      "opsApplied": 12,
+      "frame": 3,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 66,
+        "height": 3,
+        "width": 12,
+        "x": 70
+      },
+      "pixelsChanged": 27,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "01-denim",
+      "opsApplied": 76,
+      "frame": 4,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 70,
+        "height": 36,
+        "width": 48,
+        "x": 38
+      },
+      "pixelsChanged": 690,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "02a-jacket-left",
+      "opsApplied": 35,
+      "frame": 4,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 60,
+        "height": 18,
+        "width": 25,
+        "x": 32
+      },
+      "pixelsChanged": 144,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "02b-jacket-right",
+      "opsApplied": 15,
+      "frame": 4,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 60,
+        "height": 11,
+        "width": 25,
+        "x": 70
+      },
+      "pixelsChanged": 72,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "03-shirt",
+      "opsApplied": 28,
+      "frame": 4,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 60,
+        "height": 10,
+        "width": 23,
+        "x": 52
+      },
+      "pixelsChanged": 111,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "04-tote",
+      "opsApplied": 45,
+      "frame": 4,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 69,
+        "height": 32,
+        "width": 18,
+        "x": 78
+      },
+      "pixelsChanged": 242,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "05-tote-strap",
+      "opsApplied": 19,
+      "frame": 4,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 60,
+        "height": 15,
+        "width": 9,
+        "x": 76
+      },
+      "pixelsChanged": 60,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "06a-left-hand",
+      "opsApplied": 63,
+      "frame": 4,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 66,
+        "height": 16,
+        "width": 22,
+        "x": 32
+      },
+      "pixelsChanged": 169,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "06b-right-hand",
+      "opsApplied": 36,
+      "frame": 4,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 66,
+        "height": 14,
+        "width": 15,
+        "x": 69
+      },
+      "pixelsChanged": 104,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "01-denim",
+      "opsApplied": 77,
+      "frame": 5,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 70,
+        "height": 48,
+        "width": 48,
+        "x": 38
+      },
+      "pixelsChanged": 892,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "02a-jacket-left",
+      "opsApplied": 37,
+      "frame": 5,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 56,
+        "height": 22,
+        "width": 25,
+        "x": 32
+      },
+      "pixelsChanged": 181,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "02b-jacket-right",
+      "opsApplied": 19,
+      "frame": 5,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 56,
+        "height": 15,
+        "width": 25,
+        "x": 70
+      },
+      "pixelsChanged": 100,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "03-shirt",
+      "opsApplied": 32,
+      "frame": 5,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 56,
+        "height": 14,
+        "width": 25,
+        "x": 51
+      },
+      "pixelsChanged": 157,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "04-tote",
+      "opsApplied": 45,
+      "frame": 5,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 69,
+        "height": 32,
+        "width": 18,
+        "x": 78
+      },
+      "pixelsChanged": 242,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "05-tote-strap",
+      "opsApplied": 24,
+      "frame": 5,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 56,
+        "height": 19,
+        "width": 9,
+        "x": 76
+      },
+      "pixelsChanged": 84,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "06a-left-hand",
+      "opsApplied": 63,
+      "frame": 5,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 66,
+        "height": 16,
+        "width": 22,
+        "x": 32
+      },
+      "pixelsChanged": 173,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "06b-right-hand",
+      "opsApplied": 36,
+      "frame": 5,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 65,
+        "height": 15,
+        "width": 15,
+        "x": 69
+      },
+      "pixelsChanged": 110,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "01-denim",
+      "opsApplied": 77,
+      "frame": 6,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 70,
+        "height": 48,
+        "width": 48,
+        "x": 38
+      },
+      "pixelsChanged": 892,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "02a-jacket-left",
+      "opsApplied": 36,
+      "frame": 6,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 57,
+        "height": 21,
+        "width": 25,
+        "x": 32
+      },
+      "pixelsChanged": 161,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "02b-jacket-right",
+      "opsApplied": 19,
+      "frame": 6,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 57,
+        "height": 14,
+        "width": 25,
+        "x": 70
+      },
+      "pixelsChanged": 81,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "03-shirt",
+      "opsApplied": 32,
+      "frame": 6,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 57,
+        "height": 13,
+        "width": 24,
+        "x": 51
+      },
+      "pixelsChanged": 139,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "04-tote",
+      "opsApplied": 45,
+      "frame": 6,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 69,
+        "height": 32,
+        "width": 18,
+        "x": 78
+      },
+      "pixelsChanged": 242,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "05-tote-strap",
+      "opsApplied": 24,
+      "frame": 6,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 57,
+        "height": 18,
+        "width": 9,
+        "x": 76
+      },
+      "pixelsChanged": 75,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "06a-left-hand",
+      "opsApplied": 63,
+      "frame": 6,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 66,
+        "height": 16,
+        "width": 22,
+        "x": 32
+      },
+      "pixelsChanged": 169,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "06b-right-hand",
+      "opsApplied": 36,
+      "frame": 6,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 66,
+        "height": 14,
+        "width": 15,
+        "x": 69
+      },
+      "pixelsChanged": 104,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "01-denim",
+      "opsApplied": 77,
+      "frame": 7,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 70,
+        "height": 44,
+        "width": 48,
+        "x": 38
+      },
+      "pixelsChanged": 819,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "02a-jacket-left",
+      "opsApplied": 27,
+      "frame": 7,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 66,
+        "height": 12,
+        "width": 25,
+        "x": 32
+      },
+      "pixelsChanged": 69,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "02b-jacket-right",
+      "opsApplied": 7,
+      "frame": 7,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 66,
+        "height": 5,
+        "width": 12,
+        "x": 83
+      },
+      "pixelsChanged": 20,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "03-shirt",
+      "opsApplied": 25,
+      "frame": 7,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 66,
+        "height": 4,
+        "width": 18,
+        "x": 53
+      },
+      "pixelsChanged": 43,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "04-tote",
+      "opsApplied": 45,
+      "frame": 7,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 69,
+        "height": 32,
+        "width": 18,
+        "x": 78
+      },
+      "pixelsChanged": 242,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "05-tote-strap",
+      "opsApplied": 10,
+      "frame": 7,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 66,
+        "height": 9,
+        "width": 5,
+        "x": 80
+      },
+      "pixelsChanged": 24,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "06a-left-hand",
+      "opsApplied": 63,
+      "frame": 7,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 66,
+        "height": 16,
+        "width": 22,
+        "x": 32
+      },
+      "pixelsChanged": 169,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "06b-right-hand",
+      "opsApplied": 36,
+      "frame": 7,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 66,
+        "height": 14,
+        "width": 15,
+        "x": 69
+      },
+      "pixelsChanged": 104,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "01-denim",
+      "opsApplied": 66,
+      "frame": 8,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 76,
+        "height": 30,
+        "width": 48,
+        "x": 38
+      },
+      "pixelsChanged": 611,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "02a-jacket-left",
+      "opsApplied": 2,
+      "frame": 8,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 76,
+        "height": 2,
+        "width": 3,
+        "x": 51
+      },
+      "pixelsChanged": 4,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "04-tote",
+      "opsApplied": 35,
+      "frame": 8,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 76,
+        "height": 25,
+        "width": 18,
+        "x": 78
+      },
+      "pixelsChanged": 190,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "06a-left-hand",
+      "opsApplied": 25,
+      "frame": 8,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 76,
+        "height": 6,
+        "width": 15,
+        "x": 38
+      },
+      "pixelsChanged": 44,
+      "sprite": "pass01.aseprite"
+    },
+    {
+      "layer": "06b-right-hand",
+      "opsApplied": 12,
+      "frame": 8,
+      "colorsSnapped": [],
+      "bounds": {
+        "y": 76,
+        "height": 4,
+        "width": 11,
+        "x": 71
+      },
+      "pixelsChanged": 18,
+      "sprite": "pass01.aseprite"
+    }
+  ],
+  "final_sprite_closed": "#3667"
+}

@@ -1,0 +1,24 @@
+{
+  "evidence_type": "faithful excerpt and error arrays from final Godot MCP responses observed in this session; not a raw engine-log file",
+  "native_sha256": "5fb9a4f776ea46df1ee86c3eb5e10c8be32b094aa265004e908e832b7f4518ea",
+  "get_debug_output": {
+    "output_excerpt": [
+      "Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org",
+      "OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro",
+      "TOTE_READY engine=4.7.2-stable (official) frames=13 filter=nearest viewport=(362.0, 304.0)",
+      "TOTE_HIT attack=1 frame=6",
+      "TOTE_ATTACK_END 1 duration=1666 hits=1",
+      "TOTE_HIT attack=2 frame=6",
+      "TOTE_ATTACK_END 2 duration=1681 hits=2",
+      "TOTE_HIT attack=3 frame=6",
+      "TOTE_ATTACK_END 3 duration=1661 hits=3",
+      "TOTE_THREE_ATTACKS_COMPLETE",
+      "TOTE_FRAME_EVIDENCE live=13 inspection_only=0"
+    ],
+    "errors": []
+  },
+  "stop_project": {
+    "message": "Godot project stopped",
+    "finalErrors": []
+  }
+}

@@ -1,0 +1,7 @@
+test_freshness_checks_sources_spec_evidence_and_generated_sheets (test_comparison_review.ComparisonReviewTests.test_freshness_checks_sources_spec_evidence_and_generated_sheets) ... ok
+test_remote_edit_fails_scope_and_close_review_coverage (test_comparison_review.ComparisonReviewTests.test_remote_edit_fails_scope_and_close_review_coverage) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.014s
+
+OK

@@ -1,0 +1,50 @@
+[
+  {
+    "source": "/Users/guhan/Downloads/Zen/ChatGPT Image Oct 31, 2026, 09_33_18 AM-1.png",
+    "copy": "docs/experiments/2026-10-31-new-keys-smear/inputs/01-idle.png",
+    "role": "new user-supplied key proposal; numbered by filename, not attachment order",
+    "sha256": "815189b52704bce65416011e4d2aa411c8a58cd52e0e615e621829dae2e8a129"
+  },
+  {
+    "source": "/Users/guhan/Downloads/Zen/ChatGPT Image Oct 31, 2026, 09_33_19 AM-2.png",
+    "copy": "docs/experiments/2026-10-31-new-keys-smear/inputs/02-strap-lift.png",
+    "role": "new user-supplied key proposal; numbered by filename, not attachment order",
+    "sha256": "7506d17fcfa421451fdd118977359c75615db5d3ee79343fe3842706f3a280ec"
+  },
+  {
+    "source": "/Users/guhan/Downloads/Zen/ChatGPT Image Oct 31, 2026, 09_33_19 AM-3.png",
+    "copy": "docs/experiments/2026-10-31-new-keys-smear/inputs/03-strap-grip.png",
+    "role": "new user-supplied key proposal; numbered by filename, not attachment order",
+    "sha256": "836d958e555b3b2beaec82c30f22a2600c831b6bb023b1d7f1022c83bf6e50c5"
+  },
+  {
+    "source": "/Users/guhan/Downloads/Zen/ChatGPT Image Oct 31, 2026, 09_33_20 AM-4.png",
+    "copy": "docs/experiments/2026-10-31-new-keys-smear/inputs/04-windup.png",
+    "role": "new user-supplied key proposal; numbered by filename, not attachment order",
+    "sha256": "5e0cd8d96455a2397be21dd8f8583fd4ef0b73acd9fcbe57c591bde40f6c5e86"
+  },
+  {
+    "source": "/Users/guhan/Downloads/Zen/ChatGPT Image Oct 31, 2026, 09_33_21 AM-5.png",
+    "copy": "docs/experiments/2026-10-31-new-keys-smear/inputs/05-swing.png",
+    "role": "new user-supplied key proposal; numbered by filename, not attachment order",
+    "sha256": "0504733c8c87e44cde5098d1b7d71ac30cdb258265433ded1a2c6694398c4d51"
+  },
+  {
+    "source": "/Users/guhan/Downloads/Zen/ChatGPT Image Oct 31, 2026, 09_33_22 AM-6.png",
+    "copy": "docs/experiments/2026-10-31-new-keys-smear/inputs/06-recovery.png",
+    "role": "new user-supplied key proposal; numbered by filename, not attachment order",
+    "sha256": "ca9aaea197c48dbc44919c5cc460a802da78671fd5df2f5df1505ddbdac2734b"
+  },
+  {
+    "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/inputs/neutral.png",
+    "copy": "docs/experiments/2026-10-31-new-keys-smear/inputs/original-neutral.png",
+    "role": "previous original neutral idle baseline for scale and entry/return",
+    "sha256": "3995b4cfadfbf4eba0b26ef9625bdd220c33e399d20d53fe923d8154f6bd74b7"
+  },
+  {
+    "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-tote-attack/inputs/neutral.aseprite",
+    "copy": "docs/experiments/2026-10-31-new-keys-smear/inputs/original-neutral.aseprite",
+    "role": "previous original neutral idle baseline for scale and entry/return",
+    "sha256": "d76266fa8afcd1de643e6b6421ec4dfe4fa77f8044a1d083205b921eb2f25540"
+  }
+]

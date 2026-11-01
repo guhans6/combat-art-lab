@@ -1,0 +1,42 @@
+{
+  "source_page": "https://www.slynyrd.com/blog/2018/9/8/pixelblog-9-melee-attacks",
+  "observed_asset_url": "https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/1560422875783-WQR4OR11DUMEXPRO9781/17-Sword_Attacks.gif",
+  "access_date": "2026-10-30",
+  "sha256": "dd25acc085e9b471bca08407393d5f98f3622537941d25f84b7ea84f6b6f8f5e",
+  "dimensions": [
+    768,
+    768
+  ],
+  "encoded_frame_count": 28,
+  "encoded_durations_ms": [
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50,
+    50
+  ],
+  "inspection": "decoded sampled frames, not continuous visual playback; no source artwork reused in character production"
+}

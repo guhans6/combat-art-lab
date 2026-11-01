@@ -1,0 +1,131 @@
+{
+  "inputs": {
+    "production_source": {
+      "path": "docs/experiments/2026-10-29-clean-cutout-conversion/inputs/clean-generated-cutout-v1.png",
+      "sha256": "12e971cc9e3cbfa7add2a17a62ff53d1f45b3c55197ce23c336a6447bed1f49e",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "alpha": {
+        "range": [
+          0,
+          254
+        ],
+        "counts": {
+          "transparent": 1051204,
+          "partial": 521660,
+          "opaque": 0
+        },
+        "thresholds": {
+          "1": {
+            "pixels": 521660,
+            "bbox": [
+              0,
+              0,
+              926,
+              1491
+            ]
+          },
+          "32": {
+            "pixels": 499918,
+            "bbox": [
+              254,
+              20,
+              831,
+              1482
+            ]
+          },
+          "64": {
+            "pixels": 498356,
+            "bbox": [
+              255,
+              20,
+              830,
+              1482
+            ]
+          },
+          "96": {
+            "pixels": 497261,
+            "bbox": [
+              255,
+              20,
+              830,
+              1481
+            ]
+          },
+          "128": {
+            "pixels": 496333,
+            "bbox": [
+              255,
+              20,
+              830,
+              1481
+            ]
+          },
+          "160": {
+            "pixels": 495324,
+            "bbox": [
+              255,
+              20,
+              830,
+              1481
+            ]
+          },
+          "192": {
+            "pixels": 494072,
+            "bbox": [
+              255,
+              21,
+              830,
+              1481
+            ]
+          },
+          "224": {
+            "pixels": 492157,
+            "bbox": [
+              255,
+              21,
+              830,
+              1481
+            ]
+          },
+          "248": {
+            "pixels": 483394,
+            "bbox": [
+              256,
+              29,
+              829,
+              1480
+            ]
+          },
+          "255": {
+            "pixels": 0,
+            "bbox": null
+          }
+        }
+      }
+    },
+    "identity_scene": {
+      "path": "assets/references/approved-2026-10-26/character-scene.png",
+      "sha256": "a274a80133371b61387848495bf0dd93546ba5daf0a60c051b27109237160eae",
+      "size": [
+        1448,
+        1086
+      ],
+      "mode": "RGBA",
+      "alpha": null
+    },
+    "identity_closeup": {
+      "path": "assets/references/approved-2026-10-26/character-closeup.png",
+      "sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7",
+      "size": [
+        1448,
+        1086
+      ],
+      "mode": "RGBA",
+      "alpha": null
+    }
+  }
+}

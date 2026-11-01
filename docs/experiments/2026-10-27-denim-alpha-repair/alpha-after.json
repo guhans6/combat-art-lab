@@ -1,0 +1,235 @@
+{
+  "passed": false,
+  "frames": [
+    {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        96,
+        216
+      ],
+      "region_half_open": [
+        0,
+        55,
+        96,
+        205
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/export/standing-alpha-v02/frame-00.png",
+      "sha256": "0ebd67bc1eccf77c8c424a21ea3a6df028d6dcaaa1823ab9094ccd6c0d5857f5"
+    },
+    {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        96,
+        216
+      ],
+      "region_half_open": [
+        0,
+        55,
+        96,
+        205
+      ],
+      "hole_components_xy": [
+        [
+          [
+            59,
+            115
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          59,
+          115
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/export/standing-alpha-v02/frame-01.png",
+      "sha256": "5cea0ecd2eefd09f92207e1b8dd21e422a96a85644ae22ca4c4c03ebd3eee703"
+    },
+    {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        96,
+        216
+      ],
+      "region_half_open": [
+        0,
+        55,
+        96,
+        205
+      ],
+      "hole_components_xy": [
+        [
+          [
+            59,
+            115
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          59,
+          115
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/export/standing-alpha-v02/frame-02.png",
+      "sha256": "8274cbf466892a843eb197cb50559a0862fd940076b67e8167a147b476899bb3"
+    },
+    {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        96,
+        216
+      ],
+      "region_half_open": [
+        0,
+        55,
+        96,
+        205
+      ],
+      "hole_components_xy": [
+        [
+          [
+            59,
+            115
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          59,
+          115
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/export/standing-alpha-v02/frame-03.png",
+      "sha256": "10131a2b31d28776ef2fcc17505aae6fce72f0dd469ac926dd7508affc4f236d"
+    },
+    {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        96,
+        216
+      ],
+      "region_half_open": [
+        0,
+        55,
+        96,
+        205
+      ],
+      "hole_components_xy": [
+        [
+          [
+            59,
+            115
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          59,
+          115
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/export/standing-alpha-v02/frame-04.png",
+      "sha256": "8274cbf466892a843eb197cb50559a0862fd940076b67e8167a147b476899bb3"
+    },
+    {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        96,
+        216
+      ],
+      "region_half_open": [
+        0,
+        55,
+        96,
+        205
+      ],
+      "hole_components_xy": [
+        [
+          [
+            59,
+            115
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          59,
+          115
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/export/standing-alpha-v02/frame-05.png",
+      "sha256": "5cea0ecd2eefd09f92207e1b8dd21e422a96a85644ae22ca4c4c03ebd3eee703"
+    },
+    {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        96,
+        216
+      ],
+      "region_half_open": [
+        0,
+        55,
+        96,
+        205
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/export/standing-alpha-v02/frame-06.png",
+      "sha256": "0ebd67bc1eccf77c8c424a21ea3a6df028d6dcaaa1823ab9094ccd6c0d5857f5"
+    },
+    {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        96,
+        216
+      ],
+      "region_half_open": [
+        0,
+        55,
+        96,
+        205
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/export/standing-alpha-v02/frame-07.png",
+      "sha256": "0ebd67bc1eccf77c8c424a21ea3a6df028d6dcaaa1823ab9094ccd6c0d5857f5"
+    }
+  ]
+}

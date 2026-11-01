@@ -1,0 +1,20 @@
+{
+  "terra56": {
+    "fresh_reopen_export_multiset_matches_all_native_exports": true,
+    "reopen_export_count": 8,
+    "boundary": "Unordered all-frame pixel match; worker records ordered editor reopening."
+  },
+  "sol61": {
+    "fresh_reopen_export_multiset_matches_all_native_exports": true,
+    "reopen_export_count": 8,
+    "boundary": "Unordered all-frame pixel match; worker records ordered editor reopening.",
+    "independent_duplicate_revision_changed_native_pixels": [
+      [
+        0,
+        3,
+        45,
+        50
+      ]
+    ]
+  }
+}

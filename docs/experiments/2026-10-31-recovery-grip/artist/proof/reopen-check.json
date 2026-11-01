@@ -1,0 +1,8 @@
+{
+  "native": "source/recovery-grip-pass02.aseprite",
+  "native_sha256": "b2508d390693adaacc8f6db9ed9f3f129828a6071d20a1c4f9b6779c78009f38",
+  "fresh_dedicated_MCP_reopen_export_pixels_exact": true,
+  "PNG_sha256": "a916398f9999bdccba9cd612ed2090b8c9496e70aa2d23a5dd99d4fa5a3db7c4",
+  "reopen_PNG_sha256": "a916398f9999bdccba9cd612ed2090b8c9496e70aa2d23a5dd99d4fa5a3db7c4",
+  "scope": "F9 only, no animation export"
+}

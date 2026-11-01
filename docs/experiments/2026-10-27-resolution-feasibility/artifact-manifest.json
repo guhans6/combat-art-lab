@@ -1,0 +1,431 @@
+{
+  "base_revision": "9e35c5c13987a153e942e6f93f49f247fad13c3a",
+  "state": "local uncommitted working-tree deliverable; preserves prior unrelated work",
+  "changed_or_added_documents": [
+    "CONTEXT.md",
+    "docs/handoff.md",
+    "docs/workflow/art-production.md",
+    "docs/art/style-guide.md",
+    "docs/art/asset-contract.md",
+    "docs/research/aseprite-reconstruction-principles.md",
+    "docs/research/concept-to-native-pixel-art.md",
+    "tools/pixel-art-director/SKILL.md",
+    "tools/pixel-art-director/references/craft.md",
+    "tools/pixel-art-director/references/reconstruction.md"
+  ],
+  "experiment_files": [
+    "docs/experiments/2026-10-27-resolution-feasibility/baseline-crop-4x.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/baseline.aseprite",
+    "docs/experiments/2026-10-27-resolution-feasibility/baseline.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/character-closeup.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/character-cutout.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/character-scene.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/check-pass02.py",
+    "docs/experiments/2026-10-27-resolution-feasibility/check.py",
+    "docs/experiments/2026-10-27-resolution-feasibility/delivery-checks.json",
+    "docs/experiments/2026-10-27-resolution-feasibility/draw-pass02.lua",
+    "docs/experiments/2026-10-27-resolution-feasibility/draw.lua",
+    "docs/experiments/2026-10-27-resolution-feasibility/external-link-checks.json",
+    "docs/experiments/2026-10-27-resolution-feasibility/independent-native-checks.json",
+    "docs/experiments/2026-10-27-resolution-feasibility/input-hashes.txt",
+    "docs/experiments/2026-10-27-resolution-feasibility/matched-display-pass02.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/matched-display.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/native-check-pass02.txt",
+    "docs/experiments/2026-10-27-resolution-feasibility/native-check.txt",
+    "docs/experiments/2026-10-27-resolution-feasibility/normalized-native-checks.json",
+    "docs/experiments/2026-10-27-resolution-feasibility/original-hashes-after.txt",
+    "docs/experiments/2026-10-27-resolution-feasibility/pixel-check-pass02.txt",
+    "docs/experiments/2026-10-27-resolution-feasibility/pixel-check.txt",
+    "docs/experiments/2026-10-27-resolution-feasibility/preservation-checks.json",
+    "docs/experiments/2026-10-27-resolution-feasibility/record.md",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-192-4x.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-192-edit-proof.aseprite",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-192-edit-proof.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02-4x.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02-edit-proof.aseprite",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02-edit-proof.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02-normalized-edit.aseprite",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02-normalized-edit.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02-normalized.aseprite",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02-normalized.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02-reopen.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02.aseprite",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-192-reopen.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-192.aseprite",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-192.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-256-4x.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-256-edit-proof.aseprite",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-256-edit-proof.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02-4x.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02-edit-proof.aseprite",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02-edit-proof.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02-normalized-edit.aseprite",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02-normalized-edit.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02-normalized.aseprite",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02-normalized.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02-reopen.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02.aseprite",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-256-reopen.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-256.aseprite",
+    "docs/experiments/2026-10-27-resolution-feasibility/study-256.png",
+    "docs/experiments/2026-10-27-resolution-feasibility/verify-evidence.py",
+    "docs/experiments/2026-10-27-resolution-feasibility/verify-normalized.lua",
+    "docs/experiments/2026-10-27-resolution-feasibility/verify-pass02.lua",
+    "docs/experiments/2026-10-27-resolution-feasibility/verify.lua"
+  ],
+  "note": "Manifest excludes its own hash. No earlier assets, art-runs, experiment records, configuration or toolkit scripts changed.",
+  "files": [
+    {
+      "path": "CONTEXT.md",
+      "bytes": 10811,
+      "sha256": "61eca1bea7b4aaf3e6c0994976af94db531a2be206700623e3f9ba075e892178"
+    },
+    {
+      "path": "docs/handoff.md",
+      "bytes": 17430,
+      "sha256": "5de602c2595736f659d17cf0c2a6c50f33fb05811698863dc8ff7fada0f759a8"
+    },
+    {
+      "path": "docs/workflow/art-production.md",
+      "bytes": 22700,
+      "sha256": "00130d1f96e5903b72b4376afbe5892eeac283378756642c95662e7375a813e9"
+    },
+    {
+      "path": "docs/art/style-guide.md",
+      "bytes": 11074,
+      "sha256": "2f6a0dc01ecf05f3b4f78e62281c3d25b0c473330fe16e5bc70c23f5a855a380"
+    },
+    {
+      "path": "docs/art/asset-contract.md",
+      "bytes": 3536,
+      "sha256": "c55f744781059fcf071500b618ebc0d517ca85ca5994f375baf23b5488ae6012"
+    },
+    {
+      "path": "docs/research/aseprite-reconstruction-principles.md",
+      "bytes": 7048,
+      "sha256": "d3c140eeec524ee31015182c74bcc0af176177f2692aec72c2be08dbb45c1500"
+    },
+    {
+      "path": "docs/research/concept-to-native-pixel-art.md",
+      "bytes": 21133,
+      "sha256": "097faa2bc7a29fb900a47193df7aab65501f97eff21bbf135f9581545205223c"
+    },
+    {
+      "path": "tools/pixel-art-director/SKILL.md",
+      "bytes": 8248,
+      "sha256": "8924e1c6c65b331ed08497162edc9389f904f33e79b32a66b148d09f52b9de10"
+    },
+    {
+      "path": "tools/pixel-art-director/references/craft.md",
+      "bytes": 5438,
+      "sha256": "f79f49ee2ab22e22fc3208bfec9417e44f79a334cab664b6ef4dbe871b9456e8"
+    },
+    {
+      "path": "tools/pixel-art-director/references/reconstruction.md",
+      "bytes": 3947,
+      "sha256": "d99248099deaafd58b27a0d496a8cea9129b6de3004b86cc4ac85cb763e7f113"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/baseline-crop-4x.png",
+      "bytes": 5726,
+      "sha256": "5b9ad4450128cf014820bee4b4dee4c523241d8761a24ada03301bdd21b52d0b"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/baseline.aseprite",
+      "bytes": 7665,
+      "sha256": "28c4712085f84a9f3b0d52a5a1aa95c531d93062074e1697f9cd8935f2806732"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/baseline.png",
+      "bytes": 6497,
+      "sha256": "189491ee9585a6f8d97f4eed6eaede2da73701bf256da23bcb0ae31548655052"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/character-closeup.png",
+      "bytes": 2552510,
+      "sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/character-cutout.png",
+      "bytes": 860323,
+      "sha256": "4dd54a802798adc994a14349025ab48bc5830e43507d1c1c09822de692c280b8"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/character-scene.png",
+      "bytes": 2724485,
+      "sha256": "a274a80133371b61387848495bf0dd93546ba5daf0a60c051b27109237160eae"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/check-pass02.py",
+      "bytes": 1365,
+      "sha256": "8ab092dbada20eee1f12a4f0c05a90eec3354f268e658c943aaaa7b23eff5dc4"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/check.py",
+      "bytes": 1537,
+      "sha256": "d276d7eb74df2590931ea5dab00b07d2db8598941aee9e68a45b0e131a36cf24"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/delivery-checks.json",
+      "bytes": 1886,
+      "sha256": "abddc763b821186550cdcd8b6ecac24dd717af0bba359050dc72aaf65ee99f7b"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/draw-pass02.lua",
+      "bytes": 8305,
+      "sha256": "53044dc575a1080e21cd2e434e1f13a84f47f7b6e1b09cfc328a7e7a0f3a870d"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/draw.lua",
+      "bytes": 7223,
+      "sha256": "0c124c829084eed39f09ddbbb1285ad28b4df33c136c1f4ace34293ad79739f1"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/external-link-checks.json",
+      "bytes": 5033,
+      "sha256": "939c6fb462eb33701e0d2dbb01ee2f40beea3550b80785d5763ab985be897b92"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/independent-native-checks.json",
+      "bytes": 19885,
+      "sha256": "6dfdc5f3daf3e0323910f19a10c52fba814f1ae346cbdb994b7fe6a51b5f6091"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/input-hashes.txt",
+      "bytes": 549,
+      "sha256": "c24793d295a1d3c0aeb6038e4feb98e5e5471d1387434599bd18eb6fcbf05d5f"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/matched-display-pass02.png",
+      "bytes": 19283,
+      "sha256": "42921e00d997ea6f53498fb53333371691db49a38c93eb80d7269198817736d4"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/matched-display.png",
+      "bytes": 20634,
+      "sha256": "d8781e6a09c142dcd3a88127c1ef3c9e81e6da8f690b1d27075e29d0192f52c9"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/native-check-pass02.txt",
+      "bytes": 348,
+      "sha256": "706c4af64cbdbca30565421afa74ca06d3054f87ca1cb338e702c316d2c23808"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/native-check.txt",
+      "bytes": 334,
+      "sha256": "2dc55692d658c732a811a139d596a897c29a293955ff873048ed2bae2d6be031"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/normalized-native-checks.json",
+      "bytes": 4959,
+      "sha256": "ee3f276fe80e902c0852179374fbcbf614268276fc096998cf9963b85e334bcd"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/original-hashes-after.txt",
+      "bytes": 486,
+      "sha256": "9c44c53785a344084d1fc7d201d301d5f07aef83843500a614946b7d780eb65e"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/pixel-check-pass02.txt",
+      "bytes": 258,
+      "sha256": "5e4cf3e5f49483d3fa2374435c2bff77cd1c79d0813cf56176ace7b8300ae786"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/pixel-check.txt",
+      "bytes": 575,
+      "sha256": "4e11322ab72a9b5e256e879cec58b9917f10c0deb6f28368e1bebdbbc92b6561"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/preservation-checks.json",
+      "bytes": 103555,
+      "sha256": "b2f2fa04ac53fbbea756067123668a4516d9337344f1549894692d0201d35c47"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/record.md",
+      "bytes": 14929,
+      "sha256": "7d6b6e80ba60f14fe5779cdad97d53f1a7553b34f4b01ee2dd21807dab395ad5"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-192-4x.png",
+      "bytes": 5479,
+      "sha256": "b04dc98ad96874aff158ca87156e8a2267e875ca25052de29f024e427bfd1e7f"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-192-edit-proof.aseprite",
+      "bytes": 3736,
+      "sha256": "ef86aae7a448859ff0b6e51a8b8c6ba1e94f493b1d5a8698bb1cc3e10f702c96"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-192-edit-proof.png",
+      "bytes": 2950,
+      "sha256": "2fffe9e6fe4e1c0399075f36ba3d2d54828332c1164782956f08a9e961d2fda7"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02-4x.png",
+      "bytes": 5044,
+      "sha256": "1305270cfe72aa4d42bec6f4b2cf7133a05e3f5369317fb8b996cdf2e0090137"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02-edit-proof.aseprite",
+      "bytes": 3478,
+      "sha256": "aeb2a9dfc2dfcc58d69bf50a8cc3a03ec48197e6b41c96412e2dd18c2f56c2f4"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02-edit-proof.png",
+      "bytes": 2698,
+      "sha256": "4bbc1529bcf46003b78c4f6f5252f8c71937a467d947f31d0d85f1823c6a4713"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02-normalized-edit.aseprite",
+      "bytes": 3478,
+      "sha256": "aeb2a9dfc2dfcc58d69bf50a8cc3a03ec48197e6b41c96412e2dd18c2f56c2f4"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02-normalized-edit.png",
+      "bytes": 2698,
+      "sha256": "4bbc1529bcf46003b78c4f6f5252f8c71937a467d947f31d0d85f1823c6a4713"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02-normalized.aseprite",
+      "bytes": 3475,
+      "sha256": "cc49ea2243fc8caeb06b01b4bf7ad36fe737a3f3d6da52f6ded224af20cff5c1"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02-normalized.png",
+      "bytes": 2696,
+      "sha256": "3cc89346f9302575b6532edc6cc778590993e2431746cf4c46229b8456a47cba"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02-reopen.png",
+      "bytes": 2696,
+      "sha256": "3cc89346f9302575b6532edc6cc778590993e2431746cf4c46229b8456a47cba"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02.aseprite",
+      "bytes": 4113,
+      "sha256": "561b628f448357d9457a6774b306677da2f034a57e5e29262acb9d85ba2d5269"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-192-pass02.png",
+      "bytes": 2696,
+      "sha256": "3cc89346f9302575b6532edc6cc778590993e2431746cf4c46229b8456a47cba"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-192-reopen.png",
+      "bytes": 2947,
+      "sha256": "2f428c41d6c59cd7aab52da2528748b517f66ea32f1c7bee36031cf462b4c7d9"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-192.aseprite",
+      "bytes": 4370,
+      "sha256": "35ccffd4561d80621288629aae546c4c5316abf615d2043816cd38dea6c8595b"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-192.png",
+      "bytes": 2947,
+      "sha256": "2f428c41d6c59cd7aab52da2528748b517f66ea32f1c7bee36031cf462b4c7d9"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-256-4x.png",
+      "bytes": 8138,
+      "sha256": "122b357183192db2857eee25922fb841fdf1b85fcc5df6d3a73ad4b606b3175d"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-256-edit-proof.aseprite",
+      "bytes": 5252,
+      "sha256": "584e73510d090f8effd8a7cf195002cd27d030f4b07ef51955f616a87747b567"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-256-edit-proof.png",
+      "bytes": 3958,
+      "sha256": "633e5e6c7378a5c089c560d1effb064c7f73a92d10578f3154c4231ce83c1ec7"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02-4x.png",
+      "bytes": 7428,
+      "sha256": "de5c8b098d4ecef28135a82c1742b3a50e68ecf2618eaff108cf61bb944f5403"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02-edit-proof.aseprite",
+      "bytes": 4756,
+      "sha256": "e9955683577564f7531612d4e0bcac8b81155ce537f1ec1474fa922d8b21cccd"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02-edit-proof.png",
+      "bytes": 3542,
+      "sha256": "ceb59094907f870780919643dece107cf814a8b8689d03874a905cd636ba39d0"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02-normalized-edit.aseprite",
+      "bytes": 4756,
+      "sha256": "e9955683577564f7531612d4e0bcac8b81155ce537f1ec1474fa922d8b21cccd"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02-normalized-edit.png",
+      "bytes": 3542,
+      "sha256": "ceb59094907f870780919643dece107cf814a8b8689d03874a905cd636ba39d0"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02-normalized.aseprite",
+      "bytes": 4753,
+      "sha256": "006402388d2370d1a937a4816460ca3d7336d0a9e0483c9f41977854c2093708"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02-normalized.png",
+      "bytes": 3540,
+      "sha256": "9214fac8f9c6199073028396183ed6d575a7e0ac270c686f709ed81a7721e294"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02-reopen.png",
+      "bytes": 3540,
+      "sha256": "9214fac8f9c6199073028396183ed6d575a7e0ac270c686f709ed81a7721e294"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02.aseprite",
+      "bytes": 5385,
+      "sha256": "f16106b0596c47d343d3d600c00eadf25557647cf179a12e41b1b8bfc3d590b2"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-256-pass02.png",
+      "bytes": 3540,
+      "sha256": "9214fac8f9c6199073028396183ed6d575a7e0ac270c686f709ed81a7721e294"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-256-reopen.png",
+      "bytes": 3956,
+      "sha256": "90c3ce73f1437be532395578310eae88a3742874f4edd04c19eea33d29c2b0c6"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-256.aseprite",
+      "bytes": 5881,
+      "sha256": "4ab107c30fc254aa4dc2aa1ab17734b2b1a3832d9bf0d7b31f5ae30b243cc549"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/study-256.png",
+      "bytes": 3956,
+      "sha256": "90c3ce73f1437be532395578310eae88a3742874f4edd04c19eea33d29c2b0c6"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/verify-evidence.py",
+      "bytes": 3374,
+      "sha256": "4f3aa22240c1e7ff8d8ac15b3b52a46efeb366152c767cbe4bd4bbd928d09a99"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/verify-normalized.lua",
+      "bytes": 813,
+      "sha256": "acd051757b29bc9b7d38e47c1cb601990f7a645cb6f482a86218314f2b65f466"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/verify-pass02.lua",
+      "bytes": 647,
+      "sha256": "74c4f92849a918b33dc99e3f5611cab9fc3ec0e4c78ad7059e9e96cae043b585"
+    },
+    {
+      "path": "docs/experiments/2026-10-27-resolution-feasibility/verify.lua",
+      "bytes": 633,
+      "sha256": "a00f9b333844cf1891985151aac23723dd83bcc527d94b0e31641858f25ea452"
+    }
+  ]
+}

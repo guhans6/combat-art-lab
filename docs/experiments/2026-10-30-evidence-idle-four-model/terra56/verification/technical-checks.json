@@ -1,0 +1,36 @@
+{
+  "native_reopen": {
+    "source": "native/terra56-breathe-pass01.aseprite",
+    "reopened_in_headless_aseprite": true,
+    "canvas": [128, 192],
+    "layers": 12,
+    "frames": 8,
+    "palette_entries": 255,
+    "tag": "Breathe"
+  },
+  "fresh_export": {
+    "original_frame_folder": "exports/frames",
+    "reopened_frame_folder": "exports/reopened",
+    "frame_count": 8,
+    "binary_png_equality": true,
+    "method": "cmp each corresponding exported PNG"
+  },
+  "exports": {
+    "dimensions": [128, 192],
+    "has_alpha": true,
+    "timings_ms": [110, 90, 80, 90, 110, 90, 80, 90],
+    "total_duration_ms": 740,
+    "gif_1x_duration_seconds": 0.74,
+    "gif_decoded_frame_count": 8,
+    "gif_rgba_equals_png_sequence": false,
+    "gif_decode_boundary": "Decoded GIF byte comparison differs from original RGBA PNG sequence. This is retained and disclosed rather than claiming lossless GIF colour equality. The source PNGs are the faithful transparent frame delivery."
+  },
+  "alpha": {
+    "checked": "PNG headers through sips report hasAlpha=yes for all eight frames",
+    "full_per_pixel_hole_or_partial_alpha_audit": "not performed; Pillow is unavailable in this environment"
+  },
+  "scope": {
+    "foot_and_denim_layers": "not moved in frames 1-8; soles remain source cels",
+    "duplicate_only_revision_proof": "proof/duplicate-only-revision.aseprite and .png, one hair-layer pixel changed only in the separate proof copy"
+  }
+}

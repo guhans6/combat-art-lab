@@ -1,0 +1,165 @@
+{
+  "status": "technical_delivery_pass",
+  "native": "luna6-max/idle-candidate.aseprite",
+  "native_sha256": "a84f1336358155a22831ab539f24c3bf82ff1b190dfd6818eda0db0ea63e54e8",
+  "frame_count": 10,
+  "durations_ms": [
+    600,
+    180,
+    180,
+    360,
+    220,
+    220,
+    450,
+    50,
+    80,
+    50
+  ],
+  "cycle_ms": 2390,
+  "gif_native_frame_indices_0based": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "native_export_exact": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "rest_frames_1based": [
+    1,
+    7
+  ],
+  "native_palette_and_existing_layer_metadata_exact": true,
+  "declared_added_layers": [],
+  "shoes_and_hidden_guide_preserved": true,
+  "gifs": {
+    "1x": {
+      "sha256": "c96215a0d5d8041e76bc781370909f31520d53595a52e0e3f1c0ed0fe24d6c19",
+      "encoded_frames": 10,
+      "durations_ms": [
+        600,
+        180,
+        180,
+        360,
+        220,
+        220,
+        450,
+        50,
+        80,
+        50
+      ],
+      "cycle_ms": 2390,
+      "loop": 0,
+      "matte_rgb": [
+        128,
+        128,
+        128
+      ],
+      "timeline_equals_native": true
+    },
+    "3x": {
+      "sha256": "760fa07ee5f50001a10ee8bfa027b6a25e1110dcaf446bf179b931d55d27bf9e",
+      "encoded_frames": 10,
+      "durations_ms": [
+        600,
+        180,
+        180,
+        360,
+        220,
+        220,
+        450,
+        50,
+        80,
+        50
+      ],
+      "cycle_ms": 2390,
+      "loop": 0,
+      "matte_rgb": [
+        128,
+        128,
+        128
+      ],
+      "timeline_equals_native": true
+    }
+  },
+  "alpha": {
+    "passed": true,
+    "frames": [
+      {
+        "frame_1based": 1,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 2,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 3,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 4,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 5,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 6,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 7,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 8,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 9,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 10,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      }
+    ],
+    "inherited_body_holes_xy": [
+      [
+        63,
+        116
+      ]
+    ],
+    "limits": "Enclosed body-hole/binary-alpha check only; moving silhouette and intentional head/hair gaps need scoped review."
+  },
+  "record": "luna6-max/record.md",
+  "verification": "luna6-max/verification/export-check.json",
+  "limits": "No automatic artistic verdict, temporal observation, or engine proof."
+}

@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "note": "Technical translation-only smoke test of the existing supplied sprite. No new poses or approved animation.",
+  "canvas": [
+    192,
+    224
+  ],
+  "scale": 1,
+  "resampling": "NEAREST",
+  "target_anchor": [
+    96,
+    202
+  ],
+  "require_transparent": true,
+  "frames": [
+    {
+      "id": "base",
+      "path": "../references/supplied_sprite.png",
+      "source_anchor": [
+        64,
+        186
+      ],
+      "motion_offset": [
+        0,
+        0
+      ],
+      "duration_ms": 120
+    },
+    {
+      "id": "shifted",
+      "path": "../references/supplied_sprite.png",
+      "source_anchor": [
+        64,
+        186
+      ],
+      "motion_offset": [
+        6,
+        -8
+      ],
+      "duration_ms": 120
+    }
+  ]
+}

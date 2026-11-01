@@ -1,0 +1,6 @@
+test_remote_edit_fails_scope_and_close_review_coverage (test_comparison_review.ComparisonReviewTests.test_remote_edit_fails_scope_and_close_review_coverage) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.012s
+
+OK

@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "git_head": "9e35c5c13987a153e942e6f93f49f247fad13c3a",
+  "baseline_files_checked": 4429,
+  "intentional_existing_changes": [
+    "docs/handoff.md"
+  ],
+  "folder_metadata_drift_preserved": [],
+  "prior_art_files_byte_exact": 2702,
+  "scope_and_inputs_unchanged": true,
+  "full_animation_originals_unchanged": true,
+  "comparison_packet": {
+    "fresh": true,
+    "stale_files": [],
+    "mechanical_passed": true,
+    "visual_acceptance": "pending",
+    "user_approval": "pending",
+    "limits": "Freshness is not inspection or artistic acceptance; bind manual review to packet SHA256."
+  },
+  "native_sha256": "b2508d390693adaacc8f6db9ed9f3f129828a6071d20a1c4f9b6779c78009f38",
+  "limits": "Pose-only candidate; user visual gate pending; no full animation integration or playback."
+}

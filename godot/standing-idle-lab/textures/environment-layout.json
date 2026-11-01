@@ -1,0 +1,25 @@
+{
+  "layers": [
+    "01-sky-and-distant-context",
+    "02-distant-city",
+    "03-mid-left-building",
+    "04-right-building",
+    "05-near-shop-wall",
+    "06-ground-and-road",
+    "07-shop-glass",
+    "08-shop-awning",
+    "09-shop-posts",
+    "10-shop-steps",
+    "11-bridge",
+    "12-pole-and-lamp",
+    "13-shop-lamp-pixels"
+  ],
+  "shop_layers": [
+    "05-near-shop-wall",
+    "07-shop-glass",
+    "08-shop-awning",
+    "09-shop-posts",
+    "10-shop-steps",
+    "13-shop-lamp-pixels"
+  ]
+}

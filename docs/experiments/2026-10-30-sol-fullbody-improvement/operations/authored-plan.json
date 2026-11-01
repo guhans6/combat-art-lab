@@ -1,0 +1,824 @@
+[
+  {
+    "layer": "08-hair-tie-and-hair",
+    "polygon": [
+      [
+        48,
+        11
+      ],
+      [
+        52,
+        8
+      ],
+      [
+        61,
+        7
+      ],
+      [
+        58,
+        10
+      ],
+      [
+        53,
+        13
+      ],
+      [
+        49,
+        15
+      ],
+      [
+        47,
+        14
+      ]
+    ],
+    "color": "#744433",
+    "reason": "Unify crown sweep into connected middle plane",
+    "changed_at_step": 43
+  },
+  {
+    "layer": "08-hair-tie-and-hair",
+    "polygon": [
+      [
+        48,
+        15
+      ],
+      [
+        51,
+        13
+      ],
+      [
+        58,
+        11
+      ],
+      [
+        54,
+        15
+      ],
+      [
+        50,
+        18
+      ],
+      [
+        47,
+        19
+      ]
+    ],
+    "color": "#673a2c",
+    "reason": "Lower overlapping swept lock",
+    "changed_at_step": 38
+  },
+  {
+    "layer": "08-hair-tie-and-hair",
+    "polygon": [
+      [
+        58,
+        8
+      ],
+      [
+        65,
+        7
+      ],
+      [
+        70,
+        9
+      ],
+      [
+        67,
+        10
+      ],
+      [
+        62,
+        10
+      ]
+    ],
+    "color": "#79432d",
+    "reason": "Upper crown warm plane, no added strand outline",
+    "changed_at_step": 28
+  },
+  {
+    "layer": "08-hair-tie-and-hair",
+    "polygon": [
+      [
+        40,
+        16
+      ],
+      [
+        43,
+        16
+      ],
+      [
+        44,
+        19
+      ],
+      [
+        42,
+        23
+      ],
+      [
+        39,
+        25
+      ],
+      [
+        37,
+        23
+      ],
+      [
+        38,
+        19
+      ]
+    ],
+    "color": "#673a2c",
+    "reason": "Gather rear tied hair into a single bent mass",
+    "changed_at_step": 39
+  },
+  {
+    "layer": "08-hair-tie-and-hair",
+    "polygon": [
+      [
+        38,
+        20
+      ],
+      [
+        39,
+        18
+      ],
+      [
+        41,
+        18
+      ],
+      [
+        40,
+        22
+      ],
+      [
+        38,
+        24
+      ]
+    ],
+    "color": "#854529",
+    "reason": "Small bounded rim of tied mass",
+    "changed_at_step": 16
+  },
+  {
+    "layer": "08-hair-tie-and-hair",
+    "polygon": [
+      [
+        44,
+        22
+      ],
+      [
+        47,
+        20
+      ],
+      [
+        48,
+        24
+      ],
+      [
+        48,
+        28
+      ],
+      [
+        44,
+        29
+      ],
+      [
+        42,
+        27
+      ]
+    ],
+    "color": "#482925",
+    "reason": "Continuous underside of tied hair",
+    "changed_at_step": 13
+  },
+  {
+    "layer": "08-hair-tie-and-hair",
+    "polygon": [
+      [
+        55,
+        16
+      ],
+      [
+        57,
+        14
+      ],
+      [
+        60,
+        13
+      ],
+      [
+        59,
+        17
+      ],
+      [
+        57,
+        20
+      ],
+      [
+        55,
+        21
+      ]
+    ],
+    "color": "#673a2c",
+    "reason": "Join front fringe middle plane without moving openings",
+    "changed_at_step": 31
+  },
+  {
+    "layer": "02a-jacket-left",
+    "recipe": "existing-ramp nearest merge under squared RGB distance450; olive only",
+    "reason": "Join conversion microshades while preserving larger fold topology"
+  },
+  {
+    "layer": "02b-jacket-right",
+    "recipe": "existing-ramp nearest merge under squared RGB distance450; olive only",
+    "reason": "Join conversion microshades while preserving larger fold topology"
+  },
+  {
+    "layer": "02a-jacket-left",
+    "polygon": [
+      [
+        37,
+        56
+      ],
+      [
+        41,
+        54
+      ],
+      [
+        44,
+        55
+      ],
+      [
+        45,
+        58
+      ],
+      [
+        40,
+        58
+      ],
+      [
+        36,
+        61
+      ],
+      [
+        34,
+        61
+      ]
+    ],
+    "color": "#5a5437",
+    "reason": "Sleeve upper fold broad light plane",
+    "changed_at_step": 44
+  },
+  {
+    "layer": "02a-jacket-left",
+    "polygon": [
+      [
+        35,
+        63
+      ],
+      [
+        40,
+        60
+      ],
+      [
+        44,
+        61
+      ],
+      [
+        46,
+        63
+      ],
+      [
+        41,
+        63
+      ],
+      [
+        37,
+        65
+      ],
+      [
+        34,
+        65
+      ]
+    ],
+    "color": "#48432d",
+    "reason": "Bent elbow underside as a single wedge",
+    "changed_at_step": 36
+  },
+  {
+    "layer": "02b-jacket-right",
+    "polygon": [
+      [
+        83,
+        56
+      ],
+      [
+        87,
+        54
+      ],
+      [
+        89,
+        56
+      ],
+      [
+        91,
+        58
+      ],
+      [
+        87,
+        57
+      ],
+      [
+        84,
+        59
+      ],
+      [
+        80,
+        61
+      ]
+    ],
+    "color": "#5a5437",
+    "reason": "Upper forearm light plane",
+    "changed_at_step": 28
+  },
+  {
+    "layer": "02b-jacket-right",
+    "polygon": [
+      [
+        82,
+        63
+      ],
+      [
+        86,
+        61
+      ],
+      [
+        91,
+        62
+      ],
+      [
+        94,
+        64
+      ],
+      [
+        91,
+        65
+      ],
+      [
+        87,
+        63
+      ],
+      [
+        82,
+        65
+      ]
+    ],
+    "color": "#48432d",
+    "reason": "Quiet bent forearm shadow, avoid isolated vertical seams",
+    "changed_at_step": 26
+  },
+  {
+    "layer": "03-shirt",
+    "polygon": [
+      [
+        62,
+        56
+      ],
+      [
+        65,
+        55
+      ],
+      [
+        69,
+        55
+      ],
+      [
+        68,
+        57
+      ],
+      [
+        66,
+        57
+      ],
+      [
+        68,
+        60
+      ],
+      [
+        66,
+        61
+      ],
+      [
+        63,
+        58
+      ]
+    ],
+    "color": "#d9bcc1",
+    "reason": "Single tee diagonal fold plane",
+    "changed_at_step": 30
+  },
+  {
+    "layer": "03-shirt",
+    "polygon": [
+      [
+        60,
+        61
+      ],
+      [
+        64,
+        62
+      ],
+      [
+        65,
+        64
+      ],
+      [
+        63,
+        64
+      ],
+      [
+        59,
+        62
+      ]
+    ],
+    "color": "#fde7d3",
+    "reason": "Quiet light return below diagonal fold",
+    "changed_at_step": 14
+  },
+  {
+    "layer": "01-denim",
+    "map": {
+      "#5e7aa8": "#617caa",
+      "#60759e": "#58729e",
+      "#6581ae": "#617caa",
+      "#6884b1": "#617caa",
+      "#435e8c": "#445f90",
+      "#47618e": "#4a6594"
+    },
+    "reason": "Resolve converted microshades into connected blue planes without adding creases"
+  },
+  {
+    "layer": "01-denim",
+    "polygon": [
+      [
+        45,
+        111
+      ],
+      [
+        47,
+        116
+      ],
+      [
+        49,
+        122
+      ],
+      [
+        52,
+        129
+      ],
+      [
+        54,
+        136
+      ],
+      [
+        54,
+        141
+      ],
+      [
+        51,
+        134
+      ],
+      [
+        48,
+        127
+      ],
+      [
+        46,
+        120
+      ]
+    ],
+    "color": "#4a6594",
+    "reason": "Reference broad left knee hanging fold, integrated interior plane",
+    "changed_at_step": 91
+  },
+  {
+    "layer": "01-denim",
+    "polygon": [
+      [
+        73,
+        121
+      ],
+      [
+        76,
+        126
+      ],
+      [
+        80,
+        131
+      ],
+      [
+        83,
+        136
+      ],
+      [
+        86,
+        140
+      ],
+      [
+        88,
+        145
+      ],
+      [
+        84,
+        141
+      ],
+      [
+        80,
+        136
+      ],
+      [
+        76,
+        131
+      ]
+    ],
+    "color": "#526d9a",
+    "reason": "Quiet transition along existing right shin diagonal",
+    "changed_at_step": 78
+  },
+  {
+    "layer": "04-tote",
+    "polygon": [
+      [
+        84,
+        81
+      ],
+      [
+        86,
+        80
+      ],
+      [
+        88,
+        83
+      ],
+      [
+        89,
+        89
+      ],
+      [
+        91,
+        94
+      ],
+      [
+        90,
+        97
+      ],
+      [
+        88,
+        94
+      ],
+      [
+        87,
+        89
+      ],
+      [
+        85,
+        86
+      ]
+    ],
+    "color": "#f8d2ae",
+    "reason": "Broad cloth light plane replaces scattered bag marks",
+    "changed_at_step": 55
+  },
+  {
+    "layer": "04-tote",
+    "polygon": [
+      [
+        82,
+        80
+      ],
+      [
+        83,
+        79
+      ],
+      [
+        85,
+        81
+      ],
+      [
+        85,
+        85
+      ],
+      [
+        87,
+        88
+      ],
+      [
+        87,
+        92
+      ],
+      [
+        85,
+        89
+      ],
+      [
+        84,
+        85
+      ]
+    ],
+    "color": "#d2a595",
+    "reason": "Gathered fabric side fold connected to opening",
+    "changed_at_step": 32
+  },
+  {
+    "layer": "04-tote",
+    "polygon": [
+      [
+        92,
+        87
+      ],
+      [
+        94,
+        89
+      ],
+      [
+        94,
+        94
+      ],
+      [
+        91,
+        98
+      ],
+      [
+        89,
+        99
+      ],
+      [
+        91,
+        94
+      ]
+    ],
+    "color": "#d2a595",
+    "reason": "Tote side turns into shadow using existing interior silhouette",
+    "changed_at_step": 20
+  },
+  {
+    "layer": "00-shoes",
+    "polygon": [
+      [
+        36,
+        175
+      ],
+      [
+        39,
+        174
+      ],
+      [
+        44,
+        175
+      ],
+      [
+        47,
+        177
+      ],
+      [
+        44,
+        178
+      ],
+      [
+        38,
+        178
+      ],
+      [
+        35,
+        177
+      ]
+    ],
+    "color": "#d9b3a7",
+    "reason": "Left shoe toe panel as a single material plane",
+    "changed_at_step": 9
+  },
+  {
+    "layer": "00-shoes",
+    "polygon": [
+      [
+        87,
+        176
+      ],
+      [
+        91,
+        175
+      ],
+      [
+        95,
+        177
+      ],
+      [
+        100,
+        178
+      ],
+      [
+        99,
+        180
+      ],
+      [
+        92,
+        180
+      ],
+      [
+        89,
+        178
+      ]
+    ],
+    "color": "#c49e91",
+    "reason": "Right shoe toe panel, retain sole and silhouette",
+    "changed_at_step": 29
+  },
+  {
+    "layer": "00-shoes",
+    "polyline": [
+      [
+        46,
+        172
+      ],
+      [
+        48,
+        173
+      ]
+    ],
+    "color": "#f2cdb5",
+    "reason": "Upper left lace bar",
+    "changed_at_step": 0
+  },
+  {
+    "layer": "00-shoes",
+    "polyline": [
+      [
+        44,
+        174
+      ],
+      [
+        47,
+        175
+      ]
+    ],
+    "color": "#f2cdb5",
+    "reason": "Lower left lace bar",
+    "changed_at_step": 2
+  },
+  {
+    "layer": "00-shoes",
+    "polyline": [
+      [
+        86,
+        172
+      ],
+      [
+        88,
+        173
+      ]
+    ],
+    "color": "#f2cdb5",
+    "reason": "Upper right lace bar",
+    "changed_at_step": 3
+  },
+  {
+    "layer": "00-shoes",
+    "polyline": [
+      [
+        85,
+        174
+      ],
+      [
+        88,
+        175
+      ]
+    ],
+    "color": "#f2cdb5",
+    "reason": "Lower right lace bar",
+    "changed_at_step": 3
+  },
+  {
+    "layer": "08-hair-tie-and-hair",
+    "polyline": [
+      [
+        68,
+        28
+      ],
+      [
+        69,
+        29
+      ],
+      [
+        71,
+        29
+      ],
+      [
+        72,
+        28
+      ]
+    ],
+    "color": "#c7744e",
+    "reason": "Subtle uneven shallow smile from canonical expression",
+    "changed_at_step": 4
+  }
+]

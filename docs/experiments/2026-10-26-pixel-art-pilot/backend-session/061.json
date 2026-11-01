@@ -1,0 +1,24 @@
+{
+  "id": "061",
+  "time": "2026-10-26T10:33:55.661Z",
+  "call": {
+    "name": "sprite_manage",
+    "arguments": {
+      "op": "close"
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "close: candidate.aseprite. Refer to it as '#250'."
+      }
+    ],
+    "structuredContent": {
+      "op": "close",
+      "sprite": "candidate.aseprite",
+      "id": 250
+    }
+  },
+  "images": []
+}

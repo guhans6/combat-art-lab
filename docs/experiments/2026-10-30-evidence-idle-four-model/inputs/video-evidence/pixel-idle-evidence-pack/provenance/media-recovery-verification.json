@@ -1,0 +1,17 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=vs-ierVdE7I",
+  "provider_format_ids": {
+    "video": "137",
+    "audio": "140-17"
+  },
+  "video_packet_stream_sha256": "ee61c25f784d9780474a5db6775053b40125be7dbe605f935b954b7d90bef812",
+  "mux_video_packet_stream_sha256": "ee61c25f784d9780474a5db6775053b40125be7dbe605f935b954b7d90bef812",
+  "audio_packet_stream_sha256": "43c6683820d86fea6db2b7de9259676df5b83460a782a50a3da7313e3f67514c",
+  "mux_audio_packet_stream_sha256": "43c6683820d86fea6db2b7de9259676df5b83460a782a50a3da7313e3f67514c",
+  "video_packets_match": true,
+  "audio_packets_match": true,
+  "media_sha256": "c946289c8fc1ff74faf4fbc0206c58f2e1c9eebd37e18f595f5418e9b5e93a95",
+  "provider_metadata_sha256": "f88661ac39ff09bfb835b80fc876be994da1610a65f2d59079ac16044930e7f7",
+  "operation": "FFmpeg stream-copy mux; no video or audio transcoding",
+  "limitation": "Local provenance evidence; does not override AgentWatch URL_TO_LOCAL_MEDIA_EQUIVALENCE_UNVERIFIED semantics."
+}

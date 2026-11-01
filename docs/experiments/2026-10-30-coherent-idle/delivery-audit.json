@@ -1,0 +1,51 @@
+{
+  "comparison_native_pixels_and_timeline_exact": true,
+  "comparison_gif_sha256": "c36c733184876dbd0bfd53fc4477b17b2ad7ccb28bb63005ebfdb8d4dcb8a16d",
+  "runtime_rendered_frames": [
+    {
+      "frame": 1,
+      "opaque_pixels_equal_native": true
+    },
+    {
+      "frame": 2,
+      "opaque_pixels_equal_native": true
+    },
+    {
+      "frame": 3,
+      "opaque_pixels_equal_native": true
+    },
+    {
+      "frame": 4,
+      "opaque_pixels_equal_native": true
+    },
+    {
+      "frame": 5,
+      "opaque_pixels_equal_native": true
+    },
+    {
+      "frame": 6,
+      "opaque_pixels_equal_native": true
+    },
+    {
+      "frame": 7,
+      "opaque_pixels_equal_native": true
+    },
+    {
+      "frame": 8,
+      "opaque_pixels_equal_native": true
+    }
+  ],
+  "runtime_cycle_intervals_ms": [
+    3382
+  ],
+  "runtime_loops": 3,
+  "preserved_files_checked": 3558,
+  "intentional_maintained_file_changes": [
+    "tools/pixel-art-director/references/animation.md",
+    "docs/handoff.md",
+    "docs/art/motion-guide.md"
+  ],
+  "unexpected_original_changes": [],
+  "all_four_original_experiments_preserved": true,
+  "limits": "Runtime execution/pixel evidence; not continuous agent temporal perception or user artistic approval."
+}

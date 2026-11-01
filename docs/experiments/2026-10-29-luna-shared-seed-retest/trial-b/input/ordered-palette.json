@@ -1,0 +1,2811 @@
+{
+  "source": "seed-baseline.aseprite palette chunk 0x2019",
+  "sha256": "f2d4907a7493af8e6557f933e3c2c40d73f733658fc8250d925f79678ffb5b81",
+  "entries": [
+    {
+      "index": 0,
+      "flags": 0,
+      "rgba": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "name": null
+    },
+    {
+      "index": 1,
+      "flags": 0,
+      "rgba": [
+        3,
+        2,
+        2,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 2,
+      "flags": 0,
+      "rgba": [
+        8,
+        4,
+        3,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 3,
+      "flags": 0,
+      "rgba": [
+        15,
+        8,
+        9,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 4,
+      "flags": 0,
+      "rgba": [
+        20,
+        11,
+        11,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 5,
+      "flags": 0,
+      "rgba": [
+        27,
+        14,
+        13,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 6,
+      "flags": 0,
+      "rgba": [
+        23,
+        14,
+        16,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 7,
+      "flags": 0,
+      "rgba": [
+        25,
+        15,
+        16,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 8,
+      "flags": 0,
+      "rgba": [
+        29,
+        20,
+        19,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 9,
+      "flags": 0,
+      "rgba": [
+        31,
+        29,
+        21,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 10,
+      "flags": 0,
+      "rgba": [
+        29,
+        28,
+        26,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 11,
+      "flags": 0,
+      "rgba": [
+        34,
+        10,
+        1,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 12,
+      "flags": 0,
+      "rgba": [
+        47,
+        11,
+        0,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 13,
+      "flags": 0,
+      "rgba": [
+        51,
+        15,
+        5,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 14,
+      "flags": 0,
+      "rgba": [
+        36,
+        17,
+        13,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 15,
+      "flags": 0,
+      "rgba": [
+        53,
+        21,
+        10,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 16,
+      "flags": 0,
+      "rgba": [
+        56,
+        21,
+        14,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 17,
+      "flags": 0,
+      "rgba": [
+        50,
+        26,
+        14,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 18,
+      "flags": 0,
+      "rgba": [
+        57,
+        24,
+        15,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 19,
+      "flags": 0,
+      "rgba": [
+        35,
+        20,
+        19,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 20,
+      "flags": 0,
+      "rgba": [
+        43,
+        22,
+        21,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 21,
+      "flags": 0,
+      "rgba": [
+        35,
+        30,
+        20,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 22,
+      "flags": 0,
+      "rgba": [
+        41,
+        26,
+        23,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 23,
+      "flags": 0,
+      "rgba": [
+        37,
+        28,
+        27,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 24,
+      "flags": 0,
+      "rgba": [
+        44,
+        28,
+        28,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 25,
+      "flags": 0,
+      "rgba": [
+        50,
+        22,
+        17,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 26,
+      "flags": 0,
+      "rgba": [
+        52,
+        27,
+        21,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 27,
+      "flags": 0,
+      "rgba": [
+        58,
+        26,
+        20,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 28,
+      "flags": 0,
+      "rgba": [
+        52,
+        29,
+        26,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 29,
+      "flags": 0,
+      "rgba": [
+        59,
+        30,
+        26,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 30,
+      "flags": 0,
+      "rgba": [
+        29,
+        33,
+        27,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 31,
+      "flags": 0,
+      "rgba": [
+        36,
+        33,
+        22,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 32,
+      "flags": 0,
+      "rgba": [
+        42,
+        36,
+        22,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 33,
+      "flags": 0,
+      "rgba": [
+        46,
+        41,
+        20,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 34,
+      "flags": 0,
+      "rgba": [
+        36,
+        35,
+        26,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 35,
+      "flags": 0,
+      "rgba": [
+        42,
+        37,
+        27,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 36,
+      "flags": 0,
+      "rgba": [
+        45,
+        41,
+        29,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 37,
+      "flags": 0,
+      "rgba": [
+        61,
+        32,
+        22,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 38,
+      "flags": 0,
+      "rgba": [
+        57,
+        47,
+        21,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 39,
+      "flags": 0,
+      "rgba": [
+        54,
+        36,
+        29,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 40,
+      "flags": 0,
+      "rgba": [
+        60,
+        34,
+        28,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 41,
+      "flags": 0,
+      "rgba": [
+        50,
+        45,
+        28,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 42,
+      "flags": 0,
+      "rgba": [
+        58,
+        50,
+        22,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 43,
+      "flags": 0,
+      "rgba": [
+        54,
+        49,
+        28,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 44,
+      "flags": 0,
+      "rgba": [
+        59,
+        53,
+        28,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 45,
+      "flags": 0,
+      "rgba": [
+        7,
+        19,
+        36,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 46,
+      "flags": 0,
+      "rgba": [
+        14,
+        22,
+        50,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 47,
+      "flags": 0,
+      "rgba": [
+        14,
+        31,
+        54,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 48,
+      "flags": 0,
+      "rgba": [
+        10,
+        28,
+        61,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 49,
+      "flags": 0,
+      "rgba": [
+        16,
+        25,
+        50,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 50,
+      "flags": 0,
+      "rgba": [
+        22,
+        30,
+        56,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 51,
+      "flags": 0,
+      "rgba": [
+        25,
+        33,
+        41,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 52,
+      "flags": 0,
+      "rgba": [
+        21,
+        34,
+        50,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 53,
+      "flags": 0,
+      "rgba": [
+        20,
+        34,
+        61,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 54,
+      "flags": 0,
+      "rgba": [
+        27,
+        36,
+        58,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 55,
+      "flags": 0,
+      "rgba": [
+        26,
+        40,
+        58,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 56,
+      "flags": 0,
+      "rgba": [
+        45,
+        34,
+        33,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 57,
+      "flags": 0,
+      "rgba": [
+        45,
+        44,
+        34,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 58,
+      "flags": 0,
+      "rgba": [
+        50,
+        35,
+        34,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 59,
+      "flags": 0,
+      "rgba": [
+        60,
+        36,
+        34,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 60,
+      "flags": 0,
+      "rgba": [
+        50,
+        46,
+        35,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 61,
+      "flags": 0,
+      "rgba": [
+        58,
+        41,
+        38,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 62,
+      "flags": 0,
+      "rgba": [
+        60,
+        44,
+        42,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 63,
+      "flags": 0,
+      "rgba": [
+        57,
+        54,
+        40,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 64,
+      "flags": 0,
+      "rgba": [
+        51,
+        41,
+        50,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 65,
+      "flags": 0,
+      "rgba": [
+        43,
+        51,
+        60,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 66,
+      "flags": 0,
+      "rgba": [
+        59,
+        58,
+        51,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 67,
+      "flags": 0,
+      "rgba": [
+        66,
+        25,
+        8,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 68,
+      "flags": 0,
+      "rgba": [
+        66,
+        30,
+        22,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 69,
+      "flags": 0,
+      "rgba": [
+        79,
+        37,
+        12,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 70,
+      "flags": 0,
+      "rgba": [
+        91,
+        35,
+        7,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 71,
+      "flags": 0,
+      "rgba": [
+        69,
+        36,
+        28,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 72,
+      "flags": 0,
+      "rgba": [
+        84,
+        42,
+        30,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 73,
+      "flags": 0,
+      "rgba": [
+        103,
+        46,
+        27,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 74,
+      "flags": 0,
+      "rgba": [
+        105,
+        50,
+        31,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 75,
+      "flags": 0,
+      "rgba": [
+        120,
+        55,
+        28,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 76,
+      "flags": 0,
+      "rgba": [
+        72,
+        41,
+        37,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 77,
+      "flags": 0,
+      "rgba": [
+        83,
+        46,
+        38,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 78,
+      "flags": 0,
+      "rgba": [
+        67,
+        59,
+        41,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 79,
+      "flags": 0,
+      "rgba": [
+        88,
+        51,
+        41,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 80,
+      "flags": 0,
+      "rgba": [
+        66,
+        62,
+        48,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 81,
+      "flags": 0,
+      "rgba": [
+        85,
+        55,
+        50,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 82,
+      "flags": 0,
+      "rgba": [
+        103,
+        58,
+        44,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 83,
+      "flags": 0,
+      "rgba": [
+        116,
+        60,
+        43,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 84,
+      "flags": 0,
+      "rgba": [
+        106,
+        62,
+        49,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 85,
+      "flags": 0,
+      "rgba": [
+        112,
+        63,
+        48,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 86,
+      "flags": 0,
+      "rgba": [
+        72,
+        67,
+        45,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 87,
+      "flags": 0,
+      "rgba": [
+        85,
+        74,
+        44,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 88,
+      "flags": 0,
+      "rgba": [
+        75,
+        71,
+        50,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 89,
+      "flags": 0,
+      "rgba": [
+        82,
+        76,
+        52,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 90,
+      "flags": 0,
+      "rgba": [
+        90,
+        84,
+        55,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 91,
+      "flags": 0,
+      "rgba": [
+        105,
+        68,
+        45,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 92,
+      "flags": 0,
+      "rgba": [
+        121,
+        67,
+        45,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 93,
+      "flags": 0,
+      "rgba": [
+        108,
+        67,
+        53,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 94,
+      "flags": 0,
+      "rgba": [
+        116,
+        68,
+        51,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 95,
+      "flags": 0,
+      "rgba": [
+        102,
+        94,
+        58,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 96,
+      "flags": 0,
+      "rgba": [
+        121,
+        80,
+        56,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 97,
+      "flags": 0,
+      "rgba": [
+        106,
+        97,
+        60,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 98,
+      "flags": 0,
+      "rgba": [
+        112,
+        102,
+        62,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 99,
+      "flags": 0,
+      "rgba": [
+        14,
+        33,
+        69,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 100,
+      "flags": 0,
+      "rgba": [
+        23,
+        40,
+        71,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 101,
+      "flags": 0,
+      "rgba": [
+        26,
+        46,
+        82,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 102,
+      "flags": 0,
+      "rgba": [
+        29,
+        49,
+        86,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 103,
+      "flags": 0,
+      "rgba": [
+        35,
+        45,
+        70,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 104,
+      "flags": 0,
+      "rgba": [
+        38,
+        50,
+        76,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 105,
+      "flags": 0,
+      "rgba": [
+        37,
+        55,
+        90,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 106,
+      "flags": 0,
+      "rgba": [
+        40,
+        61,
+        100,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 107,
+      "flags": 0,
+      "rgba": [
+        49,
+        66,
+        92,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 108,
+      "flags": 0,
+      "rgba": [
+        44,
+        67,
+        106,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 109,
+      "flags": 0,
+      "rgba": [
+        52,
+        71,
+        107,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 110,
+      "flags": 0,
+      "rgba": [
+        46,
+        70,
+        114,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 111,
+      "flags": 0,
+      "rgba": [
+        53,
+        76,
+        119,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 112,
+      "flags": 0,
+      "rgba": [
+        57,
+        81,
+        123,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 113,
+      "flags": 0,
+      "rgba": [
+        74,
+        64,
+        94,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 114,
+      "flags": 0,
+      "rgba": [
+        88,
+        77,
+        84,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 115,
+      "flags": 0,
+      "rgba": [
+        102,
+        75,
+        74,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 116,
+      "flags": 0,
+      "rgba": [
+        116,
+        76,
+        64,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 117,
+      "flags": 0,
+      "rgba": [
+        100,
+        92,
+        67,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 118,
+      "flags": 0,
+      "rgba": [
+        121,
+        82,
+        70,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 119,
+      "flags": 0,
+      "rgba": [
+        100,
+        78,
+        80,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 120,
+      "flags": 0,
+      "rgba": [
+        103,
+        85,
+        84,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 121,
+      "flags": 0,
+      "rgba": [
+        107,
+        99,
+        66,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 122,
+      "flags": 0,
+      "rgba": [
+        114,
+        105,
+        65,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 123,
+      "flags": 0,
+      "rgba": [
+        122,
+        114,
+        70,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 124,
+      "flags": 0,
+      "rgba": [
+        115,
+        100,
+        81,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 125,
+      "flags": 0,
+      "rgba": [
+        72,
+        88,
+        120,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 126,
+      "flags": 0,
+      "rgba": [
+        80,
+        93,
+        121,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 127,
+      "flags": 0,
+      "rgba": [
+        103,
+        90,
+        98,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 128,
+      "flags": 0,
+      "rgba": [
+        127,
+        103,
+        103,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 129,
+      "flags": 0,
+      "rgba": [
+        129,
+        52,
+        31,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 130,
+      "flags": 0,
+      "rgba": [
+        133,
+        63,
+        37,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 131,
+      "flags": 0,
+      "rgba": [
+        133,
+        69,
+        41,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 132,
+      "flags": 0,
+      "rgba": [
+        144,
+        71,
+        44,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 133,
+      "flags": 0,
+      "rgba": [
+        135,
+        76,
+        51,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 134,
+      "flags": 0,
+      "rgba": [
+        140,
+        80,
+        55,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 135,
+      "flags": 0,
+      "rgba": [
+        150,
+        85,
+        58,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 136,
+      "flags": 0,
+      "rgba": [
+        173,
+        77,
+        45,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 137,
+      "flags": 0,
+      "rgba": [
+        173,
+        81,
+        47,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 138,
+      "flags": 0,
+      "rgba": [
+        165,
+        91,
+        58,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 139,
+      "flags": 0,
+      "rgba": [
+        148,
+        97,
+        54,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 140,
+      "flags": 0,
+      "rgba": [
+        165,
+        96,
+        63,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 141,
+      "flags": 0,
+      "rgba": [
+        186,
+        97,
+        58,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 142,
+      "flags": 0,
+      "rgba": [
+        200,
+        104,
+        63,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 143,
+      "flags": 0,
+      "rgba": [
+        134,
+        90,
+        76,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 144,
+      "flags": 0,
+      "rgba": [
+        144,
+        89,
+        69,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 145,
+      "flags": 0,
+      "rgba": [
+        131,
+        107,
+        69,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 146,
+      "flags": 0,
+      "rgba": [
+        151,
+        100,
+        72,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 147,
+      "flags": 0,
+      "rgba": [
+        138,
+        104,
+        87,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 148,
+      "flags": 0,
+      "rgba": [
+        149,
+        105,
+        89,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 149,
+      "flags": 0,
+      "rgba": [
+        171,
+        101,
+        69,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 150,
+      "flags": 0,
+      "rgba": [
+        183,
+        106,
+        69,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 151,
+      "flags": 0,
+      "rgba": [
+        174,
+        124,
+        74,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 152,
+      "flags": 0,
+      "rgba": [
+        190,
+        113,
+        75,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 153,
+      "flags": 0,
+      "rgba": [
+        171,
+        116,
+        83,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 154,
+      "flags": 0,
+      "rgba": [
+        184,
+        120,
+        90,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 155,
+      "flags": 0,
+      "rgba": [
+        140,
+        108,
+        100,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 156,
+      "flags": 0,
+      "rgba": [
+        152,
+        109,
+        98,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 157,
+      "flags": 0,
+      "rgba": [
+        135,
+        119,
+        106,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 158,
+      "flags": 0,
+      "rgba": [
+        156,
+        116,
+        104,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 159,
+      "flags": 0,
+      "rgba": [
+        142,
+        123,
+        114,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 160,
+      "flags": 0,
+      "rgba": [
+        164,
+        120,
+        106,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 161,
+      "flags": 0,
+      "rgba": [
+        164,
+        123,
+        113,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 162,
+      "flags": 0,
+      "rgba": [
+        202,
+        106,
+        68,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 163,
+      "flags": 0,
+      "rgba": [
+        199,
+        116,
+        78,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 164,
+      "flags": 0,
+      "rgba": [
+        218,
+        120,
+        75,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 165,
+      "flags": 0,
+      "rgba": [
+        200,
+        116,
+        83,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 166,
+      "flags": 0,
+      "rgba": [
+        219,
+        125,
+        85,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 167,
+      "flags": 0,
+      "rgba": [
+        225,
+        124,
+        78,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 168,
+      "flags": 0,
+      "rgba": [
+        224,
+        126,
+        85,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 169,
+      "flags": 0,
+      "rgba": [
+        157,
+        132,
+        92,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 170,
+      "flags": 0,
+      "rgba": [
+        186,
+        128,
+        95,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 171,
+      "flags": 0,
+      "rgba": [
+        159,
+        132,
+        99,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 172,
+      "flags": 0,
+      "rgba": [
+        144,
+        129,
+        127,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 173,
+      "flags": 0,
+      "rgba": [
+        165,
+        130,
+        102,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 174,
+      "flags": 0,
+      "rgba": [
+        184,
+        133,
+        102,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 175,
+      "flags": 0,
+      "rgba": [
+        171,
+        131,
+        120,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 176,
+      "flags": 0,
+      "rgba": [
+        181,
+        137,
+        123,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 177,
+      "flags": 0,
+      "rgba": [
+        185,
+        153,
+        123,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 178,
+      "flags": 0,
+      "rgba": [
+        222,
+        130,
+        87,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 179,
+      "flags": 0,
+      "rgba": [
+        228,
+        133,
+        88,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 180,
+      "flags": 0,
+      "rgba": [
+        241,
+        135,
+        85,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 181,
+      "flags": 0,
+      "rgba": [
+        198,
+        132,
+        102,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 182,
+      "flags": 0,
+      "rgba": [
+        214,
+        142,
+        105,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 183,
+      "flags": 0,
+      "rgba": [
+        192,
+        138,
+        123,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 184,
+      "flags": 0,
+      "rgba": [
+        200,
+        146,
+        117,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 185,
+      "flags": 0,
+      "rgba": [
+        213,
+        150,
+        114,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 186,
+      "flags": 0,
+      "rgba": [
+        238,
+        142,
+        98,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 187,
+      "flags": 0,
+      "rgba": [
+        234,
+        147,
+        104,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 188,
+      "flags": 0,
+      "rgba": [
+        246,
+        153,
+        104,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 189,
+      "flags": 0,
+      "rgba": [
+        250,
+        158,
+        116,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 190,
+      "flags": 0,
+      "rgba": [
+        220,
+        164,
+        127,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 191,
+      "flags": 0,
+      "rgba": [
+        246,
+        162,
+        110,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 192,
+      "flags": 0,
+      "rgba": [
+        253,
+        169,
+        119,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 193,
+      "flags": 0,
+      "rgba": [
+        250,
+        180,
+        124,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 194,
+      "flags": 0,
+      "rgba": [
+        53,
+        79,
+        128,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 195,
+      "flags": 0,
+      "rgba": [
+        59,
+        85,
+        132,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 196,
+      "flags": 0,
+      "rgba": [
+        67,
+        94,
+        140,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 197,
+      "flags": 0,
+      "rgba": [
+        68,
+        95,
+        144,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 198,
+      "flags": 0,
+      "rgba": [
+        71,
+        97,
+        142,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 199,
+      "flags": 0,
+      "rgba": [
+        74,
+        101,
+        148,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 200,
+      "flags": 0,
+      "rgba": [
+        82,
+        109,
+        154,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 201,
+      "flags": 0,
+      "rgba": [
+        88,
+        114,
+        158,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 202,
+      "flags": 0,
+      "rgba": [
+        117,
+        118,
+        133,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 203,
+      "flags": 0,
+      "rgba": [
+        96,
+        117,
+        158,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 204,
+      "flags": 0,
+      "rgba": [
+        94,
+        122,
+        168,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 205,
+      "flags": 0,
+      "rgba": [
+        97,
+        124,
+        170,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 206,
+      "flags": 0,
+      "rgba": [
+        101,
+        129,
+        174,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 207,
+      "flags": 0,
+      "rgba": [
+        104,
+        132,
+        177,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 208,
+      "flags": 0,
+      "rgba": [
+        158,
+        137,
+        135,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 209,
+      "flags": 0,
+      "rgba": [
+        175,
+        139,
+        130,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 210,
+      "flags": 0,
+      "rgba": [
+        183,
+        142,
+        130,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 211,
+      "flags": 0,
+      "rgba": [
+        188,
+        149,
+        136,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 212,
+      "flags": 0,
+      "rgba": [
+        198,
+        154,
+        138,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 213,
+      "flags": 0,
+      "rgba": [
+        208,
+        158,
+        140,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 214,
+      "flags": 0,
+      "rgba": [
+        196,
+        158,
+        145,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 215,
+      "flags": 0,
+      "rgba": [
+        202,
+        164,
+        139,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 216,
+      "flags": 0,
+      "rgba": [
+        211,
+        166,
+        142,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 217,
+      "flags": 0,
+      "rgba": [
+        203,
+        162,
+        148,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 218,
+      "flags": 0,
+      "rgba": [
+        210,
+        165,
+        149,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 219,
+      "flags": 0,
+      "rgba": [
+        206,
+        177,
+        144,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 220,
+      "flags": 0,
+      "rgba": [
+        223,
+        179,
+        155,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 221,
+      "flags": 0,
+      "rgba": [
+        252,
+        175,
+        128,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 222,
+      "flags": 0,
+      "rgba": [
+        254,
+        184,
+        129,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 223,
+      "flags": 0,
+      "rgba": [
+        224,
+        179,
+        155,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 224,
+      "flags": 0,
+      "rgba": [
+        206,
+        167,
+        164,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 225,
+      "flags": 0,
+      "rgba": [
+        211,
+        173,
+        167,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 226,
+      "flags": 0,
+      "rgba": [
+        205,
+        185,
+        174,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 227,
+      "flags": 0,
+      "rgba": [
+        217,
+        179,
+        167,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 228,
+      "flags": 0,
+      "rgba": [
+        206,
+        174,
+        179,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 229,
+      "flags": 0,
+      "rgba": [
+        209,
+        175,
+        180,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 230,
+      "flags": 0,
+      "rgba": [
+        214,
+        183,
+        187,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 231,
+      "flags": 0,
+      "rgba": [
+        228,
+        187,
+        167,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 232,
+      "flags": 0,
+      "rgba": [
+        225,
+        191,
+        184,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 233,
+      "flags": 0,
+      "rgba": [
+        247,
+        192,
+        139,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 234,
+      "flags": 0,
+      "rgba": [
+        251,
+        192,
+        149,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 235,
+      "flags": 0,
+      "rgba": [
+        220,
+        198,
+        187,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 236,
+      "flags": 0,
+      "rgba": [
+        236,
+        197,
+        170,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 237,
+      "flags": 0,
+      "rgba": [
+        242,
+        200,
+        171,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 238,
+      "flags": 0,
+      "rgba": [
+        248,
+        210,
+        174,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 239,
+      "flags": 0,
+      "rgba": [
+        236,
+        201,
+        182,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 240,
+      "flags": 0,
+      "rgba": [
+        242,
+        205,
+        181,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 241,
+      "flags": 0,
+      "rgba": [
+        252,
+        216,
+        182,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 242,
+      "flags": 0,
+      "rgba": [
+        255,
+        225,
+        184,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 243,
+      "flags": 0,
+      "rgba": [
+        217,
+        188,
+        193,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 244,
+      "flags": 0,
+      "rgba": [
+        222,
+        193,
+        196,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 245,
+      "flags": 0,
+      "rgba": [
+        230,
+        199,
+        197,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 246,
+      "flags": 0,
+      "rgba": [
+        231,
+        213,
+        199,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 247,
+      "flags": 0,
+      "rgba": [
+        250,
+        220,
+        196,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 248,
+      "flags": 0,
+      "rgba": [
+        249,
+        223,
+        211,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 249,
+      "flags": 0,
+      "rgba": [
+        253,
+        228,
+        204,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 250,
+      "flags": 0,
+      "rgba": [
+        253,
+        231,
+        211,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 251,
+      "flags": 0,
+      "rgba": [
+        255,
+        244,
+        217,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 252,
+      "flags": 0,
+      "rgba": [
+        248,
+        236,
+        224,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 253,
+      "flags": 0,
+      "rgba": [
+        254,
+        248,
+        238,
+        255
+      ],
+      "name": null
+    },
+    {
+      "index": 254,
+      "flags": 0,
+      "rgba": [
+        254,
+        252,
+        247,
+        255
+      ],
+      "name": null
+    }
+  ]
+}

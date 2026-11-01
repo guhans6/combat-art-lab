@@ -1,0 +1,47 @@
+{
+  "baseline_role": "user-rejected native tote v03 F9; not approved art",
+  "registration": "Exact same320x192 native frame9; no scaling/fitting/translation. Native owner/frame/palette protection independently verified.",
+  "required_frame_ids": [
+    "F9"
+  ],
+  "zoom": 6,
+  "allow_new_colors": false,
+  "color_policy": "Existing native palette and frame-local RGB set only; independently checked.",
+  "evidence": [
+    {
+      "role": "candidate native",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-recovery-grip/artist/source/recovery-grip-pass02.aseprite"
+    },
+    {
+      "role": "independent native and fresh-reopen audit",
+      "path": "../verification.json"
+    },
+    {
+      "role": "pre-edit scope",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-recovery-grip/artist/scope.json"
+    },
+    {
+      "role": "parent frozen scope hashes",
+      "path": "../baseline/artist-pre-edit-scope.json"
+    }
+  ],
+  "frames": [
+    {
+      "id": "F9",
+      "before": "../inputs/before.png",
+      "after": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-recovery-grip/artist/proof/recovery-grip-pass02.png",
+      "mask": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-recovery-grip/artist/proof/allowed-mask.png",
+      "regions": [
+        {
+          "name": "cuffs-wrists-grip-handles-and-rim",
+          "crop": [
+            140,
+            60,
+            205,
+            130
+          ]
+        }
+      ]
+    }
+  ]
+}

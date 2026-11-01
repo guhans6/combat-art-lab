@@ -1,0 +1,2226 @@
+{
+  "backend": "Pebbly0.8.2/headless Aseprite1.3.18.6-dev",
+  "mode": "headless",
+  "input": "../2026-10-30-tote-attack/artist/sol-rescue/source/tote-attack-v03.aseprite",
+  "expected_input_sha256": "1f6d68c6927bbcc594be9913156f74a6b0939aa373a9be9971dcd5be8ab52065",
+  "draw_calls": [
+    {
+      "file": "operations/pass03-f02.json",
+      "call": 0,
+      "frame": 2,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 67425,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 2,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/pass03-f02.json",
+      "call": 1,
+      "frame": 2,
+      "layer": "02-jacket-shirt-and-sleeves",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 64685,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 2,
+        "layer": "02-jacket-shirt-and-sleeves"
+      }
+    },
+    {
+      "file": "operations/pass03-f02.json",
+      "call": 2,
+      "frame": 2,
+      "layer": "04a-underarm-and-waist-backing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 2,
+        "layer": "04a-underarm-and-waist-backing"
+      }
+    },
+    {
+      "file": "operations/pass03-f02.json",
+      "call": 3,
+      "frame": 2,
+      "layer": "03-head-neck-collar",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62826,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 2,
+        "layer": "03-head-neck-collar"
+      }
+    },
+    {
+      "file": "operations/pass03-f02.json",
+      "call": 4,
+      "frame": 2,
+      "layer": "04-tote-and-handles",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 63092,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 2,
+        "layer": "04-tote-and-handles"
+      }
+    },
+    {
+      "file": "operations/pass03-f02.json",
+      "call": 5,
+      "frame": 2,
+      "layer": "05-loaded-grip-drawing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 2,
+        "layer": "05-loaded-grip-drawing"
+      }
+    },
+    {
+      "file": "operations/pass03-f02.json",
+      "call": 6,
+      "frame": 2,
+      "layer": "06-continuous-handle-tension",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 2,
+        "layer": "06-continuous-handle-tension"
+      }
+    },
+    {
+      "file": "operations/pass03-f03.json",
+      "call": 0,
+      "frame": 3,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 71130,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 3,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/pass03-f03.json",
+      "call": 1,
+      "frame": 3,
+      "layer": "02-jacket-shirt-and-sleeves",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 64589,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 3,
+        "layer": "02-jacket-shirt-and-sleeves"
+      }
+    },
+    {
+      "file": "operations/pass03-f03.json",
+      "call": 2,
+      "frame": 3,
+      "layer": "04a-underarm-and-waist-backing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 3,
+        "layer": "04a-underarm-and-waist-backing"
+      }
+    },
+    {
+      "file": "operations/pass03-f03.json",
+      "call": 3,
+      "frame": 3,
+      "layer": "03-head-neck-collar",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62826,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 3,
+        "layer": "03-head-neck-collar"
+      }
+    },
+    {
+      "file": "operations/pass03-f03.json",
+      "call": 4,
+      "frame": 3,
+      "layer": "04-tote-and-handles",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 63260,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 3,
+        "layer": "04-tote-and-handles"
+      }
+    },
+    {
+      "file": "operations/pass03-f03.json",
+      "call": 5,
+      "frame": 3,
+      "layer": "05-loaded-grip-drawing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 3,
+        "layer": "05-loaded-grip-drawing"
+      }
+    },
+    {
+      "file": "operations/pass03-f03.json",
+      "call": 6,
+      "frame": 3,
+      "layer": "06-continuous-handle-tension",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 3,
+        "layer": "06-continuous-handle-tension"
+      }
+    },
+    {
+      "file": "operations/pass03-f04.json",
+      "call": 0,
+      "frame": 4,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 70845,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 4,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/pass03-f04.json",
+      "call": 1,
+      "frame": 4,
+      "layer": "02-jacket-shirt-and-sleeves",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 64340,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 4,
+        "layer": "02-jacket-shirt-and-sleeves"
+      }
+    },
+    {
+      "file": "operations/pass03-f04.json",
+      "call": 2,
+      "frame": 4,
+      "layer": "04a-underarm-and-waist-backing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 4,
+        "layer": "04a-underarm-and-waist-backing"
+      }
+    },
+    {
+      "file": "operations/pass03-f04.json",
+      "call": 3,
+      "frame": 4,
+      "layer": "03-head-neck-collar",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62826,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 4,
+        "layer": "03-head-neck-collar"
+      }
+    },
+    {
+      "file": "operations/pass03-f04.json",
+      "call": 4,
+      "frame": 4,
+      "layer": "04-tote-and-handles",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 63555,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 4,
+        "layer": "04-tote-and-handles"
+      }
+    },
+    {
+      "file": "operations/pass03-f04.json",
+      "call": 5,
+      "frame": 4,
+      "layer": "05-loaded-grip-drawing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 4,
+        "layer": "05-loaded-grip-drawing"
+      }
+    },
+    {
+      "file": "operations/pass03-f04.json",
+      "call": 6,
+      "frame": 4,
+      "layer": "06-continuous-handle-tension",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 4,
+        "layer": "06-continuous-handle-tension"
+      }
+    },
+    {
+      "file": "operations/pass03-f05.json",
+      "call": 0,
+      "frame": 5,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 71035,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 5,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/pass03-f05.json",
+      "call": 1,
+      "frame": 5,
+      "layer": "02-jacket-shirt-and-sleeves",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 65040,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 5,
+        "layer": "02-jacket-shirt-and-sleeves"
+      }
+    },
+    {
+      "file": "operations/pass03-f05.json",
+      "call": 2,
+      "frame": 5,
+      "layer": "04a-underarm-and-waist-backing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 5,
+        "layer": "04a-underarm-and-waist-backing"
+      }
+    },
+    {
+      "file": "operations/pass03-f05.json",
+      "call": 3,
+      "frame": 5,
+      "layer": "03-head-neck-collar",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62826,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 5,
+        "layer": "03-head-neck-collar"
+      }
+    },
+    {
+      "file": "operations/pass03-f05.json",
+      "call": 4,
+      "frame": 5,
+      "layer": "04-tote-and-handles",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 63260,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 5,
+        "layer": "04-tote-and-handles"
+      }
+    },
+    {
+      "file": "operations/pass03-f05.json",
+      "call": 5,
+      "frame": 5,
+      "layer": "05-loaded-grip-drawing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 5,
+        "layer": "05-loaded-grip-drawing"
+      }
+    },
+    {
+      "file": "operations/pass03-f05.json",
+      "call": 6,
+      "frame": 5,
+      "layer": "06-continuous-handle-tension",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 5,
+        "layer": "06-continuous-handle-tension"
+      }
+    },
+    {
+      "file": "operations/pass03-f06.json",
+      "call": 0,
+      "frame": 6,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 71225,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 6,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/pass03-f06.json",
+      "call": 1,
+      "frame": 6,
+      "layer": "02-jacket-shirt-and-sleeves",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 66796,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 6,
+        "layer": "02-jacket-shirt-and-sleeves"
+      }
+    },
+    {
+      "file": "operations/pass03-f06.json",
+      "call": 2,
+      "frame": 6,
+      "layer": "04a-underarm-and-waist-backing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 6,
+        "layer": "04a-underarm-and-waist-backing"
+      }
+    },
+    {
+      "file": "operations/pass03-f06.json",
+      "call": 3,
+      "frame": 6,
+      "layer": "03-head-neck-collar",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62826,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 6,
+        "layer": "03-head-neck-collar"
+      }
+    },
+    {
+      "file": "operations/pass03-f06.json",
+      "call": 4,
+      "frame": 6,
+      "layer": "04-tote-and-handles",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 63040,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 6,
+        "layer": "04-tote-and-handles"
+      }
+    },
+    {
+      "file": "operations/pass03-f06.json",
+      "call": 5,
+      "frame": 6,
+      "layer": "05-loaded-grip-drawing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 6,
+        "layer": "05-loaded-grip-drawing"
+      }
+    },
+    {
+      "file": "operations/pass03-f06.json",
+      "call": 6,
+      "frame": 6,
+      "layer": "06-continuous-handle-tension",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 6,
+        "layer": "06-continuous-handle-tension"
+      }
+    },
+    {
+      "file": "operations/pass03-f07.json",
+      "call": 0,
+      "frame": 7,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 71700,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 7,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/pass03-f07.json",
+      "call": 1,
+      "frame": 7,
+      "layer": "02-jacket-shirt-and-sleeves",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 65540,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 7,
+        "layer": "02-jacket-shirt-and-sleeves"
+      }
+    },
+    {
+      "file": "operations/pass03-f07.json",
+      "call": 2,
+      "frame": 7,
+      "layer": "04a-underarm-and-waist-backing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 7,
+        "layer": "04a-underarm-and-waist-backing"
+      }
+    },
+    {
+      "file": "operations/pass03-f07.json",
+      "call": 3,
+      "frame": 7,
+      "layer": "03-head-neck-collar",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62826,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 7,
+        "layer": "03-head-neck-collar"
+      }
+    },
+    {
+      "file": "operations/pass03-f07.json",
+      "call": 4,
+      "frame": 7,
+      "layer": "04-tote-and-handles",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 63276,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 7,
+        "layer": "04-tote-and-handles"
+      }
+    },
+    {
+      "file": "operations/pass03-f07.json",
+      "call": 5,
+      "frame": 7,
+      "layer": "05-loaded-grip-drawing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 7,
+        "layer": "05-loaded-grip-drawing"
+      }
+    },
+    {
+      "file": "operations/pass03-f07.json",
+      "call": 6,
+      "frame": 7,
+      "layer": "06-continuous-handle-tension",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 7,
+        "layer": "06-continuous-handle-tension"
+      }
+    },
+    {
+      "file": "operations/pass03-f08.json",
+      "call": 0,
+      "frame": 8,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 71700,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 8,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/pass03-f08.json",
+      "call": 1,
+      "frame": 8,
+      "layer": "02-jacket-shirt-and-sleeves",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 64275,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 8,
+        "layer": "02-jacket-shirt-and-sleeves"
+      }
+    },
+    {
+      "file": "operations/pass03-f08.json",
+      "call": 2,
+      "frame": 8,
+      "layer": "04a-underarm-and-waist-backing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 8,
+        "layer": "04a-underarm-and-waist-backing"
+      }
+    },
+    {
+      "file": "operations/pass03-f08.json",
+      "call": 3,
+      "frame": 8,
+      "layer": "03-head-neck-collar",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62826,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 8,
+        "layer": "03-head-neck-collar"
+      }
+    },
+    {
+      "file": "operations/pass03-f08.json",
+      "call": 4,
+      "frame": 8,
+      "layer": "04-tote-and-handles",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 63320,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 8,
+        "layer": "04-tote-and-handles"
+      }
+    },
+    {
+      "file": "operations/pass03-f08.json",
+      "call": 5,
+      "frame": 8,
+      "layer": "05-loaded-grip-drawing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 8,
+        "layer": "05-loaded-grip-drawing"
+      }
+    },
+    {
+      "file": "operations/pass03-f08.json",
+      "call": 6,
+      "frame": 8,
+      "layer": "06-continuous-handle-tension",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 8,
+        "layer": "06-continuous-handle-tension"
+      }
+    },
+    {
+      "file": "operations/pass03-f09.json",
+      "call": 0,
+      "frame": 9,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 68185,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 9,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/pass03-f09.json",
+      "call": 1,
+      "frame": 9,
+      "layer": "02-jacket-shirt-and-sleeves",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 64300,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 9,
+        "layer": "02-jacket-shirt-and-sleeves"
+      }
+    },
+    {
+      "file": "operations/pass03-f09.json",
+      "call": 2,
+      "frame": 9,
+      "layer": "04a-underarm-and-waist-backing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 9,
+        "layer": "04a-underarm-and-waist-backing"
+      }
+    },
+    {
+      "file": "operations/pass03-f09.json",
+      "call": 3,
+      "frame": 9,
+      "layer": "03-head-neck-collar",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62826,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 9,
+        "layer": "03-head-neck-collar"
+      }
+    },
+    {
+      "file": "operations/pass03-f09.json",
+      "call": 4,
+      "frame": 9,
+      "layer": "04-tote-and-handles",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62952,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 9,
+        "layer": "04-tote-and-handles"
+      }
+    },
+    {
+      "file": "operations/pass03-f09.json",
+      "call": 5,
+      "frame": 9,
+      "layer": "05-loaded-grip-drawing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 9,
+        "layer": "05-loaded-grip-drawing"
+      }
+    },
+    {
+      "file": "operations/pass03-f09.json",
+      "call": 6,
+      "frame": 9,
+      "layer": "06-continuous-handle-tension",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 9,
+        "layer": "06-continuous-handle-tension"
+      }
+    },
+    {
+      "file": "operations/pass03-f10.json",
+      "call": 0,
+      "frame": 10,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 68185,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 10,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/pass03-f10.json",
+      "call": 1,
+      "frame": 10,
+      "layer": "02-jacket-shirt-and-sleeves",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 64245,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 10,
+        "layer": "02-jacket-shirt-and-sleeves"
+      }
+    },
+    {
+      "file": "operations/pass03-f10.json",
+      "call": 2,
+      "frame": 10,
+      "layer": "04a-underarm-and-waist-backing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 10,
+        "layer": "04a-underarm-and-waist-backing"
+      }
+    },
+    {
+      "file": "operations/pass03-f10.json",
+      "call": 3,
+      "frame": 10,
+      "layer": "03-head-neck-collar",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62826,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 10,
+        "layer": "03-head-neck-collar"
+      }
+    },
+    {
+      "file": "operations/pass03-f10.json",
+      "call": 4,
+      "frame": 10,
+      "layer": "04-tote-and-handles",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62910,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 10,
+        "layer": "04-tote-and-handles"
+      }
+    },
+    {
+      "file": "operations/pass03-f10.json",
+      "call": 5,
+      "frame": 10,
+      "layer": "05-loaded-grip-drawing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 10,
+        "layer": "05-loaded-grip-drawing"
+      }
+    },
+    {
+      "file": "operations/pass03-f10.json",
+      "call": 6,
+      "frame": 10,
+      "layer": "06-continuous-handle-tension",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 10,
+        "layer": "06-continuous-handle-tension"
+      }
+    },
+    {
+      "file": "operations/pass03-f11.json",
+      "call": 0,
+      "frame": 11,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 67425,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 11,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/pass03-f11.json",
+      "call": 1,
+      "frame": 11,
+      "layer": "02-jacket-shirt-and-sleeves",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 64630,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 11,
+        "layer": "02-jacket-shirt-and-sleeves"
+      }
+    },
+    {
+      "file": "operations/pass03-f11.json",
+      "call": 2,
+      "frame": 11,
+      "layer": "04a-underarm-and-waist-backing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 11,
+        "layer": "04a-underarm-and-waist-backing"
+      }
+    },
+    {
+      "file": "operations/pass03-f11.json",
+      "call": 3,
+      "frame": 11,
+      "layer": "03-head-neck-collar",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62826,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 11,
+        "layer": "03-head-neck-collar"
+      }
+    },
+    {
+      "file": "operations/pass03-f11.json",
+      "call": 4,
+      "frame": 11,
+      "layer": "04-tote-and-handles",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62301,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 11,
+        "layer": "04-tote-and-handles"
+      }
+    },
+    {
+      "file": "operations/pass03-f11.json",
+      "call": 5,
+      "frame": 11,
+      "layer": "05-loaded-grip-drawing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 11,
+        "layer": "05-loaded-grip-drawing"
+      }
+    },
+    {
+      "file": "operations/pass03-f11.json",
+      "call": 6,
+      "frame": 11,
+      "layer": "06-continuous-handle-tension",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 11,
+        "layer": "06-continuous-handle-tension"
+      }
+    },
+    {
+      "file": "operations/pass03-f12.json",
+      "call": 0,
+      "frame": 12,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 67330,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 12,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/pass03-f12.json",
+      "call": 1,
+      "frame": 12,
+      "layer": "02-jacket-shirt-and-sleeves",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 64626,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 12,
+        "layer": "02-jacket-shirt-and-sleeves"
+      }
+    },
+    {
+      "file": "operations/pass03-f12.json",
+      "call": 2,
+      "frame": 12,
+      "layer": "04a-underarm-and-waist-backing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 12,
+        "layer": "04a-underarm-and-waist-backing"
+      }
+    },
+    {
+      "file": "operations/pass03-f12.json",
+      "call": 3,
+      "frame": 12,
+      "layer": "03-head-neck-collar",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62826,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 12,
+        "layer": "03-head-neck-collar"
+      }
+    },
+    {
+      "file": "operations/pass03-f12.json",
+      "call": 4,
+      "frame": 12,
+      "layer": "04-tote-and-handles",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62714,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 12,
+        "layer": "04-tote-and-handles"
+      }
+    },
+    {
+      "file": "operations/pass03-f12.json",
+      "call": 5,
+      "frame": 12,
+      "layer": "05-loaded-grip-drawing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 12,
+        "layer": "05-loaded-grip-drawing"
+      }
+    },
+    {
+      "file": "operations/pass03-f12.json",
+      "call": 6,
+      "frame": 12,
+      "layer": "06-continuous-handle-tension",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61440,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 1,
+        "frame": 12,
+        "layer": "06-continuous-handle-tension"
+      }
+    },
+    {
+      "file": "operations/finish-f02.json",
+      "call": 0,
+      "frame": 2,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 67425,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 2,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/finish-f02.json",
+      "call": 1,
+      "frame": 2,
+      "layer": "02-jacket-shirt-and-sleeves",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 64685,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 2,
+        "layer": "02-jacket-shirt-and-sleeves"
+      }
+    },
+    {
+      "file": "operations/finish-f02.json",
+      "call": 2,
+      "frame": 2,
+      "layer": "04-tote-and-handles",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62738,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 2,
+        "layer": "04-tote-and-handles"
+      }
+    },
+    {
+      "file": "operations/finish-f08.json",
+      "call": 0,
+      "frame": 8,
+      "layer": "04-tote-and-handles",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62732,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 8,
+        "layer": "04-tote-and-handles"
+      }
+    },
+    {
+      "file": "operations/finish-f08.json",
+      "call": 1,
+      "frame": 8,
+      "layer": "05-loaded-grip-drawing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61678,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 8,
+        "layer": "05-loaded-grip-drawing"
+      }
+    },
+    {
+      "file": "operations/finish-f08.json",
+      "call": 2,
+      "frame": 8,
+      "layer": "06-continuous-handle-tension",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61824,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 8,
+        "layer": "06-continuous-handle-tension"
+      }
+    },
+    {
+      "file": "operations/finish-f09.json",
+      "call": 0,
+      "frame": 9,
+      "layer": "04-tote-and-handles",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62592,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 9,
+        "layer": "04-tote-and-handles"
+      }
+    },
+    {
+      "file": "operations/finish-f09.json",
+      "call": 1,
+      "frame": 9,
+      "layer": "05-loaded-grip-drawing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61594,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 9,
+        "layer": "05-loaded-grip-drawing"
+      }
+    },
+    {
+      "file": "operations/finish-f09.json",
+      "call": 2,
+      "frame": 9,
+      "layer": "06-continuous-handle-tension",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61854,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 9,
+        "layer": "06-continuous-handle-tension"
+      }
+    },
+    {
+      "file": "operations/finish-f10.json",
+      "call": 0,
+      "frame": 10,
+      "layer": "04-tote-and-handles",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62490,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 10,
+        "layer": "04-tote-and-handles"
+      }
+    },
+    {
+      "file": "operations/finish-f10.json",
+      "call": 1,
+      "frame": 10,
+      "layer": "05-loaded-grip-drawing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61594,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 10,
+        "layer": "05-loaded-grip-drawing"
+      }
+    },
+    {
+      "file": "operations/finish-f10.json",
+      "call": 2,
+      "frame": 10,
+      "layer": "06-continuous-handle-tension",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61800,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 10,
+        "layer": "06-continuous-handle-tension"
+      }
+    },
+    {
+      "file": "operations/finish-f12.json",
+      "call": 0,
+      "frame": 12,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 67330,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 12,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/finish-f12.json",
+      "call": 1,
+      "frame": 12,
+      "layer": "02-jacket-shirt-and-sleeves",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 64626,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 12,
+        "layer": "02-jacket-shirt-and-sleeves"
+      }
+    },
+    {
+      "file": "operations/finish-f12.json",
+      "call": 2,
+      "frame": 12,
+      "layer": "04-tote-and-handles",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62640,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 12,
+        "layer": "04-tote-and-handles"
+      }
+    },
+    {
+      "file": "operations/connections.json",
+      "call": 0,
+      "frame": 8,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 71700,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 8,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/connections.json",
+      "call": 1,
+      "frame": 8,
+      "layer": "02-jacket-shirt-and-sleeves",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 64095,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 8,
+        "layer": "02-jacket-shirt-and-sleeves"
+      }
+    },
+    {
+      "file": "operations/connections.json",
+      "call": 2,
+      "frame": 8,
+      "layer": "05-loaded-grip-drawing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61900,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 8,
+        "layer": "05-loaded-grip-drawing"
+      }
+    },
+    {
+      "file": "operations/connections.json",
+      "call": 3,
+      "frame": 12,
+      "layer": "06-continuous-handle-tension",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61635,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 12,
+        "layer": "06-continuous-handle-tension"
+      }
+    },
+    {
+      "file": "operations/connections.json",
+      "call": 4,
+      "frame": 2,
+      "layer": "06-continuous-handle-tension",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61638,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 2,
+        "layer": "06-continuous-handle-tension"
+      }
+    },
+    {
+      "file": "operations/remnant-cleanup.json",
+      "call": 0,
+      "frame": 2,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 2,
+        "bounds": {
+          "height": 2,
+          "y": 104,
+          "x": 148,
+          "width": 1
+        },
+        "opsApplied": 2,
+        "frame": 2,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/remnant-cleanup.json",
+      "call": 1,
+      "frame": 3,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 7,
+        "bounds": {
+          "height": 14,
+          "y": 115,
+          "x": 176,
+          "width": 14
+        },
+        "opsApplied": 7,
+        "frame": 3,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/remnant-cleanup.json",
+      "call": 2,
+      "frame": 5,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 7,
+        "bounds": {
+          "height": 14,
+          "y": 115,
+          "x": 172,
+          "width": 13
+        },
+        "opsApplied": 7,
+        "frame": 5,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/remnant-cleanup.json",
+      "call": 3,
+      "frame": 7,
+      "layer": "02-jacket-shirt-and-sleeves",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 6,
+        "bounds": {
+          "height": 4,
+          "y": 40,
+          "x": 121,
+          "width": 4
+        },
+        "opsApplied": 6,
+        "frame": 7,
+        "layer": "02-jacket-shirt-and-sleeves"
+      }
+    },
+    {
+      "file": "operations/remnant-cleanup.json",
+      "call": 4,
+      "frame": 12,
+      "layer": "02-jacket-shirt-and-sleeves",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 1,
+        "bounds": {
+          "height": 1,
+          "y": 75,
+          "x": 165,
+          "width": 1
+        },
+        "opsApplied": 1,
+        "frame": 12,
+        "layer": "02-jacket-shirt-and-sleeves"
+      }
+    },
+    {
+      "file": "operations/arrest-grip-clarity.json",
+      "call": 0,
+      "frame": 8,
+      "layer": "05-loaded-grip-drawing",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 61877,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 8,
+        "layer": "05-loaded-grip-drawing"
+      }
+    },
+    {
+      "file": "operations/arrest-grip-clarity.json",
+      "call": 1,
+      "frame": 8,
+      "layer": "06-continuous-handle-tension",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 62064,
+        "bounds": {
+          "height": 192,
+          "y": 0,
+          "x": 0,
+          "width": 320
+        },
+        "opsApplied": 2,
+        "frame": 8,
+        "layer": "06-continuous-handle-tension"
+      }
+    },
+    {
+      "file": "operations/coverage-repair.json",
+      "call": 0,
+      "frame": 2,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 9,
+        "bounds": {
+          "height": 1,
+          "y": 171,
+          "x": 116,
+          "width": 42
+        },
+        "opsApplied": 9,
+        "frame": 2,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/coverage-repair.json",
+      "call": 1,
+      "frame": 2,
+      "layer": "02-jacket-shirt-and-sleeves",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 2,
+        "bounds": {
+          "height": 2,
+          "y": 70,
+          "x": 122,
+          "width": 2
+        },
+        "opsApplied": 2,
+        "frame": 2,
+        "layer": "02-jacket-shirt-and-sleeves"
+      }
+    },
+    {
+      "file": "operations/coverage-repair.json",
+      "call": 2,
+      "frame": 8,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 1,
+        "bounds": {
+          "height": 1,
+          "y": 90,
+          "x": 133,
+          "width": 1
+        },
+        "opsApplied": 1,
+        "frame": 8,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/coverage-repair.json",
+      "call": 3,
+      "frame": 10,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 25,
+        "bounds": {
+          "height": 56,
+          "y": 90,
+          "x": 143,
+          "width": 9
+        },
+        "opsApplied": 25,
+        "frame": 10,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/coverage-repair.json",
+      "call": 4,
+      "frame": 12,
+      "layer": "01-leg-base-and-shoes",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 9,
+        "bounds": {
+          "height": 1,
+          "y": 171,
+          "x": 116,
+          "width": 42
+        },
+        "opsApplied": 9,
+        "frame": 12,
+        "layer": "01-leg-base-and-shoes"
+      }
+    },
+    {
+      "file": "operations/coverage-repair.json",
+      "call": 5,
+      "frame": 12,
+      "layer": "02-jacket-shirt-and-sleeves",
+      "result": {
+        "sprite": "replayed.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 4,
+        "bounds": {
+          "height": 2,
+          "y": 70,
+          "x": 121,
+          "width": 3
+        },
+        "opsApplied": 4,
+        "frame": 12,
+        "layer": "02-jacket-shirt-and-sleeves"
+      }
+    }
+  ],
+  "layer_reorder": {
+    "tool": "layer",
+    "args": {
+      "op": "reorder",
+      "name": "06-continuous-handle-tension",
+      "index": 5
+    }
+  },
+  "tag": {
+    "tool": "tag",
+    "args": {
+      "op": "create",
+      "name": "tote_attack",
+      "from": 1,
+      "to": 13,
+      "direction": "forward"
+    }
+  }
+}

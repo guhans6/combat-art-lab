@@ -1,0 +1,10 @@
+[
+  {
+    "code": "TRANSCRIPT_SOURCE_STT_QUALITY",
+    "message": "STT transcript used as transcript evidence with recorded runtime provenance."
+  },
+  {
+    "code": "TRANSCRIPT_SOURCE_AUTO_CAPTIONS_UNVERIFIED",
+    "message": "Automatic captions were used or preserved as weak unverified transcript evidence."
+  }
+]

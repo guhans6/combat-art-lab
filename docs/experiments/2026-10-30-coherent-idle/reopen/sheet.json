@@ -1,0 +1,101 @@
+{ "frames": [
+   {
+    "filename": "coherent-idle-v02 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 128, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 192 },
+    "sourceSize": { "w": 128, "h": 192 },
+    "duration": 1100
+   },
+   {
+    "filename": "coherent-idle-v02 1.aseprite",
+    "frame": { "x": 128, "y": 0, "w": 128, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 192 },
+    "sourceSize": { "w": 128, "h": 192 },
+    "duration": 180
+   },
+   {
+    "filename": "coherent-idle-v02 2.aseprite",
+    "frame": { "x": 256, "y": 0, "w": 128, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 192 },
+    "sourceSize": { "w": 128, "h": 192 },
+    "duration": 120
+   },
+   {
+    "filename": "coherent-idle-v02 3.aseprite",
+    "frame": { "x": 384, "y": 0, "w": 128, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 192 },
+    "sourceSize": { "w": 128, "h": 192 },
+    "duration": 360
+   },
+   {
+    "filename": "coherent-idle-v02 4.aseprite",
+    "frame": { "x": 512, "y": 0, "w": 128, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 192 },
+    "sourceSize": { "w": 128, "h": 192 },
+    "duration": 220
+   },
+   {
+    "filename": "coherent-idle-v02 5.aseprite",
+    "frame": { "x": 640, "y": 0, "w": 128, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 192 },
+    "sourceSize": { "w": 128, "h": 192 },
+    "duration": 160
+   },
+   {
+    "filename": "coherent-idle-v02 6.aseprite",
+    "frame": { "x": 768, "y": 0, "w": 128, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 192 },
+    "sourceSize": { "w": 128, "h": 192 },
+    "duration": 240
+   },
+   {
+    "filename": "coherent-idle-v02 7.aseprite",
+    "frame": { "x": 896, "y": 0, "w": 128, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 192 },
+    "sourceSize": { "w": 128, "h": 192 },
+    "duration": 1000
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.18.6-dev",
+  "image": "sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 1024, "h": 192 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle-coherent", "from": 0, "to": 7, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "00-shoes", "opacity": 255, "blendMode": "normal" },
+   { "name": "01-denim", "opacity": 255, "blendMode": "normal" },
+   { "name": "02a-jacket-left", "opacity": 255, "blendMode": "normal" },
+   { "name": "02b-jacket-right", "opacity": 255, "blendMode": "normal" },
+   { "name": "03-shirt", "opacity": 255, "blendMode": "normal" },
+   { "name": "04-tote", "opacity": 255, "blendMode": "normal" },
+   { "name": "05-tote-strap", "opacity": 255, "blendMode": "normal" },
+   { "name": "06a-left-hand", "opacity": 255, "blendMode": "normal" },
+   { "name": "06b-right-hand", "opacity": 255, "blendMode": "normal" },
+   { "name": "07-face-and-neck", "opacity": 255, "blendMode": "normal" },
+   { "name": "08-hair-tie-and-hair", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

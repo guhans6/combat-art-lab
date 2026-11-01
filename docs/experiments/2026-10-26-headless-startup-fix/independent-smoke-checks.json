@@ -1,0 +1,155 @@
+{
+  "passed": true,
+  "one_pixel_check": {
+    "passed": true,
+    "failures": [],
+    "canvas": [
+      16,
+      16
+    ],
+    "changed_pixels": 1,
+    "outside_mask_changed_pixels": 0,
+    "outside_mask_examples_xy": [],
+    "changed_bbox_half_open": [
+      2,
+      2,
+      3,
+      3
+    ],
+    "visible_colors_before": 3,
+    "visible_colors_after": 3,
+    "new_visible_rgb_colors": [],
+    "partial_alpha_pixels": 0,
+    "visible_pixels": 9,
+    "silhouette_changed_pixels": 0,
+    "alpha_changed_pixels": 0,
+    "boundary": "PNG checks only; native layers, likeness and user approval are not certified."
+  },
+  "native_protection_check": {
+    "passed": true,
+    "failures": [],
+    "layers": [
+      {
+        "name": "pattern",
+        "changed_pixels": 1,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          16,
+          16
+        ],
+        "after_cel": [
+          0,
+          0,
+          16,
+          16
+        ]
+      },
+      {
+        "name": "protected",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          16,
+          16
+        ],
+        "after_cel": [
+          0,
+          0,
+          16,
+          16
+        ]
+      }
+    ],
+    "frame_metadata_equal": true,
+    "layer_metadata_equal": true,
+    "header_equal": true
+  },
+  "native_reopen_png_equal": true,
+  "transparent_skip_preserves": true,
+  "transparent_default_erases": true,
+  "expected_outside_pixel_rejected": {
+    "passed": false,
+    "failures": [
+      "protected_pixels_changed"
+    ],
+    "canvas": [
+      16,
+      16
+    ],
+    "changed_pixels": 2,
+    "outside_mask_changed_pixels": 1,
+    "outside_mask_examples_xy": [
+      [
+        15,
+        15
+      ]
+    ],
+    "changed_bbox_half_open": [
+      2,
+      2,
+      16,
+      16
+    ],
+    "visible_colors_before": 3,
+    "visible_colors_after": 3,
+    "new_visible_rgb_colors": [],
+    "partial_alpha_pixels": 0,
+    "visible_pixels": 10,
+    "silhouette_changed_pixels": 1,
+    "alpha_changed_pixels": 1,
+    "boundary": "PNG checks only; native layers, likeness and user approval are not certified."
+  },
+  "expected_native_violation_rejected": {
+    "passed": false,
+    "failures": [
+      "header changed",
+      "frames changed",
+      "pattern protected native pixels changed"
+    ],
+    "layers": [
+      {
+        "name": "pattern",
+        "changed_pixels": 2,
+        "protected_changed_pixels": 1,
+        "before_cel": [
+          0,
+          0,
+          16,
+          16
+        ],
+        "after_cel": [
+          0,
+          0,
+          16,
+          16
+        ]
+      },
+      {
+        "name": "protected",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          16,
+          16
+        ],
+        "after_cel": [
+          0,
+          0,
+          16,
+          16
+        ]
+      }
+    ],
+    "frame_metadata_equal": false,
+    "layer_metadata_equal": true,
+    "header_equal": false
+  },
+  "visual_observation": "MCP preview bytes were inspected by current model: red L open to right, green branch to right, isolated blue at (12,4); edited top pixel green; reopened image matches; erased top pixel absent.",
+  "scope": "Scratch swatches only. No reference image, prior character asset or drawing operations were opened or used."
+}

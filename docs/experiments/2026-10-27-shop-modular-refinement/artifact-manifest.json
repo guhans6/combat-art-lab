@@ -1,0 +1,290 @@
+[
+  {
+    "path": "assets/source/shop-modular-v01/README.md",
+    "sha256": "8772d923ccc090525eb2295de9908fd4cdbde222366e8a66c13f82f6ba3302ff"
+  },
+  {
+    "path": "assets/source/shop-modular-v01/construction-final-rle.json",
+    "sha256": "f62fa57640f13576fe1e17324b0fa88d5dddabaeb247b69df1d6acbbf95a74b0"
+  },
+  {
+    "path": "assets/source/shop-modular-v01/construction-rle.json",
+    "sha256": "92864f11fe687178fc004327ee8f233abaad92f456d28587fc789cb55b1e2435"
+  },
+  {
+    "path": "assets/source/shop-modular-v01/context-residual.aseprite",
+    "sha256": "89d82f0cc9793c61b4860bc7a556318717019a6dbacca87c6848e5ecf1a2337e"
+  },
+  {
+    "path": "assets/source/shop-modular-v01/shop-lamp-edit.aseprite",
+    "sha256": "181263133d67da6d19b98f1aa1913ee2c919a79881c028093d999ab98251b56a"
+  },
+  {
+    "path": "assets/source/shop-modular-v01/shop-pass01.aseprite",
+    "sha256": "d3a292d9ba3257d0a8a8695b8688eb32e8a7d6f41503eac170fd9e0db3b12ebc"
+  },
+  {
+    "path": "assets/source/shop-modular-v01/shop.aseprite",
+    "sha256": "146da1483ac1822d31dc77a4e60a0ca5802d6ec04fc2675fc53162c8e4867388"
+  },
+  {
+    "path": "assets/source/shop-modular-v01/small-planter-final-operation.json",
+    "sha256": "491900b39ddffcc049f77302f688050c34992a434dd9b9bc2caf25aced4c8f80"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/00-wall-backing.json",
+    "sha256": "20be7cd135bb286eba3318aa35d69e76c2b9f7b64722a5a084b6b0c7425df7db"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/00-wall-backing.png",
+    "sha256": "b65ba47706145027a7af4184d2b988feaeace7a9ba27423c57aad0470524ccd6"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/01-window-backing.json",
+    "sha256": "4724b9ff1238f36f39e5338c134a55dd39836db9178bf22fca1ab814b217ad1f"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/01-window-backing.png",
+    "sha256": "01eed28b4b81f9b89b5a3d0bb58370cad497225bd74eda17c4969842f0206e14"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/02-window-interior-left.json",
+    "sha256": "2abb677c34864b43ce1ce87ea725f615f966595c42fd295c89b540c1c12ed212"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/02-window-interior-left.png",
+    "sha256": "a0b66a578ab87bc8e2622ae2089ba640effaf6cdbd4b7023fd53f6d14a6cb5f1"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/03-window-interior-right.json",
+    "sha256": "7682f78901b21e428346cc1750ff10f0a2bc24c3c61050d8353adfcd64b11bb1"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/03-window-interior-right.png",
+    "sha256": "6521bbd6137dcb6b88a3ddd59ca0faa97bb705dfc3b08b7f8045317f37c2f557"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/04-timber-frame.json",
+    "sha256": "bdb2a6a72f7a340e1aaecccfff335ac320cff011efd82f85f1a198267e1387ee"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/04-timber-frame.png",
+    "sha256": "fb873a7b5ed62c9fcdd8e9b1f84ee21b5d0b7d485e1353aafdfb20c2d1d21cf4"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/05-blue-awning.json",
+    "sha256": "e5ae93e9fbc568e493044a00402e9806aee42dcf708ff5f31f0fc80aad4862ac"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/05-blue-awning.png",
+    "sha256": "c15bce5c9b21557dcbef989fb80dd08760e83f5f088ab362c53049a7f6941008"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/06-entry-steps.json",
+    "sha256": "fa3dc2a08fe93cc2d7850822a12c6cb03814757e7c1c4e41760b887a0b5f0253"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/06-entry-steps.png",
+    "sha256": "ab140bba126ba46bc51f99c35d108f0be541adbbd975ac956dd8ef82f936df2e"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/07-chalkboard.json",
+    "sha256": "1d75e2c9f0a1eb34c5f99f4d5036fde0cafe227a5655978d81e9ecc453d59311"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/07-chalkboard.png",
+    "sha256": "1dbb4b8523eb2f5d3cbfb55bd3b74f0c2b2ab946e3610132bfc2386bc57a3a8e"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/08-large-planter.json",
+    "sha256": "625d777c1a2a546ead6ae835086866b7085d45cad4e2067cccb467d5a2a58bb1"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/08-large-planter.png",
+    "sha256": "84f640aa1abc6c9e9dbef31178738f5ed0a2e666b9d1640e1ac57f6100344dd8"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/09-small-planter.json",
+    "sha256": "5519d307345bcafdf7b860aed1359af427d010b72325104cfbdcee713a92740e"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/09-small-planter.png",
+    "sha256": "36fc59738cce6bfa99616e97b444a39d4ad2ac45bbe3ee792a55a6d3da9cd72e"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/10-pendant-left-shell.json",
+    "sha256": "cc10bc66181c38cb1a59f4655681047e2cfbaf1e470845dbf2714282e648686f"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/10-pendant-left-shell.png",
+    "sha256": "69cb0e153c7cdd77de58a7ec8bd6ff871194888b50856fbbec535c9267825b36"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/11-pendant-right-shell.json",
+    "sha256": "96291b0d77ce6b916c708c28770e57cf6ca9001ad6bcb6d80624433c9de7742d"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/11-pendant-right-shell.png",
+    "sha256": "020ff46026c3dd40b08278151eafa8b433ebf4cb2f91209605424d3b0e13f95e"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/12-ceiling-left-emitter.json",
+    "sha256": "1df120339a14fdf67034cf598dd1e30d57aa970919655c4742e7201f238105ea"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/12-ceiling-left-emitter.png",
+    "sha256": "28ae015369a5f431fd794349998a63bc6f60389c0e19abd18aafa6518d4aa301"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/13-ceiling-right-emitter.json",
+    "sha256": "802a3a09049c24e9ec8a69f791a35d7a81c68e384e844000509566db0d7cfce0"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/13-ceiling-right-emitter.png",
+    "sha256": "933ecbc88ae0e967351709b21bdab76b9720b8605894d4c02fec8279c0e7c1f3"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/14-pendant-left-emitter.json",
+    "sha256": "4799adc16fc74c813c246e33e00bf83a7fd6644e86a0ac86f4e89a2c78ec891d"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/14-pendant-left-emitter.png",
+    "sha256": "0194399e131ffa781ccd96e483ffdc9d0909fcb822f7db75e11f672e7b773616"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/15-pendant-right-emitter.json",
+    "sha256": "2241ddb93042cfeba25b6718c7427b0982c12c4197955f474b2e6ca498f5cd11"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/15-pendant-right-emitter.png",
+    "sha256": "b4e2c1ba44254ca59c1b247961ae3d314a1eead4be3c9c9090a4946e8d39ec3e"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/context-residual.png",
+    "sha256": "f440e8ec1339997dab10d78c31f3ddd994edcecd3ba5189783c1b45265924bbb"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/parts-layout.json",
+    "sha256": "91f266df2905960f9fd47a21b99b0dcd7d69283df94cccf2cffdca113fc6060b"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/shop-reopened.png",
+    "sha256": "ea7374143aeb83bdcb98ed58f881abe27a7c2b80ca3e0711b3ca1ac9a676053a"
+  },
+  {
+    "path": "assets/export/shop-modular-v01/shop.png",
+    "sha256": "ea7374143aeb83bdcb98ed58f881abe27a7c2b80ca3e0711b3ca1ac9a676053a"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/README.md",
+    "sha256": "a7a5b3750647c7e67f7258e1581b8efdc8f0697853d88e7262fc1f09d3278f03"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/ceiling-left.tscn",
+    "sha256": "77f4983f92148dd5e431fd09774aeb02a34287a6e1bb62ff51ac9ddd9602f349"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/ceiling-right.tscn",
+    "sha256": "df64c2395f8a4f2635afc3f699afec0f57f905ac01d437df612a4fa4c2c11944"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/chalkboard.tscn",
+    "sha256": "a820fa51ba9eb12c3c715d36c3d4cf6ad2190b06148d3507457138253fdad416"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/large-planter.tscn",
+    "sha256": "f611ccb316ea2438eced59e9700fcf26281a55c58774e00fbe1c26f77416cbfe"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/part_sprite.gd",
+    "sha256": "a41c48df9f402c2bb613ebe563d4c322ca9803886ec19e006b12ce4f458fe199"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/pendant-left.tscn",
+    "sha256": "55b896ace33c0b7d62600eb67353970ab0ef7197287d5363982d58cea07d192b"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/pendant-right.tscn",
+    "sha256": "f017b72e7049d32ce52bff176adf47cf267c36dde5663e313eaa1fd4d04f137a"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/shop.gd",
+    "sha256": "21556e8128fc567d6f7f93e9680992cb326a5a27ace56be509b9eeb3be24dc97"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/shop.tscn",
+    "sha256": "697483b51a239a0cf3078476aa6f233cdfa901e373904be6bf3db7abb4871736"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/small-planter.tscn",
+    "sha256": "98a12d3527790fde1ac80975143342d9ed1e371b6087f353e131c038548c2cb3"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/textures/00-wall-backing.png",
+    "sha256": "b65ba47706145027a7af4184d2b988feaeace7a9ba27423c57aad0470524ccd6"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/textures/01-window-backing.png",
+    "sha256": "01eed28b4b81f9b89b5a3d0bb58370cad497225bd74eda17c4969842f0206e14"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/textures/02-window-interior-left.png",
+    "sha256": "a0b66a578ab87bc8e2622ae2089ba640effaf6cdbd4b7023fd53f6d14a6cb5f1"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/textures/03-window-interior-right.png",
+    "sha256": "6521bbd6137dcb6b88a3ddd59ca0faa97bb705dfc3b08b7f8045317f37c2f557"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/textures/04-timber-frame.png",
+    "sha256": "fb873a7b5ed62c9fcdd8e9b1f84ee21b5d0b7d485e1353aafdfb20c2d1d21cf4"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/textures/05-blue-awning.png",
+    "sha256": "c15bce5c9b21557dcbef989fb80dd08760e83f5f088ab362c53049a7f6941008"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/textures/06-entry-steps.png",
+    "sha256": "ab140bba126ba46bc51f99c35d108f0be541adbbd975ac956dd8ef82f936df2e"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/textures/07-chalkboard.png",
+    "sha256": "1dbb4b8523eb2f5d3cbfb55bd3b74f0c2b2ab946e3610132bfc2386bc57a3a8e"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/textures/08-large-planter.png",
+    "sha256": "84f640aa1abc6c9e9dbef31178738f5ed0a2e666b9d1640e1ac57f6100344dd8"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/textures/09-small-planter.png",
+    "sha256": "36fc59738cce6bfa99616e97b444a39d4ad2ac45bbe3ee792a55a6d3da9cd72e"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/textures/10-pendant-left-shell.png",
+    "sha256": "69cb0e153c7cdd77de58a7ec8bd6ff871194888b50856fbbec535c9267825b36"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/textures/11-pendant-right-shell.png",
+    "sha256": "020ff46026c3dd40b08278151eafa8b433ebf4cb2f91209605424d3b0e13f95e"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/textures/12-ceiling-left-emitter.png",
+    "sha256": "28ae015369a5f431fd794349998a63bc6f60389c0e19abd18aafa6518d4aa301"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/textures/13-ceiling-right-emitter.png",
+    "sha256": "933ecbc88ae0e967351709b21bdab76b9720b8605894d4c02fec8279c0e7c1f3"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/textures/14-pendant-left-emitter.png",
+    "sha256": "0194399e131ffa781ccd96e483ffdc9d0909fcb822f7db75e11f672e7b773616"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/textures/15-pendant-right-emitter.png",
+    "sha256": "b4e2c1ba44254ca59c1b247961ae3d314a1eead4be3c9c9090a4946e8d39ec3e"
+  },
+  {
+    "path": "godot/standing-idle-lab/shop/textures/context-residual.png",
+    "sha256": "f440e8ec1339997dab10d78c31f3ddd994edcecd3ba5189783c1b45265924bbb"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "docs/experiments/2026-10-27-standing-idle-godot/standing-idle.aseprite": {
+    "unchanged": true,
+    "intentionallyUpdated": false
+  },
+  "docs/experiments/2026-10-27-standing-idle-godot/standing-cleaned.aseprite": {
+    "unchanged": true,
+    "intentionallyUpdated": false
+  },
+  "assets/source/shop-modular-v01/shop.aseprite": {
+    "unchanged": true,
+    "intentionallyUpdated": false
+  },
+  "godot/standing-idle-lab/preview.gd": {
+    "unchanged": false,
+    "intentionallyUpdated": true
+  },
+  "godot/standing-idle-lab/textures/idle-layout.json": {
+    "unchanged": false,
+    "intentionallyUpdated": true
+  }
+}

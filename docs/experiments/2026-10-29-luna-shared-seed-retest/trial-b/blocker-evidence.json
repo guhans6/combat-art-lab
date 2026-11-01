@@ -1,0 +1,121 @@
+{
+  "status": "blocked_before_art",
+  "date": "2026-10-29",
+  "tool": "aseprite-ai-artist MCP",
+  "version": {
+    "aseprite": "1.3.18.6-dev",
+    "extension": "0.8.2",
+    "mode": "headless",
+    "preflight_ready": true,
+    "preflight_switched": false,
+    "features": ["draw_batch", "recolor", "validate", "tileset", "reference", "filmstrip"]
+  },
+  "scratch": {
+    "id": "#3",
+    "created_by_this_trial": true,
+    "dimensions": [16, 16],
+    "color_mode": "rgb",
+    "initial_layers": ["Layer 1"],
+    "final_modified": false,
+    "final_layer_count": 1,
+    "final_preview": {
+      "operation": "look preview",
+      "returned_text": "Sprite — 16×16 shown at 64×. For exact pixel values use op 'ascii'.",
+      "displayed_result": "blank canvas",
+      "image_dimensions": [1024, 1024]
+    },
+    "closed_without_force": true,
+    "saved_to_disk": false
+  },
+  "tool_schemas_confirmed_from_authorized_descriptors": {
+    "layer": {
+      "supported_ops": ["list", "create", "rename", "delete", "reorder", "set", "group", "ungroup", "merge", "duplicate", "activate"],
+      "create_arguments": {"op": "create", "name": "<layer-name>", "sprite": "#3"},
+      "rename_arguments": {"op": "rename", "name": "<existing-name>", "newName": "<new-name>", "sprite": "#3"}
+    },
+    "draw": {
+      "supported_ops": ["pixels", "line", "polyline", "rect", "ellipse", "fill", "replace", "dither", "gradient", "clear", "blit", "text", "grid"],
+      "required_arguments": ["ops"],
+      "relevant_arguments": ["frame", "label", "layer", "paletteLock", "sprite"]
+    }
+  },
+  "calls": [
+    {
+      "tool": "preflight",
+      "arguments": {},
+      "result": {"ready": true, "mode": "headless", "switched": false, "asepriteVersion": "1.3.18.6-dev", "extensionVersion": "0.8.2", "activeSprite": null}
+    },
+    {
+      "tool": "sprite_manage",
+      "arguments": {"op": "new", "width": 16, "height": 16, "colorMode": "rgb"},
+      "result": {"id": 3, "width": 16, "height": 16}
+    },
+    {
+      "tool": "layer",
+      "arguments": {"sprite": "#3", "batch": [{"op": "rename", "name": "Layer 1", "newName": "protected-pattern"}, {"op": "create", "name": "editable-layer"}]},
+      "result": {"isError": true, "code": "aseprite_error", "message": "function: 0xb0cd78be0"}
+    },
+    {
+      "tool": "layer",
+      "arguments": {"sprite": "#3", "op": "rename", "name": "Layer 1", "newName": "protected-pattern"},
+      "result": {"isError": true, "code": "aseprite_error", "message": "function: 0xb0cd78aa0"}
+    },
+    {
+      "tool": "layer",
+      "arguments": {"sprite": "#3", "op": "list"},
+      "result": {"success": true, "layers": ["Layer 1"]}
+    },
+    {
+      "tool": "layer",
+      "arguments": {"sprite": "#3", "op": "create", "name": "scratch-editable"},
+      "result": {"isError": true, "code": "aseprite_error", "message": "function: 0xb0cd78960"}
+    },
+    {
+      "tool": "draw",
+      "arguments": {
+        "sprite": "#3",
+        "frame": 1,
+        "layer": "Layer 1",
+        "label": "smoke test: asymmetric pattern and isolated pixel",
+        "paletteLock": false,
+        "ops": [{"kind": "grid", "x": 1, "y": 1, "legend": {"R": "#ff0000", "G": "#00ff00", "B": "#0000ff"}, "rows": ["RR......", "RRG.....", "RR......", "........", "........", "........", "........", ".......B"]}]
+      },
+      "result": {"isError": true, "code": "aseprite_error", "message": "function: 0xb0cd70700"}
+    },
+    {
+      "tool": "look",
+      "arguments": {"sprite": "#3", "op": "preview", "frame": 1},
+      "result": {"success": true, "width": 16, "height": 16, "scale": 64, "image_displayed_blank": true}
+    },
+    {
+      "tool": "sprite_info",
+      "arguments": {"sprite": "#3"},
+      "result": {"modified": false, "frameCount": 1, "layers": ["Layer 1"]}
+    },
+    {
+      "tool": "draw",
+      "arguments": {
+        "sprite": "#3",
+        "frame": 1,
+        "layer": "Layer 1",
+        "label": "smoke test: filled red rectangle",
+        "paletteLock": false,
+        "ops": [{"kind": "rect", "rect": {"x": 2, "y": 2, "width": 3, "height": 3}, "color": "#ff0000", "fill": "#ff0000"}]
+      },
+      "result": {"isError": true, "code": "aseprite_error", "message": "function: 0xb0cd701c0"}
+    },
+    {
+      "tool": "sprite_manage",
+      "arguments": {"op": "close", "sprite": "#3"},
+      "result": {"id": 3, "closed": true}
+    }
+  ],
+  "scope_safety": {
+    "only_scratch_created_in_this_trial_used_for_write_probes": true,
+    "shared_fixture_opened_in_editor": false,
+    "mode_change_requested_or_performed": false,
+    "cli_or_ui_fallback_used": false,
+    "native_or_png_file_written_by_non_mcp_tool": false,
+    "artistic_export_count": 0
+  }
+}

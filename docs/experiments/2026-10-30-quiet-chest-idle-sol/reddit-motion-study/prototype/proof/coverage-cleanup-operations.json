@@ -1,0 +1,84 @@
+[
+  {
+    "frame": 3,
+    "layer": "02a-jacket-left",
+    "paletteLock": false,
+    "ops": [
+      {
+        "kind": "pixels",
+        "color": "#6a613cff",
+        "points": [
+          {
+            "x": 47,
+            "y": 66
+          },
+          {
+            "x": 48,
+            "y": 66
+          }
+        ]
+      },
+      {
+        "kind": "pixels",
+        "color": "#a58266ff",
+        "points": [
+          {
+            "x": 49,
+            "y": 66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "frame": 3,
+    "layer": "02b-jacket-right",
+    "paletteLock": false,
+    "ops": [
+      {
+        "kind": "pixels",
+        "color": "#665e3aff",
+        "points": [
+          {
+            "x": 70,
+            "y": 65
+          }
+        ]
+      },
+      {
+        "kind": "pixels",
+        "color": "#6a613cff",
+        "points": [
+          {
+            "x": 71,
+            "y": 65
+          },
+          {
+            "x": 72,
+            "y": 65
+          }
+        ]
+      },
+      {
+        "kind": "pixels",
+        "color": "#4b4732ff",
+        "points": [
+          {
+            "x": 73,
+            "y": 65
+          }
+        ]
+      },
+      {
+        "kind": "pixels",
+        "color": "#423e30ff",
+        "points": [
+          {
+            "x": 74,
+            "y": 65
+          }
+        ]
+      }
+    ]
+  }
+]

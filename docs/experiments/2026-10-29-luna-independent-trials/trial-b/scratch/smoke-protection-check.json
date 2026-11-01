@@ -1,0 +1,27 @@
+{
+  "accepted": false,
+  "reason": "changed pixels outside the allowed mask",
+  "size": [
+    16,
+    16
+  ],
+  "allowed_pixels": [
+    [
+      5,
+      4
+    ]
+  ],
+  "changed_pixels": [
+    [
+      8,
+      10
+    ]
+  ],
+  "changed_count": 1,
+  "outside_allowed": [
+    [
+      8,
+      10
+    ]
+  ]
+}
