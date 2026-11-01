@@ -2,6 +2,14 @@
 
 The tote character is on hold. The production workflow is unchanged.
 
+## Stage 0 — character design before asset preparation
+
+Start with the [character-design-director skill](../tools/character-design-director/SKILL.md), its [interview tree](../tools/character-design-director/references/interview.md), the [design research](research/character-design-foundations.md), and the [character brief template](art/character-brief-template.md). Use /grill-me or /grill-with-docs to extract the human director's intent and review visual game references. Do not select an outfit, appearance, palette, canvas or generated character by guessing.
+
+Generate controlled concept variations **only after** the human agrees to the comparison scope. Compare different proportions/rendering choices at matched display height and framing; separate silhouette, style and color passes. Lock a specific full-body identity image after selection, then check a small pose set before asking the production pipeline to construct frames. Log approval, rejects, prompt/attachment provenance and unresolved facts per character. This stage does not alter the converter or the existing native/animation verification gates.
+
+## Stage 1 — approved input to native assets
+
 1. Place new design references under `assets/incoming/`, in their own named folder.
 2. Record which image is authoritative, choose the native scale/canvas and palette
    policy for that design, and check one pose before expanding it. Old183px values

@@ -8,6 +8,9 @@ The first result is a small, inspectable proof of the art pipeline. It is not a 
 
 ## Accepted direction
 
+For a **brand-new character**, begin with [character-design-director](../../tools/character-design-director/SKILL.md) and the [character brief template](../art/character-brief-template.md) before the first concept generation. Its grill-style interview, annotated game references, controlled silhouette/style/color rounds, comparable displayed size and explicit identity lock implement the visual-target milestone below. Once the human selects an identity, continue with the existing feasibility/native/animation/Godot gates; this addition does not change production proof criteria.
+
+
 1. Explore the visual direction with reference analysis and concept images.
 2. Assess reference feasibility and compare representative native scales where fidelity is uncertain, then write explicit visual and motion rules.
 3. Have AI construct editable assets through the chosen editor, scripts, drawing operations, layers, or a rig.

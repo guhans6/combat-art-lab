@@ -6,6 +6,15 @@ The tote character is set aside as an archived case study; it is not the design
 for the next asset. Existing production methods, tool permissions, native-source
 requirements and ADRs are unchanged. No new design, resolution or palette selected.
 
+The repeatable new-character intake is now documented in
+[character-design-director](../tools/character-design-director/SKILL.md), with
+[design foundations](research/character-design-foundations.md) and a
+[brief template](art/character-brief-template.md). It requires an explicit human
+design interview, annotated visual references, controlled concept comparison,
+and selection before the existing native asset pipeline. This is workflow
+scaffolding only; there is still no approved new character or generated image.
+
+
 Important old assets: [catalog](../assets/CHARACTER-ARCHIVE.md). Reusable conversion:
 `learning/aseprite/automation/convert_image.py`. Lessons: `learning/aseprite/index.html`.
 Historical notes below describe earlier work and do not select the next character.

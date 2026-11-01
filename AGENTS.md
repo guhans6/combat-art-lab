@@ -16,6 +16,9 @@ Keep approved decisions, provisional proposals, and unresolved questions distinc
 
 ## Art and motion work
 
+**New-character discovery gate:** Before generating a new character, invoke [character-design-director](tools/character-design-director/SKILL.md) through its local `.agents/skills` entry, use /grill-me to extract the human's creative decisions, and preserve the approved brief/reference hierarchy and named concept variations. Do not inherit the archived tote character's size, costume, palette, style guide or pose as defaults. Keep concept exploration and approvals separate from [pixel-art-director](tools/pixel-art-director/SKILL.md) native construction and animation.
+
+
 Before generating or constructing assets, read [docs/workflow/art-production.md](docs/workflow/art-production.md), the [style guide](docs/art/style-guide.md), [motion guide](docs/art/motion-guide.md), and [asset contract](docs/art/asset-contract.md).
 
 - Preserve an approved candidate and its defining rules before developing dependent assets. Keep variants separate.
