@@ -1,0 +1,1388 @@
+{
+  "format": "two-routes-independent-native-check/v1",
+  "failures": [],
+  "manual_canvas": {
+    "passed": true,
+    "detail": [
+      128,
+      128
+    ]
+  },
+  "manual_frame_count": {
+    "passed": true,
+    "detail": 6
+  },
+  "manual_timing": {
+    "passed": true,
+    "detail": [
+      600,
+      250,
+      250,
+      350,
+      150,
+      400
+    ]
+  },
+  "automatic_canvas": {
+    "passed": true,
+    "detail": [
+      128,
+      128
+    ]
+  },
+  "automatic_frame_count": {
+    "passed": true,
+    "detail": 6
+  },
+  "automatic_timing": {
+    "passed": true,
+    "detail": [
+      600,
+      250,
+      250,
+      350,
+      150,
+      400
+    ]
+  },
+  "local_revision_proof_canvas": {
+    "passed": true,
+    "detail": [
+      128,
+      128
+    ]
+  },
+  "local_revision_proof_frame_count": {
+    "passed": true,
+    "detail": 6
+  },
+  "local_revision_proof_timing": {
+    "passed": true,
+    "detail": [
+      600,
+      250,
+      250,
+      350,
+      150,
+      400
+    ]
+  },
+  "manual_layer_contract": {
+    "passed": true,
+    "detail": [
+      {
+        "name": "Guide - hide before export",
+        "flags": 1,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 77
+      },
+      {
+        "name": "Base colors",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "Shadows",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "Lines and details",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      }
+    ]
+  },
+  "automatic_layer_contract": {
+    "passed": true,
+    "detail": [
+      {
+        "name": "Guide - hide before export",
+        "flags": 0,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 77
+      },
+      {
+        "name": "Automatic draft",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "Corrections",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      }
+    ]
+  },
+  "manual_guide_contract": {
+    "passed": true,
+    "detail": {
+      "name": "Guide - hide before export",
+      "flags": 1,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 77
+    }
+  },
+  "manual_art_layers_empty": {
+    "passed": true,
+    "detail": "Base colors, Shadows, Lines and details have no painted pixels"
+  },
+  "automatic_guide_contract": {
+    "passed": true,
+    "detail": {
+      "name": "Guide - hide before export",
+      "flags": 0,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 77
+    }
+  },
+  "automatic_draft_visible_cels": {
+    "passed": true,
+    "detail": {
+      "name": "Automatic draft",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    }
+  },
+  "automatic_corrections_blank": {
+    "passed": true,
+    "detail": "Corrections layer has no painted pixels"
+  },
+  "manual_shared_32_color_palette": {
+    "passed": true,
+    "detail": {
+      "count": 32,
+      "sha256": "6e3907e7709fe056675d356884efee64b4563b570d11e486af22a21b1dcc920b"
+    }
+  },
+  "automatic_shared_32_color_palette": {
+    "passed": true,
+    "detail": {
+      "count": 32,
+      "sha256": "6e3907e7709fe056675d356884efee64b4563b570d11e486af22a21b1dcc920b"
+    }
+  },
+  "local_revision_proof_shared_32_color_palette": {
+    "passed": true,
+    "detail": {
+      "count": 32,
+      "sha256": "6e3907e7709fe056675d356884efee64b4563b570d11e486af22a21b1dcc920b"
+    }
+  },
+  "first_keys_manual_canvas": {
+    "passed": true,
+    "detail": [
+      128,
+      128
+    ]
+  },
+  "first_keys_manual_frame_count": {
+    "passed": true,
+    "detail": 3
+  },
+  "first_keys_manual_timing": {
+    "passed": true,
+    "detail": [
+      600,
+      350,
+      150
+    ]
+  },
+  "first_keys_manual_palette_matches_six_key_source": {
+    "passed": true,
+    "detail": [
+      {
+        "frame": 0,
+        "sha256": "6e3907e7709fe056675d356884efee64b4563b570d11e486af22a21b1dcc920b",
+        "size": 32,
+        "first_index": 0,
+        "last_index": 31
+      }
+    ]
+  },
+  "first_keys_manual_pose_study_tag": {
+    "passed": true,
+    "detail": [
+      {
+        "from": 0,
+        "to": 2,
+        "direction": 0,
+        "repeat": 0,
+        "name": "pose-study"
+      }
+    ]
+  },
+  "first_keys_automatic_canvas": {
+    "passed": true,
+    "detail": [
+      128,
+      128
+    ]
+  },
+  "first_keys_automatic_frame_count": {
+    "passed": true,
+    "detail": 3
+  },
+  "first_keys_automatic_timing": {
+    "passed": true,
+    "detail": [
+      600,
+      350,
+      150
+    ]
+  },
+  "first_keys_automatic_palette_matches_six_key_source": {
+    "passed": true,
+    "detail": [
+      {
+        "frame": 0,
+        "sha256": "6e3907e7709fe056675d356884efee64b4563b570d11e486af22a21b1dcc920b",
+        "size": 32,
+        "first_index": 0,
+        "last_index": 31
+      }
+    ]
+  },
+  "first_keys_automatic_pose_study_tag": {
+    "passed": true,
+    "detail": [
+      {
+        "from": 0,
+        "to": 2,
+        "direction": 0,
+        "repeat": 0,
+        "name": "pose-study"
+      }
+    ]
+  },
+  "first_keys_manual_layers_match": {
+    "passed": true,
+    "detail": [
+      {
+        "name": "Guide - hide before export",
+        "flags": 1,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 77
+      },
+      {
+        "name": "Base colors",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "Shadows",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "Lines and details",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      }
+    ]
+  },
+  "first_keys_automatic_layers_match": {
+    "passed": true,
+    "detail": [
+      {
+        "name": "Guide - hide before export",
+        "flags": 0,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 77
+      },
+      {
+        "name": "Automatic draft",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "Corrections",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      }
+    ]
+  },
+  "first_keys_manual_art_layers_blank": {
+    "passed": true,
+    "detail": "three art layers have no painted pixels"
+  },
+  "first_keys_layer_pixels_match_six_key_frames_1_4_5": {
+    "passed": true,
+    "detail": [
+      {
+        "manual_guide": true,
+        "automatic_guide": true,
+        "automatic_draft": true
+      },
+      {
+        "manual_guide": true,
+        "automatic_guide": true,
+        "automatic_draft": true
+      },
+      {
+        "manual_guide": true,
+        "automatic_guide": true,
+        "automatic_draft": true
+      }
+    ]
+  },
+  "first_keys_gif_dimensions": {
+    "passed": true,
+    "detail": [
+      384,
+      384
+    ]
+  },
+  "first_keys_gif_frame_count": {
+    "passed": true,
+    "detail": 3
+  },
+  "first_keys_gif_timing": {
+    "passed": true,
+    "detail": [
+      600,
+      350,
+      150
+    ]
+  },
+  "first_keys_gif_opaque_pixels_match_selected_exports_3x": {
+    "passed": true,
+    "detail": [
+      true,
+      true,
+      true
+    ]
+  },
+  "pose_01_payload_native_export": {
+    "passed": true,
+    "detail": {
+      "payload_rgba_sha256": "830e774da6d7cd6710097469af8635b096c7646f9d59099df57fbd7f7be80469",
+      "native_composite_rgba_sha256": "830e774da6d7cd6710097469af8635b096c7646f9d59099df57fbd7f7be80469",
+      "export_rgba_sha256": "830e774da6d7cd6710097469af8635b096c7646f9d59099df57fbd7f7be80469",
+      "manifest_rgba_sha256": "830e774da6d7cd6710097469af8635b096c7646f9d59099df57fbd7f7be80469"
+    }
+  },
+  "pose_02_payload_native_export": {
+    "passed": true,
+    "detail": {
+      "payload_rgba_sha256": "c433e86b5af291063f5980bc03f12de69db5a49d42109d058ec6fcd98ed93b56",
+      "native_composite_rgba_sha256": "c433e86b5af291063f5980bc03f12de69db5a49d42109d058ec6fcd98ed93b56",
+      "export_rgba_sha256": "c433e86b5af291063f5980bc03f12de69db5a49d42109d058ec6fcd98ed93b56",
+      "manifest_rgba_sha256": "c433e86b5af291063f5980bc03f12de69db5a49d42109d058ec6fcd98ed93b56"
+    }
+  },
+  "pose_03_payload_native_export": {
+    "passed": true,
+    "detail": {
+      "payload_rgba_sha256": "a322be5e896440474a060758bf05ce3b9c9d9ede669ac870e32fabc281e08248",
+      "native_composite_rgba_sha256": "a322be5e896440474a060758bf05ce3b9c9d9ede669ac870e32fabc281e08248",
+      "export_rgba_sha256": "a322be5e896440474a060758bf05ce3b9c9d9ede669ac870e32fabc281e08248",
+      "manifest_rgba_sha256": "a322be5e896440474a060758bf05ce3b9c9d9ede669ac870e32fabc281e08248"
+    }
+  },
+  "pose_04_payload_native_export": {
+    "passed": true,
+    "detail": {
+      "payload_rgba_sha256": "de8d8b66dedfab2b2a2e8186c3b8b89ee0f8a98e01cf2c418cf0844f776c28a8",
+      "native_composite_rgba_sha256": "de8d8b66dedfab2b2a2e8186c3b8b89ee0f8a98e01cf2c418cf0844f776c28a8",
+      "export_rgba_sha256": "de8d8b66dedfab2b2a2e8186c3b8b89ee0f8a98e01cf2c418cf0844f776c28a8",
+      "manifest_rgba_sha256": "de8d8b66dedfab2b2a2e8186c3b8b89ee0f8a98e01cf2c418cf0844f776c28a8"
+    }
+  },
+  "pose_05_payload_native_export": {
+    "passed": true,
+    "detail": {
+      "payload_rgba_sha256": "3c03fd20809d850030bdb0c280511889ed35492a8a5f5f8c330656340310a832",
+      "native_composite_rgba_sha256": "3c03fd20809d850030bdb0c280511889ed35492a8a5f5f8c330656340310a832",
+      "export_rgba_sha256": "3c03fd20809d850030bdb0c280511889ed35492a8a5f5f8c330656340310a832",
+      "manifest_rgba_sha256": "3c03fd20809d850030bdb0c280511889ed35492a8a5f5f8c330656340310a832"
+    }
+  },
+  "pose_06_payload_native_export": {
+    "passed": true,
+    "detail": {
+      "payload_rgba_sha256": "7f595f2678040eff9879821ffad9c20fac543e89a71f24d78ef14d6aa7f97c0a",
+      "native_composite_rgba_sha256": "7f595f2678040eff9879821ffad9c20fac543e89a71f24d78ef14d6aa7f97c0a",
+      "export_rgba_sha256": "7f595f2678040eff9879821ffad9c20fac543e89a71f24d78ef14d6aa7f97c0a",
+      "manifest_rgba_sha256": "7f595f2678040eff9879821ffad9c20fac543e89a71f24d78ef14d6aa7f97c0a"
+    }
+  },
+  "all_exports_match_payloads": {
+    "passed": true,
+    "detail": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "native_export_visible_heights": {
+    "passed": true,
+    "detail": {
+      "heights": [
+        92,
+        96,
+        94,
+        95,
+        97,
+        96
+      ],
+      "range": [
+        92,
+        97
+      ]
+    }
+  },
+  "input_pose-01.png_hash": {
+    "passed": true,
+    "detail": {
+      "actual": "815189b52704bce65416011e4d2aa411c8a58cd52e0e615e621829dae2e8a129",
+      "manifest": "815189b52704bce65416011e4d2aa411c8a58cd52e0e615e621829dae2e8a129"
+    }
+  },
+  "input_pose-02.png_hash": {
+    "passed": true,
+    "detail": {
+      "actual": "7506d17fcfa421451fdd118977359c75615db5d3ee79343fe3842706f3a280ec",
+      "manifest": "7506d17fcfa421451fdd118977359c75615db5d3ee79343fe3842706f3a280ec"
+    }
+  },
+  "input_pose-03.png_hash": {
+    "passed": true,
+    "detail": {
+      "actual": "836d958e555b3b2beaec82c30f22a2600c831b6bb023b1d7f1022c83bf6e50c5",
+      "manifest": "836d958e555b3b2beaec82c30f22a2600c831b6bb023b1d7f1022c83bf6e50c5"
+    }
+  },
+  "input_pose-04.png_hash": {
+    "passed": true,
+    "detail": {
+      "actual": "5e0cd8d96455a2397be21dd8f8583fd4ef0b73acd9fcbe57c591bde40f6c5e86",
+      "manifest": "5e0cd8d96455a2397be21dd8f8583fd4ef0b73acd9fcbe57c591bde40f6c5e86"
+    }
+  },
+  "input_pose-05.png_hash": {
+    "passed": true,
+    "detail": {
+      "actual": "0504733c8c87e44cde5098d1b7d71ac30cdb258265433ded1a2c6694398c4d51",
+      "manifest": "0504733c8c87e44cde5098d1b7d71ac30cdb258265433ded1a2c6694398c4d51"
+    }
+  },
+  "input_pose-06.png_hash": {
+    "passed": true,
+    "detail": {
+      "actual": "ca9aaea197c48dbc44919c5cc460a802da78671fd5df2f5df1505ddbdac2734b",
+      "manifest": "ca9aaea197c48dbc44919c5cc460a802da78671fd5df2f5df1505ddbdac2734b"
+    }
+  },
+  "manual_auto_guides_match_per_frame": {
+    "passed": true,
+    "detail": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "local_revision_proof_reopened_match": {
+    "passed": true,
+    "detail": "6d046a75ab8fa3ff764d146cb558cead6c5de41383f9897aad3f50504533840d"
+  },
+  "local_revision_exact_two_pixels": {
+    "passed": true,
+    "detail": {
+      "proof_changed": [
+        [
+          77,
+          58
+        ],
+        [
+          77,
+          59
+        ]
+      ],
+      "reopened_changed": [
+        [
+          77,
+          58
+        ],
+        [
+          77,
+          59
+        ]
+      ],
+      "pixels": {
+        "77,58": [
+          249,
+          215,
+          184,
+          255
+        ],
+        "77,59": [
+          249,
+          215,
+          184,
+          255
+        ]
+      }
+    }
+  },
+  "local_revision_alpha_unchanged": {
+    "passed": true,
+    "detail": [
+      255,
+      255
+    ]
+  },
+  "local_revision_only_corrections_layer_changed": {
+    "passed": true,
+    "detail": {
+      "metadata_equal": true,
+      "protected_cels_match": true,
+      "protected_frames_equal": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "correction_has_exact_marks": true
+    }
+  },
+  "gif_dimensions": {
+    "passed": true,
+    "detail": {
+      "actual": [
+        384,
+        384
+      ]
+    }
+  },
+  "gif_frame_count": {
+    "passed": true,
+    "detail": {
+      "actual": 6
+    }
+  },
+  "gif_timing": {
+    "passed": true,
+    "detail": {
+      "actual_ms": [
+        600,
+        250,
+        250,
+        350,
+        150,
+        400
+      ]
+    }
+  },
+  "gif_opaque_pixels_match_native_3x": {
+    "passed": true,
+    "detail": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "native_files": {
+    "manual": {
+      "file_sha256": "006506eae5c1e8334a3568314e4add1fd12710648a0a5f0a928a5a9de783c0d4",
+      "header_sha256": "a13de9a048dcce26ea340f514828481d36e9c133f83ceeb738493f1465cd0252",
+      "canvas": [
+        128,
+        128
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        600,
+        250,
+        250,
+        350,
+        150,
+        400
+      ],
+      "layers": [
+        {
+          "name": "Guide - hide before export",
+          "flags": 1,
+          "type": 0,
+          "level": 0,
+          "blend": 0,
+          "opacity": 77
+        },
+        {
+          "name": "Base colors",
+          "flags": 3,
+          "type": 0,
+          "level": 0,
+          "blend": 0,
+          "opacity": 255
+        },
+        {
+          "name": "Shadows",
+          "flags": 3,
+          "type": 0,
+          "level": 0,
+          "blend": 0,
+          "opacity": 255
+        },
+        {
+          "name": "Lines and details",
+          "flags": 3,
+          "type": 0,
+          "level": 0,
+          "blend": 0,
+          "opacity": 255
+        }
+      ],
+      "palette_chunks": [
+        {
+          "frame": 0,
+          "sha256": "6e3907e7709fe056675d356884efee64b4563b570d11e486af22a21b1dcc920b",
+          "size": 32,
+          "first_index": 0,
+          "last_index": 31
+        }
+      ],
+      "tags": [
+        {
+          "from": 0,
+          "to": 5,
+          "direction": 0,
+          "repeat": 0,
+          "name": "pose-study"
+        }
+      ],
+      "cels": {
+        "0:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "830e774da6d7cd6710097469af8635b096c7646f9d59099df57fbd7f7be80469"
+        },
+        "0:1": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "de2f256064a0af797747c2b97505dc0b9f3df0de4f489eac731c23ae9ca9cc31"
+        },
+        "1:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "c433e86b5af291063f5980bc03f12de69db5a49d42109d058ec6fcd98ed93b56"
+        },
+        "2:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "a322be5e896440474a060758bf05ce3b9c9d9ede669ac870e32fabc281e08248"
+        },
+        "3:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "de8d8b66dedfab2b2a2e8186c3b8b89ee0f8a98e01cf2c418cf0844f776c28a8"
+        },
+        "4:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "3c03fd20809d850030bdb0c280511889ed35492a8a5f5f8c330656340310a832"
+        },
+        "5:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "7f595f2678040eff9879821ffad9c20fac543e89a71f24d78ef14d6aa7f97c0a"
+        }
+      }
+    },
+    "automatic": {
+      "file_sha256": "e7b5f72025cef92d1e06f9e8f41a1f88ff41e45da3a5992a5f70042326c53b8d",
+      "header_sha256": "556db4e94ae893c51e0f32ab59970213b0fa7d0a6ecb07ea575db91fcf996272",
+      "canvas": [
+        128,
+        128
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        600,
+        250,
+        250,
+        350,
+        150,
+        400
+      ],
+      "layers": [
+        {
+          "name": "Guide - hide before export",
+          "flags": 0,
+          "type": 0,
+          "level": 0,
+          "blend": 0,
+          "opacity": 77
+        },
+        {
+          "name": "Automatic draft",
+          "flags": 3,
+          "type": 0,
+          "level": 0,
+          "blend": 0,
+          "opacity": 255
+        },
+        {
+          "name": "Corrections",
+          "flags": 3,
+          "type": 0,
+          "level": 0,
+          "blend": 0,
+          "opacity": 255
+        }
+      ],
+      "palette_chunks": [
+        {
+          "frame": 0,
+          "sha256": "6e3907e7709fe056675d356884efee64b4563b570d11e486af22a21b1dcc920b",
+          "size": 32,
+          "first_index": 0,
+          "last_index": 31
+        }
+      ],
+      "tags": [
+        {
+          "from": 0,
+          "to": 5,
+          "direction": 0,
+          "repeat": 0,
+          "name": "pose-study"
+        }
+      ],
+      "cels": {
+        "0:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "830e774da6d7cd6710097469af8635b096c7646f9d59099df57fbd7f7be80469"
+        },
+        "0:1": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "830e774da6d7cd6710097469af8635b096c7646f9d59099df57fbd7f7be80469"
+        },
+        "1:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "c433e86b5af291063f5980bc03f12de69db5a49d42109d058ec6fcd98ed93b56"
+        },
+        "1:1": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "c433e86b5af291063f5980bc03f12de69db5a49d42109d058ec6fcd98ed93b56"
+        },
+        "2:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "a322be5e896440474a060758bf05ce3b9c9d9ede669ac870e32fabc281e08248"
+        },
+        "2:1": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "a322be5e896440474a060758bf05ce3b9c9d9ede669ac870e32fabc281e08248"
+        },
+        "3:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "de8d8b66dedfab2b2a2e8186c3b8b89ee0f8a98e01cf2c418cf0844f776c28a8"
+        },
+        "3:1": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "de8d8b66dedfab2b2a2e8186c3b8b89ee0f8a98e01cf2c418cf0844f776c28a8"
+        },
+        "4:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "3c03fd20809d850030bdb0c280511889ed35492a8a5f5f8c330656340310a832"
+        },
+        "4:1": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "3c03fd20809d850030bdb0c280511889ed35492a8a5f5f8c330656340310a832"
+        },
+        "5:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "7f595f2678040eff9879821ffad9c20fac543e89a71f24d78ef14d6aa7f97c0a"
+        },
+        "5:1": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "7f595f2678040eff9879821ffad9c20fac543e89a71f24d78ef14d6aa7f97c0a"
+        }
+      }
+    },
+    "local_revision_proof": {
+      "file_sha256": "dbe28e5a570e787d5d74ec15156216dc4b2aaf6caee8d83d3dcafd13df44ec96",
+      "header_sha256": "f3a91a3a8527876cd0db4d37a2c8395dc06c7ef0d41b78c455619df0a0004ec7",
+      "canvas": [
+        128,
+        128
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        600,
+        250,
+        250,
+        350,
+        150,
+        400
+      ],
+      "layers": [
+        {
+          "name": "Guide - hide before export",
+          "flags": 0,
+          "type": 0,
+          "level": 0,
+          "blend": 0,
+          "opacity": 77
+        },
+        {
+          "name": "Automatic draft",
+          "flags": 3,
+          "type": 0,
+          "level": 0,
+          "blend": 0,
+          "opacity": 255
+        },
+        {
+          "name": "Corrections",
+          "flags": 3,
+          "type": 0,
+          "level": 0,
+          "blend": 0,
+          "opacity": 255
+        }
+      ],
+      "palette_chunks": [
+        {
+          "frame": 0,
+          "sha256": "6e3907e7709fe056675d356884efee64b4563b570d11e486af22a21b1dcc920b",
+          "size": 32,
+          "first_index": 0,
+          "last_index": 31
+        }
+      ],
+      "tags": [
+        {
+          "from": 0,
+          "to": 5,
+          "direction": 0,
+          "repeat": 0,
+          "name": "pose-study"
+        }
+      ],
+      "cels": {
+        "0:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "830e774da6d7cd6710097469af8635b096c7646f9d59099df57fbd7f7be80469"
+        },
+        "0:1": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "830e774da6d7cd6710097469af8635b096c7646f9d59099df57fbd7f7be80469"
+        },
+        "0:2": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "ebf6ca7d065f4a41953ed7b8b6aed9795886450d9d34efa718e9a354806eb78a"
+        },
+        "1:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "c433e86b5af291063f5980bc03f12de69db5a49d42109d058ec6fcd98ed93b56"
+        },
+        "1:1": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "c433e86b5af291063f5980bc03f12de69db5a49d42109d058ec6fcd98ed93b56"
+        },
+        "2:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "a322be5e896440474a060758bf05ce3b9c9d9ede669ac870e32fabc281e08248"
+        },
+        "2:1": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "a322be5e896440474a060758bf05ce3b9c9d9ede669ac870e32fabc281e08248"
+        },
+        "3:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "de8d8b66dedfab2b2a2e8186c3b8b89ee0f8a98e01cf2c418cf0844f776c28a8"
+        },
+        "3:1": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "de8d8b66dedfab2b2a2e8186c3b8b89ee0f8a98e01cf2c418cf0844f776c28a8"
+        },
+        "4:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "3c03fd20809d850030bdb0c280511889ed35492a8a5f5f8c330656340310a832"
+        },
+        "4:1": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "3c03fd20809d850030bdb0c280511889ed35492a8a5f5f8c330656340310a832"
+        },
+        "5:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "7f595f2678040eff9879821ffad9c20fac543e89a71f24d78ef14d6aa7f97c0a"
+        },
+        "5:1": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "7f595f2678040eff9879821ffad9c20fac543e89a71f24d78ef14d6aa7f97c0a"
+        }
+      }
+    },
+    "first_keys_manual": {
+      "file_sha256": "1d9ae3423c2bc2c11209b7826d2e69997ed89ae2d3b6421c453b2ecc5e30f4fd",
+      "header_sha256": "19b67c80647f9614c335e1d05835d38422c57cc676ff2ab9b5fe1177f15ae69f",
+      "canvas": [
+        128,
+        128
+      ],
+      "frame_count": 3,
+      "durations_ms": [
+        600,
+        350,
+        150
+      ],
+      "layers": [
+        {
+          "name": "Guide - hide before export",
+          "flags": 1,
+          "type": 0,
+          "level": 0,
+          "blend": 0,
+          "opacity": 77
+        },
+        {
+          "name": "Base colors",
+          "flags": 3,
+          "type": 0,
+          "level": 0,
+          "blend": 0,
+          "opacity": 255
+        },
+        {
+          "name": "Shadows",
+          "flags": 3,
+          "type": 0,
+          "level": 0,
+          "blend": 0,
+          "opacity": 255
+        },
+        {
+          "name": "Lines and details",
+          "flags": 3,
+          "type": 0,
+          "level": 0,
+          "blend": 0,
+          "opacity": 255
+        }
+      ],
+      "palette_chunks": [
+        {
+          "frame": 0,
+          "sha256": "6e3907e7709fe056675d356884efee64b4563b570d11e486af22a21b1dcc920b",
+          "size": 32,
+          "first_index": 0,
+          "last_index": 31
+        }
+      ],
+      "tags": [
+        {
+          "from": 0,
+          "to": 2,
+          "direction": 0,
+          "repeat": 0,
+          "name": "pose-study"
+        }
+      ],
+      "cels": {
+        "0:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "830e774da6d7cd6710097469af8635b096c7646f9d59099df57fbd7f7be80469"
+        },
+        "0:1": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "de2f256064a0af797747c2b97505dc0b9f3df0de4f489eac731c23ae9ca9cc31"
+        },
+        "1:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "de8d8b66dedfab2b2a2e8186c3b8b89ee0f8a98e01cf2c418cf0844f776c28a8"
+        },
+        "2:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "3c03fd20809d850030bdb0c280511889ed35492a8a5f5f8c330656340310a832"
+        }
+      }
+    },
+    "first_keys_automatic": {
+      "file_sha256": "08b51ab3d1ca1742f8da6a52c6b438d0bcb55d97b51265223344489944a7c1eb",
+      "header_sha256": "775734bfae031f2b162ab7967cdb81460183f7a3a27b196da1cda3f64c181279",
+      "canvas": [
+        128,
+        128
+      ],
+      "frame_count": 3,
+      "durations_ms": [
+        600,
+        350,
+        150
+      ],
+      "layers": [
+        {
+          "name": "Guide - hide before export",
+          "flags": 0,
+          "type": 0,
+          "level": 0,
+          "blend": 0,
+          "opacity": 77
+        },
+        {
+          "name": "Automatic draft",
+          "flags": 3,
+          "type": 0,
+          "level": 0,
+          "blend": 0,
+          "opacity": 255
+        },
+        {
+          "name": "Corrections",
+          "flags": 3,
+          "type": 0,
+          "level": 0,
+          "blend": 0,
+          "opacity": 255
+        }
+      ],
+      "palette_chunks": [
+        {
+          "frame": 0,
+          "sha256": "6e3907e7709fe056675d356884efee64b4563b570d11e486af22a21b1dcc920b",
+          "size": 32,
+          "first_index": 0,
+          "last_index": 31
+        }
+      ],
+      "tags": [
+        {
+          "from": 0,
+          "to": 2,
+          "direction": 0,
+          "repeat": 0,
+          "name": "pose-study"
+        }
+      ],
+      "cels": {
+        "0:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "830e774da6d7cd6710097469af8635b096c7646f9d59099df57fbd7f7be80469"
+        },
+        "0:1": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "830e774da6d7cd6710097469af8635b096c7646f9d59099df57fbd7f7be80469"
+        },
+        "1:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "de8d8b66dedfab2b2a2e8186c3b8b89ee0f8a98e01cf2c418cf0844f776c28a8"
+        },
+        "1:1": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "de8d8b66dedfab2b2a2e8186c3b8b89ee0f8a98e01cf2c418cf0844f776c28a8"
+        },
+        "2:0": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "3c03fd20809d850030bdb0c280511889ed35492a8a5f5f8c330656340310a832"
+        },
+        "2:1": {
+          "x": 0,
+          "y": 0,
+          "opacity": 255,
+          "type": 2,
+          "z": 0,
+          "w": 128,
+          "h": 128,
+          "raw_sha256": "3c03fd20809d850030bdb0c280511889ed35492a8a5f5f8c330656340310a832"
+        }
+      }
+    }
+  },
+  "passed": true
+}

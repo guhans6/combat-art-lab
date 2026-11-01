@@ -1,0 +1,65 @@
+### Result
+{"layout":[{"path":"lessons/0004-pixel-art-before-you-draw.html","width":1280,"documentWidth":1280,"images":true},{"path":"lessons/0004-pixel-art-before-you-draw.html","width":390,"documentWidth":390,"images":true},{"path":"lessons/0004-pixel-art-before-you-draw.html","width":360,"documentWidth":360,"images":true},{"path":"reference/size-planning.html","width":1280,"documentWidth":1280,"images":true},{"path":"reference/size-planning.html","width":390,"documentWidth":390,"images":true},{"path":"reference/size-planning.html","width":360,"documentWidth":360,"images":true},{"path":"index.html","width":1280,"documentWidth":1280,"images":true},{"path":"index.html","width":390,"documentWidth":390,"images":true},{"path":"index.html","width":360,"documentWidth":360,"images":true},{"path":"lessons/0001-fix-a-few-pixels.html","width":1280,"documentWidth":1280,"images":true},{"path":"lessons/0001-fix-a-few-pixels.html","width":390,"documentWidth":390,"images":true},{"path":"lessons/0001-fix-a-few-pixels.html","width":360,"documentWidth":360,"images":true},{"path":"reference/quick-reference.html","width":1280,"documentWidth":1280,"images":true},{"path":"reference/quick-reference.html","width":390,"documentWidth":390,"images":true},{"path":"reference/quick-reference.html","width":360,"documentWidth":360,"images":true}],"pixelComparison":"32/64 differ; 128 matches source exactly","framing":[{"height":"48","scale":"1","text":"48 ÷ 360 = 13.3% of the view height. At 1×, the window is 640 × 360 and the figure is 48 display pixels tall. Its share of the view stays 13.3%."},{"height":"48","scale":"2","text":"48 ÷ 360 = 13.3% of the view height. At 2×, the window is 1280 × 720 and the figure is 96 display pixels tall. Its share of the view stays 13.3%."},{"height":"48","scale":"3","text":"48 ÷ 360 = 13.3% of the view height. At 3×, the window is 1920 × 1080 and the figure is 144 display pixels tall. Its share of the view stays 13.3%."},{"height":"96","scale":"1","text":"96 ÷ 360 = 26.7% of the view height. At 1×, the window is 640 × 360 and the figure is 96 display pixels tall. Its share of the view stays 26.7%."},{"height":"96","scale":"2","text":"96 ÷ 360 = 26.7% of the view height. At 2×, the window is 1280 × 720 and the figure is 192 display pixels tall. Its share of the view stays 26.7%."},{"height":"96","scale":"3","text":"96 ÷ 360 = 26.7% of the view height. At 3×, the window is 1920 × 1080 and the figure is 288 display pixels tall. Its share of the view stays 26.7%."},{"height":"192","scale":"1","text":"192 ÷ 360 = 53.3% of the view height. At 1×, the window is 640 × 360 and the figure is 192 display pixels tall. Its share of the view stays 53.3%."},{"height":"192","scale":"2","text":"192 ÷ 360 = 53.3% of the view height. At 2×, the window is 1280 × 720 and the figure is 384 display pixels tall. Its share of the view stays 53.3%."},{"height":"192","scale":"3","text":"192 ÷ 360 = 53.3% of the view height. At 3×, the window is 1920 × 1080 and the figure is 576 display pixels tall. Its share of the view stays 53.3%."}],"quiz":"wrong and correct feedback passed","navigation":"foundations first, next Lesson 1","pageErrors":[]}
+### Ran Playwright code
+```js
+await (async(page)=>{
+  const errors=[];page.on('pageerror',e=>errors.push(e.message));const layout=[];
+  const pages=['lessons/0004-pixel-art-before-you-draw.html','reference/size-planning.html','index.html','lessons/0001-fix-a-few-pixels.html','reference/quick-reference.html'];
+  for(const path of pages){
+    await page.goto('http://127.0.0.1:8768/'+path);
+    for(const width of [1280,390,360]){
+      await page.setViewportSize({width,height:900});
+      const r=await page.evaluate(()=>({width:innerWidth,documentWidth:document.documentElement.scrollWidth,images:[...document.images].every(i=>i.complete&&i.naturalWidth>0)}));
+      if(r.documentWidth>width||!r.images)throw Error(path+JSON.stringify(r));layout.push({path,...r});
+    }
+  }
+  await page.goto('http://127.0.0.1:8768/lessons/0004-pixel-art-before-you-draw.html');
+  await page.waitForFunction(()=>document.querySelector('[data-lab-status]').textContent.startsWith('Ready.'));
+  const budget=page.getByRole('combobox',{name:'Draft grid',exact:true});
+  const heightControl=page.getByRole('combobox',{name:'Figure height in the design view',exact:true});
+  const scaleControl=page.getByRole('combobox',{name:'Whole-view enlargement',exact:true});
+  for(const grid of ['32','64','128']){
+    await budget.selectOption(grid);
+    const same=await page.evaluate(()=>{
+      const a=document.querySelector('[data-draft-canvas]').getContext('2d').getImageData(0,0,256,384).data;
+      const b=document.querySelector('[data-original-canvas]').getContext('2d').getImageData(0,0,256,384).data;
+      return a.every((v,i)=>v===b[i]);
+    });
+    if(same!==(grid==='128'))throw Error('Budget comparison mismatch '+grid);
+  }
+  const framing=[];
+  for(const height of ['48','96','192'])for(const scale of ['1','2','3']){
+    await heightControl.selectOption(height);await scaleControl.selectOption(scale);
+    const text=await page.locator('[data-framing-output]').textContent();
+    if(!text.includes(`${Number(height)*Number(scale)} display pixels tall`)||!text.includes((Number(height)/360*100).toFixed(1)+'%'))throw Error(text);
+    framing.push({height,scale,text});
+  }
+  await page.getByRole('button',{name:'Larger window',exact:true}).click();
+  if(!await page.getByRole('status').last().evaluate(e=>e.classList.contains('incorrect')))throw Error('Wrong feedback');
+  await page.getByRole('button',{name:'Richer expression',exact:true}).click();
+  if(!await page.getByRole('status').last().evaluate(e=>e.classList.contains('correct')))throw Error('Correct feedback');
+  await budget.selectOption('64');await heightControl.selectOption('96');await scaleControl.selectOption('3');
+  await page.setViewportSize({width:1280,height:900});
+  await page.screenshot({path:'output/playwright/foundations-desktop.png',fullPage:true});
+  await page.locator('[data-budget-lab]').screenshot({path:'output/playwright/pixel-budget-detail.png'});
+  await page.locator('[data-framing-lab]').screenshot({path:'output/playwright/framing-detail.png'});
+  await page.setViewportSize({width:390,height:900});
+  await page.screenshot({path:'output/playwright/foundations-mobile.png',fullPage:true});
+  await page.getByRole('link',{name:'Now: make your first tiny correction →',exact:true}).click();
+  if(!page.url().endsWith('0001-fix-a-few-pixels.html'))throw Error('Next lesson navigation');
+  await page.goto('http://127.0.0.1:8768/index.html');
+  await page.getByRole('link',{name:'Start with pixel-art foundations →',exact:true}).click();
+  if(!page.url().endsWith('0004-pixel-art-before-you-draw.html'))throw Error('Course entry sequence');
+  await page.goto('http://127.0.0.1:8768/reference/size-planning.html');
+  await page.setViewportSize({width:1280,height:900});await page.emulateMedia({media:'print'});
+  await page.screenshot({path:'output/playwright/size-plan-print.png',fullPage:true});await page.emulateMedia({media:'screen'});
+  if(errors.length)throw Error(JSON.stringify(errors));
+  return {layout,pixelComparison:'32/64 differ; 128 matches source exactly',framing,quiz:'wrong and correct feedback passed',navigation:'foundations first, next Lesson 1',pageErrors:errors};
+}
+)(page);
+```
+### Page
+- Page URL: http://127.0.0.1:8768/reference/size-planning.html
+- Page Title: Pixel art · Size planning card
+### Events
+- New console entries: .playwright-cli/console-2026-10-31T12-15-39-677Z.log#L1-L2

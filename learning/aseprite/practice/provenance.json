@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-31",
+  "status": "Historical practice copies; no production selection or visual approval implied. No artwork generated or edited in this teaching task.",
+  "files": [
+    {
+      "copy": "practice/character-practice.aseprite",
+      "source_repository_path": "docs/experiments/2026-10-30-fullbody-automated-reconstruction/passes/candidate-b-structured.aseprite",
+      "sha256": "b096b209d41790f81acdb61a0ba908b37b31596bb73d03f9c4d5ec3ac88a062d",
+      "byte_identical": true,
+      "frames": 1,
+      "width": 128,
+      "height": 192,
+      "depth": 32
+    },
+    {
+      "copy": "assets/converted-seed.png",
+      "source_repository_path": "docs/experiments/2026-10-30-fullbody-automated-reconstruction/inputs/source-only-converted-seed.png",
+      "sha256": "074168d9bfc5b2a2f2751810152bb0c31a71e7027a5368c0b393e17449fb84eb",
+      "byte_identical": true,
+      "dimensions": [
+        128,
+        192
+      ]
+    },
+    {
+      "copy": "assets/practice-preview.png",
+      "source_repository_path": "docs/experiments/2026-10-30-fullbody-automated-reconstruction/passes/candidate-b-structured.png",
+      "sha256": "b3ad887bf2acff2e71404c78d6fc7260784f51f842e6f19d3bd4986777bbf34a",
+      "byte_identical": true,
+      "dimensions": [
+        128,
+        192
+      ]
+    },
+    {
+      "copy": "assets/concept-cutout.png",
+      "source_repository_path": "docs/experiments/2026-10-30-fullbody-automated-reconstruction/inputs/clean-generated-cutout-v1.png",
+      "sha256": "12e971cc9e3cbfa7add2a17a62ff53d1f45b3c55197ce23c336a6447bed1f49e",
+      "byte_identical": true,
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "copy": "assets/identity-scene.png",
+      "source_repository_path": "docs/experiments/2026-10-30-fullbody-automated-reconstruction/inputs/character-scene.png",
+      "sha256": "a274a80133371b61387848495bf0dd93546ba5daf0a60c051b27109237160eae",
+      "byte_identical": true,
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "copy": "assets/identity-closeup.png",
+      "source_repository_path": "docs/experiments/2026-10-30-fullbody-automated-reconstruction/inputs/character-closeup.png",
+      "sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7",
+      "byte_identical": true,
+      "dimensions": [
+        1448,
+        1086
+      ]
+    }
+  ]
+}

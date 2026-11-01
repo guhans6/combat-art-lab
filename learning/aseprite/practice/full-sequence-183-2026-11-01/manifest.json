@@ -1,0 +1,279 @@
+{
+  "thread": "01a19024-f723-7a23-ad2b-74fbda7ff9e6",
+  "source_root": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear",
+  "date": "2026-11-01",
+  "operation": "Byte-identical extraction; no resampling, recoloring, native editing or new animation.",
+  "checks": {
+    "clean": {
+      "frames": 19,
+      "canvas": [
+        256,
+        208
+      ],
+      "layers": [
+        "00-legs-shoes",
+        "01-rear-handle",
+        "02-jacket-sleeves",
+        "03-shirt-neck-backing",
+        "04-tote-body-rim",
+        "05-near-handles-seams",
+        "06-hands-forearms",
+        "07-rigid-head"
+      ],
+      "native_matches_all_PNGs": true,
+      "duration_ms": 2230
+    },
+    "smear": {
+      "frames": 19,
+      "canvas": [
+        256,
+        208
+      ],
+      "layers": [
+        "00-legs-shoes",
+        "01-rear-handle",
+        "02-jacket-sleeves",
+        "03-shirt-neck-backing",
+        "04-tote-body-rim",
+        "05-near-handles-seams",
+        "06-hands-forearms",
+        "07-rigid-head"
+      ],
+      "native_matches_all_PNGs": true,
+      "duration_ms": 2230
+    }
+  },
+  "only_variant_difference_frame": 9,
+  "entry_return_exact": true,
+  "standing_reference_exact_at_offset": [
+    60,
+    8
+  ],
+  "files": [
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/timing.json",
+      "copy": "timing.json",
+      "sha256": "f7297dceb3719bf7d2fe2a42138ba32c51bc155cbd34473ae591cff1438d2484"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/source/tote-clean-material03.aseprite",
+      "copy": "clean-all-poses.aseprite",
+      "sha256": "b29bc145f3159044e29857501056cc2194aa11dc022f43d884482bdc469bb77e"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-01.png",
+      "copy": "frames/clean-01.png",
+      "sha256": "62cf816b280ead0583b7bc859e03be873d4c2aaa01d11577b36f109223231b05"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-02.png",
+      "copy": "frames/clean-02.png",
+      "sha256": "b9cd036123faeb90470e663c224e65d283f5caf2e1cfa0285bb71fa29d5fa857"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-03.png",
+      "copy": "frames/clean-03.png",
+      "sha256": "4811fa910def61e8280b21acef775478554316c3fa7001e18e54b46e28755d87"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-04.png",
+      "copy": "frames/clean-04.png",
+      "sha256": "3163160faa298404c3fe300f17919222f8c28f12e11f33e538b03b273d24bd0e"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-05.png",
+      "copy": "frames/clean-05.png",
+      "sha256": "733a3c239bb9e768411fbcc711f3710bdf6de3948ee29fab005793efbde4a522"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-06.png",
+      "copy": "frames/clean-06.png",
+      "sha256": "ae3a59fd91fc6fbfa78261993bbd99165b2e052445b6b966c39178be0ef24e9b"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-07.png",
+      "copy": "frames/clean-07.png",
+      "sha256": "edc1f0e773648602475b2095427c21b084a7899151b3af78c1ba6d1c1bc7b7a6"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-08.png",
+      "copy": "frames/clean-08.png",
+      "sha256": "fbbd75597304f3ae81ae5aed1c6d3147b254dfd1f9250cdf12dd2b51c393fd70"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-09.png",
+      "copy": "frames/clean-09.png",
+      "sha256": "2973d6acf199a81932e3d4cd8fbf53eeef762b054b8cb5b605444d854dc01b36"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-10.png",
+      "copy": "frames/clean-10.png",
+      "sha256": "761f72ca3eef1a96466934231d6ae761c75bd738509c9eda4d86de3190d04732"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-11.png",
+      "copy": "frames/clean-11.png",
+      "sha256": "3cf3b10dd95c406c91cdb000c66ddf6f00a92be673d2f1bd3b5f4f387e57a7ae"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-12.png",
+      "copy": "frames/clean-12.png",
+      "sha256": "4dc1140e1f0f598d263e509763e83ec1ee8ed88931dc33e92acc5ef01a19437a"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-13.png",
+      "copy": "frames/clean-13.png",
+      "sha256": "1f3e0d7820064577309398e340233668a4763fa1dfcb7286620d57a779ecc738"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-14.png",
+      "copy": "frames/clean-14.png",
+      "sha256": "df5d2e8fb07a5b63ce1f3946b83f5e4b539320a4fd5d3b8a2b37fabd1d0c0a4a"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-15.png",
+      "copy": "frames/clean-15.png",
+      "sha256": "b6238a63cd09c96926c6bcf5b9af2832a791054b6a6e58f9b3cd7cdfb4a321e2"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-16.png",
+      "copy": "frames/clean-16.png",
+      "sha256": "50394823629286a57e517ef818dcede0973b3166efacd047e7c0811206cc5bb9"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-17.png",
+      "copy": "frames/clean-17.png",
+      "sha256": "4811fa910def61e8280b21acef775478554316c3fa7001e18e54b46e28755d87"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-18.png",
+      "copy": "frames/clean-18.png",
+      "sha256": "b9cd036123faeb90470e663c224e65d283f5caf2e1cfa0285bb71fa29d5fa857"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-19.png",
+      "copy": "frames/clean-19.png",
+      "sha256": "62cf816b280ead0583b7bc859e03be873d4c2aaa01d11577b36f109223231b05"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/tote-clean-1x.gif",
+      "copy": "previews/clean-1x.gif",
+      "sha256": "844bb4c4bacd2b871c470a97e72193e746e18ea118e508d91d202fad84a4af5f"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/tote-clean-3x.gif",
+      "copy": "previews/clean-3x.gif",
+      "sha256": "fa57f6282bd7ad4cb093fc09cddb8eb54f2c3dd5dab8b35dd8dc6d2171d3547b"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/source/tote-smear-material03.aseprite",
+      "copy": "smear-all-poses.aseprite",
+      "sha256": "c36f806b09e9898401a6ba6dc85ab543c40a0d3c0e519e752b5a516f715ace4f"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-01.png",
+      "copy": "frames/smear-01.png",
+      "sha256": "62cf816b280ead0583b7bc859e03be873d4c2aaa01d11577b36f109223231b05"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-02.png",
+      "copy": "frames/smear-02.png",
+      "sha256": "b9cd036123faeb90470e663c224e65d283f5caf2e1cfa0285bb71fa29d5fa857"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-03.png",
+      "copy": "frames/smear-03.png",
+      "sha256": "4811fa910def61e8280b21acef775478554316c3fa7001e18e54b46e28755d87"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-04.png",
+      "copy": "frames/smear-04.png",
+      "sha256": "3163160faa298404c3fe300f17919222f8c28f12e11f33e538b03b273d24bd0e"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-05.png",
+      "copy": "frames/smear-05.png",
+      "sha256": "733a3c239bb9e768411fbcc711f3710bdf6de3948ee29fab005793efbde4a522"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-06.png",
+      "copy": "frames/smear-06.png",
+      "sha256": "ae3a59fd91fc6fbfa78261993bbd99165b2e052445b6b966c39178be0ef24e9b"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-07.png",
+      "copy": "frames/smear-07.png",
+      "sha256": "edc1f0e773648602475b2095427c21b084a7899151b3af78c1ba6d1c1bc7b7a6"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-08.png",
+      "copy": "frames/smear-08.png",
+      "sha256": "fbbd75597304f3ae81ae5aed1c6d3147b254dfd1f9250cdf12dd2b51c393fd70"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-09.png",
+      "copy": "frames/smear-09.png",
+      "sha256": "0f4eee926db668525a6d11bd1b75efa8909e18e5f99245f49a4bf623a0286d64"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-10.png",
+      "copy": "frames/smear-10.png",
+      "sha256": "761f72ca3eef1a96466934231d6ae761c75bd738509c9eda4d86de3190d04732"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-11.png",
+      "copy": "frames/smear-11.png",
+      "sha256": "3cf3b10dd95c406c91cdb000c66ddf6f00a92be673d2f1bd3b5f4f387e57a7ae"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-12.png",
+      "copy": "frames/smear-12.png",
+      "sha256": "4dc1140e1f0f598d263e509763e83ec1ee8ed88931dc33e92acc5ef01a19437a"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-13.png",
+      "copy": "frames/smear-13.png",
+      "sha256": "1f3e0d7820064577309398e340233668a4763fa1dfcb7286620d57a779ecc738"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-14.png",
+      "copy": "frames/smear-14.png",
+      "sha256": "df5d2e8fb07a5b63ce1f3946b83f5e4b539320a4fd5d3b8a2b37fabd1d0c0a4a"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-15.png",
+      "copy": "frames/smear-15.png",
+      "sha256": "b6238a63cd09c96926c6bcf5b9af2832a791054b6a6e58f9b3cd7cdfb4a321e2"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-16.png",
+      "copy": "frames/smear-16.png",
+      "sha256": "50394823629286a57e517ef818dcede0973b3166efacd047e7c0811206cc5bb9"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-17.png",
+      "copy": "frames/smear-17.png",
+      "sha256": "4811fa910def61e8280b21acef775478554316c3fa7001e18e54b46e28755d87"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-18.png",
+      "copy": "frames/smear-18.png",
+      "sha256": "b9cd036123faeb90470e663c224e65d283f5caf2e1cfa0285bb71fa29d5fa857"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/smear-19.png",
+      "copy": "frames/smear-19.png",
+      "sha256": "62cf816b280ead0583b7bc859e03be873d4c2aaa01d11577b36f109223231b05"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/tote-smear-1x.gif",
+      "copy": "previews/smear-1x.gif",
+      "sha256": "e76d672068cdd99095396bf80a4e091beb5b82416cde7644317ecf5f6388d06a"
+    },
+    {
+      "source": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/tote-smear-3x.gif",
+      "copy": "previews/smear-3x.gif",
+      "sha256": "e51c640a75455a39d08305a2ce2dd4fe22bbc88c728e0a646120aa4c18bafce6"
+    }
+  ]
+}

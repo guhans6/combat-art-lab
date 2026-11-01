@@ -1,0 +1,32 @@
+### Result
+{"reports":[{"path":"index.html","width":1280,"documentWidth":1280,"images":true},{"path":"index.html","width":390,"documentWidth":390,"images":true},{"path":"lessons/0001-fix-a-few-pixels.html","width":1280,"documentWidth":1280,"images":true},{"path":"lessons/0001-fix-a-few-pixels.html","width":390,"documentWidth":390,"images":true},{"path":"lessons/0002-resize-and-trace.html","width":1280,"documentWidth":1280,"images":true},{"path":"lessons/0002-resize-and-trace.html","width":390,"documentWidth":390,"images":true},{"path":"lessons/0003-export-your-sprite.html","width":1280,"documentWidth":1280,"images":true},{"path":"lessons/0003-export-your-sprite.html","width":390,"documentWidth":390,"images":true},{"path":"reference/quick-reference.html","width":1280,"documentWidth":1280,"images":true},{"path":"reference/quick-reference.html","width":390,"documentWidth":390,"images":true}],"quizFeedback":"three wrong and three correct responses passed","checkbox":"persisted across reload and reset","disclosure":"expanded","pageErrors":[]}
+### Ran Playwright code
+```js
+await (async (page) => {
+const reports=[],errors=[];page.on('pageerror',e=>errors.push(e.message));
+const paths=['index.html','lessons/0001-fix-a-few-pixels.html','lessons/0002-resize-and-trace.html','lessons/0003-export-your-sprite.html','reference/quick-reference.html'];
+for(const path of paths){
+ await page.goto('http://127.0.0.1:8768/'+path);
+ for(const width of [1280,390]){
+  await page.setViewportSize({width,height:900});
+  const r=await page.evaluate(()=>({width:innerWidth,documentWidth:document.documentElement.scrollWidth,images:[...document.images].every(i=>i.complete&&i.naturalWidth>0)}));
+  if(r.documentWidth>width||!r.images)throw new Error(path+' '+JSON.stringify(r));reports.push({path,...r});
+ }
+ if(path==='index.html')await page.screenshot({path:'output/playwright/home-mobile.png',fullPage:true});
+ if(path.startsWith('lessons/')){
+  const n=Number(path.slice(8,12));
+  const wrong=['Correction layer','Canvas size','Exported PNG'][n-1],right=['Source layer','Sprite size','Layered master'][n-1];
+  await page.getByRole('button',{name:wrong,exact:true}).click();if(!await page.locator('[role=status]').evaluate(e=>e.classList.contains('incorrect')))throw new Error('Wrong feedback '+n);
+  await page.getByRole('button',{name:right,exact:true}).click();if(!await page.locator('[role=status]').evaluate(e=>e.classList.contains('correct')))throw new Error('Right feedback '+n);
+  if(n===1){const c=page.getByRole('checkbox',{name:'Hiding Corrections removes only my small patch.',exact:true});await c.check();await page.reload();if(!await c.isChecked())throw new Error('Persistence failed');await c.uncheck();await page.screenshot({path:'output/playwright/lesson-01-mobile.png',fullPage:true});}
+  if(n===2){await page.getByText('What if the base is already converted by the agent?',{exact:true}).click();if(await page.locator('details').first().getAttribute('open')===null)throw new Error('Disclosure failed');}
+ }
+}
+await page.setViewportSize({width:1280,height:900});await page.goto('http://127.0.0.1:8768/reference/quick-reference.html');await page.emulateMedia({media:'print'});await page.screenshot({path:'output/playwright/reference-print.png',fullPage:true});await page.emulateMedia({media:'screen'});
+await page.goto('http://127.0.0.1:8768/index.html');await page.screenshot({path:'output/playwright/home-desktop.png',fullPage:true});
+if(errors.length)throw new Error(JSON.stringify(errors));return {reports,quizFeedback:'three wrong and three correct responses passed',checkbox:'persisted across reload and reset',disclosure:'expanded',pageErrors:errors};
+})(page);
+```
+### Page
+- Page URL: http://127.0.0.1:8768/index.html
+- Page Title: Aseprite · A small correction of your own

@@ -1,0 +1,49 @@
+### Result
+{"layout":[{"path":"index.html","width":1280,"documentWidth":1280,"images":true},{"path":"index.html","width":390,"documentWidth":390,"images":true},{"path":"index.html","width":360,"documentWidth":360,"images":true},{"path":"lessons/0005-two-ways-to-start-your-character.html","width":1280,"documentWidth":1280,"images":true},{"path":"lessons/0005-two-ways-to-start-your-character.html","width":390,"documentWidth":390,"images":true},{"path":"lessons/0005-two-ways-to-start-your-character.html","width":360,"documentWidth":360,"images":true},{"path":"reference/two-routes-cheatsheet.html","width":1280,"documentWidth":1280,"images":true},{"path":"reference/two-routes-cheatsheet.html","width":390,"documentWidth":390,"images":true},{"path":"reference/two-routes-cheatsheet.html","width":360,"documentWidth":360,"images":true}],"downloads":[{"name":"hand-trace.aseprite","frames":1,"width":128,"height":192,"bytes":9248},{"name":"automatic-draft.aseprite","frames":1,"width":128,"height":192,"bytes":49319}],"preview":{"natural":[256,384],"display":[256,384]},"quiz":"correct and incorrect responses passed","checklist":"persisted and reset","pageErrors":[]}
+### Ran Playwright code
+```js
+await (async(page)=>{
+  const errors=[],layout=[];page.on('pageerror',e=>errors.push(e.message));
+  for(const path of ['index.html','lessons/0005-two-ways-to-start-your-character.html','reference/two-routes-cheatsheet.html']){
+    await page.goto('http://127.0.0.1:8768/'+path);
+    for(const width of [1280,390,360]){
+      await page.setViewportSize({width,height:900});
+      const r=await page.evaluate(()=>({width:innerWidth,documentWidth:document.documentElement.scrollWidth,images:[...document.images].every(i=>i.complete&&i.naturalWidth>0)}));
+      if(r.documentWidth>width||!r.images)throw Error(path+JSON.stringify(r));layout.push({path,...r});
+    }
+  }
+  await page.goto('http://127.0.0.1:8768/index.html');
+  await page.getByRole('link',{name:'Open your two-route practice →',exact:true}).click();
+  if(!page.url().endsWith('0005-two-ways-to-start-your-character.html'))throw Error('Wrong current lesson');
+  await page.getByRole('button',{name:'Cels draw missing poses automatically',exact:true}).click();
+  if(!await page.getByRole('status').evaluate(e=>e.classList.contains('incorrect')))throw Error('Wrong-answer feedback');
+  await page.getByRole('button',{name:'Frames run left to right',exact:true}).click();
+  if(!await page.getByRole('status').evaluate(e=>e.classList.contains('correct')))throw Error('Correct feedback');
+  const c=page.getByRole('checkbox',{name:'I saved my own copy of one starter.',exact:true});
+  await c.check();await page.reload();if(!await c.isChecked())throw Error('Checklist persistence');await c.uncheck();
+  const downloads=[];
+  for(const name of ['hand-trace.aseprite','automatic-draft.aseprite']){
+    const r=await page.request.get('http://127.0.0.1:8768/practice/one-pose-183-2026-11-01/'+name);if(!r.ok())throw Error(name);
+    const b=await r.body();if(b.readUInt16LE(4)!==0xA5E0||b.readUInt16LE(6)!==1||b.readUInt16LE(8)!==128||b.readUInt16LE(10)!==192)throw Error('Header mismatch '+name);
+    downloads.push({name,frames:1,width:128,height:192,bytes:b.length});
+  }
+  const preview=page.getByRole('img',{name:'Standing character reference shown at two times its native size.',exact:true});
+  const dimensions=await preview.evaluate(i=>({natural:[i.naturalWidth,i.naturalHeight],display:[i.width,i.height]}));
+  if(dimensions.natural[0]!==256||dimensions.natural[1]!==384)throw Error('Portrait distorted');
+  await page.setViewportSize({width:1280,height:900});await page.screenshot({path:'output/playwright/one-pose-lesson.png',fullPage:true});
+  await page.setViewportSize({width:390,height:900});await page.screenshot({path:'output/playwright/one-pose-mobile.png',fullPage:true});
+  await page.goto('http://127.0.0.1:8768/index.html');await page.setViewportSize({width:1280,height:900});
+  await page.evaluate(()=>{document.documentElement.style.scrollBehavior='auto';window.scrollTo({top:0,behavior:'instant'});});
+  await page.screenshot({path:'output/playwright/one-pose-home.png'});
+  await page.getByRole('heading',{name:'One standing pose: two ready workbooks',exact:true}).scrollIntoViewIfNeeded();
+  await page.screenshot({path:'output/playwright/one-pose-workbooks.png'});
+  await page.goto('http://127.0.0.1:8768/reference/two-routes-cheatsheet.html');await page.emulateMedia({media:'print'});
+  await page.screenshot({path:'output/playwright/one-pose-print.png',fullPage:true});await page.emulateMedia({media:'screen'});
+  if(errors.length)throw Error(JSON.stringify(errors));
+  return {layout,downloads,preview:dimensions,quiz:'correct and incorrect responses passed',checklist:'persisted and reset',pageErrors:errors};
+}
+)(page);
+```
+### Page
+- Page URL: http://127.0.0.1:8768/reference/two-routes-cheatsheet.html
+- Page Title: One pose · Two routes desk card

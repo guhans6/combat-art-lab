@@ -1,0 +1,6 @@
+### Result
+[{"file":"index.html","width":390,"documentWidth":390,"previewWidths":[256]},{"file":"lessons/0001-fix-a-few-pixels.html","width":390,"documentWidth":390,"previewWidths":[256]}]
+### Ran Playwright code
+```js
+await (async(page)=>{const report=[];await page.setViewportSize({width:390,height:900});for(const [file,shot] of [['index.html','home-mobile'],['lessons/0001-fix-a-few-pixels.html','lesson-01-mobile']]){await page.goto('http://127.0.0.1:8768/'+file);const r=await page.evaluate(()=>({width:innerWidth,documentWidth:document.documentElement.scrollWidth,previewWidths:[...document.querySelectorAll('.preview')].map(i=>i.getBoundingClientRect().width)}));if(r.documentWidth>390||r.previewWidths.some(x=>x!==256))throw Error(JSON.stringify(r));await page.screenshot({path:'output/playwright/'+shot+'.png',fullPage:true});report.push({file,...r});}await page.setViewportSize({width:1280,height:900});await page.goto('http://127.0.0.1:8768/index.html');return report;})(page);
+```

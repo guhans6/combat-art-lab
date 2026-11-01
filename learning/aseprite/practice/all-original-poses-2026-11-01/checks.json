@@ -1,0 +1,81 @@
+{
+  "passed": true,
+  "frames": [
+    {
+      "frame": 1,
+      "native_export_reopen_exact": true,
+      "rerun_bytes_equal": true,
+      "source_colors_only": true,
+      "visible_bounds": [
+        98,
+        16,
+        169,
+        193
+      ]
+    },
+    {
+      "frame": 2,
+      "native_export_reopen_exact": true,
+      "rerun_bytes_equal": true,
+      "source_colors_only": true,
+      "visible_bounds": [
+        94,
+        10,
+        171,
+        193
+      ]
+    },
+    {
+      "frame": 3,
+      "native_export_reopen_exact": true,
+      "rerun_bytes_equal": true,
+      "source_colors_only": true,
+      "visible_bounds": [
+        96,
+        14,
+        170,
+        193
+      ]
+    },
+    {
+      "frame": 4,
+      "native_export_reopen_exact": true,
+      "rerun_bytes_equal": true,
+      "source_colors_only": true,
+      "visible_bounds": [
+        56,
+        11,
+        186,
+        193
+      ]
+    },
+    {
+      "frame": 5,
+      "native_export_reopen_exact": true,
+      "rerun_bytes_equal": true,
+      "source_colors_only": true,
+      "visible_bounds": [
+        75,
+        9,
+        225,
+        194
+      ]
+    },
+    {
+      "frame": 6,
+      "native_export_reopen_exact": true,
+      "rerun_bytes_equal": true,
+      "source_colors_only": true,
+      "visible_bounds": [
+        82,
+        10,
+        211,
+        194
+      ]
+    }
+  ],
+  "reach_exact_previous_conversion": true,
+  "corrections_blank": true,
+  "lossless_APNG_all_frames_exact": true,
+  "native_sha256": "56c67f1ccc9901988b6477ea28b89cf3af523c324bc15d79489616aed47c2118"
+}
