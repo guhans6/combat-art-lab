@@ -1,0 +1,17 @@
+{
+  "source": "../inputs/05-swing.png",
+  "mask": "../inputs/mask-05.png",
+  "scale": 0.17906066536203522,
+  "canvas": [
+    256,
+    208
+  ],
+  "source_anchor": [
+    718,
+    1052
+  ],
+  "target_anchor": [
+    127,
+    193
+  ]
+}

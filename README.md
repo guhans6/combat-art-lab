@@ -17,9 +17,15 @@ The user directs and evaluates the work while learning relevant basics. Agents o
 
 ## Current state
 
-This repository contains research, decisions, working rules, templates, and engineering-skill configuration. No style has been approved and no local sprite-generation or Godot animation pipeline has been validated here.
+Ready for a new character on local branch `work/new-character-ready`. The art
+pipeline and learning workspace are consolidated in this checkout. Start with
+[the next-asset guide](docs/new-asset.md); place new references in `assets/incoming/`.
+The previous character is [cataloged separately](assets/CHARACTER-ARCHIVE.md).
 
-The first next step is to review the user's style and motion references. Pixel art, perspective, resolution, palette, and production tools remain open. Godot is the intended engine.
+Reusable deterministic preparation is in `learning/aseprite/automation/`; the
+[course](learning/aseprite/index.html) remains available. Existing native art and
+Godot evidence are retained with their original scope. New-design validation and
+artistic approval have not happened. Workflow and tool choices are unchanged.
 
 ## Working documents
 

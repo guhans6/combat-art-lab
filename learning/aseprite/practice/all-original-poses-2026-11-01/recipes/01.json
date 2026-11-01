@@ -1,0 +1,17 @@
+{
+  "source": "../inputs/01-idle.png",
+  "mask": "../inputs/mask-01.png",
+  "scale": 0.17906066536203522,
+  "canvas": [
+    256,
+    208
+  ],
+  "source_anchor": [
+    685,
+    1037
+  ],
+  "target_anchor": [
+    123,
+    193
+  ]
+}

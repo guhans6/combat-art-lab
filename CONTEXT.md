@@ -1,5 +1,14 @@
 # Project context
 
+## Current direction — 1 November 2026
+
+The user has set the tote character aside to try a new design. Start at
+[the next-asset guide](docs/new-asset.md). Earlier character choices and artifact
+pointers below are historical case-study context, not constraints for the new design.
+The existing workflow, deterministic conversion option, native asset requirements,
+and tool permissions are unchanged. No new character, size or palette selected.
+
+
 Updated: 27 October 2026.
 
 ## Goal

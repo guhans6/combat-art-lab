@@ -1,0 +1,17 @@
+{
+  "source": "../inputs/02-strap-lift.png",
+  "mask": "../inputs/mask-02.png",
+  "scale": 0.17906066536203522,
+  "canvas": [
+    256,
+    208
+  ],
+  "source_anchor": [
+    684,
+    1052
+  ],
+  "target_anchor": [
+    123,
+    193
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "inputs": {
+    "source": {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/.scratch/aseprite-learning/learning/aseprite/practice/all-original-poses-2026-11-01/inputs/02-strap-lift.png",
+      "sha256": "7506d17fcfa421451fdd118977359c75615db5d3ee79343fe3842706f3a280ec"
+    },
+    "mask": {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/.scratch/aseprite-learning/learning/aseprite/practice/all-original-poses-2026-11-01/inputs/mask-02.png",
+      "sha256": "fa47d01d69f8ac95bd94c91095c7c717bcc50fb166a58c9d4e1f78600a0ad4cb"
+    }
+  },
+  "recipe": {
+    "source": "../inputs/02-strap-lift.png",
+    "mask": "../inputs/mask-02.png",
+    "scale": 0.17906066536203522,
+    "canvas": [
+      256,
+      208
+    ],
+    "source_anchor": [
+      684,
+      1052
+    ],
+    "target_anchor": [
+      123,
+      193
+    ]
+  },
+  "recipe_sha256": "a4a043c610c998d21835ca0714296699700dd93908c7f02fb0f3eed06330a2a2",
+  "pillow": "13.0.0",
+  "python": "3.13.13 (main, May 10 2026, 19:20:37) [Clang 22.1.3 ]",
+  "script_sha256": "b7fe64ac47772335e15b90ac3f906feacdbc3d1dae72df9fa74948731ab05f49",
+  "source_bounds": [
+    523,
+    30,
+    955,
+    1052
+  ],
+  "placed_size": [
+    77,
+    183
+  ],
+  "offset": [
+    94,
+    10
+  ],
+  "visible_colors": 4490,
+  "visible_colors_are_source_samples": true,
+  "output_rgba_sha256": "379fd95d63b7a4d00f9193321ac2a13bf5fadad23ecbb7f973cf1fa7156f3936",
+  "limits": "Flat conversion seed; no anatomical cleanup or semantic layers. Existing mask is a reviewed input."
+}

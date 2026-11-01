@@ -1,0 +1,78 @@
+{ "frames": [
+   {
+    "filename": "original-poses-correction 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 400
+   },
+   {
+    "filename": "original-poses-correction 1.aseprite",
+    "frame": { "x": 256, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 400
+   },
+   {
+    "filename": "original-poses-correction 2.aseprite",
+    "frame": { "x": 512, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 400
+   },
+   {
+    "filename": "original-poses-correction 3.aseprite",
+    "frame": { "x": 768, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 400
+   },
+   {
+    "filename": "original-poses-correction 4.aseprite",
+    "frame": { "x": 1024, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 400
+   },
+   {
+    "filename": "original-poses-correction 5.aseprite",
+    "frame": { "x": 1280, "y": 0, "w": 256, "h": 208 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 208 },
+    "sourceSize": { "w": 256, "h": 208 },
+    "duration": 400
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.18.6-dev",
+  "image": "native-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 1536, "h": 208 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "1 - Idle - converted", "opacity": 255, "blendMode": "normal" },
+   { "name": "2 - Reach - converted", "opacity": 255, "blendMode": "normal" },
+   { "name": "3 - Strap grip - converted", "opacity": 255, "blendMode": "normal" },
+   { "name": "4 - Windup - converted", "opacity": 255, "blendMode": "normal" },
+   { "name": "5 - Swing - converted", "opacity": 255, "blendMode": "normal" },
+   { "name": "6 - Recovery - converted", "opacity": 255, "blendMode": "normal" },
+   { "name": "Corrections", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

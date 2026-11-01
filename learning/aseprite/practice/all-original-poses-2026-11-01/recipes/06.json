@@ -1,0 +1,17 @@
+{
+  "source": "../inputs/06-recovery.png",
+  "mask": "../inputs/mask-06.png",
+  "scale": 0.17906066536203522,
+  "canvas": [
+    256,
+    208
+  ],
+  "source_anchor": [
+    760,
+    1054
+  ],
+  "target_anchor": [
+    127,
+    193
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "one_pixel_change": [
+    [
+      10,
+      4
+    ]
+  ],
+  "reopen_equal": true,
+  "erase_change": [
+    [
+      10,
+      4
+    ]
+  ],
+  "protected_pattern_unchanged_on_erase": true,
+  "out_of_mask_changes": [
+    [
+      2,
+      2
+    ]
+  ],
+  "out_of_mask_rejected": true,
+  "transparent_skip_observed_changes": 0
+}

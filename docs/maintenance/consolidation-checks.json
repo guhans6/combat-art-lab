@@ -1,0 +1,11 @@
+{
+  "lesson_local_links": 190,
+  "canonical_duplicate_hashes": 45,
+  "native_workbooks_unchanged": 7,
+  "converter_rerun_bytes_exact": true,
+  "runtime_config_unchanged": true,
+  "tool_tests": 42,
+  "git_base": "9e35c5c",
+  "parent_snapshot": "0930aba",
+  "teaching_snapshot": "6f745de"
+}

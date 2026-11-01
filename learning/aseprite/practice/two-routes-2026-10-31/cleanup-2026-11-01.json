@@ -1,0 +1,286 @@
+{
+  "removed_files": [
+    {
+      "path": "learning/aseprite/output/playwright/two-routes-browser-checks.log",
+      "bytes": 4797,
+      "sha256": "ec0196f2951e4026a9ea1a037577449b8104864c28174cc790a90c7e97f8d66d"
+    },
+    {
+      "path": "learning/aseprite/output/playwright/two-routes-desktop.png",
+      "bytes": 632847,
+      "sha256": "0794dc4c54b18062de9ecb30719451a40efad20f76b90f1b2c67e383fc5f4a26"
+    },
+    {
+      "path": "learning/aseprite/output/playwright/two-routes-final-navigation.log",
+      "bytes": 1200,
+      "sha256": "7e37cbcca24d8a51e6528e666ed23c3d87da0c910788226883df7256d3071630"
+    },
+    {
+      "path": "learning/aseprite/output/playwright/two-routes-home.png",
+      "bytes": 133524,
+      "sha256": "cbcc9d615006770414d9541f547e919e766f4a777d4df596940d271f2bc8a42f"
+    },
+    {
+      "path": "learning/aseprite/output/playwright/two-routes-mobile.png",
+      "bytes": 584877,
+      "sha256": "4b4786876557e9466c4d50e91969141f090349d3207f82b526fdf12fded77087"
+    },
+    {
+      "path": "learning/aseprite/output/playwright/two-routes-print.png",
+      "bytes": 239947,
+      "sha256": "6b77e55a4bbc79573b1e0f2a9ef9a9895b76a9c06d9076dad54d82d70a9652fe"
+    },
+    {
+      "path": "learning/aseprite/output/playwright/two-routes-static-checks.json",
+      "bytes": 82,
+      "sha256": "9d40d93bc7d79a4fc8256b8426d90e8e002e29bf9bedf0d7a9d9038ad2ad4fac"
+    },
+    {
+      "path": "learning/aseprite/output/playwright/two-routes-workbooks.png",
+      "bytes": 122511,
+      "sha256": "8bd4a0ec7e1feb1541fda6430f2d7f5cf54ceb9067e5a29bf1e5b67cf7434a1f"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/automatic-draft.aseprite",
+      "bytes": 30949,
+      "sha256": "e7b5f72025cef92d1e06f9e8f41a1f88ff41e45da3a5992a5f70042326c53b8d"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/automatic-first-keys.aseprite",
+      "bytes": 16285,
+      "sha256": "08b51ab3d1ca1742f8da6a52c6b438d0bcb55d97b51265223344489944a7c1eb"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/evidence/automatic-reopened-frame1.png",
+      "bytes": 4568,
+      "sha256": "3406f7881909cc766fdfc6f66c297a1c5054d735b7c15711b428e4c1e3253218"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/evidence/first-keys-frame1.png",
+      "bytes": 4568,
+      "sha256": "3406f7881909cc766fdfc6f66c297a1c5054d735b7c15711b428e4c1e3253218"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/evidence/first-keys-reopened-1.png",
+      "bytes": 4568,
+      "sha256": "3406f7881909cc766fdfc6f66c297a1c5054d735b7c15711b428e4c1e3253218"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/evidence/first-keys-reopened-2.png",
+      "bytes": 5806,
+      "sha256": "fdbc289ab4e25eddb065fe0a28085746b2b112f605574f51d246cdef198ab880"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/evidence/first-keys-reopened-3.png",
+      "bytes": 6017,
+      "sha256": "5eaf9d796140e48371c52dcad34d4e8e24851c6263a79cd72c59693d64060948"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/evidence/local-revision-proof.aseprite",
+      "bytes": 31078,
+      "sha256": "dbe28e5a570e787d5d74ec15156216dc4b2aaf6caee8d83d3dcafd13df44ec96"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/evidence/local-revision-proof.png",
+      "bytes": 4572,
+      "sha256": "36ea35b3d7b89f50e544ed720be4ea1cdf9933e86a67bae780bd031285293d8b"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/evidence/local-revision-reopened.png",
+      "bytes": 4572,
+      "sha256": "36ea35b3d7b89f50e544ed720be4ea1cdf9933e86a67bae780bd031285293d8b"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/evidence/manual-guides-hidden-frame1.png",
+      "bytes": 156,
+      "sha256": "ff30c0a7268849427c5b6085bc05b348e70289a37c3f23be10cec8b29a26ee6d"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/evidence/manual-keys-guide-hidden.png",
+      "bytes": 156,
+      "sha256": "ff30c0a7268849427c5b6085bc05b348e70289a37c3f23be10cec8b29a26ee6d"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/evidence/smoke-after.aseprite",
+      "bytes": 1127,
+      "sha256": "27fb750e1b2639dad6dd99bc05d58c910503616ca4f66510027c668bd4d44f57"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/evidence/smoke-after.png",
+      "bytes": 133,
+      "sha256": "e8fce773c09e8ad9501824cf4a1be51e950f893f0ac5209fca6d33a8127a086b"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/evidence/smoke-before.aseprite",
+      "bytes": 1127,
+      "sha256": "8f9d24477ee20852dbe8e9df3ea989d389e7303c7cffc9cf32b49cf8d9042a35"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/evidence/smoke-before.png",
+      "bytes": 133,
+      "sha256": "cc3540bc58616ed1b754eeadca319cb04565b92c44c3020961dba2ff809c7527"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/evidence/smoke-erased.png",
+      "bytes": 128,
+      "sha256": "552882e9ee5b9bd53cabfcb5be727e958a3c33456d6e143b76a4c68f49b45a6c"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/evidence/smoke-out-of-mask.png",
+      "bytes": 140,
+      "sha256": "9a81bcd61111744308862f0f88e2d7fdc354ac4adff2f9b851a44b87acaea272"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/evidence/smoke-reopened.png",
+      "bytes": 133,
+      "sha256": "e8fce773c09e8ad9501824cf4a1be51e950f893f0ac5209fca6d33a8127a086b"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/evidence/source-versus-seed.png",
+      "bytes": 18689,
+      "sha256": "07ec97445887dec7981ab8281be382741901a455ab0a3bb348b64b7478f39c54"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/hand-trace-first-keys.aseprite",
+      "bytes": 8585,
+      "sha256": "1d9ae3423c2bc2c11209b7826d2e69997ed89ae2d3b6421c453b2ecc5e30f4fd"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/hand-trace.aseprite",
+      "bytes": 15941,
+      "sha256": "006506eae5c1e8334a3568314e4add1fd12710648a0a5f0a928a5a9de783c0d4"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/payloads/palette.json",
+      "bytes": 421,
+      "sha256": "578fd6757ff672a3ba6ae86e3cfdaf5754b01b75bae47729c04de87c361d1ed5"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/payloads/pose-01.json",
+      "bytes": 18144,
+      "sha256": "e56e1217035b258f5a7d1868f53794a62b95b74117d2311089d879d5e8fc542f"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/payloads/pose-02.json",
+      "bytes": 18144,
+      "sha256": "9de4bb15187b56a368a674cc45bc35c1a07d145e05cbd598ee114730f704b1df"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/payloads/pose-03.json",
+      "bytes": 18144,
+      "sha256": "c77384ff0b54a8bc75c958cdd8a185488b84a2a60f40d78926f58526e8fc944b"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/payloads/pose-04.json",
+      "bytes": 18144,
+      "sha256": "278f1429b7a2869d6a50871c50276fb66365b03de2e0d87c6b328fb77e6442d7"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/payloads/pose-05.json",
+      "bytes": 18144,
+      "sha256": "ae20725182a76afe94e79e83a299e8f0e76ebb635c66d3d0ff80be0f587f170a"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/payloads/pose-06.json",
+      "bytes": 18144,
+      "sha256": "d36bc0f576a5727928208c8b7b3c07ccffb69c68f92dce8f070766e2e70ec72e"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/previews/contact-sheet.png",
+      "bytes": 42416,
+      "sha256": "591948bdf8052caacb26bebb3608d69c7fd53ba7f7ac41a4c4b4aa7b0f0d6fe1"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/previews/first-keys.gif",
+      "bytes": 22025,
+      "sha256": "a7252ae64e49ec0a778fe54f8040589738170eabd3bebe988fba52d195bfb9af"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/previews/pose-0.png",
+      "bytes": 4568,
+      "sha256": "3406f7881909cc766fdfc6f66c297a1c5054d735b7c15711b428e4c1e3253218"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/previews/pose-01.png",
+      "bytes": 4568,
+      "sha256": "3406f7881909cc766fdfc6f66c297a1c5054d735b7c15711b428e4c1e3253218"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/previews/pose-02.png",
+      "bytes": 4928,
+      "sha256": "a2ca7dfb477a0e27dba7a503fb1d1cd33a10f7581c8346717025f60dea26a89b"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/previews/pose-03.png",
+      "bytes": 4813,
+      "sha256": "075699edd2fc977b119234cf9bf05c039290c39c7b5a7bae3fbd2a5c61b0eaab"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/previews/pose-04.png",
+      "bytes": 5806,
+      "sha256": "fdbc289ab4e25eddb065fe0a28085746b2b112f605574f51d246cdef198ab880"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/previews/pose-05.png",
+      "bytes": 6017,
+      "sha256": "5eaf9d796140e48371c52dcad34d4e8e24851c6263a79cd72c59693d64060948"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/previews/pose-06.png",
+      "bytes": 5362,
+      "sha256": "5fdbaae08ed2398115bcb9514435fa90f9be472e017b62f35d5dfd9e014a87a7"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/previews/pose-1.png",
+      "bytes": 4928,
+      "sha256": "a2ca7dfb477a0e27dba7a503fb1d1cd33a10f7581c8346717025f60dea26a89b"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/previews/pose-2.png",
+      "bytes": 4813,
+      "sha256": "075699edd2fc977b119234cf9bf05c039290c39c7b5a7bae3fbd2a5c61b0eaab"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/previews/pose-3.png",
+      "bytes": 5806,
+      "sha256": "fdbc289ab4e25eddb065fe0a28085746b2b112f605574f51d246cdef198ab880"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/previews/pose-4.png",
+      "bytes": 6017,
+      "sha256": "5eaf9d796140e48371c52dcad34d4e8e24851c6263a79cd72c59693d64060948"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/previews/pose-5.png",
+      "bytes": 5362,
+      "sha256": "5fdbaae08ed2398115bcb9514435fa90f9be472e017b62f35d5dfd9e014a87a7"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/previews/pose-study-sheet.json",
+      "bytes": 2124,
+      "sha256": "ab0420cd9fcef8f313bcd217988f438d698f1109925c78e4d4a6b16ba3a8b0f0"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/previews/pose-study-sheet.png",
+      "bytes": 27099,
+      "sha256": "5f41df64faa7828ee3da52ca0752b37ce882a717a3726d17a36cad79a1df3af6"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/previews/pose-study.gif",
+      "bytes": 42204,
+      "sha256": "da305826b3978d74feca5c01451dd06ac10f8920be7cc5286f0f41d914381e33"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/rebuild/__pycache__/prepare_payloads.cpython-311.pyc",
+      "bytes": 15478,
+      "sha256": "89d6c40688e7810efcfe15ca496f4bb16a8ff8bf88996da328342a961bc08650"
+    },
+    {
+      "path": "learning/aseprite/practice/two-routes-2026-10-31/rebuild/__pycache__/verify_and_preview.cpython-311.pyc",
+      "bytes": 45319,
+      "sha256": "fba22fa3a38a91f4b0639b061e992df34a8874016476d44fbc765ddbd23b543e"
+    }
+  ],
+  "count": 56,
+  "bytes": 2248154
+}

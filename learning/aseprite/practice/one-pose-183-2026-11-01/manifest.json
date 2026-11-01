@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-01",
+  "source_chat": {
+    "title": "Redo tote animation with smear research",
+    "id": "01a19024-f723-7a23-ad2b-74fbda7ff9e6"
+  },
+  "input_source_root": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear",
+  "source_png": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/inputs/original-neutral.png",
+  "source_native": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/inputs/original-neutral.aseprite",
+  "input_png_sha256": "3995b4cfadfbf4eba0b26ef9625bdd220c33e399d20d53fe923d8154f6bd74b7",
+  "input_native_sha256": "d76266fa8afcd1de643e6b6421ec4dfe4fa77f8044a1d083205b921eb2f25540",
+  "canvas": [
+    128,
+    192
+  ],
+  "visible_bounds": [
+    32,
+    2,
+    104,
+    185
+  ],
+  "visible_height": 183,
+  "visible_pixels": 7844,
+  "visible_colors": 248,
+  "prior_animation_entry": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/clean-01.png",
+  "prior_animation_translation": [
+    60,
+    8
+  ],
+  "exact_prior_entry_pixels": true,
+  "preparation": "Reuse earlier standing artwork at native size; no resampling, color quantization, new drawing or in-betweens.",
+  "starter_frames": 1,
+  "older_92px_study": "Preserved separately; superseded for current exercise."
+}

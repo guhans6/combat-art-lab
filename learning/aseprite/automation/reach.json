@@ -1,0 +1,17 @@
+{
+  "source": "reach-original.png",
+  "mask": "reach-mask.png",
+  "height": 183,
+  "canvas": [
+    256,
+    208
+  ],
+  "source_anchor": [
+    684,
+    1052
+  ],
+  "target_anchor": [
+    123,
+    193
+  ]
+}

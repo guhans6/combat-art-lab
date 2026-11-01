@@ -1,0 +1,295 @@
+{
+  "format": "aseprite-grid-payload-preparation/v1",
+  "purpose": "deterministic automatic draft preparation for later native Aseprite cleanup",
+  "inputs": [
+    {
+      "file": "inputs/pose-01.png",
+      "sha256": "815189b52704bce65416011e4d2aa411c8a58cd52e0e615e621829dae2e8a129",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "mode": "RGBA",
+      "before_alpha_ge_128": {
+        "opaque_pixels": 236629,
+        "alpha_ge_128_bounds_xyxy": [
+          544,
+          51,
+          938,
+          1038
+        ]
+      }
+    },
+    {
+      "file": "inputs/pose-02.png",
+      "sha256": "7506d17fcfa421451fdd118977359c75615db5d3ee79343fe3842706f3a280ec",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "mode": "RGBA",
+      "before_alpha_ge_128": {
+        "opaque_pixels": 263401,
+        "alpha_ge_128_bounds_xyxy": [
+          523,
+          29,
+          954,
+          1051
+        ]
+      }
+    },
+    {
+      "file": "inputs/pose-03.png",
+      "sha256": "836d958e555b3b2beaec82c30f22a2600c831b6bb023b1d7f1022c83bf6e50c5",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "mode": "RGBA",
+      "before_alpha_ge_128": {
+        "opaque_pixels": 243216,
+        "alpha_ge_128_bounds_xyxy": [
+          549,
+          34,
+          959,
+          1035
+        ]
+      }
+    },
+    {
+      "file": "inputs/pose-04.png",
+      "sha256": "5e0cd8d96455a2397be21dd8f8583fd4ef0b73acd9fcbe57c591bde40f6c5e86",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "mode": "RGBA",
+      "before_alpha_ge_128": {
+        "opaque_pixels": 298498,
+        "alpha_ge_128_bounds_xyxy": [
+          356,
+          30,
+          1079,
+          1049
+        ]
+      }
+    },
+    {
+      "file": "inputs/pose-05.png",
+      "sha256": "0504733c8c87e44cde5098d1b7d71ac30cdb258265433ded1a2c6694398c4d51",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "mode": "RGBA",
+      "before_alpha_ge_128": {
+        "opaque_pixels": 311573,
+        "alpha_ge_128_bounds_xyxy": [
+          426,
+          22,
+          1262,
+          1055
+        ]
+      }
+    },
+    {
+      "file": "inputs/pose-06.png",
+      "sha256": "ca9aaea197c48dbc44919c5cc460a802da78671fd5df2f5df1505ddbdac2734b",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "mode": "RGBA",
+      "before_alpha_ge_128": {
+        "opaque_pixels": 273099,
+        "alpha_ge_128_bounds_xyxy": [
+          506,
+          32,
+          1227,
+          1056
+        ]
+      }
+    }
+  ],
+  "destination": {
+    "dimensions": [
+      128,
+      128
+    ],
+    "mode": "RGBA"
+  },
+  "alpha": {
+    "threshold": "alpha >= 128 becomes opaque alpha 255; alpha < 128 becomes transparent",
+    "rgb_hue_deletion": "none",
+    "before": "source alpha >= 128 statistics are recorded per input",
+    "after": "post-sample/post-palette canonical RGBA statistics are recorded per frame"
+  },
+  "transform": {
+    "source_to_target_scale": [
+      3,
+      32
+    ],
+    "translation_xy": [
+      -4,
+      8
+    ],
+    "sampling": "nearest-center: sx=floor((x+0.5-tx)/s), sy=floor((y+0.5-ty)/s); out-of-bounds transparent",
+    "per_frame_fitting": false
+  },
+  "shared_palette": {
+    "payload": "payloads/palette.json",
+    "colors_total": 32,
+    "opaque_color_count": 31,
+    "native_palette_index_0": "#00000000",
+    "recipe": "pooled post-threshold RGB samples from all six destinations; Pillow MEDIANCUT colors=31, no dither; each opaque draft pixel maps to the shared palette by minimum squared RGB distance, lowest index on ties",
+    "pillow_version": "12.0.0"
+  },
+  "frames": [
+    {
+      "pose": 1,
+      "phase": "neutral",
+      "duration_ms": 600,
+      "payload": "payloads/pose-01.json",
+      "after_alpha_ge_128": {
+        "opaque_pixels": 2077,
+        "alpha_ge_128_bounds_xyxy": [
+          47,
+          13,
+          83,
+          104
+        ],
+        "draft_pixel_hash_canonical_rgba_sha256": "830e774da6d7cd6710097469af8635b096c7646f9d59099df57fbd7f7be80469",
+        "draft_pixel_count": 2077
+      }
+    },
+    {
+      "pose": 2,
+      "phase": "straplift",
+      "duration_ms": 250,
+      "payload": "payloads/pose-02.json",
+      "after_alpha_ge_128": {
+        "opaque_pixels": 2320,
+        "alpha_ge_128_bounds_xyxy": [
+          45,
+          11,
+          85,
+          106
+        ],
+        "draft_pixel_hash_canonical_rgba_sha256": "c433e86b5af291063f5980bc03f12de69db5a49d42109d058ec6fcd98ed93b56",
+        "draft_pixel_count": 2320
+      }
+    },
+    {
+      "pose": 3,
+      "phase": "grip",
+      "duration_ms": 250,
+      "payload": "payloads/pose-03.json",
+      "after_alpha_ge_128": {
+        "opaque_pixels": 2141,
+        "alpha_ge_128_bounds_xyxy": [
+          47,
+          11,
+          85,
+          104
+        ],
+        "draft_pixel_hash_canonical_rgba_sha256": "a322be5e896440474a060758bf05ce3b9c9d9ede669ac870e32fabc281e08248",
+        "draft_pixel_count": 2141
+      }
+    },
+    {
+      "pose": 4,
+      "phase": "windup",
+      "duration_ms": 350,
+      "payload": "payloads/pose-04.json",
+      "after_alpha_ge_128": {
+        "opaque_pixels": 2620,
+        "alpha_ge_128_bounds_xyxy": [
+          29,
+          11,
+          96,
+          105
+        ],
+        "draft_pixel_hash_canonical_rgba_sha256": "de8d8b66dedfab2b2a2e8186c3b8b89ee0f8a98e01cf2c418cf0844f776c28a8",
+        "draft_pixel_count": 2620
+      }
+    },
+    {
+      "pose": 5,
+      "phase": "swing",
+      "duration_ms": 150,
+      "payload": "payloads/pose-05.json",
+      "after_alpha_ge_128": {
+        "opaque_pixels": 2749,
+        "alpha_ge_128_bounds_xyxy": [
+          36,
+          10,
+          113,
+          106
+        ],
+        "draft_pixel_hash_canonical_rgba_sha256": "3c03fd20809d850030bdb0c280511889ed35492a8a5f5f8c330656340310a832",
+        "draft_pixel_count": 2749
+      }
+    },
+    {
+      "pose": 6,
+      "phase": "recovery",
+      "duration_ms": 400,
+      "payload": "payloads/pose-06.json",
+      "after_alpha_ge_128": {
+        "opaque_pixels": 2397,
+        "alpha_ge_128_bounds_xyxy": [
+          43,
+          11,
+          110,
+          106
+        ],
+        "draft_pixel_hash_canonical_rgba_sha256": "7f595f2678040eff9879821ffad9c20fac543e89a71f24d78ef14d6aa7f97c0a",
+        "draft_pixel_count": 2397
+      }
+    }
+  ],
+  "study": {
+    "kind": "pose study, not a full attack",
+    "phases": [
+      "neutral",
+      "straplift",
+      "grip",
+      "windup",
+      "swing",
+      "recovery"
+    ],
+    "durations_ms": [
+      600,
+      250,
+      250,
+      350,
+      150,
+      400
+    ],
+    "scope": "automatic draft only; colored opaque edge artifacts may remain for user cleanup",
+    "excluded": [
+      "AI artistic pixel correction",
+      "inbetweens",
+      "game approval",
+      "derived PNG/GIF/sprite export"
+    ],
+    "study_budget": "one preparation pass plus one parameter repair if wrong",
+    "trial_actor": "93-97",
+    "supersedes": "draft 183 high is irrelevant to this new trial"
+  },
+  "rebuild": {
+    "command": "/Users/guhan/.pyenv/versions/3.11.13/bin/python3 rebuild/prepare_payloads.py",
+    "python": "3.11.13",
+    "outputs": [
+      "payloads/palette.json",
+      "payloads/pose-01.json",
+      "payloads/pose-02.json",
+      "payloads/pose-03.json",
+      "payloads/pose-04.json",
+      "payloads/pose-05.json",
+      "payloads/pose-06.json",
+      "manifest.json"
+    ],
+    "exports_images": false
+  }
+}
