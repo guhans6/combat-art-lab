@@ -1,0 +1,70 @@
+{
+  "source_still_matches_reviewed_sha": true,
+  "source_sha256": "d5b9d7675de8bea50a1941361d3e3bed3c187b3ee7e1d7e0585d51f8d37cc8ed",
+  "reopen_equals_native_derived_frames": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "palette_chunk_hashes_baseline": [
+    "f2d4907a7493af8e6557f933e3c2c40d73f733658fc8250d925f79678ffb5b81"
+  ],
+  "palette_chunk_hashes_candidate": [
+    "f2d4907a7493af8e6557f933e3c2c40d73f733658fc8250d925f79678ffb5b81"
+  ],
+  "native_binary_alpha_all_frames": true,
+  "no_new_enclosed_holes": true,
+  "baseline_native_unchanged": true,
+  "baseline_png_unchanged": true,
+  "gif_all_frames_exact_native_nearest4x_normalized_transparent_rgb": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "gif_pixel_blocks_uniform_4x": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "blink_same_as_initial": [
+    true,
+    true,
+    true
+  ],
+  "alpha_removed_by_frame": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "alpha_added_by_frame": [
+    0,
+    4,
+    9,
+    4,
+    0,
+    0,
+    0,
+    0
+  ],
+  "actual_speed_watched": false
+}

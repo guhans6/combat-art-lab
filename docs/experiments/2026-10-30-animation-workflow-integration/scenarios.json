@@ -1,0 +1,43 @@
+[
+  {
+    "id": "shirt-in-idle",
+    "request": "Investigate an idle whose movement is preferred but whose clothing seems to change color. Compare both characters in the earlier GIF; neither side is selected. Do not draw.",
+    "inputs": ["docs/experiments/2026-10-30-natural-idle-sol/proof/terra-left-sol-right-3x.gif", "docs/experiments/2026-10-30-redrawn-breathing-sol/proof/neutral-3x.gif"],
+    "evidence": "All frames use only colors present in their own rest. Native sources and frame PNGs are beside each GIF's proof folder. Tools expose still images and decoded times only."
+  },
+  {
+    "id": "arm-cast-shadow",
+    "request": "Plan the next in-between for a character raising an arm under a fixed overhead light. The arm's shadow crosses the shirt. Preserve the established style.",
+    "evidence": "Reviewed rest and raised-arm key poses show matching garment seams, fixed light direction and a shadow attached to the arm's occlusion. Those keys are user-selected. The palette is unchanged. No runtime playback yet."
+  },
+  {
+    "id": "rigid-prop",
+    "request": "Make a short horizontal movement of a rigid sign carried by a character. The sign remains front-facing; its lettering and painted highlights must retain their shapes.",
+    "evidence": "Native sign is an isolated normal-blend layer with verified ownership, no rotation or deformation, existing palette and a declared six-pixel translation. Construction is authorized in a separate output."
+  },
+  {
+    "id": "cloth-expansion",
+    "request": "Plan a quiet breathing loop for a jacket over a shirt. Make the chest expand and release with connected shoulders while retaining the static candidate's appearance.",
+    "evidence": "User-selected static source, fixed light, pocketed hands, planted feet. Shoulder and torso surface shapes change. Named layers contain neighboring pixels from other parts. Only the scoped animation output may change."
+  },
+  {
+    "id": "stills-review",
+    "request": "Review these twelve pose exports for a smooth natural idle and give a delivery verdict.",
+    "evidence": "All static poses, native source and decoded durations are available and checked for matching export. No tool can expose actual-speed playback to the reviewer. No user playback feedback exists."
+  },
+  {
+    "id": "static-mouth",
+    "request": "Correct the tiny mouth of this one still pose to a quieter smile. Protect the rest. No animation requested.",
+    "evidence": "Native original and canonical close-up exist. A faint mark below the nose is ambiguous. Current face-layer naming has not been verified against visible ownership."
+  },
+  {
+    "id": "static-shoe",
+    "request": "Add two lace accents to this single static sprite, within the supplied shoe mask and palette.",
+    "evidence": "Authorized protected correction; native source, exact export, verified shoe owner and mask exist. No expression or movement change."
+  },
+  {
+    "id": "unrelated",
+    "request": "Sort this CSV by invoice date and preserve its columns.",
+    "evidence": "A CSV file is supplied; no art asset or animation task."
+  }
+]

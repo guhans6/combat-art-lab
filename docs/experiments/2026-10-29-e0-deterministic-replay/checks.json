@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "run": "E0 deterministic B00 replay",
+  "native_backend": "aseprite-ai-artist 0.8.2 headless / Aseprite 1.3.18.6-dev",
+  "replays": {
+    "count": 2,
+    "decoded_rgba_equal": true,
+    "historical_b00_png_sha256": "0341156ff730ebc22514cb267d758bc81968596faff20b06fdd5264e0ae8b55d",
+    "fresh_reopen_exports_equal": true,
+    "canvas": [120, 112],
+    "frames": 1,
+    "ordered_layers": ["01-jacket", "02-shirt", "03-neck-ear", "04-rear-hair", "05-face", "06-crown-fringe", "07-hair-tie", "08-eyes-brows", "09-mouth"]
+  },
+  "ownership": {"overlaps": 0, "unowned_foreground": 0, "part_outside_seed": 0},
+  "prepared_seed_comparison": {"alpha_equal": true, "visible_rgba_equal": true, "transparent_rgb_differences": 5907},
+  "initial_local_edit": {"retained": true, "strict_checker_passed": false, "failure": ["header changed", "frames changed"]},
+  "normalized_local_edit": {"layer": "07-hair-tie", "coordinate": [26, 38], "changed_pixels": 1, "fresh_reopen_export_equal": true, "unchanged_strict_checker_passed": true}
+}

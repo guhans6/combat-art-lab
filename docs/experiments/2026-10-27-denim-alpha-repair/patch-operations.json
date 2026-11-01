@@ -1,0 +1,67 @@
+[
+  {
+    "frame": 1,
+    "layer": "01-denim",
+    "label": "Restore original fabric pixels removed by cleanup"
+  },
+  {
+    "frame": 2,
+    "layer": "01-denim",
+    "label": "Restore original fabric pixels removed by cleanup"
+  },
+  {
+    "frame": 2,
+    "layer": "00-joint-underpaint",
+    "label": "Cover reviewed gaps exposed by idle part movement"
+  },
+  {
+    "frame": 3,
+    "layer": "01-denim",
+    "label": "Restore original fabric pixels removed by cleanup"
+  },
+  {
+    "frame": 3,
+    "layer": "00-joint-underpaint",
+    "label": "Cover reviewed gaps exposed by idle part movement"
+  },
+  {
+    "frame": 4,
+    "layer": "01-denim",
+    "label": "Restore original fabric pixels removed by cleanup"
+  },
+  {
+    "frame": 4,
+    "layer": "00-joint-underpaint",
+    "label": "Cover reviewed gaps exposed by idle part movement"
+  },
+  {
+    "frame": 5,
+    "layer": "01-denim",
+    "label": "Restore original fabric pixels removed by cleanup"
+  },
+  {
+    "frame": 5,
+    "layer": "00-joint-underpaint",
+    "label": "Cover reviewed gaps exposed by idle part movement"
+  },
+  {
+    "frame": 6,
+    "layer": "01-denim",
+    "label": "Restore original fabric pixels removed by cleanup"
+  },
+  {
+    "frame": 6,
+    "layer": "00-joint-underpaint",
+    "label": "Cover reviewed gaps exposed by idle part movement"
+  },
+  {
+    "frame": 7,
+    "layer": "01-denim",
+    "label": "Restore original fabric pixels removed by cleanup"
+  },
+  {
+    "frame": 8,
+    "layer": "01-denim",
+    "label": "Restore original fabric pixels removed by cleanup"
+  }
+]

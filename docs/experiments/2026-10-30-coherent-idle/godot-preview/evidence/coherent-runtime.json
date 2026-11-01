@@ -1,0 +1,213 @@
+{
+	"default_window_scale": 2,
+	"display_server": "macOS",
+	"durations_ms": [
+		1100,
+		180,
+		120,
+		360,
+		220,
+		160,
+		240,
+		1000
+	],
+	"engine": "4.7.2-stable (official)",
+	"events": [
+		{
+			"frame": 1,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 1711
+		},
+		{
+			"frame": 2,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 1886
+		},
+		{
+			"frame": 3,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 2011
+		},
+		{
+			"frame": 4,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 2353
+		},
+		{
+			"frame": 5,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 2578
+		},
+		{
+			"frame": 6,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 2730
+		},
+		{
+			"frame": 7,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 2978
+		},
+		{
+			"frame": 0,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 3946
+		},
+		{
+			"frame": 1,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 5050
+		},
+		{
+			"frame": 2,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 5237
+		},
+		{
+			"frame": 3,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 5354
+		},
+		{
+			"frame": 4,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 5713
+		},
+		{
+			"frame": 5,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 5933
+		},
+		{
+			"frame": 6,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 6092
+		},
+		{
+			"frame": 7,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 6334
+		},
+		{
+			"frame": 0,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 7328
+		},
+		{
+			"frame": 1,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 8425
+		},
+		{
+			"frame": 2,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 8611
+		},
+		{
+			"frame": 3,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 8728
+		},
+		{
+			"frame": 4,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 9087
+		},
+		{
+			"frame": 5,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 9308
+		},
+		{
+			"frame": 6,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 9466
+		},
+		{
+			"frame": 7,
+			"root": [
+				88.0,
+				69.0
+			],
+			"time_ms": 9708
+		}
+	],
+	"filter": "nearest",
+	"frames": 8,
+	"loops": 3,
+	"native_scale": 1,
+	"root": [
+		88,
+		69
+	],
+	"viewport": [
+		362,
+		304
+	]
+}

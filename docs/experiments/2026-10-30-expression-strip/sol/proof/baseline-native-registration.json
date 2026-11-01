@@ -1,0 +1,4497 @@
+{
+  "baseline": "docs/experiments/2026-10-30-luna-fullbody-once/trial-b/passes/luna6-fullbody-cleanup.aseprite",
+  "canvas": [
+    128,
+    192
+  ],
+  "layers": [
+    {
+      "name": "guide-source-seed (hidden)",
+      "flags": 0,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "00-shoes",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "01-denim",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "02a-jacket-left",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "02b-jacket-right",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "03-shirt",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "04-tote",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "05-tote-strap",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "06a-left-hand",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "06b-right-hand",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "07-face-and-neck",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "08-hair-tie-and-hair",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    }
+  ],
+  "frames": [
+    {
+      "duration_ms": 100,
+      "non_cel_chunks": [
+        {
+          "type": "0x2007",
+          "sha256": "4cbbd8ca5215b8d161aec181a74b694f4e24b001d5b081dc0030ed797a8973e0"
+        },
+        {
+          "type": "0x2019",
+          "sha256": "f2d4907a7493af8e6557f933e3c2c40d73f733658fc8250d925f79678ffb5b81"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "f70a90402025e34c2692a0a71b1f7a07f5f48028b94e9d77ad4caaa53a58629f"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "186956c84456b804009f512a5d82d84ea61f1ca4746ce07113f5f1197634df0f"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "13342bd5d68094d5cbd4721a7b2fc2c7e42e8a89a91588313d8ce1c688bf2072"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "7002aae4b16e872439f7dd3762bd58ae0e6446035fa84df2a6544bb2cb08942c"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "b51df7dac6264503dbcbf1cecf5d01843a973e7e0cb3e2772cb1974320db6b64"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "ca52d5526d2897192c7158fd7f35053bb4e24193de59fdde8f542c0a0ea79c19"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "6978dfab8394e8a9df4712fe38a1e68357cd86c006c09879c4c0849cfc4d80b2"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "f7cbd2f5063ebf97a0bafd5cf8c26b36d41239a4da9b6d364b5f2922bbb7f589"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "979a82d779b53edc1db8c16e08e13aa8d6f04ad11acfe08792a876e363a037e8"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "04318a1259ae743f247e14dc43fcec3059417cb03b92ea1e6226a937ea27897b"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "bea27e468bbf55a9e7748b22ae4c89f90aa039549e4ad6521ea8d86cc7b74762"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "aabc01497977f8961c3892273d31613fa297340ffa7c9dab86f72ac17d76ef76"
+        }
+      ]
+    }
+  ],
+  "header": "8000c0002000010000006400000000000000000000000000ff0001010000000010001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "feature_patch_owners": [
+    {
+      "x": 60,
+      "y": 18,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            88,
+            51,
+            41,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            88,
+            51,
+            41,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 61,
+      "y": 18,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            112,
+            63,
+            48,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            112,
+            63,
+            48,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62,
+      "y": 18,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            51,
+            15,
+            5,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            51,
+            15,
+            5,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 63,
+      "y": 18,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            58,
+            26,
+            20,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            58,
+            26,
+            20,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 64,
+      "y": 18,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 65,
+      "y": 18,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            241,
+            135,
+            85,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            241,
+            135,
+            85,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66,
+      "y": 18,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            222,
+            130,
+            87,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            222,
+            130,
+            87,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67,
+      "y": 18,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68,
+      "y": 18,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            116,
+            76,
+            64,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            116,
+            76,
+            64,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69,
+      "y": 18,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            106,
+            62,
+            49,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            106,
+            62,
+            49,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70,
+      "y": 18,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            228,
+            133,
+            88,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            228,
+            133,
+            88,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 71,
+      "y": 18,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            251,
+            192,
+            149,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            251,
+            192,
+            149,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 72,
+      "y": 18,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            228,
+            133,
+            88,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            228,
+            133,
+            88,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 73,
+      "y": 18,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            88,
+            51,
+            41,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            88,
+            51,
+            41,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 60,
+      "y": 19,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            83,
+            46,
+            38,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            83,
+            46,
+            38,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 61,
+      "y": 19,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            116,
+            68,
+            51,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            116,
+            68,
+            51,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62,
+      "y": 19,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            225,
+            124,
+            78,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            225,
+            124,
+            78,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 63,
+      "y": 19,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            186,
+            97,
+            58,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            186,
+            97,
+            58,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 64,
+      "y": 19,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            171,
+            101,
+            69,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            171,
+            101,
+            69,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 65,
+      "y": 19,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            105,
+            68,
+            45,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            105,
+            68,
+            45,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66,
+      "y": 19,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            121,
+            80,
+            56,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            121,
+            80,
+            56,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67,
+      "y": 19,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68,
+      "y": 19,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            134,
+            90,
+            76,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            134,
+            90,
+            76,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69,
+      "y": 19,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            66,
+            25,
+            8,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            66,
+            25,
+            8,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70,
+      "y": 19,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 71,
+      "y": 19,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            8,
+            4,
+            3,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            8,
+            4,
+            3,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 72,
+      "y": 19,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            8,
+            4,
+            3,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            8,
+            4,
+            3,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 73,
+      "y": 19,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            52,
+            29,
+            26,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            52,
+            29,
+            26,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 60,
+      "y": 20,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            72,
+            41,
+            37,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            72,
+            41,
+            37,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 61,
+      "y": 20,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            66,
+            30,
+            22,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            66,
+            30,
+            22,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62,
+      "y": 20,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            228,
+            133,
+            88,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            228,
+            133,
+            88,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 63,
+      "y": 20,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            3,
+            2,
+            2,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            3,
+            2,
+            2,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 64,
+      "y": 20,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            211,
+            173,
+            167,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            211,
+            173,
+            167,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 65,
+      "y": 20,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            41,
+            26,
+            23,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            41,
+            26,
+            23,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66,
+      "y": 20,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            3,
+            2,
+            2,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            3,
+            2,
+            2,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67,
+      "y": 20,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            228,
+            133,
+            88,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            228,
+            133,
+            88,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68,
+      "y": 20,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            59,
+            30,
+            26,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            59,
+            30,
+            26,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69,
+      "y": 20,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70,
+      "y": 20,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            213,
+            150,
+            114,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            213,
+            150,
+            114,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 71,
+      "y": 20,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            231,
+            213,
+            199,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            231,
+            213,
+            199,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 72,
+      "y": 20,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            116,
+            60,
+            43,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            116,
+            60,
+            43,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 73,
+      "y": 20,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            72,
+            41,
+            37,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            72,
+            41,
+            37,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 60,
+      "y": 21,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            66,
+            25,
+            8,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            66,
+            25,
+            8,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 61,
+      "y": 21,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62,
+      "y": 21,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            8,
+            4,
+            3,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            8,
+            4,
+            3,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 63,
+      "y": 21,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            206,
+            167,
+            164,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            206,
+            167,
+            164,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 64,
+      "y": 21,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            248,
+            236,
+            224,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            248,
+            236,
+            224,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 65,
+      "y": 21,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            50,
+            22,
+            17,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            50,
+            22,
+            17,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66,
+      "y": 21,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            27,
+            14,
+            13,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            27,
+            14,
+            13,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67,
+      "y": 21,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68,
+      "y": 21,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69,
+      "y": 21,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70,
+      "y": 21,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            236,
+            201,
+            182,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            236,
+            201,
+            182,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 71,
+      "y": 21,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            66,
+            30,
+            22,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            66,
+            30,
+            22,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 72,
+      "y": 21,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            228,
+            133,
+            88,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            228,
+            133,
+            88,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 73,
+      "y": 21,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            72,
+            41,
+            37,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            72,
+            41,
+            37,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 60,
+      "y": 22,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            57,
+            24,
+            15,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            57,
+            24,
+            15,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 61,
+      "y": 22,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62,
+      "y": 22,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 63,
+      "y": 22,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            254,
+            248,
+            238,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            254,
+            248,
+            238,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 64,
+      "y": 22,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            254,
+            248,
+            238,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            254,
+            248,
+            238,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 65,
+      "y": 22,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            121,
+            67,
+            45,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            121,
+            67,
+            45,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66,
+      "y": 22,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            103,
+            58,
+            44,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            103,
+            58,
+            44,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67,
+      "y": 22,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68,
+      "y": 22,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69,
+      "y": 22,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70,
+      "y": 22,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 71,
+      "y": 22,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            135,
+            76,
+            51,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            135,
+            76,
+            51,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 72,
+      "y": 22,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            199,
+            116,
+            78,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            199,
+            116,
+            78,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 73,
+      "y": 22,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            59,
+            30,
+            26,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            59,
+            30,
+            26,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 60,
+      "y": 23,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            108,
+            67,
+            53,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            108,
+            67,
+            53,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 61,
+      "y": 23,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            246,
+            153,
+            104,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            246,
+            153,
+            104,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62,
+      "y": 23,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 63,
+      "y": 23,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            250,
+            158,
+            116,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            250,
+            158,
+            116,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 64,
+      "y": 23,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            254,
+            252,
+            247,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            254,
+            252,
+            247,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 65,
+      "y": 23,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            112,
+            63,
+            48,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            112,
+            63,
+            48,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66,
+      "y": 23,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            190,
+            113,
+            75,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            190,
+            113,
+            75,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67,
+      "y": 23,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68,
+      "y": 23,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69,
+      "y": 23,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70,
+      "y": 23,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 71,
+      "y": 23,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 72,
+      "y": 23,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            252,
+            175,
+            128,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            252,
+            175,
+            128,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 73,
+      "y": 23,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            83,
+            46,
+            38,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            83,
+            46,
+            38,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 60,
+      "y": 24,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            88,
+            51,
+            41,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            88,
+            51,
+            41,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 61,
+      "y": 24,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62,
+      "y": 24,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 63,
+      "y": 24,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            250,
+            158,
+            116,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            250,
+            158,
+            116,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 64,
+      "y": 24,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            250,
+            158,
+            116,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            250,
+            158,
+            116,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 65,
+      "y": 24,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            250,
+            158,
+            116,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            250,
+            158,
+            116,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66,
+      "y": 24,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            250,
+            158,
+            116,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            250,
+            158,
+            116,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67,
+      "y": 24,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68,
+      "y": 24,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69,
+      "y": 24,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70,
+      "y": 24,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 71,
+      "y": 24,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            246,
+            153,
+            104,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            246,
+            153,
+            104,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 72,
+      "y": 24,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 73,
+      "y": 24,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            116,
+            60,
+            43,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            116,
+            60,
+            43,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 60,
+      "y": 25,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            238,
+            142,
+            98,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            238,
+            142,
+            98,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 61,
+      "y": 25,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            234,
+            147,
+            104,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            234,
+            147,
+            104,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62,
+      "y": 25,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 63,
+      "y": 25,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 64,
+      "y": 25,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            250,
+            158,
+            116,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            250,
+            158,
+            116,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 65,
+      "y": 25,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            250,
+            158,
+            116,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            250,
+            158,
+            116,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66,
+      "y": 25,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67,
+      "y": 25,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68,
+      "y": 25,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69,
+      "y": 25,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70,
+      "y": 25,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 71,
+      "y": 25,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 72,
+      "y": 25,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 73,
+      "y": 25,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            116,
+            60,
+            43,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            116,
+            60,
+            43,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 60,
+      "y": 26,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 61,
+      "y": 26,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62,
+      "y": 26,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 63,
+      "y": 26,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 64,
+      "y": 26,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 65,
+      "y": 26,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66,
+      "y": 26,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67,
+      "y": 26,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            252,
+            175,
+            128,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            252,
+            175,
+            128,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68,
+      "y": 26,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69,
+      "y": 26,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70,
+      "y": 26,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 71,
+      "y": 26,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 72,
+      "y": 26,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 73,
+      "y": 26,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            84,
+            42,
+            30,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            84,
+            42,
+            30,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 60,
+      "y": 27,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 61,
+      "y": 27,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62,
+      "y": 27,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 63,
+      "y": 27,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 64,
+      "y": 27,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 65,
+      "y": 27,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66,
+      "y": 27,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67,
+      "y": 27,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68,
+      "y": 27,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            202,
+            106,
+            68,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            202,
+            106,
+            68,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69,
+      "y": 27,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            228,
+            133,
+            88,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            228,
+            133,
+            88,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70,
+      "y": 27,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 71,
+      "y": 27,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 72,
+      "y": 27,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            129,
+            52,
+            31,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            129,
+            52,
+            31,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 73,
+      "y": 27,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            84,
+            42,
+            30,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            84,
+            42,
+            30,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 60,
+      "y": 28,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            222,
+            130,
+            87,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            222,
+            130,
+            87,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 61,
+      "y": 28,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62,
+      "y": 28,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 63,
+      "y": 28,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 64,
+      "y": 28,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 65,
+      "y": 28,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66,
+      "y": 28,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67,
+      "y": 28,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68,
+      "y": 28,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69,
+      "y": 28,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            246,
+            162,
+            110,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70,
+      "y": 28,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 71,
+      "y": 28,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            234,
+            147,
+            104,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            234,
+            147,
+            104,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 72,
+      "y": 28,
+      "owners": []
+    },
+    {
+      "x": 73,
+      "y": 28,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            84,
+            42,
+            30,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            84,
+            42,
+            30,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 60,
+      "y": 29,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            222,
+            130,
+            87,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            222,
+            130,
+            87,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 61,
+      "y": 29,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            219,
+            125,
+            85,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            219,
+            125,
+            85,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62,
+      "y": 29,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            252,
+            175,
+            128,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            252,
+            175,
+            128,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 63,
+      "y": 29,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 64,
+      "y": 29,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 65,
+      "y": 29,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66,
+      "y": 29,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67,
+      "y": 29,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68,
+      "y": 29,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69,
+      "y": 29,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70,
+      "y": 29,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            253,
+            169,
+            119,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 71,
+      "y": 29,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            150,
+            85,
+            58,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            150,
+            85,
+            58,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "x": 72,
+      "y": 29,
+      "owners": []
+    },
+    {
+      "x": 73,
+      "y": 29,
+      "owners": [
+        {
+          "layer": "guide-source-seed (hidden)",
+          "visible": false,
+          "rgba": [
+            84,
+            42,
+            30,
+            255
+          ]
+        },
+        {
+          "layer": "08-hair-tie-and-hair",
+          "visible": true,
+          "rgba": [
+            84,
+            42,
+            30,
+            255
+          ]
+        }
+      ]
+    }
+  ]
+}

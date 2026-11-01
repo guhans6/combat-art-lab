@@ -1,0 +1,17 @@
+{
+  "native": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/source/transfer-study02.aseprite",
+  "native_sha256": "2174c9d4166a9ea2cc198feaa56f076f2a94f2df4ae41700a90c6793d506c041",
+  "native_export_equal": true,
+  "files": {
+    "review/transfer-7-ownership.png": "5677229caaa83c68a19798e32b55bd968afcc0f92927c82a3d98552485481980",
+    "review/transfer-7-sites.png": "670e3ed606d11b2366cc96cd98274dbd5f789fc2fb04630bf5841a8d59d520b6",
+    "review/transfer-8-ownership.png": "1b92984e605a80b3620b18db89c9bd430e6853df52960f69d7bb427f40399a15",
+    "review/transfer-8-sites.png": "8ca00d9708536a5e3a20e94e208e45d1055f1e6159a0d094487c91267f75d1a8",
+    "review/transfer-outbound-neighbors.png": "1bcc56590c1f75da2ab7728b7c6d1d7990a2407691be4eef79c135d34ba90e88",
+    "review/transfer-return-neighbors.png": "64b3fafe258706385c23c3c88125569877a5756c5e5fe06272fdfa789476d7fc",
+    "recipe/transfer-sites.json": "a9ff07570e58fb4b0c121af8f20f8c393d1687c00678da24a7c234aeab04e32a",
+    "proof/transfer02-7.png": "3aa1001d5032043a0e529522c84607c1bf16a693c470431044fa7e49d227a0fd",
+    "proof/transfer02-8.png": "f58b949f6685abf4bee94d58196c02a6f585f8ab4a7db98f7371ea0d4c7552c4"
+  },
+  "evidence": "Two new structural transfer keys, unchanged original6; not an animation/timing clearance"
+}

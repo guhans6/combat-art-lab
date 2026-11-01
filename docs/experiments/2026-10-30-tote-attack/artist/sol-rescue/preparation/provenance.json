@@ -1,0 +1,227 @@
+[
+  {
+    "name": "six-1",
+    "source": "inputs/six-keys.png",
+    "source_bbox_xyxy": [
+      270,
+      9,
+      452,
+      433
+    ],
+    "source_component_pixels": 51250,
+    "grid_origin_xy": [
+      0,
+      0
+    ],
+    "family_scale": 0.4333,
+    "target_offset_xy": [
+      117,
+      4
+    ],
+    "canvas": [
+      320,
+      192
+    ],
+    "policy": "largest pose-connected component, binary128 alpha, weighted RGB projection to existing palette; no per-pose fitting"
+  },
+  {
+    "name": "six-2",
+    "source": "inputs/six-keys.png",
+    "source_bbox_xyxy": [
+      793,
+      9,
+      1007,
+      431
+    ],
+    "source_component_pixels": 56361,
+    "grid_origin_xy": [
+      591,
+      0
+    ],
+    "family_scale": 0.4333,
+    "target_offset_xy": [
+      88,
+      4
+    ],
+    "canvas": [
+      320,
+      192
+    ],
+    "policy": "largest pose-connected component, binary128 alpha, weighted RGB projection to existing palette; no per-pose fitting"
+  },
+  {
+    "name": "six-3",
+    "source": "inputs/six-keys.png",
+    "source_bbox_xyxy": [
+      1315,
+      30,
+      1670,
+      431
+    ],
+    "source_component_pixels": 62258,
+    "grid_origin_xy": [
+      1183,
+      0
+    ],
+    "family_scale": 0.4333,
+    "target_offset_xy": [
+      57,
+      13
+    ],
+    "canvas": [
+      320,
+      192
+    ],
+    "policy": "largest pose-connected component, binary128 alpha, weighted RGB projection to existing palette; no per-pose fitting"
+  },
+  {
+    "name": "six-4",
+    "source": "inputs/six-keys.png",
+    "source_bbox_xyxy": [
+      203,
+      445,
+      619,
+      859
+    ],
+    "source_component_pixels": 66952,
+    "grid_origin_xy": [
+      0,
+      444
+    ],
+    "family_scale": 0.4333,
+    "target_offset_xy": [
+      88,
+      0
+    ],
+    "canvas": [
+      320,
+      192
+    ],
+    "policy": "largest pose-connected component, binary128 alpha, weighted RGB projection to existing palette; no per-pose fitting"
+  },
+  {
+    "name": "six-5",
+    "source": "inputs/six-keys.png",
+    "source_bbox_xyxy": [
+      741,
+      449,
+      1201,
+      858
+    ],
+    "source_component_pixels": 66738,
+    "grid_origin_xy": [
+      591,
+      444
+    ],
+    "family_scale": 0.4333,
+    "target_offset_xy": [
+      65,
+      2
+    ],
+    "canvas": [
+      320,
+      192
+    ],
+    "policy": "largest pose-connected component, binary128 alpha, weighted RGB projection to existing palette; no per-pose fitting"
+  },
+  {
+    "name": "six-6",
+    "source": "inputs/six-keys.png",
+    "source_bbox_xyxy": [
+      1371,
+      439,
+      1591,
+      859
+    ],
+    "source_component_pixels": 55107,
+    "grid_origin_xy": [
+      1183,
+      444
+    ],
+    "family_scale": 0.4333,
+    "target_offset_xy": [
+      81,
+      -2
+    ],
+    "canvas": [
+      320,
+      192
+    ],
+    "policy": "largest pose-connected component, binary128 alpha, weighted RGB projection to existing palette; no per-pose fitting"
+  },
+  {
+    "name": "additional-1",
+    "source": "inputs/additional-keys.png",
+    "source_bbox_xyxy": [
+      95,
+      39,
+      746,
+      705
+    ],
+    "source_component_pixels": 157626,
+    "grid_origin_xy": [
+      0,
+      0
+    ],
+    "family_scale": 0.264,
+    "target_offset_xy": [
+      51,
+      8
+    ],
+    "canvas": [
+      320,
+      192
+    ],
+    "policy": "largest pose-connected component, binary128 alpha, weighted RGB projection to existing palette; no per-pose fitting"
+  },
+  {
+    "name": "additional-2",
+    "source": "inputs/additional-keys.png",
+    "source_bbox_xyxy": [
+      937,
+      9,
+      1357,
+      708
+    ],
+    "source_component_pixels": 150180,
+    "grid_origin_xy": [
+      724,
+      0
+    ],
+    "family_scale": 0.264,
+    "target_offset_xy": [
+      106,
+      0
+    ],
+    "canvas": [
+      320,
+      192
+    ],
+    "policy": "largest pose-connected component, binary128 alpha, weighted RGB projection to existing palette; no per-pose fitting"
+  },
+  {
+    "name": "additional-3",
+    "source": "inputs/additional-keys.png",
+    "source_bbox_xyxy": [
+      1666,
+      13,
+      1978,
+      709
+    ],
+    "source_component_pixels": 134436,
+    "grid_origin_xy": [
+      1448,
+      0
+    ],
+    "family_scale": 0.264,
+    "target_offset_xy": [
+      108,
+      1
+    ],
+    "canvas": [
+      320,
+      192
+    ],
+    "policy": "largest pose-connected component, binary128 alpha, weighted RGB projection to existing palette; no per-pose fitting"
+  }
+]

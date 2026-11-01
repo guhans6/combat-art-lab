@@ -1,0 +1,23 @@
+[
+  {
+    "size": [
+      56,
+      42
+    ],
+    "decoded_rgba_equal_to_prior_seed": true
+  },
+  {
+    "size": [
+      84,
+      63
+    ],
+    "decoded_rgba_equal_to_prior_seed": true
+  },
+  {
+    "size": [
+      112,
+      84
+    ],
+    "decoded_rgba_equal_to_prior_seed": true
+  }
+]

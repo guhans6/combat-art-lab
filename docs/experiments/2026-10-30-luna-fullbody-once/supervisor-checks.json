@@ -1,0 +1,23 @@
+[
+  {
+    "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-fullbody-automated-reconstruction/passes/candidate-b-structured-reopen.png",
+    "sha256": "b3ad887bf2acff2e71404c78d6fc7260784f51f842e6f19d3bd4986777bbf34a",
+    "visible_changes": 0,
+    "alpha_changes": 0,
+    "head_changes": 0
+  },
+  {
+    "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-luna-fullbody-once/trial-a/outputs/luna56-fullbody-cleanup.png",
+    "sha256": "7f442e39b23b0c8f8983b2e8f3e95a41a13310105655d23c5e073c996c87c2c0",
+    "visible_changes": 282,
+    "alpha_changes": 43,
+    "head_changes": 63
+  },
+  {
+    "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-luna-fullbody-once/trial-b/passes/luna6-fullbody-cleanup.png",
+    "sha256": "c162e373a9b0ed72e2e82f91a6fe6608952444ed3ef9151534fcd29843b65def",
+    "visible_changes": 913,
+    "alpha_changes": 0,
+    "head_changes": 203
+  }
+]

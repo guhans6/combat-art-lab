@@ -1,0 +1,240 @@
+{
+  "passed": true,
+  "native_sha256": "0709390aad9a61bfeb32029f6076530e87155523ff32d3a21082744af0a72e37",
+  "png_sha256": "27523c0569a318ff514bd2fc8de1d75b99276f37f9d254536602432a1127bf05",
+  "native_canvas": [
+    128,
+    192
+  ],
+  "native_layers": 12,
+  "visible_parts": 11,
+  "visible_pixels": 7844,
+  "visible_changed_pixels": 1907,
+  "alpha_changed_pixels": 0,
+  "eye_patch_changed_pixels": 0,
+  "header_equal": true,
+  "frame_non_cel_chunks_equal": true,
+  "layer_metadata_equal": true,
+  "reopen_png_byte_equal": true,
+  "native_composite_equals_actual_export": true,
+  "disjoint_visible_ownership": true,
+  "protected_inputs_unchanged": {
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-fullbody-automated-reconstruction/passes/candidate-b-structured.aseprite": true,
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-fullbody-automated-reconstruction/passes/candidate-b-structured-reopen.png": true,
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-fullbody-automated-reconstruction/inputs/source-only-converted-seed.png": true,
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-fullbody-automated-reconstruction/passes/pass-01-fullbody-finish.png": true,
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-fullbody-automated-reconstruction/passes/pass-01-fullbody-finish.aseprite": true,
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-fullbody-automated-reconstruction/inputs/character-scene.png": true,
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-fullbody-automated-reconstruction/inputs/character-closeup.png": true,
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-fullbody-automated-reconstruction/inputs/clean-generated-cutout-v1.png": true
+  },
+  "layers": [
+    {
+      "name": "guide-source-seed (hidden)",
+      "changed_native_pixels": 0,
+      "before_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "visible_pixels": 7844
+    },
+    {
+      "name": "00-shoes",
+      "changed_native_pixels": 46,
+      "before_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "visible_pixels": 708
+    },
+    {
+      "name": "01-denim",
+      "changed_native_pixels": 1401,
+      "before_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "visible_pixels": 3703
+    },
+    {
+      "name": "02a-jacket-left",
+      "changed_native_pixels": 91,
+      "before_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "visible_pixels": 514
+    },
+    {
+      "name": "02b-jacket-right",
+      "changed_native_pixels": 104,
+      "before_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "visible_pixels": 339
+    },
+    {
+      "name": "03-shirt",
+      "changed_native_pixels": 241,
+      "before_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "visible_pixels": 593
+    },
+    {
+      "name": "04-tote",
+      "changed_native_pixels": 61,
+      "before_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "visible_pixels": 332
+    },
+    {
+      "name": "05-tote-strap",
+      "changed_native_pixels": 0,
+      "before_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "visible_pixels": 207
+    },
+    {
+      "name": "06a-left-hand",
+      "changed_native_pixels": 0,
+      "before_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "visible_pixels": 191
+    },
+    {
+      "name": "06b-right-hand",
+      "changed_native_pixels": 0,
+      "before_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "visible_pixels": 146
+    },
+    {
+      "name": "07-face-and-neck",
+      "changed_native_pixels": 169,
+      "before_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "visible_pixels": 250
+    },
+    {
+      "name": "08-hair-tie-and-hair",
+      "changed_native_pixels": 231,
+      "before_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "visible_pixels": 861
+    }
+  ],
+  "two_pixel_face_edit_check_passed": true,
+  "negative_scope_check_rejected": true,
+  "backend_validate": "not exposed in current MCP tool inventory; independent native/PNG checks used"
+}

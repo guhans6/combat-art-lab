@@ -1,0 +1,8 @@
+{
+  "editable_layers": [
+    "01-jacket"
+  ],
+  "allowed_coordinates_zero_based": [
+    [29, 91], [30, 91], [31, 92], [32, 92]
+  ]
+}

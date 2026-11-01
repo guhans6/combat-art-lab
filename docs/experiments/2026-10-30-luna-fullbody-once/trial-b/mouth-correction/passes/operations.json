@@ -1,0 +1,57 @@
+{
+  "tool": {
+    "backend": "Aseprite AI Artist dedicated MCP, headless",
+    "aseprite_version": "1.3.18.6-dev",
+    "extension_version": "0.8.2",
+    "palette_lock": true
+  },
+  "baseline": {
+    "native": "inputs/luna6-fullbody-cleanup-baseline.aseprite",
+    "native_sha256": "dbdf2f693872d2b3c5f102cea01bc1e2441d2452d790770b7b68effd6c563348",
+    "png": "inputs/luna6-fullbody-cleanup-baseline.png",
+    "png_sha256": "c162e373a9b0ed72e2e82f91a6fe6608952444ed3ef9151534fcd29843b65def"
+  },
+  "passes": [
+    {
+      "status": "rejected-expression-after-parent-review",
+      "native": "passes/luna6-mouth-correction.aseprite",
+      "native_sha256": "fdceee84f17fceb97841de3e1da0b593f0289a49bd3780c1e189d9c7e9686b50",
+      "png": "passes/luna6-mouth-correction.png",
+      "png_sha256": "7dbf69188abe4dff61f643eba3ad6ec909dc4783171e9a7015b7933f250fa53d",
+      "layer": "08-hair-tie-and-hair",
+      "mask_half_open": [68, 28, 71, 30],
+      "draw": [
+        {"x": 68, "y": 29, "from": "#fda977", "to": "#744c40"},
+        {"x": 69, "y": 28, "from": "#f6a26e", "to": "#744c40"},
+        {"x": 70, "y": 28, "from": "#fda977", "to": "#744c40"}
+      ],
+      "review": "Parent defects-only visual review: mark at far-right lower face reads as a protruding lip/pout; correction authorized."
+    },
+    {
+      "status": "candidate-for-user-review",
+      "native": "passes/luna6-mouth-correction-final.aseprite",
+      "native_sha256": "2d2cd512b82396276dbe4b96e69234bf7044e12bff181dc2a4adcaf575b3d09a",
+      "png": "passes/luna6-mouth-correction-final.png",
+      "png_sha256": "ffbda8af18b9e6c59f949876f520a577f66d9918ed82e3d3279eec100bcbc761",
+      "layer": "08-hair-tie-and-hair",
+      "mask_half_open": [65, 28, 71, 30],
+      "batch": [
+        {"x": 68, "y": 29, "from": "#744c40", "to": "#fda977"},
+        {"x": 69, "y": 28, "from": "#744c40", "to": "#f6a26e"},
+        {"x": 70, "y": 28, "from": "#744c40", "to": "#fda977"},
+        {"x": 65, "y": 29, "from": "#fda977", "to": "#744c40"},
+        {"x": 66, "y": 29, "from": "#fda977", "to": "#744c40"},
+        {"x": 67, "y": 28, "from": "#fda977", "to": "#744c40"}
+      ],
+      "review": "Parent review of the three-panel 8x head sheet: reads as a closed slight smile without the edge-pout; accepted for user review, not as final likeness approval."
+    }
+  ],
+  "final_net_change_vs_baseline": [
+    {"x": 67, "y": 28, "from": "#fda977", "to": "#744c40"},
+    {"x": 65, "y": 29, "from": "#fda977", "to": "#744c40"},
+    {"x": 66, "y": 29, "from": "#fda977", "to": "#744c40"}
+  ],
+  "final_net_changed_pixels": 3,
+  "correction_budget_used": 1,
+  "correction_budget_remaining": 0
+}

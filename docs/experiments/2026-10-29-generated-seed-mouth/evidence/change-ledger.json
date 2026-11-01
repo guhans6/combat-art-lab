@@ -1,0 +1,25 @@
+{
+  "allowed_mouth_mask": "x=68..71, y=26..29",
+  "actual_changes": [
+    {
+      "x": 68,
+      "y": 27,
+      "old": "#fa9e71fd",
+      "new": "#c0846ffd"
+    },
+    {
+      "x": 69,
+      "y": 28,
+      "old": "#fa9e71fd",
+      "new": "#683e34fd"
+    },
+    {
+      "x": 70,
+      "y": 28,
+      "old": "#fa9e71fc",
+      "new": "#683e34fc"
+    }
+  ],
+  "all_other_pixels_locked": true,
+  "alpha_locked": true
+}

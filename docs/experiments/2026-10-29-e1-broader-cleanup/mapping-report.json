@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "mode": "warnings-first deterministic material mapping",
+  "warnings": "Mapping is a candidate comparison, never an automatic cleanup instruction.",
+  "ramps": {
+    "jacket": [
+      [
+        60,
+        53,
+        44
+      ],
+      [
+        65,
+        59,
+        53
+      ],
+      [
+        86,
+        74,
+        53
+      ],
+      [
+        95,
+        74,
+        52
+      ],
+      [
+        95,
+        75,
+        57
+      ]
+    ],
+    "shirt": [
+      [
+        198,
+        152,
+        132
+      ],
+      [
+        220,
+        170,
+        138
+      ],
+      [
+        229,
+        179,
+        125
+      ]
+    ]
+  },
+  "changed_pixels_by_layer": {
+    "01-jacket": 384,
+    "02-shirt": 8,
+    "03-neck-ear": 0,
+    "04-rear-hair": 0,
+    "05-face": 0,
+    "06-crown-fringe": 0,
+    "07-hair-tie": 0,
+    "08-eyes-brows": 0,
+    "09-mouth": 0
+  },
+  "changed_total": 392
+}

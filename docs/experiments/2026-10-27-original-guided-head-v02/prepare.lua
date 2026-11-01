@@ -1,0 +1,11 @@
+local dir=assert(app.params.out)
+assert(not app.fs.isFile(dir..'/baseline.aseprite'))
+local s=app.open(dir..'/input.aseprite')
+assert(s.width==120 and s.height==112 and #s.layers==10 and #s.frames==1)
+s:saveCopyAs(dir..'/baseline.png')
+local colors=dofile(dir..'/palette.lua')
+local p=Palette(#colors+1);p:setColor(0,app.pixelColor.rgba(0,0,0,0))
+for i,h in ipairs(colors) do p:setColor(i,app.pixelColor.rgba(tonumber(h:sub(1,2),16),tonumber(h:sub(3,4),16),tonumber(h:sub(5,6),16),255)) end
+s:setPalette(p)
+s:saveAs(dir..'/baseline.aseprite')
+s:close()

@@ -1,0 +1,157 @@
+{
+  "canvas": [
+    128,
+    192
+  ],
+  "frameCount": 8,
+  "timingMs": [
+    600,
+    350,
+    550,
+    600,
+    50,
+    80,
+    50,
+    250
+  ],
+  "totalMs": 2530,
+  "nativeGifSize": [
+    512,
+    768
+  ],
+  "nativeGifLoop": 0,
+  "nativeGifDurationsMs": [
+    600,
+    350,
+    550,
+    600,
+    50,
+    80,
+    50,
+    250
+  ],
+  "reopenedFrameExportsPixelIdentical": true,
+  "allShoeLayerFramesPixelIdentical": true,
+  "allDenimLayerFramesPixelIdentical": true,
+  "allFaceNeckLayerFramesPixelIdentical": true,
+  "headLayerDiffsFromFrame1": [
+    {
+      "pixels": 0,
+      "bounds": null
+    },
+    {
+      "pixels": 0,
+      "bounds": null
+    },
+    {
+      "pixels": 0,
+      "bounds": null
+    },
+    {
+      "pixels": 0,
+      "bounds": null
+    },
+    {
+      "pixels": 13,
+      "bounds": [
+        62,
+        20,
+        73,
+        22
+      ]
+    },
+    {
+      "pixels": 26,
+      "bounds": [
+        62,
+        20,
+        73,
+        24
+      ]
+    },
+    {
+      "pixels": 13,
+      "bounds": [
+        62,
+        20,
+        73,
+        22
+      ]
+    },
+    {
+      "pixels": 0,
+      "bounds": null
+    }
+  ],
+  "headChangedPixelsOutsideRegisteredEyeMasksByFrame2to8": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "compositeDiffsFromFrame1": [
+    {
+      "pixels": 0,
+      "bounds": null
+    },
+    {
+      "pixels": 2,
+      "bounds": [
+        60,
+        59,
+        61,
+        61
+      ]
+    },
+    {
+      "pixels": 3,
+      "bounds": [
+        60,
+        58,
+        62,
+        61
+      ]
+    },
+    {
+      "pixels": 0,
+      "bounds": null
+    },
+    {
+      "pixels": 13,
+      "bounds": [
+        62,
+        20,
+        73,
+        22
+      ]
+    },
+    {
+      "pixels": 26,
+      "bounds": [
+        62,
+        20,
+        73,
+        24
+      ]
+    },
+    {
+      "pixels": 13,
+      "bounds": [
+        62,
+        20,
+        73,
+        22
+      ]
+    },
+    {
+      "pixels": 0,
+      "bounds": null
+    }
+  ],
+  "transparentStrip": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breath-blink/luna/exports/idle-transparent-strip.png",
+  "neutralContactSheet": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breath-blink/luna/proof/contact-sheet-neutral-3x.png",
+  "neutralPreviewGif": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-idle-breath-blink/luna/exports/idle-neutral-3x-preview.gif"
+}

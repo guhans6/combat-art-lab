@@ -1,0 +1,466 @@
+{
+  "status": "technical_repair_verified_offline",
+  "model": "gpt-5.6-luna/max",
+  "tool": {
+    "server": "mcp__aseprite_ai_artist",
+    "mode": "headless",
+    "aseprite": "1.3.18.6-dev",
+    "extension": "Pebbly 0.8.2"
+  },
+  "native": {
+    "path": "technical-repair/luna56-idle-repaired.aseprite",
+    "sha256": "f7aa4235209d78823d7fe769e4ba53035692bc014d1af2e5fda11af93ed655d9",
+    "dimensions": [
+      128,
+      192
+    ],
+    "frames": 6,
+    "durations_ms": [
+      420,
+      140,
+      180,
+      220,
+      180,
+      560
+    ],
+    "tag": "idle-breathe",
+    "layer_count": 13,
+    "added_layers": [
+      {
+        "name": "09-anim-overlap-repair",
+        "blend_mode": "normal/3",
+        "visible": true,
+        "opacity": 255,
+        "cels": [
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    ],
+    "total_cels": 76,
+    "existing_layers_preserved": true,
+    "hidden_guide_preserved": true,
+    "shoes_and_denim_untouched": true
+  },
+  "original_preserved": {
+    "native": "luna56-idle.aseprite",
+    "native_sha256": "4911b83d1608dc72338f9ba3367b37ca022576ff45c6ec4a2914fafaa9419c9e",
+    "exports_and_proofs": "frames/, proof/, contacts/"
+  },
+  "frame_records": [
+    {
+      "native_frame": 1,
+      "path": "technical-repair/frames/frame-0.png",
+      "sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+      "duration_ms": 420,
+      "size": [
+        128,
+        192
+      ],
+      "opaque_pixels": 7844,
+      "alpha_bbox": [
+        32,
+        2,
+        104,
+        185
+      ],
+      "unique_rgba": 249,
+      "binary_alpha": true,
+      "changed_from_original_count": 0
+    },
+    {
+      "native_frame": 2,
+      "path": "technical-repair/frames/frame-1.png",
+      "sha256": "fae8d469a96c1ec2c6aebbe3d02869ed5f3a04392da7a63ce339f5a7067195da",
+      "duration_ms": 140,
+      "size": [
+        128,
+        192
+      ],
+      "opaque_pixels": 7897,
+      "alpha_bbox": [
+        32,
+        1,
+        104,
+        185
+      ],
+      "unique_rgba": 249,
+      "binary_alpha": true,
+      "changed_from_original_count": 64
+    },
+    {
+      "native_frame": 3,
+      "path": "technical-repair/frames/frame-2.png",
+      "sha256": "c1bbf74f014e1d05bbcccf16dc0e10808a11de659fb475e8247d073f2791e8ea",
+      "duration_ms": 180,
+      "size": [
+        128,
+        192
+      ],
+      "opaque_pixels": 7888,
+      "alpha_bbox": [
+        32,
+        1,
+        104,
+        185
+      ],
+      "unique_rgba": 249,
+      "binary_alpha": true,
+      "changed_from_original_count": 44
+    },
+    {
+      "native_frame": 4,
+      "path": "technical-repair/frames/frame-3.png",
+      "sha256": "fd979f4d93926917c4813a4a0c6d6d75b3dca18d9c6e3a5792066ae23958a8b9",
+      "duration_ms": 220,
+      "size": [
+        128,
+        192
+      ],
+      "opaque_pixels": 7892,
+      "alpha_bbox": [
+        32,
+        1,
+        104,
+        185
+      ],
+      "unique_rgba": 249,
+      "binary_alpha": true,
+      "changed_from_original_count": 83
+    },
+    {
+      "native_frame": 5,
+      "path": "technical-repair/frames/frame-4.png",
+      "sha256": "cd30ed74efa589764d11fadc2923d8d8a001b476133711accd3a47cec193bd92",
+      "duration_ms": 180,
+      "size": [
+        128,
+        192
+      ],
+      "opaque_pixels": 7874,
+      "alpha_bbox": [
+        32,
+        2,
+        104,
+        185
+      ],
+      "unique_rgba": 249,
+      "binary_alpha": true,
+      "changed_from_original_count": 65
+    },
+    {
+      "native_frame": 6,
+      "path": "technical-repair/frames/frame-5.png",
+      "sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+      "duration_ms": 560,
+      "size": [
+        128,
+        192
+      ],
+      "opaque_pixels": 7844,
+      "alpha_bbox": [
+        32,
+        2,
+        104,
+        185
+      ],
+      "unique_rgba": 249,
+      "binary_alpha": true,
+      "changed_from_original_count": 0
+    }
+  ],
+  "coordinate_audit": {
+    "1": {
+      "actual_changed": 0,
+      "expected_changed": 0,
+      "unexpected_changed": [],
+      "missing_expected": []
+    },
+    "2": {
+      "actual_changed": 64,
+      "expected_changed": 64,
+      "unexpected_changed": [],
+      "missing_expected": []
+    },
+    "3": {
+      "actual_changed": 44,
+      "expected_changed": 44,
+      "unexpected_changed": [],
+      "missing_expected": []
+    },
+    "4": {
+      "actual_changed": 83,
+      "expected_changed": 83,
+      "unexpected_changed": [],
+      "missing_expected": []
+    },
+    "5": {
+      "actual_changed": 65,
+      "expected_changed": 65,
+      "unexpected_changed": [],
+      "missing_expected": []
+    },
+    "6": {
+      "actual_changed": 0,
+      "expected_changed": 0,
+      "unexpected_changed": [],
+      "missing_expected": []
+    }
+  },
+  "hole_audit": {
+    "1": {
+      "checker_listed": 0,
+      "remaining_transparent": [],
+      "baseline_color_mismatches": []
+    },
+    "2": {
+      "checker_listed": 64,
+      "remaining_transparent": [],
+      "baseline_color_mismatches": []
+    },
+    "3": {
+      "checker_listed": 44,
+      "remaining_transparent": [],
+      "baseline_color_mismatches": []
+    },
+    "4": {
+      "checker_listed": 83,
+      "remaining_transparent": [],
+      "baseline_color_mismatches": []
+    },
+    "5": {
+      "checker_listed": 65,
+      "remaining_transparent": [],
+      "baseline_color_mismatches": []
+    },
+    "6": {
+      "checker_listed": 0,
+      "remaining_transparent": [],
+      "baseline_color_mismatches": []
+    }
+  },
+  "gif_records": {
+    "idle-1x.gif": {
+      "path": "technical-repair/proof/idle-1x.gif",
+      "sha256": "6ce8e13887e46e0f1dc5f32f64509ecd8d8ede92fa56247e1ee7910a93fa981c",
+      "size": [
+        128,
+        192
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        420,
+        140,
+        180,
+        220,
+        180,
+        560
+      ],
+      "expected_durations_ms": [
+        420,
+        140,
+        180,
+        220,
+        180,
+        560
+      ],
+      "durations_match": true,
+      "visible_frame_comparisons_to_repaired_png": [
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        }
+      ]
+    },
+    "idle-3x.gif": {
+      "path": "technical-repair/proof/idle-3x.gif",
+      "sha256": "4ee60625fb2511ef332729898d209df4fd2e4c929379948099d6431c89b7256c",
+      "size": [
+        384,
+        576
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        420,
+        140,
+        180,
+        220,
+        180,
+        560
+      ],
+      "expected_durations_ms": [
+        420,
+        140,
+        180,
+        220,
+        180,
+        560
+      ],
+      "durations_match": true,
+      "visible_frame_comparisons_to_repaired_png": [
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        }
+      ]
+    }
+  },
+  "fresh_reopen_records": [
+    {
+      "native_frame": 1,
+      "path": "technical-repair/proof/reopen-frame-0.png",
+      "sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+      "match_repaired_export": {
+        "changed_pixels": 0,
+        "changed_percent": 0.0,
+        "mean_channel_abs_error": 0.0,
+        "max_pixel_channel_sum_error": 0
+      }
+    },
+    {
+      "native_frame": 2,
+      "path": "technical-repair/proof/reopen-frame-1.png",
+      "sha256": "fae8d469a96c1ec2c6aebbe3d02869ed5f3a04392da7a63ce339f5a7067195da",
+      "match_repaired_export": {
+        "changed_pixels": 0,
+        "changed_percent": 0.0,
+        "mean_channel_abs_error": 0.0,
+        "max_pixel_channel_sum_error": 0
+      }
+    },
+    {
+      "native_frame": 3,
+      "path": "technical-repair/proof/reopen-frame-2.png",
+      "sha256": "c1bbf74f014e1d05bbcccf16dc0e10808a11de659fb475e8247d073f2791e8ea",
+      "match_repaired_export": {
+        "changed_pixels": 0,
+        "changed_percent": 0.0,
+        "mean_channel_abs_error": 0.0,
+        "max_pixel_channel_sum_error": 0
+      }
+    },
+    {
+      "native_frame": 4,
+      "path": "technical-repair/proof/reopen-frame-3.png",
+      "sha256": "fd979f4d93926917c4813a4a0c6d6d75b3dca18d9c6e3a5792066ae23958a8b9",
+      "match_repaired_export": {
+        "changed_pixels": 0,
+        "changed_percent": 0.0,
+        "mean_channel_abs_error": 0.0,
+        "max_pixel_channel_sum_error": 0
+      }
+    },
+    {
+      "native_frame": 5,
+      "path": "technical-repair/proof/reopen-frame-4.png",
+      "sha256": "cd30ed74efa589764d11fadc2923d8d8a001b476133711accd3a47cec193bd92",
+      "match_repaired_export": {
+        "changed_pixels": 0,
+        "changed_percent": 0.0,
+        "mean_channel_abs_error": 0.0,
+        "max_pixel_channel_sum_error": 0
+      }
+    },
+    {
+      "native_frame": 6,
+      "path": "technical-repair/proof/reopen-frame-5.png",
+      "sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+      "match_repaired_export": {
+        "changed_pixels": 0,
+        "changed_percent": 0.0,
+        "mean_channel_abs_error": 0.0,
+        "max_pixel_channel_sum_error": 0
+      }
+    }
+  ],
+  "local_revision_proof": {
+    "duplicate_native": "technical-repair/revision/luna56-idle-repaired-duplicate.aseprite",
+    "revised_frame": "technical-repair/revision/revised-frame-2.png",
+    "source_frame": "technical-repair/frames/frame-1.png",
+    "changed_composited_pixels": {
+      "changed_pixels": 1,
+      "changed_percent": 0.004069,
+      "mean_channel_abs_error": 0.00159709,
+      "max_pixel_channel_sum_error": 157
+    },
+    "edit_point": {
+      "x": 73,
+      "y": 36,
+      "layer": "09-anim-overlap-repair",
+      "native_frame": 2
+    }
+  },
+  "contacts": [
+    "technical-repair/contacts/idle-contact.png"
+  ],
+  "native_validation_boundary": {
+    "status": "not_exposed_by_dedicated_server",
+    "note": "The server advertised validate in preflight but exposed no callable validate tool; native info, layer/cel readback, filmstrip, save/reopen and local export audits are recorded."
+  }
+}

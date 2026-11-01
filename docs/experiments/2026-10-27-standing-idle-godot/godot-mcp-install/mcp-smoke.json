@@ -1,0 +1,474 @@
+{
+  "date": "2026-10-27",
+  "method": "real MCP stdio initialization and tools/call through MCP SDK; no direct Godot CLI calls by test client",
+  "package": "@coding-solo/godot-mcp",
+  "packageVersion": "0.1.1",
+  "project": "/Users/guhan/Guhan/Projects/combat-art-lab/godot/standing-idle-lab",
+  "started": "2026-10-27T11:36:00.880Z",
+  "calls": [
+    {
+      "name": "get_godot_version",
+      "arguments": {},
+      "isError": false,
+      "text": "4.7.2.stable.official.ed1daf0bf"
+    },
+    {
+      "name": "get_project_info",
+      "arguments": {
+        "projectPath": "/Users/guhan/Guhan/Projects/combat-art-lab/godot/standing-idle-lab"
+      },
+      "isError": false,
+      "text": "{\n  \"name\": \"standing-idle-lab\",\n  \"path\": \"/Users/guhan/Guhan/Projects/combat-art-lab/godot/standing-idle-lab\",\n  \"godotVersion\": \"4.7.2.stable.official.ed1daf0bf\",\n  \"structure\": {\n    \"scenes\": 1,\n    \"scripts\": 1,\n    \"assets\": 34,\n    \"other\": 31\n  }\n}"
+    },
+    {
+      "name": "run_project",
+      "arguments": {
+        "projectPath": "/Users/guhan/Guhan/Projects/combat-art-lab/godot/standing-idle-lab",
+        "scene": "res://main.tscn"
+      },
+      "isError": false,
+      "text": "Godot project started in debug mode. Use get_debug_output to see output."
+    },
+    {
+      "name": "get_debug_output",
+      "arguments": {},
+      "isError": false,
+      "text": "{\n  \"output\": [\n    \"Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\",\n    \"\",\n    \"OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro\",\n    \"\",\n    \"\",\n    \"\",\n    \"ART_LAB_READY engine=4.7.2-stable (official) viewport=(362.0, 304.0) frames=8 filter=nearest root=(108,48)\",\n    \"\",\n    \"ART_LAB_CAPTURE startup error=0 size=(362, 304)\",\n    \"\"\n  ],\n  \"errors\": []\n}"
+    },
+    {
+      "name": "get_debug_output",
+      "arguments": {},
+      "isError": false,
+      "text": "{\n  \"output\": [\n    \"Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\",\n    \"\",\n    \"OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro\",\n    \"\",\n    \"\",\n    \"\",\n    \"ART_LAB_READY engine=4.7.2-stable (official) viewport=(362.0, 304.0) frames=8 filter=nearest root=(108,48)\",\n    \"\",\n    \"ART_LAB_CAPTURE startup error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-01 error=0 size=(362, 304)\",\n    \"\"\n  ],\n  \"errors\": []\n}"
+    },
+    {
+      "name": "get_debug_output",
+      "arguments": {},
+      "isError": false,
+      "text": "{\n  \"output\": [\n    \"Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\",\n    \"\",\n    \"OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro\",\n    \"\",\n    \"\",\n    \"\",\n    \"ART_LAB_READY engine=4.7.2-stable (official) viewport=(362.0, 304.0) frames=8 filter=nearest root=(108,48)\",\n    \"\",\n    \"ART_LAB_CAPTURE startup error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-01 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-02 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-03 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-04 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-05 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-06 error=0 size=(362, 304)\",\n    \"\"\n  ],\n  \"errors\": []\n}"
+    },
+    {
+      "name": "get_debug_output",
+      "arguments": {},
+      "isError": false,
+      "text": "{\n  \"output\": [\n    \"Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\",\n    \"\",\n    \"OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro\",\n    \"\",\n    \"\",\n    \"\",\n    \"ART_LAB_READY engine=4.7.2-stable (official) viewport=(362.0, 304.0) frames=8 filter=nearest root=(108,48)\",\n    \"\",\n    \"ART_LAB_CAPTURE startup error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-01 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-02 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-03 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-04 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-05 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-06 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-07 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_LOOP 1\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-00 error=0 size=(362, 304)\",\n    \"\"\n  ],\n  \"errors\": []\n}"
+    },
+    {
+      "name": "get_debug_output",
+      "arguments": {},
+      "isError": false,
+      "text": "{\n  \"output\": [\n    \"Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\",\n    \"\",\n    \"OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro\",\n    \"\",\n    \"\",\n    \"\",\n    \"ART_LAB_READY engine=4.7.2-stable (official) viewport=(362.0, 304.0) frames=8 filter=nearest root=(108,48)\",\n    \"\",\n    \"ART_LAB_CAPTURE startup error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-01 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-02 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-03 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-04 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-05 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-06 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-07 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_LOOP 1\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-00 error=0 size=(362, 304)\",\n    \"\"\n  ],\n  \"errors\": []\n}"
+    },
+    {
+      "name": "get_debug_output",
+      "arguments": {},
+      "isError": false,
+      "text": "{\n  \"output\": [\n    \"Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\",\n    \"\",\n    \"OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro\",\n    \"\",\n    \"\",\n    \"\",\n    \"ART_LAB_READY engine=4.7.2-stable (official) viewport=(362.0, 304.0) frames=8 filter=nearest root=(108,48)\",\n    \"\",\n    \"ART_LAB_CAPTURE startup error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-01 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-02 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-03 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-04 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-05 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-06 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-07 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_LOOP 1\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-00 error=0 size=(362, 304)\",\n    \"\"\n  ],\n  \"errors\": []\n}"
+    },
+    {
+      "name": "get_debug_output",
+      "arguments": {},
+      "isError": false,
+      "text": "{\n  \"output\": [\n    \"Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\",\n    \"\",\n    \"OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro\",\n    \"\",\n    \"\",\n    \"\",\n    \"ART_LAB_READY engine=4.7.2-stable (official) viewport=(362.0, 304.0) frames=8 filter=nearest root=(108,48)\",\n    \"\",\n    \"ART_LAB_CAPTURE startup error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-01 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-02 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-03 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-04 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-05 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-06 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-07 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_LOOP 1\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-00 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_LOOP 2\",\n    \"\"\n  ],\n  \"errors\": []\n}"
+    },
+    {
+      "name": "stop_project",
+      "arguments": {},
+      "isError": false,
+      "text": "{\n  \"message\": \"Godot project stopped\",\n  \"finalOutput\": [\n    \"Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\",\n    \"\",\n    \"OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro\",\n    \"\",\n    \"\",\n    \"\",\n    \"ART_LAB_READY engine=4.7.2-stable (official) viewport=(362.0, 304.0) frames=8 filter=nearest root=(108,48)\",\n    \"\",\n    \"ART_LAB_CAPTURE startup error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-01 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-02 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-03 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-04 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-05 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-06 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-07 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_LOOP 1\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-00 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_LOOP 2\",\n    \"\"\n  ],\n  \"finalErrors\": []\n}"
+    }
+  ],
+  "nativeCodexToolExposure": "not present in active chat catalog; project configuration recognized by codex mcp get",
+  "serverInfo": {
+    "name": "godot-mcp",
+    "version": "0.1.0"
+  },
+  "serverTools": [
+    {
+      "name": "launch_editor",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "projectPath": {
+            "type": "string",
+            "description": "Path to the Godot project directory"
+          }
+        },
+        "required": [
+          "projectPath"
+        ]
+      }
+    },
+    {
+      "name": "run_project",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "projectPath": {
+            "type": "string",
+            "description": "Path to the Godot project directory"
+          },
+          "scene": {
+            "type": "string",
+            "description": "Optional: Specific scene to run"
+          }
+        },
+        "required": [
+          "projectPath"
+        ]
+      }
+    },
+    {
+      "name": "get_debug_output",
+      "inputSchema": {
+        "type": "object",
+        "properties": {},
+        "required": []
+      }
+    },
+    {
+      "name": "stop_project",
+      "inputSchema": {
+        "type": "object",
+        "properties": {},
+        "required": []
+      }
+    },
+    {
+      "name": "get_godot_version",
+      "inputSchema": {
+        "type": "object",
+        "properties": {},
+        "required": []
+      }
+    },
+    {
+      "name": "list_projects",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "directory": {
+            "type": "string",
+            "description": "Directory to search for Godot projects"
+          },
+          "recursive": {
+            "type": "boolean",
+            "description": "Whether to search recursively (default: false)"
+          }
+        },
+        "required": [
+          "directory"
+        ]
+      }
+    },
+    {
+      "name": "get_project_info",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "projectPath": {
+            "type": "string",
+            "description": "Path to the Godot project directory"
+          }
+        },
+        "required": [
+          "projectPath"
+        ]
+      }
+    },
+    {
+      "name": "create_scene",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "projectPath": {
+            "type": "string",
+            "description": "Path to the Godot project directory"
+          },
+          "scenePath": {
+            "type": "string",
+            "description": "Path where the scene file will be saved (relative to project)"
+          },
+          "rootNodeType": {
+            "type": "string",
+            "description": "Type of the root node (e.g., Node2D, Node3D)"
+          }
+        },
+        "required": [
+          "projectPath",
+          "scenePath"
+        ]
+      }
+    },
+    {
+      "name": "add_node",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "projectPath": {
+            "type": "string",
+            "description": "Path to the Godot project directory"
+          },
+          "scenePath": {
+            "type": "string",
+            "description": "Path to the scene file (relative to project)"
+          },
+          "parentNodePath": {
+            "type": "string",
+            "description": "Path to the parent node (e.g., \"root\" or \"root/Player\")"
+          },
+          "nodeType": {
+            "type": "string",
+            "description": "Type of node to add (e.g., Sprite2D, CollisionShape2D)"
+          },
+          "nodeName": {
+            "type": "string",
+            "description": "Name for the new node"
+          },
+          "properties": {
+            "type": "object",
+            "description": "Optional properties to set on the node"
+          }
+        },
+        "required": [
+          "projectPath",
+          "scenePath",
+          "nodeType",
+          "nodeName"
+        ]
+      }
+    },
+    {
+      "name": "load_sprite",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "projectPath": {
+            "type": "string",
+            "description": "Path to the Godot project directory"
+          },
+          "scenePath": {
+            "type": "string",
+            "description": "Path to the scene file (relative to project)"
+          },
+          "nodePath": {
+            "type": "string",
+            "description": "Path to the Sprite2D node (e.g., \"root/Player/Sprite2D\")"
+          },
+          "texturePath": {
+            "type": "string",
+            "description": "Path to the texture file (relative to project)"
+          }
+        },
+        "required": [
+          "projectPath",
+          "scenePath",
+          "nodePath",
+          "texturePath"
+        ]
+      }
+    },
+    {
+      "name": "export_mesh_library",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "projectPath": {
+            "type": "string",
+            "description": "Path to the Godot project directory"
+          },
+          "scenePath": {
+            "type": "string",
+            "description": "Path to the scene file (.tscn) to export"
+          },
+          "outputPath": {
+            "type": "string",
+            "description": "Path where the mesh library (.res) will be saved"
+          },
+          "meshItemNames": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Optional: Names of specific mesh items to include (defaults to all)"
+          }
+        },
+        "required": [
+          "projectPath",
+          "scenePath",
+          "outputPath"
+        ]
+      }
+    },
+    {
+      "name": "save_scene",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "projectPath": {
+            "type": "string",
+            "description": "Path to the Godot project directory"
+          },
+          "scenePath": {
+            "type": "string",
+            "description": "Path to the scene file (relative to project)"
+          },
+          "newPath": {
+            "type": "string",
+            "description": "Optional: New path to save the scene to (for creating variants)"
+          }
+        },
+        "required": [
+          "projectPath",
+          "scenePath"
+        ]
+      }
+    },
+    {
+      "name": "get_uid",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "projectPath": {
+            "type": "string",
+            "description": "Path to the Godot project directory"
+          },
+          "filePath": {
+            "type": "string",
+            "description": "Path to the file (relative to project) for which to get the UID"
+          }
+        },
+        "required": [
+          "projectPath",
+          "filePath"
+        ]
+      }
+    },
+    {
+      "name": "update_project_uids",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "projectPath": {
+            "type": "string",
+            "description": "Path to the Godot project directory"
+          }
+        },
+        "required": [
+          "projectPath"
+        ]
+      }
+    }
+  ],
+  "runtime": {
+    "output": [
+      "Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org",
+      "",
+      "OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro",
+      "",
+      "",
+      "",
+      "ART_LAB_READY engine=4.7.2-stable (official) viewport=(362.0, 304.0) frames=8 filter=nearest root=(108,48)",
+      "",
+      "ART_LAB_CAPTURE startup error=0 size=(362, 304)",
+      "",
+      "ART_LAB_CAPTURE frame-01 error=0 size=(362, 304)",
+      "",
+      "ART_LAB_CAPTURE frame-02 error=0 size=(362, 304)",
+      "",
+      "ART_LAB_CAPTURE frame-03 error=0 size=(362, 304)",
+      "",
+      "ART_LAB_CAPTURE frame-04 error=0 size=(362, 304)",
+      "",
+      "ART_LAB_CAPTURE frame-05 error=0 size=(362, 304)",
+      "",
+      "ART_LAB_CAPTURE frame-06 error=0 size=(362, 304)",
+      "",
+      "ART_LAB_CAPTURE frame-07 error=0 size=(362, 304)",
+      "",
+      "ART_LAB_LOOP 1",
+      "",
+      "ART_LAB_CAPTURE frame-00 error=0 size=(362, 304)",
+      "",
+      "ART_LAB_LOOP 2",
+      ""
+    ],
+    "errors": []
+  },
+  "ready": true,
+  "loopTwoObserved": true,
+  "allNativeFrameCapturesObserved": true,
+  "runtimeErrorText": "",
+  "stopResult": {
+    "message": "Godot project stopped",
+    "finalOutput": [
+      "Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org",
+      "",
+      "OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro",
+      "",
+      "",
+      "",
+      "ART_LAB_READY engine=4.7.2-stable (official) viewport=(362.0, 304.0) frames=8 filter=nearest root=(108,48)",
+      "",
+      "ART_LAB_CAPTURE startup error=0 size=(362, 304)",
+      "",
+      "ART_LAB_CAPTURE frame-01 error=0 size=(362, 304)",
+      "",
+      "ART_LAB_CAPTURE frame-02 error=0 size=(362, 304)",
+      "",
+      "ART_LAB_CAPTURE frame-03 error=0 size=(362, 304)",
+      "",
+      "ART_LAB_CAPTURE frame-04 error=0 size=(362, 304)",
+      "",
+      "ART_LAB_CAPTURE frame-05 error=0 size=(362, 304)",
+      "",
+      "ART_LAB_CAPTURE frame-06 error=0 size=(362, 304)",
+      "",
+      "ART_LAB_CAPTURE frame-07 error=0 size=(362, 304)",
+      "",
+      "ART_LAB_LOOP 1",
+      "",
+      "ART_LAB_CAPTURE frame-00 error=0 size=(362, 304)",
+      "",
+      "ART_LAB_LOOP 2",
+      ""
+    ],
+    "finalErrors": []
+  },
+  "captureFiles": [
+    {
+      "path": "godot/standing-idle-lab/evidence/runtime-frame-00.png",
+      "sha256": "f3ced08f278db4e73f1e21cb605bd7703ec1e1eb285fa7e8ca26c0124be64852"
+    },
+    {
+      "path": "godot/standing-idle-lab/evidence/runtime-frame-01.png",
+      "sha256": "b1433cd1410998c9418214083aed288757d6572e2682a98541974ba6358cdcf5"
+    },
+    {
+      "path": "godot/standing-idle-lab/evidence/runtime-frame-02.png",
+      "sha256": "55497d50292ecf43228574ee8e455ba06a06fad4160980e2c3ac4f23fc7cd396"
+    },
+    {
+      "path": "godot/standing-idle-lab/evidence/runtime-frame-03.png",
+      "sha256": "18c5ba122b9115b363020d6c1601c45eeec3f07c3269c0723001cd25b69e6ec5"
+    },
+    {
+      "path": "godot/standing-idle-lab/evidence/runtime-frame-04.png",
+      "sha256": "8f09315fa8783786f53e8839bc9103f172e28eb1f6bc20b01b3195cc89696514"
+    },
+    {
+      "path": "godot/standing-idle-lab/evidence/runtime-frame-05.png",
+      "sha256": "14cffd0c30cd3dff914e4fabaa088369a256734b141b35c6fadae27314545f35"
+    },
+    {
+      "path": "godot/standing-idle-lab/evidence/runtime-frame-06.png",
+      "sha256": "ebb1ea8ee05a30dfa3b9929914177ad5abc73be01728053f58529b2d3d9c57c0"
+    },
+    {
+      "path": "godot/standing-idle-lab/evidence/runtime-frame-07.png",
+      "sha256": "d5cc22d394188ebdb33e94a7c0754dd523903953bf4bf519eaf31777284dd2ef"
+    }
+  ],
+  "passed": true,
+  "completed": "2026-10-27T11:36:08.136Z"
+}

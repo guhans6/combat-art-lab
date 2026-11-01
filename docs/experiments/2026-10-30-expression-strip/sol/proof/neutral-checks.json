@@ -1,0 +1,263 @@
+{
+  "passed": true,
+  "failures": [],
+  "layers": [
+    {
+      "name": "guide-source-seed (hidden)",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "00-shoes",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "01-denim",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "02a-jacket-left",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "02b-jacket-right",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "03-shirt",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "04-tote",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "05-tote-strap",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "06a-left-hand",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "06b-right-hand",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "07-face-and-neck",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    },
+    {
+      "name": "08-hair-tie-and-hair",
+      "changed_pixels": 2,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        192
+      ]
+    }
+  ],
+  "frame_metadata_equal": true,
+  "layer_metadata_equal": true,
+  "header_equal": true,
+  "name": "neutral",
+  "native": "docs/experiments/2026-10-30-expression-strip/sol/inputs/luna6-neutral.aseprite",
+  "native_sha256": "d76266fa8afcd1de643e6b6421ec4dfe4fa77f8044a1d083205b921eb2f25540",
+  "fresh_export": "docs/experiments/2026-10-30-expression-strip/luna/proof/luna6-neutral-reopened.png",
+  "png_sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+  "native_composite_equals_fresh_export": true,
+  "first_reopen_rgba_equal": true,
+  "first_reopen_png_byte_equal": true,
+  "alpha_equal": true,
+  "canvas_equal": true,
+  "changed_pixels": [
+    {
+      "x": 68,
+      "y": 27,
+      "before": [
+        202,
+        106,
+        68,
+        255
+      ],
+      "after": [
+        116,
+        76,
+        64,
+        255
+      ]
+    },
+    {
+      "x": 69,
+      "y": 27,
+      "before": [
+        228,
+        133,
+        88,
+        255
+      ],
+      "after": [
+        116,
+        76,
+        64,
+        255
+      ]
+    }
+  ],
+  "changed_count": 2,
+  "protected_composite_changes": 0,
+  "nose_equal": true,
+  "opaque_pixels": 7844,
+  "negative_scope_rejected": true,
+  "expression_quality": "not established by this mechanical check"
+}

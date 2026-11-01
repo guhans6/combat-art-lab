@@ -1,0 +1,15 @@
+{
+  "all_frames_exact": true,
+  "durations_ms": [
+    600,
+    350,
+    550,
+    600,
+    50,
+    80,
+    50,
+    250
+  ],
+  "shared_colors": 249,
+  "loop": 0
+}

@@ -1,0 +1,70 @@
+{
+  "neutral_matte_rgb": [
+    0,
+    0,
+    0
+  ],
+  "gif_1x": {
+    "path": "exports/repair/terra56-breathe-repair-1x.gif",
+    "encoded_frame_count": 5,
+    "encoded_durations_ms": [
+      200,
+      80,
+      200,
+      90,
+      170
+    ],
+    "expanded_source_durations_ms": [
+      110,
+      90,
+      80,
+      90,
+      110,
+      90,
+      80,
+      90
+    ],
+    "rgb_equal_each_encoded_frame": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "visual_timeline_equal": true,
+    "scale": 1,
+    "palette_colours_including_matte": 249
+  },
+  "gif_3x": {
+    "path": "exports/repair/terra56-breathe-repair-3x.gif",
+    "encoded_frame_count": 5,
+    "encoded_durations_ms": [
+      200,
+      80,
+      200,
+      90,
+      170
+    ],
+    "expanded_source_durations_ms": [
+      110,
+      90,
+      80,
+      90,
+      110,
+      90,
+      80,
+      90
+    ],
+    "rgb_equal_each_encoded_frame": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "visual_timeline_equal": true,
+    "scale": 3,
+    "palette_colours_including_matte": 249
+  },
+  "fresh_native_reopen_export": "pending coordinator read-only check"
+}

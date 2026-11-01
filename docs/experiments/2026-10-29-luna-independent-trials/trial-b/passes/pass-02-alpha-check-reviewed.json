@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "frames": [
+    {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        128,
+        192
+      ],
+      "region_half_open": [
+        32,
+        3,
+        104,
+        185
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "docs/experiments/2026-10-29-luna-independent-trials/trial-b/passes/pass-02.png",
+      "sha256": "1f8a00710c5cfc6678d0a392b5c6c4453682b162bc893da1a50056a1c2c6edaf"
+    }
+  ]
+}

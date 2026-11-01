@@ -1,0 +1,35 @@
+{
+  "id": "001",
+  "time": "2026-10-26T10:28:26.123Z",
+  "call": {
+    "name": "preflight"
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "READY (headless) — Aseprite 1.3.18.6-dev, no sprite open. Nothing is on disk until you save."
+      }
+    ],
+    "structuredContent": {
+      "ready": true,
+      "mode": "headless",
+      "switched": false,
+      "bridgeConnected": true,
+      "pluginConnected": true,
+      "asepriteVersion": "1.3.18.6-dev",
+      "extensionVersion": "0.8.2",
+      "features": [
+        "draw_batch",
+        "recolor",
+        "validate",
+        "tileset",
+        "reference",
+        "filmstrip"
+      ],
+      "activeSprite": null,
+      "directive": "Ready, headless: there is no window, so the user sees only what `look` shows and the files you write. Open or create a sprite with sprite_manage, and save it (op 'save'/'save_as') before you finish — unsaved work is lost when this server stops."
+    }
+  },
+  "images": []
+}

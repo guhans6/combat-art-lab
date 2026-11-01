@@ -1,0 +1,314 @@
+--- before/docs/workflow/art-production.md
++++ after/docs/workflow/art-production.md
+@@ -152,7 +152,7 @@
+ 
+ **Work**
+ 
+-- Select **new reconstruction**, **assisted reconstruction**, **local correction**, or **animation** explicitly. A correction inherits the approved asset's locks; a new reconstruction can test new grids in separate files. The frozen v03 correction benchmark does not define the limits of fresh construction.
++- Select **new reconstruction**, **assisted reconstruction**, **local correction**, or **animation** explicitly. For animation construction, revision or diagnosis (including idle and blink), follow the [motion guide's animation procedure](../art/motion-guide.md#animation-procedure). A correction inherits the approved asset's locks; a new reconstruction can test new grids in separate files. The frozen v03 correction benchmark does not define the limits of fresh construction.
+ - Inspect the approved scene and close-up, with any extracted cutout as supporting evidence. Separate identity features, secondary detail, and atmosphere using the [style guide](../art/style-guide.md).
+ - Open the actual original images visually before construction and record their paths and concrete observations; a prose summary or prior sprite alone does not complete this step. If image delivery is unavailable, stop drawing and report that gap.
+ - Record approximate feature footprints on each proposed native grid: face envelope, near/far eye clusters, fringe openings, cheek/jaw, and hair tie. State which cues appear supportable and which collide or disappear. These are design observations, not a calculated likeness score.
+--- before/docs/art/motion-guide.md
++++ after/docs/art/motion-guide.md
+@@ -1,4 +1,21 @@
+ # Motion guide
++
++## Current idle direction — 30 October 2026
++
++The user prefers the movement direction of the [latest redraw](../experiments/2026-10-30-redrawn-breathing-sol/proof/neutral-3x.gif)
++but rejects its clothing appearance for game use. The earlier two-panel comparison's
++appearance preference is recorded in the [style guide](style-guide.md#animation-appearance-direction--30-october-2026).
++Neither whole animation nor either earlier side is newly approved. The latest redraw
++is rejected as a combined game candidate; preserve its partial motion preference as
++direction only. See the [diagnosis and evidence boundaries](../experiments/2026-10-30-animation-workflow-integration/record.md).
++
++## Animation procedure
++
++For animation construction, revision or diagnosis, use the director's
++[animation procedure](../../tools/pixel-art-director/references/animation.md).
++Its task-specific profile and separate motion/material/expression/technical decisions
++apply before extending keys and again to the exported cycle. Static facial edits use
++the existing [face procedure](../../tools/pixel-art-director/references/face-likeness.md).
+ 
+ ## Current standing idle experiment — 27 October 2026
+ 
+@@ -10,7 +27,7 @@
+ Earlier status and representative-attack fields below are historical/unresolved.
+ 
+ 
+-Status: two visual stills received on 25 October 2026; no motion clip or representative attack selected. The preferred cinematic pixel-art appearance does not establish desired combat speed, weapon, or camera. A motion reference is useful before the attack experiment, but is not required to continue visual concept exploration.
++Historical status on 25 October 2026: two visual stills received; no motion clip or representative attack selected. The later [decoded motion-reference study](../experiments/2026-10-30-quiet-chest-idle-sol/reddit-motion-study/record.md) supersedes the absence of a clip. Desired combat speed, weapon and camera remain open; idle evidence does not choose them.
+ 
+ ## Motion target
+ 
+--- before/docs/art/style-guide.md
++++ after/docs/art/style-guide.md
+@@ -1,6 +1,6 @@
+ # Style guide
+ 
+-Updated: 27 October 2026.
++Updated: 30 October 2026.
+ 
+ ## Approved visual target
+ 
+@@ -22,6 +22,18 @@
+ compare them with originals before use. Generated simplifications cannot silently
+ replace identity/style anchors. Do not read the earlier rejected flat-background
+ experiment as a universal ban on all reference-assisted methods.
++
++## Animation appearance direction — 30 October 2026
++
++The user prefers the game-suitable appearance of the [earlier Terra-left/Sol-right comparison](../experiments/2026-10-30-natural-idle-sol/proof/terra-left-sol-right-3x.gif),
++despite its motion defects; no particular side was selected in this feedback. The
++[latest redraw](../experiments/2026-10-30-redrawn-breathing-sol/proof/neutral-3x.gif)
++is rejected for apparent clothing color/shading changes. Preserve the earlier pale
++shirt, olive jacket and their characteristic shade/texture relationships when
++developing new poses. This is appearance direction, not approval of either animation
++or a frozen-pixel requirement. The [motion guide](motion-guide.md#animation-procedure)
++routes sequence work to the detailed continuity review. No art was revised by this
++workflow update.
+ 
+ ## Reference feasibility and preservation priorities
+ 
+--- before/docs/handoff.md
++++ after/docs/handoff.md
+@@ -646,3 +646,31 @@
+ ## Directly redrawn breathing poses — 30 October 2026
+ 
+ User explicitly rejected pixel-shifting shortcuts. Sol6.1 inspected field-script cause and actual Reddit process; rigid-part cel-move guidance had been applied to torso deformation instead of its redraw exception. New [redrawn candidate](experiments/2026-10-30-redrawn-breathing-sol/record.md) uses authored garment/neckline/sleeve/waist grids, no body row-band warp; rigid head identity reused only. Parent rejected initial collar alpha gaps and changed neckline cut in two key reviews before cycle assembly. Final12frames3950ms; originalblink remappedF9–11 exactly50/80/50, feet/lowerbodyy90+fixed, originalsunchanged. Parent inspected body/torso/hip contacts and independentlyverified12freshreopens/fullblinkcomposites/feet/timing. Finalnative fa4fc5aa239b4c2cf36f2b110eaab0cff7f56456b563058603c46fd4dba70c39. [GIF](experiments/2026-10-30-redrawn-breathing-sol/proof/neutral-3x.gif). Candidate methodverified; naturalness/userplaybackapproval pending, not establishedbytechnicalchecks. NoGodot/publication. Editorclosed.
++
++## Animation appearance rejection and workflow integration — 30 October 2026
++
++The latest user feedback supersedes the preceding candidate status: the redraw's
++movement direction is preferred, but clothing color/shading behavior is rejected
++for game use. The earlier Terra-left/Sol-right comparison supplies preferred
++appearance; neither side nor whole animation is newly selected. [Independent diagnosis](experiments/2026-10-30-animation-workflow-integration/record.md)
++finds source shade/cluster redistribution consistent with the complaint, despite
++zero new RGBs. All28 native composites match PNGs; both supplied GIFs exactly match
++native pixels/timing. Shared-matte comparisons retain the changed patterns. No
++actual-speed viewing or gameplay validation occurred in this task.
++
++Existing workflow/motion/style branches now reach the portable director's disclosed
++animation procedure: task-specific profiles, per-part reuse/redraw, corresponding-form
++material review, separate motion/expression/technical decisions and playback evidence.
++Facial edits retain the existing face procedure; ordinary still work avoids the
++animation checklist. Native-only alpha proof is distinct from engine delivery.
++[Verification](experiments/2026-10-30-animation-workflow-integration/verification.md):
++source35/35 and standalone extracted35/35 tests, eight-scenario independent instruction
++pass, links/schema/discovery and2,751 preserved art/experiment hashes. Official skill
++validator remains unavailable due to missing PyYAML; supplementary Ruby YAML checks pass.
++New [portable ZIP](experiments/2026-10-30-animation-workflow-integration/pixel-art-director-2026-10-30-animation-continuity-v1.zip),
++SHA256 `33779e6da10dedb6fec0da2b59e4aed92337b4198850f77e6c7c583a82797473`;
++previous bundles unchanged. Local symlink active; installation elsewhere unperformed.
++No art/source/blink changes, editor launch, global config, Godot, commit or publication.
++Next owner: agent under a separate art request for a bounded key/transition proof
++combining earlier appearance relationships with the preferred movement direction;
++user retains independent appearance/motion approval. No selected production idle.
+--- before/tools/pixel-art-director/SKILL.md
++++ after/tools/pixel-art-director/SKILL.md
+@@ -1,6 +1,6 @@
+ ---
+ name: pixel-art-director
+-description: Construct or revise deliberate pixel art in editable Aseprite sources using a frozen visual brief, scoped drawing operations, visual inspection, and deterministic checks. Use for character likeness corrections, pixel-art reconstruction, controlled sprite iteration, or cross-model art comparisons. Use trace-guided, conversion-plus-cleanup, or hybrid construction when source-derived shapes reduce appearance drift.
++description: Construct, revise or review deliberate pixel art in editable Aseprite sources using a frozen visual brief, scoped operations, visual inspection and deterministic checks. Use for character likeness corrections, pixel-art reconstruction, sprite animation, controlled iteration or cross-model art comparisons. Use trace-guided, conversion-plus-cleanup or hybrid construction when source-derived shapes reduce appearance drift.
+ ---
+ 
+ # Pixel-art director
+@@ -27,11 +27,12 @@
+ Record unresolved assumptions rather than treating your earlier critique as fact.
+ When a receiving project supplies art-production context, apply its experiment
+ intent, seed review, per-pass identity gate, and selection rules.
++For facial construction, correction or deliberate expression/blink changes, read
++[face-likeness.md](references/face-likeness.md) before interpreting marks or freezing scope.
+ 
+ Choose one mode:
+ - **Local correction:** copy the existing native asset; protect everything outside
+-  the authorized region. For ambiguous eyes, mouth, or expression, read
+-  [face-likeness.md](references/face-likeness.md) before freezing the edit scope.
++  the authorized region.
+ - **New reconstruction:** draw into new named layers from the approved visual brief;
+   read [reconstruction.md](references/reconstruction.md) and [craft.md](references/craft.md).
+   Test scale and feature feasibility before committing to the full asset; an
+@@ -40,10 +41,9 @@
+   cleanup, or a hybrid using [assisted-reconstruction.md](references/assisted-reconstruction.md).
+   Use this branch when source transfer can preserve identity better than reinvention;
+   meaningful native structure and dependable revisions remain the delivery criteria.
+-- **Animation:** after a convincing static checkpoint, obtain/review supplementary
+-  sheets or individual poses with canonical identity/style anchors; final artistic
+-  selection remains the user’s. Read the animation
+-  section of [craft.md](references/craft.md). Keep it a separate evaluation task.
++- **Animation construction, revision or diagnosis:** read
++  [animation.md](references/animation.md) for the task profile, per-part method,
++  material continuity and separate pose/playback decisions.
+ 
+ For cross-model comparison, read [benchmark.md](references/benchmark.md). The
+ bundled `assets/combat-art-lab-v03.json` is a historical optional profile, not a
+@@ -54,6 +54,9 @@
+ native-preserving editing from a screenshot; identify the blocked input.
+ 
+ ## 2. Verify one drawing backend
++
++This gate applies before native mutation. A read-only audit may use existing native
++readers and exports; report unavailable evidence and skip drawing steps 2–4.
+ 
+ Read [setup.md](references/setup.md) on first use or after a tool/version change.
+ Run `python3 scripts/doctor.py` relative to this skill directory. Its default
+--- before/tools/pixel-art-director/assets/AGENTS.snippet.md
++++ after/tools/pixel-art-director/assets/AGENTS.snippet.md
+@@ -1,6 +1,6 @@
+ ## Pixel-art work
+ 
+-For sprite construction, likeness correction, or cross-model pixel-art tests,
++For sprite construction, animation/review, likeness correction, or cross-model pixel-art tests,
+ read `skills/pixel-art-director/SKILL.md` and only its task-relevant references.
+ Use the exact frozen asset/profile for the requested experiment; preserve
+ uncommitted work and approved originals. Verify one drawing backend and actual
+--- before/tools/pixel-art-director/references/alpha-coverage.md
++++ after/tools/pixel-art-director/references/alpha-coverage.md
+@@ -17,14 +17,15 @@
+ an explicit --allow-holes JSON list of XY coordinates. Avoid blanket filling or
+ blanket ignoring small components; hair openings and leg gaps can be intentional.
+ 
+-Inspect the export on contrasting light/dark or saturated backgrounds and in the
+-actual scene. Read the native target layer to distinguish absent alpha from a
++Inspect the export on contrasting light/dark or saturated backgrounds and, when
++runtime delivery is in scope, in the actual scene. Read the native target layer to distinguish absent alpha from a
+ painted highlight. For moving disjoint parts, provide occlusion backing/overlap at
+ joints so movement does not expose unpainted pixels. Preserve intentional root travel.
+ 
+-Complete when all affected frames pass the declared coverage checks, save/reopen
+-matches, protected native layers/palette/timing are verified, and actual engine
+-output has been inspected. Pixel equality and successful playback alone can preserve
++Complete the native coverage proof when all affected frames pass the declared checks,
++save/reopen matches and protected native layers/palette/timing are verified. Engine
++delivery also requires inspection of actual engine output; a scoped native-only result
++leaves that boundary untested. Pixel equality and successful playback alone can preserve
+ the same defective holes. Generic automatic flags support visual judgment.
+ 
+ combat-art-lab's Godot preview also checks body coverage before playing its frames.
+--- before/tools/pixel-art-director/references/animation.md
++++ after/tools/pixel-art-director/references/animation.md
+@@ -0,0 +1,98 @@
++# Animation: motion and appearance continuity
++
++Use for constructing, revising or diagnosing a frame sequence. A static expression
++edit uses [face-likeness.md](face-likeness.md); deliberate facial changes within a
++sequence use that procedure as well as this one. Apply the receiving project's
++references and constraints. No character, model, palette size or frame count is a default.
++
++## Establish the task profile
++
++Record the exact native baseline/export and reference roles, accepted qualities,
++rejected qualities, and unresolved selection. A preference for one quality does not
++approve the whole candidate or select a side of a multi-panel comparison.
++Start construction with a convincing static checkpoint; name whether it is
++user-selected or agent-provisional. Broader production requires user acceptance.
++
++Keep a short task-specific profile in the run record:
++
++- Motion: action, phases/timing, key poses, grounded/root travel, intended scale and
++  desired restraint; motion reference intervals and what they demonstrate.
++- Appearance: material base/shadow/light roles, lighting direction/value hierarchy,
++  characteristic fold/texture clusters, contours and silhouette/volume cues to retain.
++- Scope: actual native owners, per-region reuse/deformation/redraw, permitted
++  expression changes, protected regions, anchors, palette policy and pass budget.
++- Evidence: key/transition/loop comparisons, playback path, native/export checks and
++  the next decision. Mark unobserved playback and unknown game scale explicitly.
++
++Use only fields relevant to this sequence. A diagnostic may begin from rejected
++poses; that does not make them a baseline for dependent production. An image-model
++sheet may supply poses but is not a native master; record generation, raster reuse,
++authored drawing and manual intervention separately. Keep method changes separate
++from a frozen model comparison.
++
++## Choose a method for each part
++
++Inspect visible pixels and actual native ownership before moving a named layer.
++Use cel translation/rotation or copied pixels for rigid parts and holds where their
++shape remains valid. For changing torso volume, cloth tension, foreshortening or
++occlusion, construct the changed contours/planes and repair overlaps and exposed
++areas. Reuse legitimate unchanged regions. A request for redraw preserves the
++appearance contract; it does not authorize relighting or costume restyling.
++
++Decide anatomy, connected parts and volume in the key poses before in-betweens.
++For attacks establish anticipation, contact and recovery; for loops establish the
++rest, extremes, transitions and seam. Keep shared native scale/slots and declared
++anchors. Record intended root/jump offsets instead of independently fitting bounds
++or grounding each pose. Keep effects separate so the underlying action is reviewable.
++Inspect affected overlaps with [alpha-coverage.md](alpha-coverage.md).
++
++## Compare corresponding forms and material roles
++
++At the keys, compare actual baseline and candidate exports on the same matte and
++scale, with source pose labels and timing. Establish correspondence using collar,
++seams, silhouette, joints or other relevant landmarks. Register rigid regions when
++appropriate; use local form correspondence for deforming regions. A head offset is
++not a registration model for the shirt. Record occlusion or uncertain correspondence.
++
++Track representative shadow, fold and highlight clusters through adjacent poses,
++extremes, release and loop return. Let them change with surface orientation, cloth
++tension and cast-shadow occlusion while preserving recognizable material roles,
++value hierarchy, light direction and rendering density. Explain changed clusters
++through those forms; an unexplained patch that appears, swaps light/shadow roles or
++changes texture warrants correction or an unresolved/rejected appearance decision.
++Declare intentional relighting/restyling as a separate variant when authorized.
++
++An unchanged palette can still produce apparent color/material changes through
++redistributed shade area and cluster topology. New-RGB counts, histograms and pixel
++diffs are diagnostic observations. Motion, occlusion and ROI membership affect them;
++they establish neither a defect nor an artistic pass. Exact pixels across all poses
++are also not required. If a GIF looks different, decode it against the intended
++native composites and inspect a shared matte before attributing the cause to art
++or export. Preserve independent timings when comparing different loops.
++
++## Make separate review decisions
++
++Before extending keys into a cycle, and again on actual exported transitions and
++loop return, record observations and a decision for each relevant dimension:
++
++- Motion/timing and anatomy/volume: coordination, silhouette, contact, planted-foot
++  behavior and connected overlaps; name pose evidence separately from playback.
++- Material/shading: continuity against the appearance baseline and reference, with
++  specific changed cluster/pose evidence.
++- Identity/expression: intended versus incidental changes, using the facial
++  procedure when features change or become ambiguous.
++- Technical scope/native/export: protected pixels, palette, transparency, source
++  structure, timing and fresh reopen/export checks suited to the task.
++
++Motion gains cannot compensate for rejected material appearance or expression;
++technical success cannot waive any visual decision. Retain the best eligible
++checkpoint per agreed goal; if none meets it, record no selected animation and
++preserve partial preferences. Correct within scope/budget or stop that branch.
++
++Inspect native-size and useful integer zoom poses, full character/context, and
++actual-speed playback at the intended timing. A filmstrip supports pose inspection,
++not temporal perception. State who observed which exact playback artifact, at what
++scale/speed; if only stills and decoded timings are available, retain a playback
++candidate and explicitly leave temporal judgment unverified. A disclaimer is not
++a substitute for the pose/material review that is available. User approval and
++engine/gameplay playback remain separate evidence boundaries.
+--- before/tools/pixel-art-director/references/craft.md
++++ after/tools/pixel-art-director/references/craft.md
+@@ -71,19 +71,8 @@
+ 
+ ## Animation branch (separate task)
+ 
+-Start a bounded motion probe from a convincing static treatment and reviewed key-pose
+-references; record whether the static choice is user-selected or agent-provisional.
+-Broader production still requires user acceptance. Lock canvas, declared registration/ground
+-anchor, apparent character scale, palette and layer roles. Set anticipation,
+-contact and recovery timing before adding in-betweens. Evaluate played motion,
+-not just a contact sheet. Check planted-foot drift, head volume, silhouette and
+-facial identity across frames. Keep effects on separate layers. Do not prescribe
+-one universal frame count or assume cel interpolation produces convincing combat.
+-
+-An image-model concept/storyboard can guide poses, but it is not a native animation
+-master. Record each use of generation, imported raster, authored drawing, and
+-manual intervention separately. Do not mix a generator-based experiment with the
+-same-model drawing benchmark and label the outcomes equivalent.
++For animation construction, revision or diagnosis, read [animation.md](animation.md).
++Static construction and correction do not require that branch.
+ 
+ ## Source basis
+ 

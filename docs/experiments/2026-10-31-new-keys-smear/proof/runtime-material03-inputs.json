@@ -1,0 +1,12 @@
+{
+  "godot/smear_comparison.gd": "6cdc03b1d78f3de13a3340f48092f2b7872ad6a91f01605566f78ab3f519d830",
+  "godot/project.godot": "99ebd8860a0e36272da097d53e177ff9538682513c1bae2129a24948e9185898",
+  "godot/main.tscn": "8f35ca3526c439b5af96083bc523332665744277a9577f4756dae10a68515531",
+  "exports/timing.json": "f7297dceb3719bf7d2fe2a42138ba32c51bc155cbd34473ae591cff1438d2484",
+  "exports/tote-clean-sheet.png": "28e85f4084275c906e514aecd902be939d4fe2924dd528f7f4858f35fec9d0b6",
+  "exports/tote-smear-sheet.png": "c40c6a8a73ba5698274e0ce3f8f17f5ff93ccc1af705747b7ecd7cc4e279c56a",
+  "source/tote-clean-material03.aseprite": "b29bc145f3159044e29857501056cc2194aa11dc022f43d884482bdc469bb77e",
+  "source/tote-smear-material03.aseprite": "c36f806b09e9898401a6ba6dc85ab543c40a0d3c0e519e752b5a516f715ace4f",
+  "exports/tote-prop-sheet.png": "50df53afaa47a24cc38ab46d4b72f636197373b5b886e023f0b5fc945729012a",
+  "exports/tote-prop-sheet.json": "4bb4dc52e36150a8d32ef63b131a20ffb02e98720bd20aadd68faf6762b24e04"
+}

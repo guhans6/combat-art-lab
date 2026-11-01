@@ -1,0 +1,51 @@
+{
+  "six-keys.png": {
+    "source": "/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/codex-clipboard-7365e076-79f3-450e-aea8-9e144b9f2f81.png",
+    "sha256": "54aa038fbb78687ff09e259a2f0e38c95572f69aa637342a25e1e3dd9e03c148",
+    "size": [
+      1774,
+      887
+    ],
+    "mode": "RGBA"
+  },
+  "additional-keys.png": {
+    "source": "/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/codex-clipboard-7d7c7f95-8808-4a79-9084-0cc80022e098.png",
+    "sha256": "2a7697e77947b9065fe032f513990e260be045cd62a0d2847a1fd5bba79e6566",
+    "size": [
+      2172,
+      724
+    ],
+    "mode": "RGBA"
+  },
+  "neutral.png": {
+    "source": "docs/experiments/2026-10-30-coherent-idle/exports/frame-00.png",
+    "sha256": "3995b4cfadfbf4eba0b26ef9625bdd220c33e399d20d53fe923d8154f6bd74b7",
+    "size": [
+      128,
+      192
+    ],
+    "mode": "RGBA"
+  },
+  "neutral.aseprite": {
+    "source": "docs/experiments/2026-10-30-evidence-idle-four-model/inputs/neutral.aseprite",
+    "sha256": "d76266fa8afcd1de643e6b6421ec4dfe4fa77f8044a1d083205b921eb2f25540"
+  },
+  "character-scene.png": {
+    "source": "assets/references/approved-2026-10-26/character-scene.png",
+    "sha256": "a274a80133371b61387848495bf0dd93546ba5daf0a60c051b27109237160eae",
+    "size": [
+      1448,
+      1086
+    ],
+    "mode": "RGBA"
+  },
+  "character-closeup.png": {
+    "source": "assets/references/approved-2026-10-26/character-closeup.png",
+    "sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7",
+    "size": [
+      1448,
+      1086
+    ],
+    "mode": "RGBA"
+  }
+}

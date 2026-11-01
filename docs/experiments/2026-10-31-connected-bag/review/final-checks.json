@@ -1,0 +1,51 @@
+{
+  "source": "docs/experiments/2026-10-31-connected-bag/source/connected-bag.aseprite",
+  "sha256": "3a628bd6960903db95e5908182ff1e62899e852a6cf284cb0be273be96650ec9",
+  "changed_cels": [
+    {
+      "frame": 8,
+      "layer": "06-continuous-handle-tension",
+      "pixels": 156,
+      "allowed_owner": true,
+      "outside_mask": 0
+    },
+    {
+      "frame": 8,
+      "layer": "04-tote-and-handles",
+      "pixels": 879,
+      "allowed_owner": true,
+      "outside_mask": 0
+    },
+    {
+      "frame": 9,
+      "layer": "06-continuous-handle-tension",
+      "pixels": 156,
+      "allowed_owner": true,
+      "outside_mask": 0
+    },
+    {
+      "frame": 9,
+      "layer": "04-tote-and-handles",
+      "pixels": 713,
+      "allowed_owner": true,
+      "outside_mask": 0
+    },
+    {
+      "frame": 10,
+      "layer": "06-continuous-handle-tension",
+      "pixels": 125,
+      "allowed_owner": true,
+      "outside_mask": 0
+    },
+    {
+      "frame": 10,
+      "layer": "04-tote-and-handles",
+      "pixels": 765,
+      "allowed_owner": true,
+      "outside_mask": 0
+    }
+  ],
+  "all_other_cels_exact": true,
+  "durations_exact": true,
+  "palette_chunks_exact": true
+}

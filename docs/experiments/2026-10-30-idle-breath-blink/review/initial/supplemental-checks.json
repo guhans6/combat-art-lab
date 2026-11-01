@@ -1,0 +1,39 @@
+{
+  "source_still_matches_reviewed_sha": true,
+  "source_sha256": "79c4ebc3df6f2d0c6d621d4c68329e075a10a8def7a9649463b312105d55221e",
+  "reopen_equals_native_derived_frames": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "palette_chunk_hashes_baseline": [
+    "f2d4907a7493af8e6557f933e3c2c40d73f733658fc8250d925f79678ffb5b81"
+  ],
+  "palette_chunk_hashes_candidate": [
+    "f2d4907a7493af8e6557f933e3c2c40d73f733658fc8250d925f79678ffb5b81"
+  ],
+  "native_binary_alpha_all_frames": true,
+  "native_alpha_exact_baseline_all_frames": true,
+  "baseline_native_unchanged": true,
+  "baseline_png_unchanged": true,
+  "gif_all_frames_exact_native_nearest4x_normalized_transparent_rgb": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "gif_scale": 4,
+  "fully_open_ms": 2350,
+  "partial_or_closed_ms": 180,
+  "closed_ms": 80,
+  "actual_speed_watched": false
+}

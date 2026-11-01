@@ -1,0 +1,24 @@
+{
+  "candidate": "docs/experiments/2026-10-29-luna-independent-trials/trial-b/passes/pass-01.png",
+  "candidate_sha256": "11fdc75d43ed0e920dddeca17e30bc420521539359eddbe104a33c6274b68b27",
+  "closeup_reference": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-29-luna-independent-trials/trial-b/input/character-closeup.png",
+  "closeup_sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7",
+  "candidate_head_crop": [
+    46,
+    3,
+    86,
+    50
+  ],
+  "approved_closeup_crop": [
+    430,
+    100,
+    850,
+    500
+  ],
+  "candidate_crop_dimensions": [
+    40,
+    47
+  ],
+  "comparison": "Reference crop scaled nearest-neighbor to candidate head crop height; crop is for face/hair diagnostic only.",
+  "resampling": "nearest-neighbor for all display scaling"
+}

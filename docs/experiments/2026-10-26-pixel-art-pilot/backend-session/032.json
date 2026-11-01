@@ -1,0 +1,26 @@
+{
+  "id": "032",
+  "time": "2026-10-26T10:29:11.331Z",
+  "call": {
+    "name": "sprite_manage",
+    "arguments": {
+      "op": "save_as",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-26-pixel-art-pilot/smoke/out-of-mask.aseprite"
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "save_as: out-of-mask.aseprite. Refer to it as '#102'."
+      }
+    ],
+    "structuredContent": {
+      "op": "save_as",
+      "sprite": "out-of-mask.aseprite",
+      "id": 102,
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-26-pixel-art-pilot/smoke/out-of-mask.aseprite"
+    }
+  },
+  "images": []
+}

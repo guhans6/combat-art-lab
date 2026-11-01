@@ -1,0 +1,39 @@
+{
+  "native": "pass01.aseprite",
+  "frames": [
+    "frames/frame-0.png",
+    "frames/frame-1.png",
+    "frames/frame-2.png",
+    "frames/frame-3.png",
+    "frames/frame-4.png",
+    "frames/frame-5.png",
+    "frames/frame-6.png",
+    "frames/frame-7.png"
+  ],
+  "durations_ms": [
+    1100,
+    180,
+    120,
+    360,
+    220,
+    160,
+    240,
+    1000
+  ],
+  "gif_1x": "idle-neutral-1x.gif",
+  "gif_3x": "idle-neutral-3x.gif",
+  "verification": "verification.json",
+  "record": "record.md",
+  "model": "gpt-6.1-sol",
+  "reasoning": "high",
+  "tools": {
+    "editor": "Aseprite 1.3.18.6-dev",
+    "server": "@pebbly/aseprite-ai-artist 0.8.2",
+    "mode": "headless dedicated MCP",
+    "python": "3.11.16",
+    "pillow": "12.0.0"
+  },
+  "native_sha256": "e93d058a373ef5329ee862523a966e6db225ee0f5ba6fafd294a574b34b6c6c5",
+  "art_status": "retained playback candidate; user selection pending",
+  "actual_speed_playback_observed": false
+}

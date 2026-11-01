@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-27",
+  "package": "@coding-solo/godot-mcp",
+  "version": "0.1.1",
+  "registry_integrity": "sha512-tSwmKN5D3JWGfnyPFxijxjdsT+GKIQrf9g6zYNefLvOVYx2UTC9PhyFFHc9vphtjyFrtjYf1n5Vq1zRNN3UXBA==",
+  "source": "https://github.com/Coding-Solo/godot-mcp",
+  "install_root": ".art-tools/godot-mcp",
+  "config": ".codex/config.toml",
+  "server": "godot-art-lab",
+  "enabled_tools": [
+    "get_godot_version",
+    "list_projects",
+    "get_project_info",
+    "run_project",
+    "get_debug_output",
+    "stop_project"
+  ],
+  "install_scripts": "disabled (--ignore-scripts)",
+  "global_configuration_changed": false,
+  "existing_aseprite_config_preserved": true,
+  "source_review": [
+    "reviewed package metadata and bundled build/index.js execution/path handling",
+    "spawn/execFile argument arrays used for engine operations; no shell exec calls found",
+    "no runtime network calls found in main server source; axios is a declared dependency",
+    "upstream accepts project paths; project scope is configuration/use scope, not a filesystem jail"
+  ],
+  "config_before_sha256": "a4718e803f84913d35ae2c315d8c7a675a774823decebd1331043096fb44843d",
+  "config_after_sha256": "d103c919216ae1d2a85cb231012855749d02d3088de0f77741281947c3d39eef",
+  "native_catalog_enablement": "Configuration recognized by codex mcp get; tools not exposed in this active chat. Reload/reopen workspace chat to refresh.",
+  "protocol_test": {
+    "passed": true,
+    "report": "mcp-smoke.json",
+    "server_info": {
+      "name": "godot-mcp",
+      "version": "0.1.0"
+    },
+    "engine": "4.7.2.stable.official.ed1daf0bf",
+    "frames_captured": 8,
+    "two_loops_observed": true,
+    "runtime_errors": false,
+    "run_and_stop": true
+  }
+}

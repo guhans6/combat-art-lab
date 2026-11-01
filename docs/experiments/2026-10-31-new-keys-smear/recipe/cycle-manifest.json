@@ -1,0 +1,28 @@
+{
+  "calls": 150,
+  "frames": 19,
+  "durations": [
+    180,
+    100,
+    90,
+    80,
+    100,
+    90,
+    150,
+    50,
+    50,
+    100,
+    70,
+    100,
+    90,
+    100,
+    100,
+    100,
+    110,
+    100,
+    400
+  ],
+  "total_ms": 2160,
+  "source": "transfer-study02.aseprite",
+  "source_reuse": "19 frame reconstruction; authored core/arm/step transitions, source-guided keys and one drawn prop smear"
+}

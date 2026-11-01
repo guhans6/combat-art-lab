@@ -1,0 +1,52 @@
+{
+  "input_originals_unchanged": {
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-luna-fullbody-once/trial-b/passes/luna6-fullbody-cleanup.png": true,
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-luna-fullbody-once/trial-b/passes/luna6-fullbody-cleanup.aseprite": true,
+    "/Users/guhan/Guhan/Projects/combat-art-lab/assets/references/approved-2026-10-26/character-closeup.png": true,
+    "/Users/guhan/Guhan/Projects/combat-art-lab/assets/references/approved-2026-10-26/character-scene.png": true,
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-expression-strip/luna/passes/luna6-subtle-smile.png": true,
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-expression-strip/luna/passes/luna6-neutral.aseprite": true,
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-expression-strip/luna/passes/luna6-neutral.png": true,
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-expression-strip/luna/passes/luna6-subtle-smile.aseprite": true,
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-expression-strip/luna/passes/luna6-surprise.aseprite": true,
+    "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-expression-strip/luna/passes/luna6-surprise.png": true
+  },
+  "smile_cosmetic_session_resave_equals_final_native_content": true,
+  "variants": {
+    "neutral": {
+      "native": "docs/experiments/2026-10-30-expression-strip/sol/inputs/luna6-neutral.aseprite",
+      "native_sha256": "d76266fa8afcd1de643e6b6421ec4dfe4fa77f8044a1d083205b921eb2f25540",
+      "fresh_export": "docs/experiments/2026-10-30-expression-strip/luna/proof/luna6-neutral-reopened.png",
+      "png_sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+      "changed_count": 2,
+      "passed": true,
+      "first_reopen_png_byte_equal": true,
+      "alpha_equal": true,
+      "protected_composite_changes": 0
+    },
+    "subtle-smile": {
+      "native": "docs/experiments/2026-10-30-expression-strip/sol/passes/sol-subtle-smile-pass01.aseprite",
+      "native_sha256": "101f736106eb0ad18f98159fcf0aae729e27f7bf6e0991c463c523b3a5dd1062",
+      "fresh_export": "docs/experiments/2026-10-30-expression-strip/sol/passes/sol-subtle-smile-pass01-reopen.png",
+      "png_sha256": "c5b9cade5cad9e0640fdf6ba344ad06d8f2c44be28d4e1ba435dc19e09d070fb",
+      "changed_count": 7,
+      "passed": true,
+      "first_reopen_png_byte_equal": true,
+      "alpha_equal": true,
+      "protected_composite_changes": 0
+    },
+    "surprise": {
+      "native": "docs/experiments/2026-10-30-expression-strip/sol/passes/sol-surprise-pass01.aseprite",
+      "native_sha256": "ee6dfc67cd196be62398dc1f20e0571662e62bf869dbe8c131741ca072889b76",
+      "fresh_export": "docs/experiments/2026-10-30-expression-strip/sol/passes/sol-surprise-pass01-reopen.png",
+      "png_sha256": "66d956bb7eac964f641d546b05c32986755ef39f412e8ca585856ad7a1ecfd0c",
+      "changed_count": 12,
+      "passed": true,
+      "first_reopen_png_byte_equal": true,
+      "alpha_equal": true,
+      "protected_composite_changes": 0
+    }
+  },
+  "backend_validate": "Tool not exposed in connected inventory; independent strict native checker run.",
+  "user_visual_approval": "pending"
+}

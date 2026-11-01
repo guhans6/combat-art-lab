@@ -1,0 +1,768 @@
+{
+  "passed": false,
+  "checks": [
+    {
+      "name": "character_frame_count",
+      "passed": true
+    },
+    {
+      "name": "character_00",
+      "passed": true,
+      "alpha": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          96,
+          216
+        ],
+        "region_half_open": [
+          0,
+          0,
+          96,
+          216
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0
+    },
+    {
+      "name": "character_01",
+      "passed": false,
+      "alpha": {
+        "passed": false,
+        "failures": [
+          "unexpected_interior_transparency"
+        ],
+        "canvas": [
+          96,
+          216
+        ],
+        "region_half_open": [
+          0,
+          0,
+          96,
+          216
+        ],
+        "hole_components_xy": [
+          [
+            [
+              33,
+              37
+            ]
+          ]
+        ],
+        "hole_pixels_xy": [
+          [
+            33,
+            37
+          ]
+        ],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0
+    },
+    {
+      "name": "character_02",
+      "passed": false,
+      "alpha": {
+        "passed": false,
+        "failures": [
+          "unexpected_interior_transparency"
+        ],
+        "canvas": [
+          96,
+          216
+        ],
+        "region_half_open": [
+          0,
+          0,
+          96,
+          216
+        ],
+        "hole_components_xy": [
+          [
+            [
+              33,
+              37
+            ]
+          ]
+        ],
+        "hole_pixels_xy": [
+          [
+            33,
+            37
+          ]
+        ],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0
+    },
+    {
+      "name": "character_03",
+      "passed": false,
+      "alpha": {
+        "passed": false,
+        "failures": [
+          "unexpected_interior_transparency"
+        ],
+        "canvas": [
+          96,
+          216
+        ],
+        "region_half_open": [
+          0,
+          0,
+          96,
+          216
+        ],
+        "hole_components_xy": [
+          [
+            [
+              33,
+              37
+            ]
+          ]
+        ],
+        "hole_pixels_xy": [
+          [
+            33,
+            37
+          ]
+        ],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0
+    },
+    {
+      "name": "character_04",
+      "passed": false,
+      "alpha": {
+        "passed": false,
+        "failures": [
+          "unexpected_interior_transparency"
+        ],
+        "canvas": [
+          96,
+          216
+        ],
+        "region_half_open": [
+          0,
+          0,
+          96,
+          216
+        ],
+        "hole_components_xy": [
+          [
+            [
+              33,
+              37
+            ]
+          ]
+        ],
+        "hole_pixels_xy": [
+          [
+            33,
+            37
+          ]
+        ],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0
+    },
+    {
+      "name": "character_05",
+      "passed": false,
+      "alpha": {
+        "passed": false,
+        "failures": [
+          "unexpected_interior_transparency"
+        ],
+        "canvas": [
+          96,
+          216
+        ],
+        "region_half_open": [
+          0,
+          0,
+          96,
+          216
+        ],
+        "hole_components_xy": [
+          [
+            [
+              33,
+              37
+            ]
+          ]
+        ],
+        "hole_pixels_xy": [
+          [
+            33,
+            37
+          ]
+        ],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0
+    },
+    {
+      "name": "character_06",
+      "passed": true,
+      "alpha": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          96,
+          216
+        ],
+        "region_half_open": [
+          0,
+          0,
+          96,
+          216
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0
+    },
+    {
+      "name": "character_07",
+      "passed": true,
+      "alpha": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          96,
+          216
+        ],
+        "region_half_open": [
+          0,
+          0,
+          96,
+          216
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0
+    },
+    {
+      "name": "shop_part_count",
+      "passed": true
+    },
+    {
+      "name": "00-wall-backing",
+      "passed": false,
+      "alpha": {
+        "passed": false,
+        "failures": [
+          "unexpected_interior_transparency"
+        ],
+        "canvas": [
+          143,
+          220
+        ],
+        "region_half_open": [
+          0,
+          0,
+          143,
+          220
+        ],
+        "hole_components_xy": [
+          [
+            [
+              27,
+              6
+            ],
+            [
+              28,
+              6
+            ],
+            [
+              29,
+              6
+            ],
+            [
+              30,
+              6
+            ],
+            [
+              31,
+              6
+            ],
+            [
+              32,
+              6
+            ],
+            [
+              33,
+              6
+            ],
+            [
+              31,
+              7
+            ],
+            [
+              32,
+              7
+            ],
+            [
+              33,
+              7
+            ]
+          ]
+        ],
+        "hole_pixels_xy": [
+          [
+            27,
+            6
+          ],
+          [
+            28,
+            6
+          ],
+          [
+            29,
+            6
+          ],
+          [
+            30,
+            6
+          ],
+          [
+            31,
+            6
+          ],
+          [
+            32,
+            6
+          ],
+          [
+            33,
+            6
+          ],
+          [
+            31,
+            7
+          ],
+          [
+            32,
+            7
+          ],
+          [
+            33,
+            7
+          ]
+        ],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0,
+      "role": "solid"
+    },
+    {
+      "name": "01-window-backing",
+      "passed": true,
+      "alpha": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          116,
+          216
+        ],
+        "region_half_open": [
+          0,
+          0,
+          116,
+          216
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0,
+      "role": "solid"
+    },
+    {
+      "name": "02-window-interior-left",
+      "passed": true,
+      "alpha": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          77,
+          207
+        ],
+        "region_half_open": [
+          0,
+          0,
+          77,
+          207
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0,
+      "role": "solid"
+    },
+    {
+      "name": "03-window-interior-right",
+      "passed": true,
+      "alpha": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          29,
+          155
+        ],
+        "region_half_open": [
+          0,
+          0,
+          29,
+          155
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0,
+      "role": "solid"
+    },
+    {
+      "name": "04-timber-frame",
+      "passed": true,
+      "alpha": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          99,
+          204
+        ],
+        "region_half_open": [
+          0,
+          0,
+          99,
+          204
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0,
+      "role": "solid"
+    },
+    {
+      "name": "05-blue-awning",
+      "passed": false,
+      "alpha": {
+        "passed": false,
+        "failures": [
+          "unexpected_interior_transparency"
+        ],
+        "canvas": [
+          143,
+          52
+        ],
+        "region_half_open": [
+          0,
+          0,
+          143,
+          52
+        ],
+        "hole_components_xy": [
+          [
+            [
+              104,
+              39
+            ],
+            [
+              105,
+              39
+            ]
+          ]
+        ],
+        "hole_pixels_xy": [
+          [
+            104,
+            39
+          ],
+          [
+            105,
+            39
+          ]
+        ],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0,
+      "role": "solid"
+    },
+    {
+      "name": "06-entry-steps",
+      "passed": true,
+      "alpha": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          175,
+          39
+        ],
+        "region_half_open": [
+          0,
+          0,
+          175,
+          39
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0,
+      "role": "solid"
+    },
+    {
+      "name": "07-chalkboard",
+      "passed": true,
+      "alpha": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          36,
+          101
+        ],
+        "region_half_open": [
+          0,
+          0,
+          36,
+          101
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0,
+      "role": "solid"
+    },
+    {
+      "name": "08-large-planter",
+      "passed": true,
+      "alpha": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          67,
+          106
+        ],
+        "region_half_open": [
+          14,
+          59,
+          56,
+          106
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0,
+      "role": "foliage_with_solid_pot"
+    },
+    {
+      "name": "09-small-planter",
+      "passed": true,
+      "alpha": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          46,
+          54
+        ],
+        "region_half_open": [
+          0,
+          33,
+          28,
+          54
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0,
+      "role": "foliage_with_solid_pot"
+    },
+    {
+      "name": "10-pendant-left-shell",
+      "passed": true,
+      "alpha": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          24,
+          31
+        ],
+        "region_half_open": [
+          0,
+          0,
+          24,
+          31
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0,
+      "role": "solid"
+    },
+    {
+      "name": "11-pendant-right-shell",
+      "passed": true,
+      "alpha": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          16,
+          16
+        ],
+        "region_half_open": [
+          0,
+          0,
+          16,
+          16
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0,
+      "role": "solid"
+    },
+    {
+      "name": "12-ceiling-left-emitter",
+      "passed": true,
+      "alpha": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          19,
+          7
+        ],
+        "region_half_open": [
+          0,
+          0,
+          19,
+          7
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0,
+      "role": "solid"
+    },
+    {
+      "name": "13-ceiling-right-emitter",
+      "passed": true,
+      "alpha": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          13,
+          6
+        ],
+        "region_half_open": [
+          0,
+          0,
+          13,
+          6
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0,
+      "role": "solid"
+    },
+    {
+      "name": "14-pendant-left-emitter",
+      "passed": true,
+      "alpha": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          5,
+          5
+        ],
+        "region_half_open": [
+          0,
+          0,
+          5,
+          5
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0,
+      "role": "solid"
+    },
+    {
+      "name": "15-pendant-right-emitter",
+      "passed": true,
+      "alpha": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          4,
+          4
+        ],
+        "region_half_open": [
+          0,
+          0,
+          4,
+          4
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "partial_alpha": 0,
+      "role": "solid"
+    },
+    {
+      "name": "shop_composite_coverage",
+      "passed": false
+    },
+    {
+      "name": "shop_exact_assembly",
+      "passed": true
+    }
+  ],
+  "boundary": "Reviewed coverage regions/explicit cutouts and export assembly; visual review remains required."
+}

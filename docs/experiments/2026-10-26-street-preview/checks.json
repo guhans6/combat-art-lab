@@ -1,0 +1,29 @@
+{
+  "canvas": [
+    352,
+    264
+  ],
+  "preview": [
+    1408,
+    1056
+  ],
+  "characterOffset": [
+    84,
+    61
+  ],
+  "characterPlacementExactRGBA": true,
+  "v04SourceAndPNGUnchanged": true,
+  "nativeReopenExportIdentical": true,
+  "layers": 14,
+  "backgroundMethod": "One built-in imagegen edit removed original figure; explicit nearest-neighbor sampling for scene grid",
+  "backgroundStructure": "One flat raster layer; environment objects not separately editable",
+  "backgroundOutsideRemovalNotClaimedPixelIdentical": true,
+  "shadowLayerSeparate": true,
+  "independentCompositionMatchesOutsideShadow": true,
+  "shadowRendererRoundingDifferentPixels": 283,
+  "shadowRoundingMaxChannelDelta": 1,
+  "nativeSHA256": "13aa2b7c955c41bc6701ceb88fe0fc21860762b422212a9e005284c683674a84",
+  "exportSHA256": "c16b34361d0cb00d8b6da5b170545214b02c00053de684aecb76e86a6af64c42",
+  "GodotPlayback": "not performed",
+  "userVisualAcceptance": "pending"
+}

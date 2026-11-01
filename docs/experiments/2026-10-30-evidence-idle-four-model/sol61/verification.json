@@ -1,0 +1,273 @@
+{
+  "model": "gpt-6.1-sol",
+  "reasoning": "high",
+  "editor": "Aseprite 1.3.18.6-dev",
+  "server": "@pebbly/aseprite-ai-artist 0.8.2",
+  "mode": "headless dedicated MCP",
+  "python": "3.11.16",
+  "pillow": "12.0.0",
+  "native_sha256": "e93d058a373ef5329ee862523a966e6db225ee0f5ba6fafd294a574b34b6c6c5",
+  "native_canvas": [
+    128,
+    192
+  ],
+  "layer_metadata_equal": true,
+  "native_palette_chunks_equal": true,
+  "cel_geometry_opacity_z_equal": true,
+  "original_rest_native_exact": true,
+  "frame_durations_ms": [
+    1100,
+    180,
+    120,
+    360,
+    220,
+    160,
+    240,
+    1000
+  ],
+  "total_duration_ms": 3380,
+  "frames": [
+    {
+      "frame": 1,
+      "native_export_equal": true,
+      "fresh_reopen_export_equal": true,
+      "source_static_layers_exact": true,
+      "registered_head_exact": true,
+      "registered_neck_exact": true,
+      "new_body_holes": [],
+      "partial_alpha_pixels": 0,
+      "new_visible_colors": 0,
+      "visible_changed_from_rest": 0,
+      "export_sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad"
+    },
+    {
+      "frame": 2,
+      "native_export_equal": true,
+      "fresh_reopen_export_equal": true,
+      "source_static_layers_exact": true,
+      "registered_head_exact": true,
+      "registered_neck_exact": true,
+      "new_body_holes": [],
+      "partial_alpha_pixels": 0,
+      "new_visible_colors": 0,
+      "visible_changed_from_rest": 2,
+      "export_sha256": "f2e7579b313087fe92ad81628a7c0f346ef1593fa565c1daf3e56e105f5c7079"
+    },
+    {
+      "frame": 3,
+      "native_export_equal": true,
+      "fresh_reopen_export_equal": true,
+      "source_static_layers_exact": true,
+      "registered_head_exact": true,
+      "registered_neck_exact": true,
+      "new_body_holes": [],
+      "partial_alpha_pixels": 0,
+      "new_visible_colors": 0,
+      "visible_changed_from_rest": 298,
+      "export_sha256": "7f66bd6fcc72740845af4e9f9c06ebc3896b8d30e4fd4bb8d0e7b30a6a3af85e"
+    },
+    {
+      "frame": 4,
+      "native_export_equal": true,
+      "fresh_reopen_export_equal": true,
+      "source_static_layers_exact": true,
+      "registered_head_exact": true,
+      "registered_neck_exact": true,
+      "new_body_holes": [],
+      "partial_alpha_pixels": 0,
+      "new_visible_colors": 0,
+      "visible_changed_from_rest": 1095,
+      "export_sha256": "55a74712a5aabe69aa8aad4beb88dbeabdba711e11d6f7600c956088d716200c"
+    },
+    {
+      "frame": 5,
+      "native_export_equal": true,
+      "fresh_reopen_export_equal": true,
+      "source_static_layers_exact": true,
+      "registered_head_exact": true,
+      "registered_neck_exact": true,
+      "new_body_holes": [],
+      "partial_alpha_pixels": 0,
+      "new_visible_colors": 0,
+      "visible_changed_from_rest": 1095,
+      "export_sha256": "55a74712a5aabe69aa8aad4beb88dbeabdba711e11d6f7600c956088d716200c"
+    },
+    {
+      "frame": 6,
+      "native_export_equal": true,
+      "fresh_reopen_export_equal": true,
+      "source_static_layers_exact": true,
+      "registered_head_exact": true,
+      "registered_neck_exact": true,
+      "new_body_holes": [],
+      "partial_alpha_pixels": 0,
+      "new_visible_colors": 0,
+      "visible_changed_from_rest": 298,
+      "export_sha256": "7f66bd6fcc72740845af4e9f9c06ebc3896b8d30e4fd4bb8d0e7b30a6a3af85e"
+    },
+    {
+      "frame": 7,
+      "native_export_equal": true,
+      "fresh_reopen_export_equal": true,
+      "source_static_layers_exact": true,
+      "registered_head_exact": true,
+      "registered_neck_exact": true,
+      "new_body_holes": [],
+      "partial_alpha_pixels": 0,
+      "new_visible_colors": 0,
+      "visible_changed_from_rest": 2,
+      "export_sha256": "f2e7579b313087fe92ad81628a7c0f346ef1593fa565c1daf3e56e105f5c7079"
+    },
+    {
+      "frame": 8,
+      "native_export_equal": true,
+      "fresh_reopen_export_equal": true,
+      "source_static_layers_exact": true,
+      "registered_head_exact": true,
+      "registered_neck_exact": true,
+      "new_body_holes": [],
+      "partial_alpha_pixels": 0,
+      "new_visible_colors": 0,
+      "visible_changed_from_rest": 0,
+      "export_sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad"
+    }
+  ],
+  "gifs": [
+    {
+      "path": "idle-neutral-1x.gif",
+      "sha256": "eb0df4d85b9125703fba30c2960dfe1af4a3049b004cd97c68ac9ff42ed88845",
+      "decoded_frames": 7,
+      "decoded_durations_ms": [
+        1100,
+        180,
+        120,
+        580,
+        160,
+        240,
+        1000
+      ],
+      "duration_ms": 3380,
+      "exact_visible_timeline_10ms": true,
+      "exact_palette_colors": 249,
+      "no_quantization": true
+    },
+    {
+      "path": "idle-neutral-3x.gif",
+      "sha256": "67fbf69b4c6456a4cc91399b30d124d7837a743cae75db22ce1757d0bb96472e",
+      "decoded_frames": 7,
+      "decoded_durations_ms": [
+        1100,
+        180,
+        120,
+        580,
+        160,
+        240,
+        1000
+      ],
+      "duration_ms": 3380,
+      "exact_visible_timeline_10ms": true,
+      "exact_palette_colors": 249,
+      "no_quantization": true
+    }
+  ],
+  "material_roi_diagnostics": [
+    {
+      "frame": 1,
+      "pale_shirt_pixels_roi": 240,
+      "muted_fold_pixels_roi": 92,
+      "olive_base_pixels_roi": 533,
+      "olive_shadow_pixels_roi": 187
+    },
+    {
+      "frame": 2,
+      "pale_shirt_pixels_roi": 242,
+      "muted_fold_pixels_roi": 90,
+      "olive_base_pixels_roi": 533,
+      "olive_shadow_pixels_roi": 187
+    },
+    {
+      "frame": 3,
+      "pale_shirt_pixels_roi": 250,
+      "muted_fold_pixels_roi": 88,
+      "olive_base_pixels_roi": 542,
+      "olive_shadow_pixels_roi": 191
+    },
+    {
+      "frame": 4,
+      "pale_shirt_pixels_roi": 254,
+      "muted_fold_pixels_roi": 90,
+      "olive_base_pixels_roi": 549,
+      "olive_shadow_pixels_roi": 191
+    },
+    {
+      "frame": 5,
+      "pale_shirt_pixels_roi": 254,
+      "muted_fold_pixels_roi": 90,
+      "olive_base_pixels_roi": 549,
+      "olive_shadow_pixels_roi": 191
+    },
+    {
+      "frame": 6,
+      "pale_shirt_pixels_roi": 250,
+      "muted_fold_pixels_roi": 88,
+      "olive_base_pixels_roi": 542,
+      "olive_shadow_pixels_roi": 191
+    },
+    {
+      "frame": 7,
+      "pale_shirt_pixels_roi": 242,
+      "muted_fold_pixels_roi": 90,
+      "olive_base_pixels_roi": 533,
+      "olive_shadow_pixels_roi": 187
+    },
+    {
+      "frame": 8,
+      "pale_shirt_pixels_roi": 240,
+      "muted_fold_pixels_roi": 92,
+      "olive_base_pixels_roi": 533,
+      "olive_shadow_pixels_roi": 187
+    }
+  ],
+  "input_hashes_unchanged": {
+    "inputs/neutral.png": true,
+    "inputs/blink-source.aseprite": true,
+    "inputs/character-scene.png": true,
+    "inputs/character-closeup.png": true,
+    "inputs/evidence-pack.zip": true,
+    "inputs/neutral.aseprite": true
+  },
+  "baseline_holes_preserved_note": "Hair cutouts move with the rigid head. The input already has an enclosed transparent jeans pixel at63,116; it is preserved, not newly introduced.",
+  "revision": {
+    "native_changes": [
+      [
+        1,
+        3,
+        45,
+        50
+      ]
+    ],
+    "one_pixel_only": true,
+    "fresh_reopen_export_equal": true,
+    "protected_native_metadata_equal": true,
+    "negative_wrong_mask_rejects": true
+  },
+  "scratch": {
+    "exact_one_pixel": true,
+    "changed": [
+      [
+        8,
+        8
+      ]
+    ],
+    "protected_layer_exact": true,
+    "fresh_reopen_png_equal": true,
+    "negative_mask_rejected": true,
+    "skip_readback": "blue at7,8 retained; green8,8 retained",
+    "erase_readback": "transparent7,8; green8,8"
+  },
+  "aseprite_validate_tool_available": false,
+  "actual_speed_playback_observed": false,
+  "godot_performed": false,
+  "user_art_approval": false,
+  "passed": true
+}

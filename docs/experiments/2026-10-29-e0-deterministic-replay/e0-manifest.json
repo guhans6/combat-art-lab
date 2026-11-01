@@ -1,0 +1,477 @@
+{
+  "schema": 1,
+  "hash_algorithm": "sha256",
+  "source": {
+    "path": "assets/references/approved-2026-10-26/character-closeup.png",
+    "sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7"
+  },
+  "inputs": {
+    "historical_b00": {
+      "path": "inputs/historical-b00-seed.png",
+      "sha256": "0341156ff730ebc22514cb267d758bc81968596faff20b06fdd5264e0ae8b55d"
+    },
+    "original_crop": {
+      "path": "inputs/original-crop-historical.png",
+      "sha256": "8b6be1be396a1b9ac4a3f7e34a4d4177853e16c4c14dcad012686a6c67aa4bbb"
+    }
+  },
+  "scripts": {
+    "prepare.py": {
+      "path": "scripts/prepare.py",
+      "sha256": "b9e2eb0dc85ae5e7c6a83c93711808656abd6d292f8e67ff23af8cc089253f93"
+    },
+    "build.lua": {
+      "path": "scripts/build.lua",
+      "sha256": "1f97b81ef535fc445d7849bc320537815d8a952f1dcbd62eac910ad757e1d6b3"
+    },
+    "verify-native.lua": {
+      "path": "scripts/verify-native.lua",
+      "sha256": "19e340da2e14cb8f11a5f06f107dfd36a2b07d2422bfeac9e7233250e5d1130d"
+    },
+    "make_sheet.py": {
+      "path": "scripts/make_sheet.py",
+      "sha256": "d9ad0095ba3a991d0135844d77791841fa5e1d9a84fca324d02c41d0088bffc8"
+    },
+    "verify_e0.py": {
+      "path": "scripts/verify_e0.py",
+      "sha256": "3a50344722a948e1751ae2b251fb6749629abb74858d549a938aa299ef678502"
+    }
+  },
+  "checker": {
+    "path": "tools/check_native_pilot.py",
+    "sha256": "ffac109419943d7db9c75ffbf54f9460730f338204c8a4c3a81a83e3d5708058"
+  },
+  "run_b": {
+    "traces": {
+      "path": "run-b/replay-2/traces.json",
+      "sha256": "93b04e094b46ce44f1b2d9bb90188260539eac20d5ddb60aa6034a7e82a866e0"
+    },
+    "data_lua": {
+      "path": "run-b/replay-2/data.lua",
+      "sha256": "5205b06695a9b1265251503f2bb55e1135b0dd61e8bcdfdde1437921def76d9b"
+    },
+    "palette": {
+      "values": [
+        [
+          229,
+          179,
+          125
+        ],
+        [
+          220,
+          170,
+          138
+        ],
+        [
+          222,
+          150,
+          103
+        ],
+        [
+          198,
+          152,
+          132
+        ],
+        [
+          220,
+          136,
+          95
+        ],
+        [
+          219,
+          136,
+          95
+        ],
+        [
+          220,
+          135,
+          91
+        ],
+        [
+          213,
+          135,
+          97
+        ],
+        [
+          218,
+          134,
+          94
+        ],
+        [
+          219,
+          133,
+          91
+        ],
+        [
+          218,
+          129,
+          88
+        ],
+        [
+          207,
+          119,
+          77
+        ],
+        [
+          178,
+          108,
+          71
+        ],
+        [
+          186,
+          95,
+          62
+        ],
+        [
+          156,
+          89,
+          51
+        ],
+        [
+          140,
+          75,
+          47
+        ],
+        [
+          92,
+          77,
+          54
+        ],
+        [
+          95,
+          74,
+          52
+        ],
+        [
+          113,
+          64,
+          46
+        ],
+        [
+          95,
+          58,
+          48
+        ],
+        [
+          87,
+          75,
+          57
+        ],
+        [
+          86,
+          74,
+          53
+        ],
+        [
+          86,
+          74,
+          51
+        ],
+        [
+          83,
+          68,
+          50
+        ],
+        [
+          65,
+          59,
+          53
+        ],
+        [
+          91,
+          54,
+          46
+        ],
+        [
+          86,
+          54,
+          48
+        ],
+        [
+          85,
+          53,
+          48
+        ],
+        [
+          84,
+          53,
+          48
+        ],
+        [
+          82,
+          53,
+          48
+        ],
+        [
+          82,
+          52,
+          47
+        ],
+        [
+          82,
+          52,
+          45
+        ],
+        [
+          84,
+          51,
+          46
+        ],
+        [
+          81,
+          51,
+          46
+        ],
+        [
+          84,
+          49,
+          42
+        ],
+        [
+          77,
+          49,
+          45
+        ],
+        [
+          76,
+          45,
+          40
+        ],
+        [
+          69,
+          50,
+          44
+        ],
+        [
+          68,
+          44,
+          42
+        ],
+        [
+          66,
+          42,
+          38
+        ],
+        [
+          60,
+          53,
+          44
+        ],
+        [
+          61,
+          41,
+          39
+        ],
+        [
+          48,
+          47,
+          50
+        ],
+        [
+          62,
+          38,
+          36
+        ],
+        [
+          58,
+          38,
+          37
+        ],
+        [
+          52,
+          37,
+          37
+        ],
+        [
+          53,
+          32,
+          31
+        ],
+        [
+          35,
+          24,
+          23
+        ]
+      ],
+      "canonical_json_sha256": "3b557d85d3890c79e680113d1709f71bfd22b4df41f64e9397a2bf36c983e7e8"
+    },
+    "prepared": {
+      "01-jacket": {
+        "part": {
+          "path": "run-b/replay-2/prepared/01-jacket.png",
+          "sha256": "eeff6aa7f4055ea360d69a5394bc04afa9936072ac5790211cb5db00470df7e6"
+        },
+        "mask": {
+          "path": "run-b/replay-2/prepared/01-jacket-mask.png",
+          "sha256": "9c87f8ffaaaa4446c4c81cf0dc29a3ea3340d44b2781ebf7b65b9ecd0190c09b"
+        }
+      },
+      "02-shirt": {
+        "part": {
+          "path": "run-b/replay-2/prepared/02-shirt.png",
+          "sha256": "4356c5aa874d1d0b436a9bc9ef2c04e9e62b3682987f2a12d6aa6d2927e11d95"
+        },
+        "mask": {
+          "path": "run-b/replay-2/prepared/02-shirt-mask.png",
+          "sha256": "542a84520271a2cbe65bb8bcbd44b6f0ccd9a59f0109a3bd0347bd386f3231c9"
+        }
+      },
+      "03-neck-ear": {
+        "part": {
+          "path": "run-b/replay-2/prepared/03-neck-ear.png",
+          "sha256": "948bd8377a0c817b7b7bd2d26688087feb000a4895b88f5dd579e015160da2e2"
+        },
+        "mask": {
+          "path": "run-b/replay-2/prepared/03-neck-ear-mask.png",
+          "sha256": "a330108f0addab679c2815786ee0e1a2b62ac0d74e66ab0a6f9f7ad75015e1ab"
+        }
+      },
+      "04-rear-hair": {
+        "part": {
+          "path": "run-b/replay-2/prepared/04-rear-hair.png",
+          "sha256": "707f5cfbe4df563d8f87b3574aca767a73dabaea88c1916d6d378f617ed94621"
+        },
+        "mask": {
+          "path": "run-b/replay-2/prepared/04-rear-hair-mask.png",
+          "sha256": "b77e6d323d03f753d185e0c3a029312aa7d505e057eab4da0541abcba0637925"
+        }
+      },
+      "05-face": {
+        "part": {
+          "path": "run-b/replay-2/prepared/05-face.png",
+          "sha256": "6e847f552bf71374f69484bb2ad069624391c9284834d52ac9a0627478f28087"
+        },
+        "mask": {
+          "path": "run-b/replay-2/prepared/05-face-mask.png",
+          "sha256": "715f88c3c81d88674d9ab800e4a9c6c7b0e0a912b15b051017e7a7f1c722366b"
+        }
+      },
+      "06-crown-fringe": {
+        "part": {
+          "path": "run-b/replay-2/prepared/06-crown-fringe.png",
+          "sha256": "b12c564c9d6b54172c0a3d7a705034a181c2c552b19090b8f2a19ce0521b043f"
+        },
+        "mask": {
+          "path": "run-b/replay-2/prepared/06-crown-fringe-mask.png",
+          "sha256": "a5faeb889bf166f51a7646b4f633d68df4685753e980ca7019e4375e93b09087"
+        }
+      },
+      "07-hair-tie": {
+        "part": {
+          "path": "run-b/replay-2/prepared/07-hair-tie.png",
+          "sha256": "eea887db50c8a66d8cbc70715f88d9d41d4ae801a2e4e795ed05ff6a82df1972"
+        },
+        "mask": {
+          "path": "run-b/replay-2/prepared/07-hair-tie-mask.png",
+          "sha256": "e9a62a0713a1440b34ba477b2e563b9d5ed30ce6cc8d2fcd8674b1c532489ac3"
+        }
+      },
+      "08-eyes-brows": {
+        "part": {
+          "path": "run-b/replay-2/prepared/08-eyes-brows.png",
+          "sha256": "5cb0a5501318b3661c15d8daa24f6f6ee6d968a69b2823c17b117f83556c64b2"
+        },
+        "mask": {
+          "path": "run-b/replay-2/prepared/08-eyes-brows-mask.png",
+          "sha256": "b8456f8e49c3e90df7531b21ae5d99c98b982258de0f70d45ee9a11f3fffde4a"
+        }
+      },
+      "09-mouth": {
+        "part": {
+          "path": "run-b/replay-2/prepared/09-mouth.png",
+          "sha256": "3f64e0a57363ce128d36e821e8bbdc322c737e6e3bb9039bc34d57f90af95a62"
+        },
+        "mask": {
+          "path": "run-b/replay-2/prepared/09-mouth-mask.png",
+          "sha256": "e600ccd883f100d05d1ef395e5e046e6e2ef6382bdf7b158f295e87b25714513"
+        }
+      }
+    },
+    "artifacts": {
+      "b00-separated-seed.aseprite": {
+        "path": "run-b/replay-2/b00-separated-seed.aseprite",
+        "sha256": "ae970e34f489faa6f97c1bd950a4ef8fc2248e7c6ea4bb7ffde85d12cde0fc7e"
+      },
+      "b00-separated-seed.png": {
+        "path": "run-b/replay-2/b00-separated-seed.png",
+        "sha256": "0341156ff730ebc22514cb267d758bc81968596faff20b06fdd5264e0ae8b55d"
+      },
+      "b00-separated-seed-reopened.png": {
+        "path": "run-b/replay-2/b00-separated-seed-reopened.png",
+        "sha256": "0341156ff730ebc22514cb267d758bc81968596faff20b06fdd5264e0ae8b55d"
+      },
+      "b00-normalized.aseprite": {
+        "path": "run-b/replay-2/b00-normalized.aseprite",
+        "sha256": "b07af8c87004d772b236273fd4eff332fa480fce93b5fc2b3f16d640d3c604b1"
+      },
+      "b00-normalized.png": {
+        "path": "run-b/replay-2/b00-normalized.png",
+        "sha256": "0341156ff730ebc22514cb267d758bc81968596faff20b06fdd5264e0ae8b55d"
+      },
+      "b00-normalized-tie-edit.aseprite": {
+        "path": "run-b/replay-2/b00-normalized-tie-edit.aseprite",
+        "sha256": "66295eb773190fc0495945fb38436e033ed51ec578ff65f4f6a130b00b631762"
+      },
+      "b00-normalized-tie-edit.png": {
+        "path": "run-b/replay-2/b00-normalized-tie-edit.png",
+        "sha256": "19f241a412f0d9bf606894a07e91e55bc0d1813acf6b628aa568749c812ed639"
+      },
+      "b00-normalized-tie-edit-reopened.png": {
+        "path": "run-b/replay-2/b00-normalized-tie-edit-reopened.png",
+        "sha256": "19f241a412f0d9bf606894a07e91e55bc0d1813acf6b628aa568749c812ed639"
+      },
+      "b00-separated-seed-tie-edit.aseprite": {
+        "path": "run-b/replay-2/b00-separated-seed-tie-edit.aseprite",
+        "sha256": "66295eb773190fc0495945fb38436e033ed51ec578ff65f4f6a130b00b631762"
+      },
+      "b00-separated-seed-tie-edit.png": {
+        "path": "run-b/replay-2/b00-separated-seed-tie-edit.png",
+        "sha256": "19f241a412f0d9bf606894a07e91e55bc0d1813acf6b628aa568749c812ed639"
+      },
+      "b00-separated-seed-tie-edit-reopened.png": {
+        "path": "run-b/replay-2/b00-separated-seed-tie-edit-reopened.png",
+        "sha256": "19f241a412f0d9bf606894a07e91e55bc0d1813acf6b628aa568749c812ed639"
+      }
+    }
+  },
+  "run_a": {
+    "traces": {
+      "path": "run-a/replay-2/traces.json",
+      "sha256": "93b04e094b46ce44f1b2d9bb90188260539eac20d5ddb60aa6034a7e82a866e0"
+    },
+    "b00_native": {
+      "path": "run-a/replay-2/b00-separated-seed.aseprite",
+      "sha256": "ae970e34f489faa6f97c1bd950a4ef8fc2248e7c6ea4bb7ffde85d12cde0fc7e"
+    },
+    "b00_png": {
+      "path": "run-a/replay-2/b00-separated-seed.png",
+      "sha256": "0341156ff730ebc22514cb267d758bc81968596faff20b06fdd5264e0ae8b55d"
+    },
+    "b00_reopened_png": {
+      "path": "run-a/replay-2/b00-separated-seed-reopened.png",
+      "sha256": "0341156ff730ebc22514cb267d758bc81968596faff20b06fdd5264e0ae8b55d"
+    }
+  },
+  "reports": {
+    "raw_strict_rejection": {
+      "path": "strict-raw-edit-check.json",
+      "sha256": "1c06899cdb3eaa1cf3780fc9a9a08015898d859e474856704c4c55e664ce8edd"
+    },
+    "normalized_strict_pass": {
+      "path": "strict-normalized-edit-check.json",
+      "sha256": "18b95a365faa11f1f366f34aa9c2db3e59d558da0ab91105433b648f3ac0aae2"
+    },
+    "comparison_sheet": {
+      "path": "original-b00-1x-4x.png",
+      "sha256": "3f6b1f834e434cb547a2537bc28ffc6ba7387af2544a672a877d49b5ddbc9d35"
+    },
+    "strict_edit_profile": {
+      "path": "strict-edit-profile.json",
+      "sha256": "72b21b1a6b5e8619457a948d8545d9f03b296b1390bbae7edefdaac41624b41b"
+    },
+    "strict_edit_mask": {
+      "path": "strict-edit-mask.png",
+      "sha256": "2ccd1876b7c8fc306078573f6337ae84c7734e29e668c44476ddb901c9befa3c"
+    }
+  }
+}

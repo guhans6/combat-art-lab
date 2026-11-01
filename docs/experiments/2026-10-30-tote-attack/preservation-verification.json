@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "git_head": "9e35c5c13987a153e942e6f93f49f247fad13c3a",
+  "historical_files": 3775,
+  "historical_files_unchanged": 3771,
+  "intentional_maintained_changes": [
+    "tools/pixel-art-director/references/animation.md",
+    "tools/pixel-art-director/references/adapters.md",
+    "docs/handoff.md",
+    "docs/art/motion-guide.md"
+  ],
+  "prior_attempts": {
+    "luna": {
+      "files": 42,
+      "unchanged": true
+    },
+    "terra": {
+      "files": 17,
+      "unchanged": true
+    }
+  },
+  "frozen_inputs_unchanged": 6,
+  "native_sha256": "1f6d68c6927bbcc594be9913156f74a6b0939aa373a9be9971dcd5be8ab52065",
+  "duplicate_revision": {
+    "changed_cels_0based": [
+      [
+        8,
+        4
+      ]
+    ],
+    "changed_visible_pixels": 20,
+    "other_cels_exact": true
+  },
+  "limits": "Byte preservation and native editability evidence only; no artistic approval."
+}

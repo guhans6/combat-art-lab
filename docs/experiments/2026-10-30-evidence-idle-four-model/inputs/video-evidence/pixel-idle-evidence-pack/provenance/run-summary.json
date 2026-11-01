@@ -1,0 +1,32 @@
+{
+  "overall": {
+    "summary": "Transcript available, but some frames still need follow-up review.",
+    "trust_posture": "review_recommended"
+  },
+  "schema_version": "video-context.run-summary.v1",
+  "transcript": {
+    "candidate_count": 2,
+    "conflict": false,
+    "language": {
+      "detected": "en",
+      "probability": null,
+      "requested": "en"
+    },
+    "origin": "stt_fallback",
+    "quality_flags": [],
+    "selected_candidate_id": "stt-faster-whisper-large-v3-turbo-en",
+    "strength": "moderate",
+    "trust": "evidence_quality_stt",
+    "warning_codes": [
+      "TRANSCRIPT_SOURCE_AUTO_CAPTIONS_UNVERIFIED"
+    ]
+  },
+  "visual": {
+    "dominant_reason_codes": [
+      "LOW_OCR_CONFIDENCE"
+    ],
+    "ocr_strength": "moderate",
+    "review_recommended": true,
+    "review_recommended_frame_count": 74
+  }
+}

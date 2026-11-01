@@ -1,0 +1,89 @@
+{
+  "candidateNativeSource": "docs/experiments/2026-10-30-idle-breathing-comparison/luna/passes/pass03/luna6-clear-breathing-pass03.aseprite",
+  "candidateNativeSourceSha256": "5fccdcc225d6c9a3a2fc0405d9845dfa359bc4dd17c49b33b4b9bb41a5bac4cb",
+  "freshOpenViaAsepriteMCP": true,
+  "freshSpriteInfo": {
+    "canvas": [
+      128,
+      192
+    ],
+    "frameCount": 8,
+    "layerCount": 12,
+    "idleTagFrames": [
+      1,
+      8
+    ],
+    "durationsMs": [
+      600,
+      350,
+      550,
+      600,
+      50,
+      80,
+      50,
+      250
+    ]
+  },
+  "freshReexportComparedAgainstSavedExport": {
+    "allEightPixelIdentical": true,
+    "allEightPNGByteIdentical": true
+  },
+  "headLayersPixelCropsIdenticalAllFrames": [
+    "07-face-and-neck",
+    "08-hair-tie-and-hair"
+  ],
+  "protectedCompositeBelowY76IdenticalAllFrames": true,
+  "unchangedCompositeFrames": [
+    1,
+    5,
+    6,
+    7,
+    8
+  ],
+  "nativeLayersChangedInPass03": [
+    "02a-jacket-left",
+    "02b-jacket-right",
+    "03-shirt",
+    "05-tote-strap"
+  ],
+  "breathingFramePixelDiffsFromCurrent": [
+    {
+      "frame": 2,
+      "changedPixels": 452,
+      "alphaLost": 0,
+      "alphaGained": 74,
+      "bounds": [
+        32,
+        42,
+        95,
+        64
+      ]
+    },
+    {
+      "frame": 3,
+      "changedPixels": 639,
+      "alphaLost": 0,
+      "alphaGained": 129,
+      "bounds": [
+        31,
+        41,
+        96,
+        64
+      ]
+    },
+    {
+      "frame": 4,
+      "changedPixels": 237,
+      "alphaLost": 0,
+      "alphaGained": 36,
+      "bounds": [
+        32,
+        44,
+        95,
+        62
+      ]
+    }
+  ],
+  "paletteAdded": false,
+  "reviewOutcome": "Rejected by Sol; experiment only, not production-approved."
+}

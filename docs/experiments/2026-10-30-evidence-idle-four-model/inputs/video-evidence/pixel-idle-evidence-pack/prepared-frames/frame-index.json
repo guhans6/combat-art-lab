@@ -1,0 +1,2624 @@
+{
+  "source_content_sha256": "c946289c8fc1ff74faf4fbc0206c58f2e1c9eebd37e18f595f5418e9b5e93a95",
+  "provenance": "Exact unmodified prepared native frame files; original source event and packet record retained; separate from Compact export selection.",
+  "frames": [
+    {
+      "frame_id": "chunk-001-frame-001",
+      "absolute_seconds": 0.0,
+      "asset_path": "chunk-001-frame-001.jpg",
+      "asset_sha256": "fe80ed5150c6f4873e7a8fcf1d11038a29e8ad7169bd2c095453da6de05094a9",
+      "source_event": {
+        "absolute_seconds": 0.0,
+        "content_sha256": "8669aee42d3386eab2572889d06729dd4f5978605bfef8b773972eb3cb760428",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-001.jpg",
+          "source": "scan"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-001",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-001.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:00:00.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 0.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-001",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-001.jpg",
+        "source": "scan"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-002",
+      "absolute_seconds": 15.0,
+      "asset_path": "chunk-001-frame-002.jpg",
+      "asset_sha256": "e4d2d2e513e1c8478f33c977c720984989b65e9c643eb022e2638c4b68c390ec",
+      "source_event": {
+        "absolute_seconds": 15.0,
+        "content_sha256": "1e2a7861b89f90b121b3375adda10ce8d9c28a0f8a1a5b002dfed6dca472ad16",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-002.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-002",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-002.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:00:15.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 15.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-002",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-002.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-003",
+      "absolute_seconds": 30.0,
+      "asset_path": "chunk-001-frame-003.jpg",
+      "asset_sha256": "1885418a18dac99b3e1c7a0373f619334616acb14c6eb49060ab627380de2796",
+      "source_event": {
+        "absolute_seconds": 30.0,
+        "content_sha256": "7d119df7edd6e51a5112c3a1b90f363260825acdda3085c68b43ffbb142d85ae",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-003.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-003",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-003.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:00:30.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 30.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-003",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-003.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-004",
+      "absolute_seconds": 45.0,
+      "asset_path": "chunk-001-frame-004.jpg",
+      "asset_sha256": "7a274cc8280e99aa7cda0e03dbbfd07b06f8238b2cdf371442247c43d887e8cc",
+      "source_event": {
+        "absolute_seconds": 45.0,
+        "content_sha256": "9e492c0cc36793127b3052eebc2c62b3bb9a289a12ce54814eaa2e24515b7ab3",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-004.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-004",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-004.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:00:45.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 45.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-004",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-004.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-005",
+      "absolute_seconds": 60.0,
+      "asset_path": "chunk-001-frame-005.jpg",
+      "asset_sha256": "75b7181b008d9bb4c194b03d144034cb8f03ded6e6d4acd05b6d067f3d30732d",
+      "source_event": {
+        "absolute_seconds": 60.0,
+        "content_sha256": "d725a6e2050e539009d5b9a29cc29d933e78af43d7bffe23aa123db3b54ca70f",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-005.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-005",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-005.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:01:00.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 60.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-005",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-005.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-006",
+      "absolute_seconds": 75.0,
+      "asset_path": "chunk-001-frame-006.jpg",
+      "asset_sha256": "286a473c65f561bf9bba20c26b313747ceb97b32dd23e69ce602b9203c09cbe6",
+      "source_event": {
+        "absolute_seconds": 75.0,
+        "content_sha256": "bcf4a94fe82a24586a65b8890681c0ca803e25dfad27ff4334c06b0794360c73",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-006.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-006",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-006.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:01:15.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 75.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-006",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-006.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-007",
+      "absolute_seconds": 90.0,
+      "asset_path": "chunk-001-frame-007.jpg",
+      "asset_sha256": "98903f49638e1cf6b31d8488fd0fac17fb3459958671a3fe5a395173f33acf25",
+      "source_event": {
+        "absolute_seconds": 90.0,
+        "content_sha256": "a27c677010b2189dd7b6002cd2bd67bc5a21600888fa274d258b4b87621b839b",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-007.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-007",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-007.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:01:30.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 90.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-007",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-007.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-008",
+      "absolute_seconds": 105.0,
+      "asset_path": "chunk-001-frame-008.jpg",
+      "asset_sha256": "dd7ef3c8277b271cb352b0ee32a41b86f10dd30d580a7613367e04290e3b7f95",
+      "source_event": {
+        "absolute_seconds": 105.0,
+        "content_sha256": "55f2170d52dbcf5808ddfe558612f44029c3d7efbf59773b6800d480622754c0",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-008.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-008",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-008.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:01:45.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 105.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-008",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-008.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-009",
+      "absolute_seconds": 120.0,
+      "asset_path": "chunk-001-frame-009.jpg",
+      "asset_sha256": "c041b84062142e6f36181031438b643cd0982ba374a39a89978b361bc2902544",
+      "source_event": {
+        "absolute_seconds": 120.0,
+        "content_sha256": "29b9b4dcc2b08e39dcfed2b4eaedfc4ff3b32f4f0a84121cf895cc0440d68c11",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-009.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-009",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-009.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:02:00.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 120.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-009",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-009.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-010",
+      "absolute_seconds": 135.0,
+      "asset_path": "chunk-001-frame-010.jpg",
+      "asset_sha256": "5f5c09bb319fa3c0b897f54334105b995f320ef699e73d4ad679e08ccedb2d8e",
+      "source_event": {
+        "absolute_seconds": 135.0,
+        "content_sha256": "209ec445c12021d16d0d44f367a09328b49b02083ce6ed8d4d355307567ddd53",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-010.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-010",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-010.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:02:15.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 135.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-010",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-010.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-011",
+      "absolute_seconds": 150.0,
+      "asset_path": "chunk-001-frame-011.jpg",
+      "asset_sha256": "62cf82eaf656ee7ad29ed3a302d80e226edc5d1d0ed5d8366d4017aba9747b90",
+      "source_event": {
+        "absolute_seconds": 150.0,
+        "content_sha256": "061ced6a94ab57e4c34a3b1aa1e6f1bc9b3ba70bd2aebfe5d37a4cf73f811628",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-011.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-011",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-011.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:02:30.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 150.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-011",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-011.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-012",
+      "absolute_seconds": 165.0,
+      "asset_path": "chunk-001-frame-012.jpg",
+      "asset_sha256": "5b773a730ec9a893189ade80a307f42874e5bb752b5688d5068c358bc114a930",
+      "source_event": {
+        "absolute_seconds": 165.0,
+        "content_sha256": "ed743511f674666cca595129a9ac357e7962dbbd56be6a5c6b475013fbb12e21",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-012.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-012",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-012.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:02:45.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 165.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-012",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-012.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-013",
+      "absolute_seconds": 180.0,
+      "asset_path": "chunk-001-frame-013.jpg",
+      "asset_sha256": "62e2d086f3d04a4ededc51e59b3dc4dcf868da54a01247e6e821c2fcf929e289",
+      "source_event": {
+        "absolute_seconds": 180.0,
+        "content_sha256": "9bcca33d3d626ad8f4701310d710fd6ac34dca2f704fe3f5e84a1365e44a20c4",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-013.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-013",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-013.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:03:00.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 180.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-013",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-013.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-014",
+      "absolute_seconds": 195.0,
+      "asset_path": "chunk-001-frame-014.jpg",
+      "asset_sha256": "431b1f5a87fcf6ecfa231c9c3e7ee6f966a3c0a0d02ea4bfbbe946882b33a35e",
+      "source_event": {
+        "absolute_seconds": 195.0,
+        "content_sha256": "c0dbdc8fbf4148927c2a029b0596161ad426ece37f9508bf3fe68953c8160736",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-014.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-014",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-014.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:03:15.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 195.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-014",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-014.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-015",
+      "absolute_seconds": 210.0,
+      "asset_path": "chunk-001-frame-015.jpg",
+      "asset_sha256": "006e39a8b56037138753bab9f785cd233900dde084492ff15f788064b05f9664",
+      "source_event": {
+        "absolute_seconds": 210.0,
+        "content_sha256": "d651e5be66e644b8765f5b12d7e34c89c612318916909405f9364d647d411823",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-015.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-015",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-015.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:03:30.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 210.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-015",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-015.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-016",
+      "absolute_seconds": 225.0,
+      "asset_path": "chunk-001-frame-016.jpg",
+      "asset_sha256": "a92360f29500fd5636229f002ef5dba596c2d0bb4d20d27365b512fd00a387db",
+      "source_event": {
+        "absolute_seconds": 225.0,
+        "content_sha256": "69b738478feea2783a13ad68d01af82706077cfc408b27b08d1b45790bbb8729",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-016.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-016",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-016.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:03:45.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 225.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-016",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-016.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-017",
+      "absolute_seconds": 240.0,
+      "asset_path": "chunk-001-frame-017.jpg",
+      "asset_sha256": "336177c437a7ed31992d16b4e0ed7fa44e7c26c198f9b420ff351381ca500ea4",
+      "source_event": {
+        "absolute_seconds": 240.0,
+        "content_sha256": "a0600019ae701807657f359d6c367103fdc027a74743b34e75a4b12e81340b08",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-017.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-017",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-017.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:04:00.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 240.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-017",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-017.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-018",
+      "absolute_seconds": 255.0,
+      "asset_path": "chunk-001-frame-018.jpg",
+      "asset_sha256": "9e22722731ec04f85987aa1db0207f0471feb90197d54f3ca617a8c4aeccc83e",
+      "source_event": {
+        "absolute_seconds": 255.0,
+        "content_sha256": "119c6842a04c64001d4dbbfcde51bbbd2dae94590b880cedaceea619e0ff1a05",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-018.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-018",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-018.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:04:15.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 255.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-018",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-018.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-019",
+      "absolute_seconds": 270.0,
+      "asset_path": "chunk-001-frame-019.jpg",
+      "asset_sha256": "7f77d7f9bedad7cdc8c2ed517203c197fd1ad259c40904b667824227c02cdec0",
+      "source_event": {
+        "absolute_seconds": 270.0,
+        "content_sha256": "60ce080015e104fef928f1751d858a8c80a0f449392d0d7da920ddec6ea2050a",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-019.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-019",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-019.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:04:30.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 270.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-019",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-019.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-020",
+      "absolute_seconds": 285.0,
+      "asset_path": "chunk-001-frame-020.jpg",
+      "asset_sha256": "984f96b555efa669b11e2b03c6b4e14c215e7214cb1343efd40582827eedfb00",
+      "source_event": {
+        "absolute_seconds": 285.0,
+        "content_sha256": "6ff3cfb390e201034e216c3260946dd742ebe5386d4d70aff521c6cbe6abec6c",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-020.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-020",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-020.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:04:45.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 285.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-020",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-020.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-021",
+      "absolute_seconds": 300.0,
+      "asset_path": "chunk-001-frame-021.jpg",
+      "asset_sha256": "12ad90029d1759a8971f0df6d897be7485116ec217e348699915a445762a349d",
+      "source_event": {
+        "absolute_seconds": 300.0,
+        "content_sha256": "690531acfc151ecca6cf4e993d8fec15b42b0088ebeb7aee8c7ee2a9d71a1b16",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-021.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-021",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-021.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:05:00.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 300.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-021",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-021.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-022",
+      "absolute_seconds": 315.0,
+      "asset_path": "chunk-001-frame-022.jpg",
+      "asset_sha256": "6b4da918c5d37b5cd00d8f097b1295cc53f40629a09b44f5c9d03f715d1e60b6",
+      "source_event": {
+        "absolute_seconds": 315.0,
+        "content_sha256": "10c82e1bc5ba0b643782645ddbe4a79452dd0ef0dd142d49ab6b4d39dd18df84",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-022.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-022",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-022.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:05:15.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 315.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-022",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-022.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-023",
+      "absolute_seconds": 330.0,
+      "asset_path": "chunk-001-frame-023.jpg",
+      "asset_sha256": "867585d25b6bf78f0cb442e272c7c7ee88b54803e5fe4d1e9bfc2d0f03edea7b",
+      "source_event": {
+        "absolute_seconds": 330.0,
+        "content_sha256": "14806f82e8ee5e89419d94acac214aab5c5b62c599a8c5fa266c900f6d72270c",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-023.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-023",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-023.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:05:30.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 330.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-023",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-023.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-024",
+      "absolute_seconds": 345.0,
+      "asset_path": "chunk-001-frame-024.jpg",
+      "asset_sha256": "f3a9098dd4de794f600d711bfd08fd96f939116a6e6eaa0751af844f13f865e3",
+      "source_event": {
+        "absolute_seconds": 345.0,
+        "content_sha256": "c1f7691afc22c0b94f5bf153a9c2e48afdbd8187890e069139b13be1ade95e01",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-024.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-024",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-024.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:05:45.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 345.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-024",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-024.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-025",
+      "absolute_seconds": 360.0,
+      "asset_path": "chunk-001-frame-025.jpg",
+      "asset_sha256": "6ccad425e9e9405afd22eaa964cf311d350709b98f7e91078cb6d53010d0fdf2",
+      "source_event": {
+        "absolute_seconds": 360.0,
+        "content_sha256": "da23b6d85d08bada1bd4f7d95c67b14327c8c6ae9ba9aa72f56fd2d90a8ebb58",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-025.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-025",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-025.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:06:00.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 360.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-025",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-025.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-026",
+      "absolute_seconds": 375.0,
+      "asset_path": "chunk-001-frame-026.jpg",
+      "asset_sha256": "671dd1ab85f332eb551b40df8e6760e439b749534b47d1970dc1057d406f471b",
+      "source_event": {
+        "absolute_seconds": 375.0,
+        "content_sha256": "cb1d9b2ce55ae58fc9badd5dc2e4986c1c66426ae6835a53c8f9e3ca3e100ad2",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-026.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-026",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-026.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:06:15.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 375.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-026",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-026.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-027",
+      "absolute_seconds": 390.0,
+      "asset_path": "chunk-001-frame-027.jpg",
+      "asset_sha256": "53daae83f8420578bc48a6d35ff2451455c2997dedb2667e6492bc0f25ad4d2e",
+      "source_event": {
+        "absolute_seconds": 390.0,
+        "content_sha256": "c320799b1292c72225b037c72faaa026299fb195909e7782dae8236188ddc7f6",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-027.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-027",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-027.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:06:30.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 390.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-027",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-027.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-028",
+      "absolute_seconds": 405.0,
+      "asset_path": "chunk-001-frame-028.jpg",
+      "asset_sha256": "c528677d6479cc0ed9dc5245cafbb655c7a5e32a9bdae883dbcb90c46f4df950",
+      "source_event": {
+        "absolute_seconds": 405.0,
+        "content_sha256": "b1781a1e69b12af4a915abd7ae36af213835facaa1d7909ca443f4cc8d3ab43c",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-028.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-028",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-028.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:06:45.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 405.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-028",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-028.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-029",
+      "absolute_seconds": 420.0,
+      "asset_path": "chunk-001-frame-029.jpg",
+      "asset_sha256": "edb3b308ae4dd131797293146e536ca65d83e0f04de1d2e013e70bb08c891ff5",
+      "source_event": {
+        "absolute_seconds": 420.0,
+        "content_sha256": "05d5e905f16612224ca166410257e72d10f2f1e6561b77c26829dc8213212ddb",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-029.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-029",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-029.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:07:00.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 420.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-029",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-029.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-030",
+      "absolute_seconds": 435.0,
+      "asset_path": "chunk-001-frame-030.jpg",
+      "asset_sha256": "9be54d01c0f6d0e23dbcd31fd39ea6daef5d7b22b9aefbaa9f7b4ca4098b7c35",
+      "source_event": {
+        "absolute_seconds": 435.0,
+        "content_sha256": "e31e63964cc17a4c10d79ed58ff0b8ad16b10512d4c5e123a6462c4bfe7400fb",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-030.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-030",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-030.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:07:15.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 435.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-030",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-030.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-031",
+      "absolute_seconds": 450.0,
+      "asset_path": "chunk-001-frame-031.jpg",
+      "asset_sha256": "3ea1c81a1a589298fd5667f95c7e192e295650cc3c7baefc1dd9c3cf015d67a4",
+      "source_event": {
+        "absolute_seconds": 450.0,
+        "content_sha256": "2fbe8a723e8394688e44ec38f59538eae2cf057ad86177767eed487614ceafb0",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-031.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-031",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-031.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:07:30.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 450.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-031",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-031.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-032",
+      "absolute_seconds": 465.0,
+      "asset_path": "chunk-001-frame-032.jpg",
+      "asset_sha256": "3d441c29bb7aaa1a690c1c27e0c49f32c7513ef26a4b1ca3e3c3104c27e5d533",
+      "source_event": {
+        "absolute_seconds": 465.0,
+        "content_sha256": "9da26380bff07e87678f16b52f319be622136eb136da5c6c909626353268567d",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-032.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-032",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-032.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:07:45.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 465.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-032",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-032.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-033",
+      "absolute_seconds": 480.0,
+      "asset_path": "chunk-001-frame-033.jpg",
+      "asset_sha256": "0493ea60c720fa83e3a91f13dbab334b47cb886854ce088517e44082ff5b2c10",
+      "source_event": {
+        "absolute_seconds": 480.0,
+        "content_sha256": "4ee90e1d0cdfa8572936f6f9f3125f63ed7c4e864fb8d579f7ed68b39ed432ac",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-033.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-033",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-033.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:08:00.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 480.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-033",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-033.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-034",
+      "absolute_seconds": 495.0,
+      "asset_path": "chunk-001-frame-034.jpg",
+      "asset_sha256": "587419c77513a7ba71937cb139dab36b54c5e96990083f9fc18616e7cb9f8d59",
+      "source_event": {
+        "absolute_seconds": 495.0,
+        "content_sha256": "f3c0ed3e8d713d59a4375f0120a6f4a2742f20a260d7920d3bd5d20178c30b7f",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-034.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-034",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-034.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:08:15.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 495.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-034",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-034.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-035",
+      "absolute_seconds": 510.0,
+      "asset_path": "chunk-001-frame-035.jpg",
+      "asset_sha256": "0de8e04de3ae329588baa6a1ff22eff610d8e98e910f94a5a071bed25fc08fac",
+      "source_event": {
+        "absolute_seconds": 510.0,
+        "content_sha256": "e0c3e3cce5f9148da5aa3089fa984145755077f87969f7dfe8dd6e1a5c24e249",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-035.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-035",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-035.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:08:30.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 510.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-035",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-035.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-036",
+      "absolute_seconds": 525.0,
+      "asset_path": "chunk-001-frame-036.jpg",
+      "asset_sha256": "f161631595adb072df50b2cf0dd59cebfc192ef3e24fd690ae0407db29639203",
+      "source_event": {
+        "absolute_seconds": 525.0,
+        "content_sha256": "2fda5b1895d70a4529f029d4f8d1b9a27a3fc6e5c20b2c6c9752f6711bce0c00",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-036.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-036",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-036.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:08:45.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 525.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-036",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-036.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-037",
+      "absolute_seconds": 540.0,
+      "asset_path": "chunk-001-frame-037.jpg",
+      "asset_sha256": "307dbb07430b8512594a6a1f559742bcb8d8e3415039637d3987e7892820e8a6",
+      "source_event": {
+        "absolute_seconds": 540.0,
+        "content_sha256": "72472e25ecb476d7d3899601dda50b0ecdbc008c817543dcece1fd6e85c8a9b5",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-037.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-037",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-037.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:09:00.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 540.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-037",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-037.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-038",
+      "absolute_seconds": 555.0,
+      "asset_path": "chunk-001-frame-038.jpg",
+      "asset_sha256": "e9542831d73346cbb87d8b0c36d74d0d2e0059b00aea39119a7e845105437b6d",
+      "source_event": {
+        "absolute_seconds": 555.0,
+        "content_sha256": "1e6d031c75923a5d55b000f830b2265040bdd25b09a4684e9c21303e3058ab48",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-038.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-038",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-038.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:09:15.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 555.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-038",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-038.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-039",
+      "absolute_seconds": 570.0,
+      "asset_path": "chunk-001-frame-039.jpg",
+      "asset_sha256": "fa2d2940875fb99b39268bdfbf3e89900533ae47a7ebee6cbb4779880b1b0dd9",
+      "source_event": {
+        "absolute_seconds": 570.0,
+        "content_sha256": "9d911a9e441f86ed4a5f83424ae8dd7f8857c9f06d47a54a2a68bd34c4e8095b",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-039.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-039",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-039.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:09:30.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 570.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-039",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-039.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-040",
+      "absolute_seconds": 585.0,
+      "asset_path": "chunk-001-frame-040.jpg",
+      "asset_sha256": "876a0b7a2be8089ad6560b3d7ec4c17b6f6af1591772a12424283a5252e9cbe2",
+      "source_event": {
+        "absolute_seconds": 585.0,
+        "content_sha256": "ad7d0924272796a0e4339d4a4cfa3fa9fd6da5c41dbe93d349ae78ca6dc4329b",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-040.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-040",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-040.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:09:45.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 585.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-040",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-040.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-001-frame-041",
+      "absolute_seconds": 599.5,
+      "asset_path": "chunk-001-frame-041.jpg",
+      "asset_sha256": "480c047ee5cdbd15b07f1bda2edd03aa91b283322714eeb7904e63da9860d53d",
+      "source_event": {
+        "absolute_seconds": 599.5,
+        "content_sha256": "e99e955cc8e57d39ed35b6326d5480ec454388ff3570d22a75390c1f44c0c85b",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-041.jpg",
+          "source": "scan"
+        },
+        "derived_from": [],
+        "id": "chunk-001-frame-041",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-001",
+          "path": "chunks/chunk-001/frames/chunk-001-frame-041.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:09:59.500",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 599.5,
+        "artifact_kind": "source_frame",
+        "id": "chunk-001-frame-041",
+        "path": "chunks/chunk-001/frames/chunk-001-frame-041.jpg",
+        "source": "scan"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-001",
+      "absolute_seconds": 600.0,
+      "asset_path": "chunk-002-frame-001.jpg",
+      "asset_sha256": "e8300347c800ae4abc521b65c8f7a468b5766e5af2eb6c7230165ed8da1a4f86",
+      "source_event": {
+        "absolute_seconds": 600.0,
+        "content_sha256": "f0920a92d27712cf2bb7c324432d04b7291594e0ebe3ca717be2d72fc0bd2a94",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-001.jpg",
+          "source": "scan"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-001",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-001.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:10:00.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 600.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-001",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-001.jpg",
+        "source": "scan"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-002",
+      "absolute_seconds": 615.0,
+      "asset_path": "chunk-002-frame-002.jpg",
+      "asset_sha256": "4e2f1fdb1c5f62312442c7c1e33932b12414c4f5273901dde3a48e908bf84f04",
+      "source_event": {
+        "absolute_seconds": 615.0,
+        "content_sha256": "c9a76a1d5bb78651c24064b9413c21b607d5f02da079801ead306d51ff436bbc",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-002.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-002",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-002.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:10:15.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 615.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-002",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-002.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-003",
+      "absolute_seconds": 630.0,
+      "asset_path": "chunk-002-frame-003.jpg",
+      "asset_sha256": "31e3596a2919bf8e6736692a0e3ae3bd1c71f43ea714367ed0da1c8b441a77ec",
+      "source_event": {
+        "absolute_seconds": 630.0,
+        "content_sha256": "f819c3b12892a6ff33f178666fea0c1cabc6c84a4fe9e8895dca5f809f9b121a",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-003.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-003",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-003.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:10:30.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 630.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-003",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-003.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-004",
+      "absolute_seconds": 645.0,
+      "asset_path": "chunk-002-frame-004.jpg",
+      "asset_sha256": "0968c213887bad5176b54d67a732792278f1a7536d17e0dbb19f32a44f396d1b",
+      "source_event": {
+        "absolute_seconds": 645.0,
+        "content_sha256": "99fcbfe57b64d0d09463532f7ab3a8228f1d970848e9123c687c10f534d4a372",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-004.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-004",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-004.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:10:45.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 645.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-004",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-004.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-005",
+      "absolute_seconds": 660.0,
+      "asset_path": "chunk-002-frame-005.jpg",
+      "asset_sha256": "97f8b23b312f19c4b8ea74648d123d2e4016d2553789b36dc2f9b45d95d51a83",
+      "source_event": {
+        "absolute_seconds": 660.0,
+        "content_sha256": "602287998a03b8708279744296f5f2fe3f0638eee71fc8ac4efb954ab3a62dee",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-005.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-005",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-005.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:11:00.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 660.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-005",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-005.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-006",
+      "absolute_seconds": 675.0,
+      "asset_path": "chunk-002-frame-006.jpg",
+      "asset_sha256": "c4f1339b7c89be9f37a25cad86257d4da1f14aa80ee6bd58ea07883ab2af4588",
+      "source_event": {
+        "absolute_seconds": 675.0,
+        "content_sha256": "afed108bdaa0594cb62c8e5850e398e615935e37f3d5c6a85d73406bb555321a",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-006.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-006",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-006.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:11:15.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 675.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-006",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-006.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-007",
+      "absolute_seconds": 690.0,
+      "asset_path": "chunk-002-frame-007.jpg",
+      "asset_sha256": "142d6790284cd453cf97ea135ed2511e43ea1a8e90cdac97230df92b366e9c71",
+      "source_event": {
+        "absolute_seconds": 690.0,
+        "content_sha256": "9b28ff5996f9773eedccd8ed930f1b7756c2d2c296883bd667fcf53b0a99267a",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-007.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-007",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-007.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:11:30.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 690.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-007",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-007.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-008",
+      "absolute_seconds": 705.0,
+      "asset_path": "chunk-002-frame-008.jpg",
+      "asset_sha256": "ee7a2ebe136e8b4b377399907084108cdf96f12ef89a2b84d3b4478998ccdbf4",
+      "source_event": {
+        "absolute_seconds": 705.0,
+        "content_sha256": "dba4f8953fa1f69201b9a4ce484f3b6d59fb49f87ff59be71f3981e5f72739a2",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-008.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-008",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-008.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:11:45.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 705.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-008",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-008.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-009",
+      "absolute_seconds": 719.25,
+      "asset_path": "chunk-002-frame-009.jpg",
+      "asset_sha256": "f1eaa9004684312e25f46afcbd409be8c129467852c48d8b34857672c938ce94",
+      "source_event": {
+        "absolute_seconds": 719.25,
+        "content_sha256": "dca85bd9fdd558c3607693c6460f328afcc5d3f9cbfbf05872cf13b9b6a704be",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-009.jpg",
+          "source": "scan"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-009",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-009.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:11:59.250",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 719.25,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-009",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-009.jpg",
+        "source": "scan"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-010",
+      "absolute_seconds": 720.0,
+      "asset_path": "chunk-002-frame-010.jpg",
+      "asset_sha256": "9fb174fc1fe5e5d1f602672c10e4f561f712bb3c2b67551cd30c9075a3a85608",
+      "source_event": {
+        "absolute_seconds": 720.0,
+        "content_sha256": "e187b5c89dee7cb631f67b83c965ef892e1285cd604d79cd11c992852e38a2f5",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-010.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-010",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-010.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:12:00.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 720.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-010",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-010.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-011",
+      "absolute_seconds": 735.0,
+      "asset_path": "chunk-002-frame-011.jpg",
+      "asset_sha256": "0bcf1b44e4f2f3002dd9442218294f44bb836983b9117c96cdfbf5e65efe2683",
+      "source_event": {
+        "absolute_seconds": 735.0,
+        "content_sha256": "8f9617da514a6b3c4631f880f813f70190bcecfc4e0cb68eaa7c89d0ac29b6cf",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-011.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-011",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-011.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:12:15.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 735.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-011",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-011.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-012",
+      "absolute_seconds": 750.0,
+      "asset_path": "chunk-002-frame-012.jpg",
+      "asset_sha256": "734ca07ea94ad449d29976460154fd88e28f6d96c9d28ae238936b1139fba0ab",
+      "source_event": {
+        "absolute_seconds": 750.0,
+        "content_sha256": "9de9f4fc820e6edc6abed5020076b47068e48741ac0ecc4834642eee05f65f9b",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-012.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-012",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-012.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:12:30.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 750.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-012",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-012.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-013",
+      "absolute_seconds": 765.0,
+      "asset_path": "chunk-002-frame-013.jpg",
+      "asset_sha256": "fd23d27f9099c60d811badf5e311be0577064814aea1c3a62b837ef5ae80fc48",
+      "source_event": {
+        "absolute_seconds": 765.0,
+        "content_sha256": "860c1aad64af5374df83045688abf5d6fa6a226a7059e7b022d81330ea9b1b66",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-013.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-013",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-013.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:12:45.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 765.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-013",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-013.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-014",
+      "absolute_seconds": 780.0,
+      "asset_path": "chunk-002-frame-014.jpg",
+      "asset_sha256": "e24a33ba0840fa8e9e11b48a7a927181a8d70a20167c6d1cd3b5e87a381499c3",
+      "source_event": {
+        "absolute_seconds": 780.0,
+        "content_sha256": "4e7302bde3ea39f7cf893fd413a1f78cb5ef6a0bc8fa1f69a07c9ec426a2483c",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-014.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-014",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-014.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:13:00.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 780.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-014",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-014.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-015",
+      "absolute_seconds": 795.0,
+      "asset_path": "chunk-002-frame-015.jpg",
+      "asset_sha256": "57690391e02560ab048f63e441b2c7fb3145c57072fe3bea3ce07cdce6ed5dc9",
+      "source_event": {
+        "absolute_seconds": 795.0,
+        "content_sha256": "db467bc97de397ff59be1de66b2cdcc6d9a74412f22a0e55deac244adc76ee70",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-015.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-015",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-015.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:13:15.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 795.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-015",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-015.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-016",
+      "absolute_seconds": 810.0,
+      "asset_path": "chunk-002-frame-016.jpg",
+      "asset_sha256": "6f2ed2b5dd79da299eb7fbad0e06475609c260139c5b8c437e074aa764aeacfd",
+      "source_event": {
+        "absolute_seconds": 810.0,
+        "content_sha256": "defecc483f1f2ad35936aad5c2f461e05ee12096db73b00ce5630488a7aa76c8",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-016.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-016",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-016.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:13:30.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 810.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-016",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-016.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-017",
+      "absolute_seconds": 825.0,
+      "asset_path": "chunk-002-frame-017.jpg",
+      "asset_sha256": "a96d66ded2f41a304daa47162d9fd96f3860e99e7d0baf03fe45080106c9c975",
+      "source_event": {
+        "absolute_seconds": 825.0,
+        "content_sha256": "4a037cc0ca514e5c83ad4742b137980f72874b26c6088aabcc378663f16750be",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-017.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-017",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-017.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:13:45.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 825.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-017",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-017.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-018",
+      "absolute_seconds": 838.5,
+      "asset_path": "chunk-002-frame-018.jpg",
+      "asset_sha256": "fff53c0673ff78737f77abe7989c3f52c1acdba2238971cdd0f948c6a5395034",
+      "source_event": {
+        "absolute_seconds": 838.5,
+        "content_sha256": "25778b340e3ae8bc28c3765223ee905eb8a50740cdff1b6c335a030feba4cc20",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-018.jpg",
+          "source": "scan"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-018",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-018.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:13:58.500",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 838.5,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-018",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-018.jpg",
+        "source": "scan"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-019",
+      "absolute_seconds": 840.0,
+      "asset_path": "chunk-002-frame-019.jpg",
+      "asset_sha256": "71893b6bc48a4fdbd5160f5cf199cd1f053666f7f69f36ae971f15692d814956",
+      "source_event": {
+        "absolute_seconds": 840.0,
+        "content_sha256": "caf1000362ef26f192d717ce98c91fd03811381f827969298050e726227d12b9",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-019.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-019",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-019.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:14:00.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 840.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-019",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-019.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-020",
+      "absolute_seconds": 855.0,
+      "asset_path": "chunk-002-frame-020.jpg",
+      "asset_sha256": "bdd82bbe3c49ba061da4abf3546857647cc162c9328fb414233727743b008290",
+      "source_event": {
+        "absolute_seconds": 855.0,
+        "content_sha256": "f7e8a661ca8e2611894e019f726ed719d1b2adc57fa8fae8ef4c1f0d2c2832f2",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-020.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-020",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-020.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:14:15.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 855.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-020",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-020.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-021",
+      "absolute_seconds": 870.0,
+      "asset_path": "chunk-002-frame-021.jpg",
+      "asset_sha256": "efc22b53263ad9e427876bce10bfea20ef5e5023437a647cd04ee63ab4833d0c",
+      "source_event": {
+        "absolute_seconds": 870.0,
+        "content_sha256": "68d6057671a98226eaf8baf42b96a1a32becff3c7c6336ff1129260f72f1955e",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-021.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-021",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-021.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:14:30.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 870.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-021",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-021.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-022",
+      "absolute_seconds": 885.0,
+      "asset_path": "chunk-002-frame-022.jpg",
+      "asset_sha256": "c0a225afca2311d86c1f24698cd6a98190b407c0232ba54a258d4a0c45f503af",
+      "source_event": {
+        "absolute_seconds": 885.0,
+        "content_sha256": "5fc9e76fc034d90e897b005a492b5c163f8addd52a3c8746223de7a2cfc14c6d",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-022.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-022",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-022.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:14:45.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 885.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-022",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-022.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-023",
+      "absolute_seconds": 900.0,
+      "asset_path": "chunk-002-frame-023.jpg",
+      "asset_sha256": "e6d7e1f168e4a3cbd1d03dc9fd061d6210c3dc484ce4bd820127922480d6fd4d",
+      "source_event": {
+        "absolute_seconds": 900.0,
+        "content_sha256": "286e1ac87c74093bc6539746f88094c7fba92d1fdfac55386fea9f1681357a80",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-023.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-023",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-023.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:15:00.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 900.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-023",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-023.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-024",
+      "absolute_seconds": 915.0,
+      "asset_path": "chunk-002-frame-024.jpg",
+      "asset_sha256": "af2e2558340918ca4c0ef8474933e6d3ba118f878640e764e558eb1d49509281",
+      "source_event": {
+        "absolute_seconds": 915.0,
+        "content_sha256": "b6bfa921aa48c4f30235537db033101bd0c3235bef70f10612d97446bb1df1b7",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-024.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-024",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-024.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:15:15.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 915.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-024",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-024.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-025",
+      "absolute_seconds": 930.0,
+      "asset_path": "chunk-002-frame-025.jpg",
+      "asset_sha256": "e23530b863b05d6285ed35eded77da561c864fdf05c564315346800208f1f6f7",
+      "source_event": {
+        "absolute_seconds": 930.0,
+        "content_sha256": "e2bc81df5512f0b74aa57e5d6da0dfb9c787936a53ca5e1f8afd1d57eee269fb",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-025.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-025",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-025.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:15:30.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 930.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-025",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-025.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-026",
+      "absolute_seconds": 945.0,
+      "asset_path": "chunk-002-frame-026.jpg",
+      "asset_sha256": "4ab49c4f93c745ef78ca993ae1672b18e4cdf81e67c24b51742dd003671d7ffb",
+      "source_event": {
+        "absolute_seconds": 945.0,
+        "content_sha256": "7753ec8b803db20b69e53c7149ffd2e47bac05cbdfa62e4e0f91248ff64868be",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-026.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-026",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-026.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:15:45.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 945.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-026",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-026.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-027",
+      "absolute_seconds": 957.75,
+      "asset_path": "chunk-002-frame-027.jpg",
+      "asset_sha256": "3c8a26e67f15a2d2426caf2187980029c2fb8f8183eeb46b2e0ac66c25771094",
+      "source_event": {
+        "absolute_seconds": 957.75,
+        "content_sha256": "db420818ba5e2d2c1609cb7ac2684575b4c90f0de1fa9b2e817fe4474a50f475",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-027.jpg",
+          "source": "scan"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-027",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-027.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:15:57.750",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 957.75,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-027",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-027.jpg",
+        "source": "scan"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-028",
+      "absolute_seconds": 960.0,
+      "asset_path": "chunk-002-frame-028.jpg",
+      "asset_sha256": "5e7e2d9726473aad10ea3bcb3a5ea7feb7a9df7844b719aedbb67ae20047e2b8",
+      "source_event": {
+        "absolute_seconds": 960.0,
+        "content_sha256": "673dc599e16185940e045da8af563526b20323020caa020aa418df6cfb0de737",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-028.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-028",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-028.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:16:00.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 960.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-028",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-028.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-029",
+      "absolute_seconds": 975.0,
+      "asset_path": "chunk-002-frame-029.jpg",
+      "asset_sha256": "00605bbe2cd3f70e0292be5d61fad9f910e8c921692dedf5ef6ae73cbf6dd7db",
+      "source_event": {
+        "absolute_seconds": 975.0,
+        "content_sha256": "832156c3ea34aa9d68ffd19e937a26ed0b43c584b92557092f858f06a928164c",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-029.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-029",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-029.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:16:15.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 975.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-029",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-029.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-030",
+      "absolute_seconds": 990.0,
+      "asset_path": "chunk-002-frame-030.jpg",
+      "asset_sha256": "7a0e83ca1d8c3dbcff2c242d2aba6688dd3be53126f61a9164a8308265d933ed",
+      "source_event": {
+        "absolute_seconds": 990.0,
+        "content_sha256": "3c0230a21f41e2311dbdb259ff20bc2b8c79295c61b2aa15bc65d5aef2f3a576",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-030.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-030",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-030.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:16:30.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 990.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-030",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-030.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-031",
+      "absolute_seconds": 1005.0,
+      "asset_path": "chunk-002-frame-031.jpg",
+      "asset_sha256": "6206722e7221d561a28a1170c78bbb0b4ada1d0b483aefe8c5d1b8ae6cc41191",
+      "source_event": {
+        "absolute_seconds": 1005.0,
+        "content_sha256": "8b405106c7e0d54583e2ead6b2fb5cfc964014b7ce7c44c450f698ccbb85980f",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-031.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-031",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-031.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:16:45.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 1005.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-031",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-031.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-032",
+      "absolute_seconds": 1020.0,
+      "asset_path": "chunk-002-frame-032.jpg",
+      "asset_sha256": "9eb0665622a9e557c64895e83d546be3aab6544022f59c5d35d58b703cc661b4",
+      "source_event": {
+        "absolute_seconds": 1020.0,
+        "content_sha256": "616b25982633dcf26c3d6f342f3c668a28f3385707bce9896f7b332ccbabbc20",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-032.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-032",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-032.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:17:00.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 1020.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-032",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-032.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-033",
+      "absolute_seconds": 1035.0,
+      "asset_path": "chunk-002-frame-033.jpg",
+      "asset_sha256": "c615e52e081cbfabc10a11f343cea1e17abcaf5c26dd97e379cbb7c07f277109",
+      "source_event": {
+        "absolute_seconds": 1035.0,
+        "content_sha256": "30401777a67a1cbf8227fa7da38727ff095ecd12027bba737af289354d3be0b1",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-033.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-033",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-033.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:17:15.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 1035.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-033",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-033.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-034",
+      "absolute_seconds": 1050.0,
+      "asset_path": "chunk-002-frame-034.jpg",
+      "asset_sha256": "722832e1fbc30c19a5ac1ce0c67474e10176a00ab191dd45440194f6c095e5b1",
+      "source_event": {
+        "absolute_seconds": 1050.0,
+        "content_sha256": "b4758b9051646d58dd641ec85e6dd557838cf148dd1fda913b8923e41bf58e6d",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-034.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-034",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-034.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:17:30.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 1050.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-034",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-034.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-035",
+      "absolute_seconds": 1065.0,
+      "asset_path": "chunk-002-frame-035.jpg",
+      "asset_sha256": "54bd61e5472c990727cdc3a68da00adb6113b3972692071de775712bfbb327fb",
+      "source_event": {
+        "absolute_seconds": 1065.0,
+        "content_sha256": "9ecf0ebd858bb5aca7a8da358b073670ba6f25c5ba8283d9b187bb0c2aaa1e97",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-035.jpg",
+          "source": "guard"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-035",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-035.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:17:45.000",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 1065.0,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-035",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-035.jpg",
+        "source": "guard"
+      }
+    },
+    {
+      "frame_id": "chunk-002-frame-036",
+      "absolute_seconds": 1076.5,
+      "asset_path": "chunk-002-frame-036.jpg",
+      "asset_sha256": "eca9fe2b5343579b3d10e12d5b53e8fb4c9563acf71656ae1a657b7ba04c829d",
+      "source_event": {
+        "absolute_seconds": 1076.5,
+        "content_sha256": "e1843457cfc88f6e5f878d5cb09ece97a31813d7c0e2e87d8de1ceb57315ac4b",
+        "data": {
+          "artifact_kind": "source_frame",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-036.jpg",
+          "source": "scan"
+        },
+        "derived_from": [],
+        "id": "chunk-002-frame-036",
+        "kind": "frame",
+        "origin": "video-context",
+        "provenance": {
+          "chunk_id": "chunk-002",
+          "path": "chunks/chunk-002/frames/chunk-002-frame-036.jpg"
+        },
+        "schema_version": "video-context.evidence.v1",
+        "text": null,
+        "timestamp": "00:17:56.500",
+        "verbatim": true
+      },
+      "packet_record": {
+        "absolute_seconds": 1076.5,
+        "artifact_kind": "source_frame",
+        "id": "chunk-002-frame-036",
+        "path": "chunks/chunk-002/frames/chunk-002-frame-036.jpg",
+        "source": "scan"
+      }
+    }
+  ]
+}

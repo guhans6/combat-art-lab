@@ -1,0 +1,33 @@
+{
+  "sceneCanvas": [
+    352,
+    264
+  ],
+  "previewSize": [
+    1408,
+    1056
+  ],
+  "environmentLayerCount": 16,
+  "sceneLayerCount": 29,
+  "environmentRasterImports": 0,
+  "sceneNativeReopenExportIdentical": true,
+  "backgroundNativeReopenExportIdentical": true,
+  "v04NativeAndPNGHashesUnchanged": true,
+  "allCharacterPixelsAndNativeCelsPreserved": true,
+  "characterOffset": [
+    84,
+    61
+  ],
+  "environmentLocallyEditable": true,
+  "localLampEditVisiblePixels": 205,
+  "localLampEditOther15LayersPreserved": true,
+  "backgroundVisibleColors": 104,
+  "sceneSHA256": "4f5732d4cd4bd91af9c8e648a3417c1b0d2493388d06c696b43257c57b4fb0b4",
+  "backgroundSHA256": "272a4236c942415873119da0073e380bf01c1de0675cb97bf9e5b04ae4b924ef",
+  "sceneExportSHA256": "342e35d7e0583b7574ade50c3bab6e7de21bd07c40f08127b8425a49b0bd7a3a",
+  "backgroundExportSHA256": "f079c1ae6047e8d33ca18ba7a96c3f3b209381bab2b504f51dffbc58d88a402c",
+  "visualApproval": "pending",
+  "GodotPlayback": "not performed",
+  "freshRebuildExactPNGBytes": true,
+  "freshRebuildHasNoReferenceOrBackgroundInputs": true
+}

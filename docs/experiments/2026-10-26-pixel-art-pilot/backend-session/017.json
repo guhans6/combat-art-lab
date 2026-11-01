@@ -1,0 +1,24 @@
+{
+  "id": "017",
+  "time": "2026-10-26T10:28:43.738Z",
+  "call": {
+    "name": "sprite_manage",
+    "arguments": {
+      "op": "close"
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "close: one-pixel.aseprite. Refer to it as '#3'."
+      }
+    ],
+    "structuredContent": {
+      "op": "close",
+      "sprite": "one-pixel.aseprite",
+      "id": 3
+    }
+  },
+  "images": []
+}

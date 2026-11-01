@@ -1,0 +1,114 @@
+{
+  "native_sha256": "5fb9a4f776ea46df1ee86c3eb5e10c8be32b094aa265004e908e832b7f4518ea",
+  "canvas": [
+    320,
+    192
+  ],
+  "frames": 13,
+  "cycle_ms": 1680,
+  "native_export_and_reopen_visible_rgba_exact": true,
+  "neutral_endpoints_exact": true,
+  "direct_neutral_input_sha256": "3995b4cfadfbf4eba0b26ef9625bdd220c33e399d20d53fe923d8154f6bd74b7",
+  "all_pixels_in_retained_palette": true,
+  "palette_chunks_unchanged": true,
+  "binary_alpha": true,
+  "layer_names": [
+    "01-leg-base-and-shoes",
+    "02-jacket-shirt-and-sleeves",
+    "04a-underarm-and-waist-backing",
+    "03-head-neck-collar",
+    "06-continuous-handle-tension",
+    "04-tote-and-handles",
+    "05-loaded-grip-drawing"
+  ],
+  "local_edit_proof": {
+    "changed_cel": [
+      [
+        8,
+        6
+      ]
+    ],
+    "changed_pixels": [
+      [
+        159,
+        77
+      ]
+    ],
+    "all_other_cels_exact": true,
+    "fresh_reopen_exact": true
+  },
+  "gif_checks": {
+    "1": {
+      "sha256": "e14e6722c6884514f257dfebc366ca0eeece7a2008299ac7b7da40c9a1e09342",
+      "encoded_frames": 13,
+      "durations_ms": [
+        60,
+        110,
+        140,
+        210,
+        70,
+        60,
+        90,
+        110,
+        140,
+        170,
+        140,
+        160,
+        220
+      ],
+      "cycle_ms": 1680,
+      "loop": 0,
+      "matte_rgb": [
+        0,
+        0,
+        0
+      ],
+      "timeline_equals_native": true
+    },
+    "3": {
+      "sha256": "8102f597e230522a9fd7c997d29ac079730fbb58091a95498b2f68d1a5e374b2",
+      "encoded_frames": 13,
+      "durations_ms": [
+        60,
+        110,
+        140,
+        210,
+        70,
+        60,
+        90,
+        110,
+        140,
+        170,
+        140,
+        160,
+        220
+      ],
+      "cycle_ms": 1680,
+      "loop": 0,
+      "matte_rgb": [
+        0,
+        0,
+        0
+      ],
+      "timeline_equals_native": true
+    }
+  },
+  "enclosed_transparent_pixels_by_frame": [
+    33,
+    63,
+    64,
+    105,
+    70,
+    66,
+    35,
+    81,
+    32,
+    42,
+    37,
+    84,
+    33
+  ],
+  "old_native_unchanged": true,
+  "validate_tool": "not exposed by connected MCP; independent native/export checks used",
+  "visual_approval": "pending"
+}

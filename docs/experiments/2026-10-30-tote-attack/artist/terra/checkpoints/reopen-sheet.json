@@ -1,0 +1,141 @@
+{ "frames": [
+   {
+    "filename": "tote-attack 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 256, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 192 },
+    "sourceSize": { "w": 256, "h": 192 },
+    "duration": 60
+   },
+   {
+    "filename": "tote-attack 1.aseprite",
+    "frame": { "x": 256, "y": 0, "w": 256, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 192 },
+    "sourceSize": { "w": 256, "h": 192 },
+    "duration": 110
+   },
+   {
+    "filename": "tote-attack 2.aseprite",
+    "frame": { "x": 512, "y": 0, "w": 256, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 192 },
+    "sourceSize": { "w": 256, "h": 192 },
+    "duration": 140
+   },
+   {
+    "filename": "tote-attack 3.aseprite",
+    "frame": { "x": 768, "y": 0, "w": 256, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 192 },
+    "sourceSize": { "w": 256, "h": 192 },
+    "duration": 210
+   },
+   {
+    "filename": "tote-attack 4.aseprite",
+    "frame": { "x": 1024, "y": 0, "w": 256, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 192 },
+    "sourceSize": { "w": 256, "h": 192 },
+    "duration": 70
+   },
+   {
+    "filename": "tote-attack 5.aseprite",
+    "frame": { "x": 1280, "y": 0, "w": 256, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 192 },
+    "sourceSize": { "w": 256, "h": 192 },
+    "duration": 60
+   },
+   {
+    "filename": "tote-attack 6.aseprite",
+    "frame": { "x": 1536, "y": 0, "w": 256, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 192 },
+    "sourceSize": { "w": 256, "h": 192 },
+    "duration": 90
+   },
+   {
+    "filename": "tote-attack 7.aseprite",
+    "frame": { "x": 1792, "y": 0, "w": 256, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 192 },
+    "sourceSize": { "w": 256, "h": 192 },
+    "duration": 110
+   },
+   {
+    "filename": "tote-attack 8.aseprite",
+    "frame": { "x": 2048, "y": 0, "w": 256, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 192 },
+    "sourceSize": { "w": 256, "h": 192 },
+    "duration": 140
+   },
+   {
+    "filename": "tote-attack 9.aseprite",
+    "frame": { "x": 2304, "y": 0, "w": 256, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 192 },
+    "sourceSize": { "w": 256, "h": 192 },
+    "duration": 170
+   },
+   {
+    "filename": "tote-attack 10.aseprite",
+    "frame": { "x": 2560, "y": 0, "w": 256, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 192 },
+    "sourceSize": { "w": 256, "h": 192 },
+    "duration": 140
+   },
+   {
+    "filename": "tote-attack 11.aseprite",
+    "frame": { "x": 2816, "y": 0, "w": 256, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 192 },
+    "sourceSize": { "w": 256, "h": 192 },
+    "duration": 160
+   },
+   {
+    "filename": "tote-attack 12.aseprite",
+    "frame": { "x": 3072, "y": 0, "w": 256, "h": 192 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 192 },
+    "sourceSize": { "w": 256, "h": 192 },
+    "duration": 220
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.18.6-dev",
+  "image": "reopen-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 3328, "h": 192 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "tote_attack", "from": 0, "to": 12, "direction": "forward", "repeat": "1", "color": "#6a613cff" }
+  ],
+  "layers": [
+   { "name": "Seed composite (source derived)", "opacity": 255, "blendMode": "normal" },
+   { "name": "Neck collar construction", "opacity": 255, "blendMode": "normal" },
+   { "name": "Arms and shared grip", "opacity": 255, "blendMode": "normal" },
+   { "name": "Continuous handles", "opacity": 255, "blendMode": "normal" },
+   { "name": "Tote inertia accents", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+   { "name": "root_pivot", "color": "#6a613cff", "keys": [{ "frame": 0, "bounds": {"x": 128, "y": 185, "w": 1, "h": 1 }, "pivot": {"x": 0, "y": 0 } }] }
+  ]
+ }
+}

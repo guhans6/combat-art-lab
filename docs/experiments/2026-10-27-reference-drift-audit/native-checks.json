@@ -1,0 +1,194 @@
+{
+  "passed": false,
+  "failures": [
+    "header changed",
+    "frames changed"
+  ],
+  "layers": [
+    {
+      "name": "01-tied-hair-back",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    },
+    {
+      "name": "02-shoulders-and-hood-back",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    },
+    {
+      "name": "03-shirt",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    },
+    {
+      "name": "04-neck-and-ear",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    },
+    {
+      "name": "05-face-plane",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    },
+    {
+      "name": "06-crown-and-fringe",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    },
+    {
+      "name": "07-pale-hair-tie",
+      "changed_pixels": 15,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    },
+    {
+      "name": "08-face-features",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    },
+    {
+      "name": "09-hood-front",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    },
+    {
+      "name": "10-tote-strap",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    }
+  ],
+  "frame_metadata_equal": false,
+  "layer_metadata_equal": true,
+  "header_equal": false,
+  "fresh_reopen_exports_match": true,
+  "source_canvas": [
+    120,
+    112
+  ],
+  "source_layer_count": 10,
+  "source_frame_count": 1,
+  "header_color_count_before": 256,
+  "header_color_count_after": 21,
+  "technical_edit_boundary": "15 tie-layer pixels only; native palette/header preservation fails",
+  "artistic_assessment": "rejected for likeness by agent; no user approval",
+  "blank_first_export": "detected and retained as rejected technical failure"
+}

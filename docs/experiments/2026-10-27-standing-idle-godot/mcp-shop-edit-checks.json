@@ -1,0 +1,39 @@
+{
+  "source": "Aseprite MCP native layer reads",
+  "canvas": [
+    362,
+    272
+  ],
+  "layers": 6,
+  "layer_metadata_equal": true,
+  "palette_equal": true,
+  "frame_durations_equal": true,
+  "changes": [
+    {
+      "layer": "05-near-shop-wall",
+      "changed_native_pixels": 0
+    },
+    {
+      "layer": "07-shop-glass",
+      "changed_native_pixels": 0
+    },
+    {
+      "layer": "08-shop-awning",
+      "changed_native_pixels": 0
+    },
+    {
+      "layer": "09-shop-posts",
+      "changed_native_pixels": 0
+    },
+    {
+      "layer": "10-shop-steps",
+      "changed_native_pixels": 0
+    },
+    {
+      "layer": "13-shop-lamp-pixels",
+      "changed_native_pixels": 54
+    }
+  ],
+  "strict_binary_header_check": "not run; validation runner unavailable through current MCP-only route",
+  "passed": true
+}

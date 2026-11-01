@@ -1,0 +1,360 @@
+{
+  "baselineSource": "inputs/baseline.png",
+  "baselineSourceSha256": "c162e373a9b0ed72e2e82f91a6fe6608952444ed3ef9151534fcd29843b65def",
+  "canvas": [
+    128,
+    192
+  ],
+  "nativeMetadataObservedBySpriteInfo": {
+    "checkedFiles": [
+      "inputs/baseline.aseprite",
+      "passes/luna6-neutral.aseprite",
+      "passes/luna6-subtle-smile.aseprite",
+      "passes/luna6-surprise.aseprite"
+    ],
+    "size": [
+      128,
+      192
+    ],
+    "colorMode": "rgb",
+    "frameCount": 1,
+    "frameDurationMs": [
+      100
+    ],
+    "layerCount": 12,
+    "layerNames": [
+      "guide-source-seed (hidden)",
+      "00-shoes",
+      "01-denim",
+      "02a-jacket-left",
+      "02b-jacket-right",
+      "03-shirt",
+      "04-tote",
+      "05-tote-strap",
+      "06a-left-hand",
+      "06b-right-hand",
+      "07-face-and-neck",
+      "08-hair-tie-and-hair"
+    ],
+    "allLayerAttributesEqualToBaseline": true,
+    "paletteEntries": 255,
+    "paletteEqualToBaseline": true
+  },
+  "pixelFormatForExportDiff": "RGBA exact; no color-space conversion beyond Pillow RGBA decoding",
+  "variants": {
+    "neutral": {
+      "nativeSha256": "d76266fa8afcd1de643e6b6421ec4dfe4fa77f8044a1d083205b921eb2f25540",
+      "initialPngSha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+      "reopenedPngSha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+      "threeXPngSha256": "8b1adeb4a56f7bab896d22485c9a49d9d0b84bf69699356cf78e619b47a2c0cc",
+      "reopenedPngByteEqual": true,
+      "reopenedPixelsEqual": true,
+      "dimensions1x": [
+        128,
+        192
+      ],
+      "dimensions3x": [
+        384,
+        576
+      ],
+      "compositeChangedPixelCount": 2,
+      "changedPixels": [
+        [
+          68,
+          27,
+          [
+            202,
+            106,
+            68,
+            255
+          ],
+          [
+            116,
+            76,
+            64,
+            255
+          ]
+        ],
+        [
+          69,
+          27,
+          [
+            228,
+            133,
+            88,
+            255
+          ],
+          [
+            116,
+            76,
+            64,
+            255
+          ]
+        ]
+      ],
+      "changedPixelsAllInsideMask": true,
+      "alphaChanges": 0,
+      "nativeOwnerLayer": "08-hair-tie-and-hair",
+      "nativeOwnerChangedPixels": [
+        [
+          68,
+          27,
+          "#ca6a44",
+          "#744c40"
+        ],
+        [
+          69,
+          27,
+          "#e48558",
+          "#744c40"
+        ]
+      ],
+      "nativeOwnerDiffMatchesCompositeCoordinates": true
+    },
+    "subtle-smile": {
+      "nativeSha256": "473dc43ca7252f8551894e8e643958dcf229cc131fcdd35d5d40e9cbe939fd21",
+      "initialPngSha256": "4a89a227014f3d450d3de24d8b22ec15cb8fa7e2322a2117fbd74ecf0df2599f",
+      "reopenedPngSha256": "4a89a227014f3d450d3de24d8b22ec15cb8fa7e2322a2117fbd74ecf0df2599f",
+      "threeXPngSha256": "acd454982014360ea8a7fbf8ddcb1c6b10eeb593d5b97cc4ea4379f7409c7238",
+      "reopenedPngByteEqual": true,
+      "reopenedPixelsEqual": true,
+      "dimensions1x": [
+        128,
+        192
+      ],
+      "dimensions3x": [
+        384,
+        576
+      ],
+      "compositeChangedPixelCount": 4,
+      "changedPixels": [
+        [
+          68,
+          27,
+          [
+            202,
+            106,
+            68,
+            255
+          ],
+          [
+            116,
+            76,
+            64,
+            255
+          ]
+        ],
+        [
+          69,
+          27,
+          [
+            228,
+            133,
+            88,
+            255
+          ],
+          [
+            253,
+            169,
+            119,
+            255
+          ]
+        ],
+        [
+          70,
+          27,
+          [
+            253,
+            169,
+            119,
+            255
+          ],
+          [
+            116,
+            76,
+            64,
+            255
+          ]
+        ],
+        [
+          69,
+          28,
+          [
+            246,
+            162,
+            110,
+            255
+          ],
+          [
+            116,
+            76,
+            64,
+            255
+          ]
+        ]
+      ],
+      "changedPixelsAllInsideMask": true,
+      "alphaChanges": 0,
+      "nativeOwnerLayer": "08-hair-tie-and-hair",
+      "nativeOwnerChangedPixels": [
+        [
+          68,
+          27,
+          "#ca6a44",
+          "#744c40"
+        ],
+        [
+          69,
+          27,
+          "#e48558",
+          "#fda977"
+        ],
+        [
+          70,
+          27,
+          "#fda977",
+          "#744c40"
+        ],
+        [
+          69,
+          28,
+          "#f6a26e",
+          "#744c40"
+        ]
+      ],
+      "nativeOwnerDiffMatchesCompositeCoordinates": true
+    },
+    "surprise": {
+      "nativeSha256": "6bc44e3c9cc66dbb223925058e82eab034935befa5300f796a5df05c5c2faa50",
+      "initialPngSha256": "82fd8efffe3b0c3a5df0e9b215711ecc532d360e610312c03a547eb5566e4af1",
+      "reopenedPngSha256": "82fd8efffe3b0c3a5df0e9b215711ecc532d360e610312c03a547eb5566e4af1",
+      "threeXPngSha256": "8e2ffa611de79f1cd15eb6b0c303558438fa46350f5a5c7d46b97673153684bb",
+      "reopenedPngByteEqual": true,
+      "reopenedPixelsEqual": true,
+      "dimensions1x": [
+        128,
+        192
+      ],
+      "dimensions3x": [
+        384,
+        576
+      ],
+      "compositeChangedPixelCount": 4,
+      "changedPixels": [
+        [
+          64,
+          20,
+          [
+            211,
+            173,
+            167,
+            255
+          ],
+          [
+            254,
+            248,
+            238,
+            255
+          ]
+        ],
+        [
+          70,
+          20,
+          [
+            213,
+            150,
+            114,
+            255
+          ],
+          [
+            231,
+            213,
+            199,
+            255
+          ]
+        ],
+        [
+          69,
+          27,
+          [
+            228,
+            133,
+            88,
+            255
+          ],
+          [
+            66,
+            30,
+            22,
+            255
+          ]
+        ],
+        [
+          69,
+          28,
+          [
+            246,
+            162,
+            110,
+            255
+          ],
+          [
+            66,
+            30,
+            22,
+            255
+          ]
+        ]
+      ],
+      "changedPixelsAllInsideMask": true,
+      "alphaChanges": 0,
+      "nativeOwnerLayer": "08-hair-tie-and-hair",
+      "nativeOwnerChangedPixels": [
+        [
+          64,
+          20,
+          "#d3ada7",
+          "#fef8ee"
+        ],
+        [
+          70,
+          20,
+          "#d59672",
+          "#e7d5c7"
+        ],
+        [
+          69,
+          27,
+          "#e48558",
+          "#421e16"
+        ],
+        [
+          69,
+          28,
+          "#f6a26e",
+          "#421e16"
+        ]
+      ],
+      "nativeOwnerDiffMatchesCompositeCoordinates": true
+    },
+    "baseline": {
+      "sha256": "c162e373a9b0ed72e2e82f91a6fe6608952444ed3ef9151534fcd29843b65def",
+      "bytes": 13038
+    },
+    "approvedCloseup": {
+      "sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7",
+      "bytes": 2552510
+    },
+    "approvedScene": {
+      "sha256": "a274a80133371b61387848495bf0dd93546ba5daf0a60c051b27109237160eae",
+      "bytes": 2724485
+    }
+  },
+  "reviewImages": {
+    "fullbody1x": "reviews/fullbody-strip-1x-matte.png",
+    "fullbody3x": "reviews/fullbody-strip-3x-matte.png",
+    "head8x": "reviews/head-strip-8x-matte.png",
+    "approvedCloseupVsHeads8x": "reviews/approved-closeup-vs-heads-8x.png",
+    "matte": "#707070"
+  }
+}

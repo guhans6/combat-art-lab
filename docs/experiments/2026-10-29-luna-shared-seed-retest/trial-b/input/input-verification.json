@@ -1,0 +1,62 @@
+{
+  "verification": "PASS",
+  "method": "Python binary parsing of the copied Aseprite baseline plus Pillow RGBA decode; no editor operation",
+  "python_version": "3.12.14",
+  "pillow_version": "12.3.0",
+  "native_baseline": {
+    "sha256": "b1d91f6f87f650cbd2cae3edb69704d195bbdcf8d6b679b287d01e8a7283cc19",
+    "dimensions": [
+      128,
+      192
+    ],
+    "depth": 32,
+    "frames": 1,
+    "layers": [
+      "shared-source-seed"
+    ],
+    "decoded_rgba_sha256": "8839680f1bc70c1c99653a28c76c6f8ea41f401d2755c93146d765523cb5806c",
+    "palette_chunk_sha256": "f2d4907a7493af8e6557f933e3c2c40d73f733658fc8250d925f79678ffb5b81",
+    "palette_entry_count": 255
+  },
+  "seed_png": {
+    "sha256": "074168d9bfc5b2a2f2751810152bb0c31a71e7027a5368c0b393e17449fb84eb",
+    "dimensions": [
+      128,
+      192
+    ],
+    "decoded_rgba_sha256": "8839680f1bc70c1c99653a28c76c6f8ea41f401d2755c93146d765523cb5806c",
+    "visible_pixel_count": 7844,
+    "visible_rgb_color_count": 254,
+    "alpha_values": [
+      0,
+      255
+    ]
+  },
+  "baseline_export_png": {
+    "sha256": "7353611071482ea1e879ab9c247fb1d92c7bd90050b8eb99cbec4cdbdf612d12",
+    "decoded_rgba_equal_seed_and_native_cel": true
+  },
+  "references": {
+    "character-scene.png": {
+      "sha256": "a274a80133371b61387848495bf0dd93546ba5daf0a60c051b27109237160eae",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    "character-closeup.png": {
+      "sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    "clean-generated-cutout-v1.png": {
+      "sha256": "12e971cc9e3cbfa7add2a17a62ff53d1f45b3c55197ce23c336a6447bed1f49e",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    }
+  }
+}

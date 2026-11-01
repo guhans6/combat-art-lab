@@ -1,0 +1,46 @@
+{
+  "id": "006",
+  "time": "2026-10-26T10:28:35.228Z",
+  "call": {
+    "name": "draw",
+    "arguments": {
+      "layer": "protected",
+      "paletteLock": false,
+      "ops": [
+        {
+          "kind": "pixels",
+          "color": "#0000ff",
+          "points": [
+            {
+              "x": 12,
+              "y": 4
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "1 op(s), 1 pixel(s) changed on 'protected' frame 1. Now call look to see the result before moving on."
+      }
+    ],
+    "structuredContent": {
+      "bounds": {
+        "y": 4,
+        "width": 1,
+        "height": 1,
+        "x": 12
+      },
+      "frame": 1,
+      "colorsSnapped": [],
+      "sprite": "Sprite",
+      "pixelsChanged": 1,
+      "opsApplied": 1,
+      "layer": "protected"
+    }
+  },
+  "images": []
+}

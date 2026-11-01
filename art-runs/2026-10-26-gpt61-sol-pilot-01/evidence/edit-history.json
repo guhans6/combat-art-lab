@@ -1,0 +1,774 @@
+[
+  {
+    "checkpoint": "pass-01",
+    "selected": true,
+    "native_changes_vs_frozen_baseline": [
+      {
+        "layer": "11-face-features",
+        "frame": 1,
+        "xy": [
+          70,
+          22
+        ],
+        "before_rgba": [
+          117,
+          70,
+          50,
+          255
+        ],
+        "after_rgba": [
+          63,
+          43,
+          40,
+          255
+        ]
+      },
+      {
+        "layer": "11-face-features",
+        "frame": 1,
+        "xy": [
+          70,
+          23
+        ],
+        "before_rgba": [
+          209,
+          185,
+          165,
+          255
+        ],
+        "after_rgba": [
+          117,
+          70,
+          50,
+          255
+        ]
+      },
+      {
+        "layer": "11-face-features",
+        "frame": 1,
+        "xy": [
+          66,
+          26
+        ],
+        "before_rgba": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "after_rgba": [
+          153,
+          94,
+          72,
+          255
+        ]
+      },
+      {
+        "layer": "11-face-features",
+        "frame": 1,
+        "xy": [
+          69,
+          26
+        ],
+        "before_rgba": [
+          215,
+          133,
+          90,
+          255
+        ],
+        "after_rgba": [
+          63,
+          43,
+          40,
+          0
+        ]
+      },
+      {
+        "layer": "11-face-features",
+        "frame": 1,
+        "xy": [
+          70,
+          26
+        ],
+        "before_rgba": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "after_rgba": [
+          153,
+          94,
+          72,
+          255
+        ]
+      },
+      {
+        "layer": "11-face-features",
+        "frame": 1,
+        "xy": [
+          69,
+          27
+        ],
+        "before_rgba": [
+          246,
+          157,
+          109,
+          255
+        ],
+        "after_rgba": [
+          215,
+          133,
+          90,
+          255
+        ]
+      }
+    ]
+  },
+  {
+    "checkpoint": "pass-02",
+    "selected": false,
+    "native_changes_vs_frozen_baseline": [
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          35,
+          20
+        ],
+        "before_rgba": [
+          64,
+          43,
+          41,
+          255
+        ],
+        "after_rgba": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          35,
+          21
+        ],
+        "before_rgba": [
+          64,
+          43,
+          41,
+          255
+        ],
+        "after_rgba": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          38,
+          21
+        ],
+        "before_rgba": [
+          107,
+          68,
+          53,
+          255
+        ],
+        "after_rgba": [
+          87,
+          56,
+          46,
+          255
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          35,
+          22
+        ],
+        "before_rgba": [
+          64,
+          43,
+          41,
+          255
+        ],
+        "after_rgba": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          36,
+          22
+        ],
+        "before_rgba": [
+          73,
+          50,
+          45,
+          255
+        ],
+        "after_rgba": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          37,
+          22
+        ],
+        "before_rgba": [
+          107,
+          68,
+          53,
+          255
+        ],
+        "after_rgba": [
+          64,
+          43,
+          41,
+          255
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          39,
+          22
+        ],
+        "before_rgba": [
+          125,
+          80,
+          58,
+          255
+        ],
+        "after_rgba": [
+          87,
+          56,
+          46,
+          255
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          35,
+          23
+        ],
+        "before_rgba": [
+          64,
+          43,
+          41,
+          255
+        ],
+        "after_rgba": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          36,
+          23
+        ],
+        "before_rgba": [
+          73,
+          50,
+          45,
+          255
+        ],
+        "after_rgba": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          37,
+          23
+        ],
+        "before_rgba": [
+          107,
+          68,
+          53,
+          255
+        ],
+        "after_rgba": [
+          64,
+          43,
+          41,
+          255
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          39,
+          23
+        ],
+        "before_rgba": [
+          125,
+          80,
+          58,
+          255
+        ],
+        "after_rgba": [
+          87,
+          56,
+          46,
+          255
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          36,
+          24
+        ],
+        "before_rgba": [
+          73,
+          50,
+          45,
+          255
+        ],
+        "after_rgba": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          37,
+          24
+        ],
+        "before_rgba": [
+          107,
+          68,
+          53,
+          255
+        ],
+        "after_rgba": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          38,
+          24
+        ],
+        "before_rgba": [
+          107,
+          68,
+          53,
+          255
+        ],
+        "after_rgba": [
+          64,
+          43,
+          41,
+          255
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          37,
+          25
+        ],
+        "before_rgba": [
+          73,
+          50,
+          45,
+          255
+        ],
+        "after_rgba": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          38,
+          25
+        ],
+        "before_rgba": [
+          107,
+          68,
+          53,
+          255
+        ],
+        "after_rgba": [
+          64,
+          43,
+          41,
+          255
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          40,
+          25
+        ],
+        "before_rgba": [
+          125,
+          80,
+          58,
+          255
+        ],
+        "after_rgba": [
+          87,
+          56,
+          46,
+          255
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          43,
+          27
+        ],
+        "before_rgba": [
+          107,
+          68,
+          53,
+          255
+        ],
+        "after_rgba": [
+          64,
+          43,
+          41,
+          255
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          44,
+          27
+        ],
+        "before_rgba": [
+          107,
+          68,
+          53,
+          255
+        ],
+        "after_rgba": [
+          64,
+          43,
+          41,
+          255
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          42,
+          28
+        ],
+        "before_rgba": [
+          107,
+          68,
+          53,
+          255
+        ],
+        "after_rgba": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          43,
+          28
+        ],
+        "before_rgba": [
+          107,
+          68,
+          53,
+          255
+        ],
+        "after_rgba": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          44,
+          28
+        ],
+        "before_rgba": [
+          64,
+          43,
+          41,
+          255
+        ],
+        "after_rgba": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          43,
+          29
+        ],
+        "before_rgba": [
+          64,
+          43,
+          41,
+          255
+        ],
+        "after_rgba": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          44,
+          29
+        ],
+        "before_rgba": [
+          73,
+          50,
+          45,
+          255
+        ],
+        "after_rgba": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          45,
+          29
+        ],
+        "before_rgba": [
+          73,
+          50,
+          45,
+          255
+        ],
+        "after_rgba": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "layer": "01-hair-back",
+        "frame": 1,
+        "xy": [
+          44,
+          30
+        ],
+        "before_rgba": [
+          64,
+          43,
+          41,
+          255
+        ],
+        "after_rgba": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "layer": "11-face-features",
+        "frame": 1,
+        "xy": [
+          70,
+          22
+        ],
+        "before_rgba": [
+          117,
+          70,
+          50,
+          255
+        ],
+        "after_rgba": [
+          63,
+          43,
+          40,
+          255
+        ]
+      },
+      {
+        "layer": "11-face-features",
+        "frame": 1,
+        "xy": [
+          70,
+          23
+        ],
+        "before_rgba": [
+          209,
+          185,
+          165,
+          255
+        ],
+        "after_rgba": [
+          117,
+          70,
+          50,
+          255
+        ]
+      },
+      {
+        "layer": "11-face-features",
+        "frame": 1,
+        "xy": [
+          66,
+          26
+        ],
+        "before_rgba": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "after_rgba": [
+          153,
+          94,
+          72,
+          255
+        ]
+      },
+      {
+        "layer": "11-face-features",
+        "frame": 1,
+        "xy": [
+          69,
+          26
+        ],
+        "before_rgba": [
+          215,
+          133,
+          90,
+          255
+        ],
+        "after_rgba": [
+          63,
+          43,
+          40,
+          0
+        ]
+      },
+      {
+        "layer": "11-face-features",
+        "frame": 1,
+        "xy": [
+          70,
+          26
+        ],
+        "before_rgba": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "after_rgba": [
+          153,
+          94,
+          72,
+          255
+        ]
+      },
+      {
+        "layer": "11-face-features",
+        "frame": 1,
+        "xy": [
+          69,
+          27
+        ],
+        "before_rgba": [
+          246,
+          157,
+          109,
+          255
+        ],
+        "after_rgba": [
+          215,
+          133,
+          90,
+          255
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "protected": [
+    { "name": "face, eyes, nose, and mouth", "bbox": [53, 16, 75, 38] }
+  ],
+  "review": [
+    { "name": "rear hair mass", "bbox": [38, 5, 52, 27] },
+    { "name": "hair crown", "bbox": [50, 4, 74, 14] },
+    { "name": "left jacket", "bbox": [35, 47, 53, 69] },
+    { "name": "right jacket", "bbox": [80, 49, 96, 70] },
+    { "name": "shirt", "bbox": [51, 43, 71, 71] },
+    { "name": "tote", "bbox": [83, 80, 93, 99] },
+    { "name": "left denim leg", "bbox": [43, 95, 62, 155] },
+    { "name": "right denim leg", "bbox": [62, 100, 86, 156] },
+    { "name": "left shoe", "bbox": [45, 174, 60, 181] },
+    { "name": "right shoe", "bbox": [81, 176, 93, 182] }
+  ]
+}

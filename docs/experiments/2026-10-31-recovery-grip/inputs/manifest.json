@@ -1,0 +1,18 @@
+{
+  "before.png": {
+    "source": "docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/frames/v03-frame-8.png",
+    "sha256": "754cfbca68fe90cb70051983992369d40dd1545068d47f3404138d1e5d65f3cb"
+  },
+  "before.aseprite": {
+    "source": "docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/source/tote-attack-v03.aseprite",
+    "sha256": "1f6d68c6927bbcc594be9913156f74a6b0939aa373a9be9971dcd5be8ab52065"
+  },
+  "generated-source-pose.png": {
+    "source": "docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/preparation/frame-09-base.png",
+    "sha256": "ae6c9c8648d08b802dcdcffa31663a5b6c09eb152fb5b4890a6761149bb3fc8c"
+  },
+  "user-rejected-grip.png": {
+    "source": "docs/experiments/2026-10-31-comparison-regression/inputs/user-rejected-grip.png",
+    "sha256": "115ff99b6125ea6063e65e52fbeccb30fc9ea6b522604b547a5a04f74e302e45"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "failures": [],
+  "baseline_sha256": "efed5c629cd1d58aa5147368a4d9a18523344bd75456275c812849c2cbeaf523",
+  "revision_sha256": "f5cca0ca4808483bc0cd3a4a603a0ceef697788810c05829868c35700dbc6364",
+  "fresh_png_sha256": "09ec35a47cf9fb68de96c520fce7e5d4002d097154affd8e9b25a55515a7e905",
+  "changed_pixels_by_layer": {
+    "editable": [
+      [
+        12,
+        3
+      ]
+    ],
+    "protected": []
+  },
+  "fresh_reopen_export_matches_revision_composite": true,
+  "scope": "isolated MCP capability proof; not an art deliverable"
+}

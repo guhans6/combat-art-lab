@@ -1,0 +1,2 @@
+# Tested in this delivery with Pillow 12.3.0; lock the resolved version across trials.
+Pillow>=9.1,<14

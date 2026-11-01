@@ -1,0 +1,198 @@
+{
+  "native": "source/attack-repaired.aseprite",
+  "native_sha256": "5fb9a4f776ea46df1ee86c3eb5e10c8be32b094aa265004e908e832b7f4518ea",
+  "frames": [
+    "frames/candidate-0.png",
+    "frames/candidate-1.png",
+    "frames/candidate-2.png",
+    "frames/candidate-3.png",
+    "frames/candidate-4.png",
+    "frames/candidate-5.png",
+    "frames/candidate-6.png",
+    "frames/candidate-7.png",
+    "frames/candidate-8.png",
+    "frames/candidate-9.png",
+    "frames/candidate-10.png",
+    "frames/candidate-11.png",
+    "frames/candidate-12.png"
+  ],
+  "canvas": [
+    320,
+    192
+  ],
+  "durations_ms": [
+    60,
+    110,
+    140,
+    210,
+    70,
+    60,
+    90,
+    110,
+    140,
+    170,
+    140,
+    160,
+    220
+  ],
+  "phases": [
+    "ready idle",
+    "pickup",
+    "shared grip",
+    "counter-windup",
+    "acceleration",
+    "committed contact",
+    "follow-through",
+    "arrest and redirect",
+    "controlled recovery",
+    "tote settle",
+    "re-shoulder",
+    "release and settle",
+    "ready idle return"
+  ],
+  "active_frames_1based": [
+    6
+  ],
+  "root_pivot": [
+    128,
+    185
+  ],
+  "root_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "bag_bounds_xyxy": [
+    [
+      141,
+      41,
+      159,
+      131
+    ],
+    [
+      143,
+      41,
+      165,
+      100
+    ],
+    [
+      156,
+      80,
+      208,
+      115
+    ],
+    [
+      68,
+      78,
+      115,
+      123
+    ],
+    [
+      152,
+      79,
+      204,
+      114
+    ],
+    [
+      187,
+      45,
+      237,
+      77
+    ],
+    [
+      194,
+      42,
+      248,
+      76
+    ],
+    [
+      181,
+      97,
+      219,
+      131
+    ],
+    [
+      152,
+      90,
+      188,
+      122
+    ],
+    [
+      143,
+      82,
+      178,
+      112
+    ],
+    [
+      155,
+      54,
+      176,
+      95
+    ],
+    [
+      144,
+      41,
+      164,
+      101
+    ],
+    [
+      141,
+      41,
+      159,
+      131
+    ]
+  ],
+  "gif_1x": "review/attack-1x.gif",
+  "gif_3x": "review/attack-3x.gif",
+  "status": "candidate; user artistic approval pending",
+  "limits": "Inherited neutral owner bounds include non-bag pixels; contact F6 tote owner is isolated. Still-only agent review; coarse source stance steps remain."
+}

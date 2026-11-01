@@ -1,0 +1,47 @@
+test_actual_cuff_fixture_fails (test_alpha_coverage.AlphaCoverageTests.test_actual_cuff_fixture_fails) ... ok
+test_colored_background_cannot_hide_alpha_damage (test_alpha_coverage.AlphaCoverageTests.test_colored_background_cannot_hide_alpha_damage) ... ok
+test_exact_reviewed_hole_is_allowed (test_alpha_coverage.AlphaCoverageTests.test_exact_reviewed_hole_is_allowed) ... ok
+test_leg_gap_connected_to_exterior_is_allowed (test_alpha_coverage.AlphaCoverageTests.test_leg_gap_connected_to_exterior_is_allowed) ... ok
+test_region_and_mask_dimensions_are_validated (test_alpha_coverage.AlphaCoverageTests.test_region_and_mask_dimensions_are_validated) ... ok
+test_repaired_fixture_passes (test_alpha_coverage.AlphaCoverageTests.test_repaired_fixture_passes) ... ok
+test_roi_does_not_turn_external_gap_into_hole (test_alpha_coverage.AlphaCoverageTests.test_roi_does_not_turn_external_gap_into_hole) ... ok
+test_solid_mask_catches_open_edge_loss (test_alpha_coverage.AlphaCoverageTests.test_solid_mask_catches_open_edge_loss) ... ok
+test_allowed_remote_change_still_needs_coverage_and_never_approves_art (test_comparison_review.ComparisonReviewTests.test_allowed_remote_change_still_needs_coverage_and_never_approves_art) ... ok
+test_cli_distinguishes_incomplete_build_freshness_and_invalid_spec (test_comparison_review.ComparisonReviewTests.test_cli_distinguishes_incomplete_build_freshness_and_invalid_spec) ... ok
+test_existing_packet_is_preserved (test_comparison_review.ComparisonReviewTests.test_existing_packet_is_preserved) ... ok
+test_freshness_checks_sources_spec_evidence_and_generated_sheets (test_comparison_review.ComparisonReviewTests.test_freshness_checks_sources_spec_evidence_and_generated_sheets) ... ok
+test_missing_frame_canvas_mismatch_and_invalid_crop_refuse_packet (test_comparison_review.ComparisonReviewTests.test_missing_frame_canvas_mismatch_and_invalid_crop_refuse_packet) ... ok
+test_noop_is_not_improvement_and_invisible_rgb_still_invalidates_evidence (test_comparison_review.ComparisonReviewTests.test_noop_is_not_improvement_and_invisible_rgb_still_invalidates_evidence) ... ok
+test_remote_edit_fails_scope_and_close_review_coverage (test_comparison_review.ComparisonReviewTests.test_remote_edit_fails_scope_and_close_review_coverage) ... ok
+test_bad_crop_rejected (test_reference_review.ReferenceReviewTests.test_bad_crop_rejected) ... ok
+test_crop_and_no_reference_resampling_when_sizes_match (test_reference_review.ReferenceReviewTests.test_crop_and_no_reference_resampling_when_sizes_match) ... ok
+test_existing_evidence_and_inputs_protected (test_reference_review.ReferenceReviewTests.test_existing_evidence_and_inputs_protected) ... ok
+test_fractional_candidate_zoom_rejected (test_reference_review.ReferenceReviewTests.test_fractional_candidate_zoom_rejected) ... ok
+test_one_image_cannot_fill_both_roles (test_reference_review.ReferenceReviewTests.test_one_image_cannot_fill_both_roles) ... ok
+test_real_source_and_candidate_pixels_in_separate_panels (test_reference_review.ReferenceReviewTests.test_real_source_and_candidate_pixels_in_separate_panels) ... ok
+test_custom_profile_brief_uses_its_task_and_reference_roles (test_tools.FrozenRunTests.test_custom_profile_brief_uses_its_task_and_reference_roles) ... ok
+test_detect_copy_changed (test_tools.FrozenRunTests.test_detect_copy_changed) ... ok
+test_detect_original_changed (test_tools.FrozenRunTests.test_detect_original_changed) ... ok
+test_duplicate_run_rejected (test_tools.FrozenRunTests.test_duplicate_run_rejected) ... ok
+test_freeze_and_verify (test_tools.FrozenRunTests.test_freeze_and_verify) ... ok
+test_native_resolution_not_rescaled (test_tools.FrozenRunTests.test_native_resolution_not_rescaled) ... ok
+test_unsafe_id_rejected (test_tools.FrozenRunTests.test_unsafe_id_rejected) ... ok
+test_blank_sprite_fails (test_tools.PixelChecksTests.test_blank_sprite_fails) ... ok
+test_canvas_change_fails (test_tools.PixelChecksTests.test_canvas_change_fails) ... ok
+test_default_aseprite_inventory_never_launches_editor (test_tools.PixelChecksTests.test_default_aseprite_inventory_never_launches_editor) ... ok
+test_explicit_aseprite_probe_keeps_direct_diagnostic (test_tools.PixelChecksTests.test_explicit_aseprite_probe_keeps_direct_diagnostic) ... ok
+test_hidden_rgb_not_visible_diff (test_tools.PixelChecksTests.test_hidden_rgb_not_visible_diff) ... ok
+test_in_scope_existing_color_passes (test_tools.PixelChecksTests.test_in_scope_existing_color_passes) ... ok
+test_mask_rejects_all_editable (test_tools.PixelChecksTests.test_mask_rejects_all_editable) ... ok
+test_mask_rejects_gray (test_tools.PixelChecksTests.test_mask_rejects_gray) ... ok
+test_new_color_fails (test_tools.PixelChecksTests.test_new_color_fails) ... ok
+test_noop_not_claimed_as_edit (test_tools.PixelChecksTests.test_noop_not_claimed_as_edit) ... ok
+test_partial_alpha_fails (test_tools.PixelChecksTests.test_partial_alpha_fails) ... ok
+test_preview_and_no_input_overwrite (test_tools.PixelChecksTests.test_preview_and_no_input_overwrite) ... ok
+test_single_protected_pixel_fails (test_tools.PixelChecksTests.test_single_protected_pixel_fails) ... ok
+test_v03_neck_notch (test_tools.PixelChecksTests.test_v03_neck_notch) ... ok
+
+----------------------------------------------------------------------
+Ran 42 tests in 0.225s
+
+OK

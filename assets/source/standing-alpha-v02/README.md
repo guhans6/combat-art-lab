@@ -1,0 +1,1 @@
+Current repaired native idle master: standing-idle.aseprite. Original is preserved in the 2026-10-27-standing-idle-godot experiment. Exact patch inputs and checks: docs/experiments/2026-10-27-denim-alpha-repair. Runtime Godot uses textures/idle-alpha-v02.

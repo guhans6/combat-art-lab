@@ -1,0 +1,84 @@
+{
+  "id": "041",
+  "time": "2026-10-26T10:31:45.101Z",
+  "call": {
+    "name": "draw",
+    "arguments": {
+      "layer": "11-face-features",
+      "frame": 1,
+      "selectionOnly": true,
+      "label": "pass01 continuous irises and restrained shallow smile",
+      "ops": [
+        {
+          "kind": "pixels",
+          "points": [
+            {
+              "x": 64,
+              "y": 23,
+              "color": "#754632"
+            },
+            {
+              "x": 70,
+              "y": 22,
+              "color": "#3f2b28"
+            },
+            {
+              "x": 70,
+              "y": 23,
+              "color": "#754632"
+            },
+            {
+              "x": 69,
+              "y": 26,
+              "color": "#00000000"
+            },
+            {
+              "x": 69,
+              "y": 27,
+              "color": "#d7855a"
+            },
+            {
+              "x": 66,
+              "y": 26,
+              "color": "#995e48"
+            },
+            {
+              "x": 70,
+              "y": 26,
+              "color": "#995e48"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "1 op(s), 7 pixel(s) changed on '11-face-features' frame 1. Palette lock moved 1 colour(s) a long way (ΔE > 12): #000000→#3f2b28. Extend the palette if you meant those colours. Now call look to see the result before moving on."
+      }
+    ],
+    "structuredContent": {
+      "bounds": {
+        "y": 22,
+        "width": 7,
+        "height": 6,
+        "x": 64
+      },
+      "frame": 1,
+      "colorsSnapped": [
+        {
+          "to": "#3f2b28",
+          "from": "#000000",
+          "deltaE": 22.37
+        }
+      ],
+      "sprite": "candidate.aseprite",
+      "pixelsChanged": 7,
+      "opsApplied": 1,
+      "layer": "11-face-features"
+    }
+  },
+  "images": []
+}

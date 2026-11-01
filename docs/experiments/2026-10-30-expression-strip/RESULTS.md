@@ -1,0 +1,9 @@
+# Neutral, subtle smile and surprise strip
+
+User-requested static expression study,30 October2026. Luna6Max authored three variants from unchanged Luna6 full-body cleanup; Sol6.1/high reviewed actual exports, retained neutral and made scoped smile/surprise corrections on new copies. Parent independently inspected actual head8x and fullbody3x and verified PNG delta counts/unchanged alpha. All candidates remain user-pending, no production promotion or animation/Godot claim.
+
+Luna smile had detached dark raised corners, surprise read as hooked mouth with calm eyes. Sol smile lowers corner weight into a warm continuous curve; surprise combines eye/brow/mouth changes. Supervisor reads mild rather than dramatic surprise; native-scale expressions remain restrained. Source originals supply identity/subtle-smile authority, surprise is authored expression inference.
+
+Selected for review: Luna neutral (2 changed pixels), Sol smile (7), Sol surprise (12), relative to identical pre-expression baseline. Strict native-layer/palette/metadata protections and fresh reopen export checks pass. No changes to pose/body/hair silhouette/alpha. See [Sol record](sol/record.md), [strict checks](sol/proof/summary.json), [head comparison](sol/reviews/final-head-8x.png), [native-size strip](sol/reviews/final-fullbody-1x.png). Luna originals/failed expressions preserved under luna/.
+
+Parallel crash investigation completed separately after art editor release: routine direct --version probe triggered macOS registration SIGABRT under restricted execution, not proven faulty source build. Canonical doctor now inventories without launching by default, explicit launch probe remains opt-in;35tests+newportablearchive checks pass. This prevents that routine probe's crash trigger, not all Aseprite crashes or stale-save issues. [Diagnosis/package](../2026-10-30-aseprite-crash-diagnosis/record.md).

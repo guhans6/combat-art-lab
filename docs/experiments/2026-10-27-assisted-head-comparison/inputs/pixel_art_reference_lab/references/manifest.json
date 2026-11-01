@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "packaged_on": "2026-10-27",
+  "images": [
+    {
+      "id": "approved_concept_upload",
+      "file": "references/approved_concept_upload.png",
+      "role": "original concept/style reference; user selected appearance",
+      "source": "conversation upload image.png",
+      "sha256": "f519d27fcc9ce82499749ed6a86490463d5ed5d72d64f11c95051a71221ac9ed",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "mode": "RGBA",
+      "approval": "concept appearance only"
+    },
+    {
+      "id": "supplied_sprite",
+      "file": "references/supplied_sprite.png",
+      "role": "historical reconstruction baseline; exact native version not authenticated",
+      "source": "conversation upload image(1).png",
+      "sha256": "271f0b64ec8344ba66be907ba5f1513a6c82558b5cec0e9aeeea39e39e1a6c3e",
+      "dimensions": [
+        128,
+        192
+      ],
+      "mode": "RGBA",
+      "approval": "not newly approved"
+    },
+    {
+      "id": "supplied_head_comparison",
+      "file": "references/supplied_head_comparison.png",
+      "role": "historical comparison; not an independent identity reference",
+      "source": "conversation upload image(2).png",
+      "sha256": "96e4f2f6fa080d97c816b12237dd950878552f0746670d4337b167c7b796ee2e",
+      "dimensions": [
+        1664,
+        368
+      ],
+      "mode": "RGB",
+      "approval": "not newly approved"
+    }
+  ]
+}

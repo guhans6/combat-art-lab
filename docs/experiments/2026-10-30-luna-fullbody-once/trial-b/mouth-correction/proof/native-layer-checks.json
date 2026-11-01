@@ -1,0 +1,31 @@
+{
+  "method": "Dedicated MCP read_pixels(composite=false), full 128x192 canvas, each layer compared between frozen baseline copy and fresh-reopened final native.",
+  "source_native_sha256": "dbdf2f693872d2b3c5f102cea01bc1e2441d2452d790770b7b68effd6c563348",
+  "final_native_sha256": "2d2cd512b82396276dbe4b96e69234bf7044e12bff181dc2a4adcaf575b3d09a",
+  "structural_checks": {
+    "dimensions_equal": true,
+    "color_mode_equal": true,
+    "frame_count_equal": true,
+    "palette_exact_equal": true,
+    "layer_metadata_exact_equal": true,
+    "palette_entries": 255,
+    "layer_count": 12,
+    "visible_layers": 11,
+    "hidden_locked_guide_preserved": true
+  },
+  "layers": [
+    {"name":"guide-source-seed (hidden)","changed_pixels":0},
+    {"name":"00-shoes","changed_pixels":0},
+    {"name":"01-denim","changed_pixels":0},
+    {"name":"02a-jacket-left","changed_pixels":0},
+    {"name":"02b-jacket-right","changed_pixels":0},
+    {"name":"03-shirt","changed_pixels":0},
+    {"name":"04-tote","changed_pixels":0},
+    {"name":"05-tote-strap","changed_pixels":0},
+    {"name":"06a-left-hand","changed_pixels":0},
+    {"name":"06b-right-hand","changed_pixels":0},
+    {"name":"07-face-and-neck","changed_pixels":0},
+    {"name":"08-hair-tie-and-hair","changed_pixels":3,"coordinates":[[67,28],[65,29],[66,29]]}
+  ],
+  "only_expected_native_layer_changed": true
+}

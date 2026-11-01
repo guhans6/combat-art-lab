@@ -1,0 +1,274 @@
+{
+  "luna56-max": {
+    "path": "comparison/luna56-max-common-1x.gif",
+    "sha256": "d25682a0017d0791271fc0ec0cc40fb70f78d60d892a15d63732a8af7a37e464",
+    "zoom_path": "comparison/luna56-max-common-3x.gif",
+    "zoom_sha256": "2a93d606066f68a8aab922497db459d7606514c8470bdc377226465c7d6fd2b4",
+    "native_frame_indices_0based": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "durations_ms": [
+      420,
+      140,
+      180,
+      220,
+      180,
+      560
+    ],
+    "faithful_timeline_check": {
+      "sha256": "d25682a0017d0791271fc0ec0cc40fb70f78d60d892a15d63732a8af7a37e464",
+      "encoded_frames": 6,
+      "durations_ms": [
+        420,
+        140,
+        180,
+        220,
+        180,
+        560
+      ],
+      "cycle_ms": 1700,
+      "loop": 0,
+      "matte_rgb": [
+        52,
+        54,
+        58
+      ],
+      "timeline_equals_native": true
+    },
+    "faithful_3x_timeline_check": {
+      "sha256": "2a93d606066f68a8aab922497db459d7606514c8470bdc377226465c7d6fd2b4",
+      "encoded_frames": 6,
+      "durations_ms": [
+        420,
+        140,
+        180,
+        220,
+        180,
+        560
+      ],
+      "cycle_ms": 1700,
+      "loop": 0,
+      "matte_rgb": [
+        52,
+        54,
+        58
+      ],
+      "timeline_equals_native": true
+    }
+  },
+  "luna6-max": {
+    "path": "comparison/luna6-max-common-1x.gif",
+    "sha256": "80283cb3bca687c6432bd565a84ee1d15ad8edbb3f1bb7422647351189bf9105",
+    "zoom_path": "comparison/luna6-max-common-3x.gif",
+    "zoom_sha256": "d3298514c3d2b2da04e69fc7e5711b5996d12d9106a31e5baff8755eaa3a1fb7",
+    "native_frame_indices_0based": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "durations_ms": [
+      600,
+      180,
+      180,
+      360,
+      220,
+      220,
+      450,
+      50,
+      80,
+      50
+    ],
+    "faithful_timeline_check": {
+      "sha256": "80283cb3bca687c6432bd565a84ee1d15ad8edbb3f1bb7422647351189bf9105",
+      "encoded_frames": 10,
+      "durations_ms": [
+        600,
+        180,
+        180,
+        360,
+        220,
+        220,
+        450,
+        50,
+        80,
+        50
+      ],
+      "cycle_ms": 2390,
+      "loop": 0,
+      "matte_rgb": [
+        52,
+        54,
+        58
+      ],
+      "timeline_equals_native": true
+    },
+    "faithful_3x_timeline_check": {
+      "sha256": "d3298514c3d2b2da04e69fc7e5711b5996d12d9106a31e5baff8755eaa3a1fb7",
+      "encoded_frames": 10,
+      "durations_ms": [
+        600,
+        180,
+        180,
+        360,
+        220,
+        220,
+        450,
+        50,
+        80,
+        50
+      ],
+      "cycle_ms": 2390,
+      "loop": 0,
+      "matte_rgb": [
+        52,
+        54,
+        58
+      ],
+      "timeline_equals_native": true
+    }
+  },
+  "terra56": {
+    "path": "comparison/terra56-common-1x.gif",
+    "sha256": "ef129993beac219687b08828fc8901d256835149e35880d73d81170baa4f40c8",
+    "zoom_path": "comparison/terra56-common-3x.gif",
+    "zoom_sha256": "50153d40aa6bd51eae9fd937340d1d0dbab6531ef9959540d4b381444e72d0e3",
+    "native_frame_indices_0based": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "durations_ms": [
+      110,
+      90,
+      80,
+      90,
+      110,
+      90,
+      80,
+      90
+    ],
+    "faithful_timeline_check": {
+      "sha256": "ef129993beac219687b08828fc8901d256835149e35880d73d81170baa4f40c8",
+      "encoded_frames": 5,
+      "durations_ms": [
+        200,
+        80,
+        200,
+        90,
+        170
+      ],
+      "cycle_ms": 740,
+      "loop": 0,
+      "matte_rgb": [
+        52,
+        54,
+        58
+      ],
+      "timeline_equals_native": true
+    },
+    "faithful_3x_timeline_check": {
+      "sha256": "50153d40aa6bd51eae9fd937340d1d0dbab6531ef9959540d4b381444e72d0e3",
+      "encoded_frames": 5,
+      "durations_ms": [
+        200,
+        80,
+        200,
+        90,
+        170
+      ],
+      "cycle_ms": 740,
+      "loop": 0,
+      "matte_rgb": [
+        52,
+        54,
+        58
+      ],
+      "timeline_equals_native": true
+    }
+  },
+  "sol61": {
+    "path": "comparison/sol61-common-1x.gif",
+    "sha256": "64ffaab11eafe9f186cbc328879b765a6dd6f5c5ea7ebb1ee5bb5a8af17cf151",
+    "zoom_path": "comparison/sol61-common-3x.gif",
+    "zoom_sha256": "5bf4b167a4b0c0e3a9d9740ca1ded79c86b9908835fd45ca8d6329586b18579d",
+    "native_frame_indices_0based": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "durations_ms": [
+      1100,
+      180,
+      120,
+      360,
+      220,
+      160,
+      240,
+      1000
+    ],
+    "faithful_timeline_check": {
+      "sha256": "64ffaab11eafe9f186cbc328879b765a6dd6f5c5ea7ebb1ee5bb5a8af17cf151",
+      "encoded_frames": 7,
+      "durations_ms": [
+        1100,
+        180,
+        120,
+        580,
+        160,
+        240,
+        1000
+      ],
+      "cycle_ms": 3380,
+      "loop": 0,
+      "matte_rgb": [
+        52,
+        54,
+        58
+      ],
+      "timeline_equals_native": true
+    },
+    "faithful_3x_timeline_check": {
+      "sha256": "5bf4b167a4b0c0e3a9d9740ca1ded79c86b9908835fd45ca8d6329586b18579d",
+      "encoded_frames": 7,
+      "durations_ms": [
+        1100,
+        180,
+        120,
+        580,
+        160,
+        240,
+        1000
+      ],
+      "cycle_ms": 3380,
+      "loop": 0,
+      "matte_rgb": [
+        52,
+        54,
+        58
+      ],
+      "timeline_equals_native": true
+    }
+  }
+}

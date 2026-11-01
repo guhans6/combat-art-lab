@@ -1,0 +1,17 @@
+{
+  "reference": "assets/references/approved-2026-10-26/character-scene.png",
+  "crop": [
+    0,
+    0,
+    832,
+    960
+  ],
+  "preview_only_resize": [
+    416,
+    480
+  ],
+  "native": [
+    208,
+    240
+  ]
+}

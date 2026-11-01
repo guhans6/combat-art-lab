@@ -1,0 +1,86 @@
+[
+  {
+    "sprite": "connected-bag.aseprite",
+    "colorsSnapped": [],
+    "pixelsChanged": 4752,
+    "bounds": {
+      "height": 72,
+      "y": 73,
+      "x": 155,
+      "width": 66
+    },
+    "opsApplied": 1,
+    "frame": 8,
+    "layer": "06-continuous-handle-tension"
+  },
+  {
+    "sprite": "connected-bag.aseprite",
+    "colorsSnapped": [],
+    "pixelsChanged": 4752,
+    "bounds": {
+      "height": 72,
+      "y": 73,
+      "x": 155,
+      "width": 66
+    },
+    "opsApplied": 1,
+    "frame": 8,
+    "layer": "04-tote-and-handles"
+  },
+  {
+    "sprite": "connected-bag.aseprite",
+    "colorsSnapped": [],
+    "pixelsChanged": 3300,
+    "bounds": {
+      "height": 66,
+      "y": 67,
+      "x": 145,
+      "width": 50
+    },
+    "opsApplied": 1,
+    "frame": 9,
+    "layer": "06-continuous-handle-tension"
+  },
+  {
+    "sprite": "connected-bag.aseprite",
+    "colorsSnapped": [],
+    "pixelsChanged": 3300,
+    "bounds": {
+      "height": 66,
+      "y": 67,
+      "x": 145,
+      "width": 50
+    },
+    "opsApplied": 1,
+    "frame": 9,
+    "layer": "04-tote-and-handles"
+  },
+  {
+    "sprite": "connected-bag.aseprite",
+    "colorsSnapped": [],
+    "pixelsChanged": 3072,
+    "bounds": {
+      "height": 64,
+      "y": 60,
+      "x": 135,
+      "width": 48
+    },
+    "opsApplied": 1,
+    "frame": 10,
+    "layer": "06-continuous-handle-tension"
+  },
+  {
+    "sprite": "connected-bag.aseprite",
+    "colorsSnapped": [],
+    "pixelsChanged": 3072,
+    "bounds": {
+      "height": 64,
+      "y": 60,
+      "x": 135,
+      "width": 48
+    },
+    "opsApplied": 1,
+    "frame": 10,
+    "layer": "04-tote-and-handles"
+  }
+]

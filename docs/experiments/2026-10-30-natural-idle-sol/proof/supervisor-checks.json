@@ -1,0 +1,15 @@
+{
+  "reopen_exact_all": true,
+  "head_blink_exact_vs_terra": true,
+  "lowerbody_exact_vs_terra": true,
+  "timing_ms": [
+    600,
+    350,
+    550,
+    600,
+    50,
+    80,
+    50,
+    250
+  ]
+}

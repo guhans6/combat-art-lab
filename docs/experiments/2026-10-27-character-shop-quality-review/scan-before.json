@@ -1,0 +1,3623 @@
+[
+  {
+    "path": "godot/standing-idle-lab/textures/idle-alpha-v02/frame-00.png",
+    "size": [
+      96,
+      216
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        96,
+        216
+      ],
+      "region_half_open": [
+        0,
+        0,
+        96,
+        216
+      ],
+      "hole_components_xy": [
+        [
+          [
+            27,
+            40
+          ],
+          [
+            28,
+            40
+          ]
+        ],
+        [
+          [
+            24,
+            42
+          ],
+          [
+            24,
+            43
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          27,
+          40
+        ],
+        [
+          28,
+          40
+        ],
+        [
+          24,
+          42
+        ],
+        [
+          24,
+          43
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 8957,
+        "bbox": [
+          8,
+          10,
+          84,
+          207
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "godot/standing-idle-lab/textures/idle-alpha-v02/frame-01.png",
+    "size": [
+      96,
+      216
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        96,
+        216
+      ],
+      "region_half_open": [
+        0,
+        0,
+        96,
+        216
+      ],
+      "hole_components_xy": [
+        [
+          [
+            33,
+            37
+          ]
+        ],
+        [
+          [
+            27,
+            39
+          ],
+          [
+            28,
+            39
+          ]
+        ],
+        [
+          [
+            24,
+            41
+          ],
+          [
+            24,
+            42
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          33,
+          37
+        ],
+        [
+          27,
+          39
+        ],
+        [
+          28,
+          39
+        ],
+        [
+          24,
+          41
+        ],
+        [
+          24,
+          42
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 9002,
+        "bbox": [
+          8,
+          9,
+          84,
+          207
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "godot/standing-idle-lab/textures/idle-alpha-v02/frame-02.png",
+    "size": [
+      96,
+      216
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        96,
+        216
+      ],
+      "region_half_open": [
+        0,
+        0,
+        96,
+        216
+      ],
+      "hole_components_xy": [
+        [
+          [
+            33,
+            37
+          ]
+        ],
+        [
+          [
+            27,
+            39
+          ],
+          [
+            28,
+            39
+          ]
+        ],
+        [
+          [
+            24,
+            41
+          ],
+          [
+            24,
+            42
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          33,
+          37
+        ],
+        [
+          27,
+          39
+        ],
+        [
+          28,
+          39
+        ],
+        [
+          24,
+          41
+        ],
+        [
+          24,
+          42
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 9002,
+        "bbox": [
+          8,
+          9,
+          84,
+          207
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "godot/standing-idle-lab/textures/idle-alpha-v02/frame-03.png",
+    "size": [
+      96,
+      216
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        96,
+        216
+      ],
+      "region_half_open": [
+        0,
+        0,
+        96,
+        216
+      ],
+      "hole_components_xy": [
+        [
+          [
+            33,
+            37
+          ]
+        ],
+        [
+          [
+            27,
+            39
+          ],
+          [
+            28,
+            39
+          ]
+        ],
+        [
+          [
+            24,
+            41
+          ],
+          [
+            24,
+            42
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          33,
+          37
+        ],
+        [
+          27,
+          39
+        ],
+        [
+          28,
+          39
+        ],
+        [
+          24,
+          41
+        ],
+        [
+          24,
+          42
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 9002,
+        "bbox": [
+          8,
+          9,
+          84,
+          207
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "godot/standing-idle-lab/textures/idle-alpha-v02/frame-04.png",
+    "size": [
+      96,
+      216
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        96,
+        216
+      ],
+      "region_half_open": [
+        0,
+        0,
+        96,
+        216
+      ],
+      "hole_components_xy": [
+        [
+          [
+            33,
+            37
+          ]
+        ],
+        [
+          [
+            27,
+            39
+          ],
+          [
+            28,
+            39
+          ]
+        ],
+        [
+          [
+            24,
+            41
+          ],
+          [
+            24,
+            42
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          33,
+          37
+        ],
+        [
+          27,
+          39
+        ],
+        [
+          28,
+          39
+        ],
+        [
+          24,
+          41
+        ],
+        [
+          24,
+          42
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 9002,
+        "bbox": [
+          8,
+          9,
+          84,
+          207
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "godot/standing-idle-lab/textures/idle-alpha-v02/frame-05.png",
+    "size": [
+      96,
+      216
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        96,
+        216
+      ],
+      "region_half_open": [
+        0,
+        0,
+        96,
+        216
+      ],
+      "hole_components_xy": [
+        [
+          [
+            33,
+            37
+          ]
+        ],
+        [
+          [
+            27,
+            39
+          ],
+          [
+            28,
+            39
+          ]
+        ],
+        [
+          [
+            24,
+            41
+          ],
+          [
+            24,
+            42
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          33,
+          37
+        ],
+        [
+          27,
+          39
+        ],
+        [
+          28,
+          39
+        ],
+        [
+          24,
+          41
+        ],
+        [
+          24,
+          42
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 9002,
+        "bbox": [
+          8,
+          9,
+          84,
+          207
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "godot/standing-idle-lab/textures/idle-alpha-v02/frame-06.png",
+    "size": [
+      96,
+      216
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        96,
+        216
+      ],
+      "region_half_open": [
+        0,
+        0,
+        96,
+        216
+      ],
+      "hole_components_xy": [
+        [
+          [
+            27,
+            40
+          ],
+          [
+            28,
+            40
+          ]
+        ],
+        [
+          [
+            24,
+            42
+          ],
+          [
+            24,
+            43
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          27,
+          40
+        ],
+        [
+          28,
+          40
+        ],
+        [
+          24,
+          42
+        ],
+        [
+          24,
+          43
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 8957,
+        "bbox": [
+          8,
+          10,
+          84,
+          207
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "godot/standing-idle-lab/textures/idle-alpha-v02/frame-07.png",
+    "size": [
+      96,
+      216
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        96,
+        216
+      ],
+      "region_half_open": [
+        0,
+        0,
+        96,
+        216
+      ],
+      "hole_components_xy": [
+        [
+          [
+            27,
+            40
+          ],
+          [
+            28,
+            40
+          ]
+        ],
+        [
+          [
+            24,
+            42
+          ],
+          [
+            24,
+            43
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          27,
+          40
+        ],
+        [
+          28,
+          40
+        ],
+        [
+          24,
+          42
+        ],
+        [
+          24,
+          43
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 8957,
+        "bbox": [
+          8,
+          10,
+          84,
+          207
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/00-wall-backing.png",
+    "size": [
+      143,
+      220
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        143,
+        220
+      ],
+      "region_half_open": [
+        0,
+        0,
+        143,
+        220
+      ],
+      "hole_components_xy": [
+        [
+          [
+            27,
+            6
+          ],
+          [
+            28,
+            6
+          ],
+          [
+            29,
+            6
+          ],
+          [
+            30,
+            6
+          ],
+          [
+            31,
+            6
+          ],
+          [
+            32,
+            6
+          ],
+          [
+            33,
+            6
+          ],
+          [
+            31,
+            7
+          ],
+          [
+            32,
+            7
+          ],
+          [
+            33,
+            7
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          27,
+          6
+        ],
+        [
+          28,
+          6
+        ],
+        [
+          29,
+          6
+        ],
+        [
+          30,
+          6
+        ],
+        [
+          31,
+          6
+        ],
+        [
+          32,
+          6
+        ],
+        [
+          33,
+          6
+        ],
+        [
+          31,
+          7
+        ],
+        [
+          32,
+          7
+        ],
+        [
+          33,
+          7
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 26828,
+        "bbox": [
+          0,
+          0,
+          143,
+          220
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/01-window-backing.png",
+    "size": [
+      116,
+      216
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        116,
+        216
+      ],
+      "region_half_open": [
+        0,
+        0,
+        116,
+        216
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 20857,
+        "bbox": [
+          0,
+          0,
+          116,
+          216
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/02-window-interior-left.png",
+    "size": [
+      77,
+      207
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        77,
+        207
+      ],
+      "region_half_open": [
+        0,
+        0,
+        77,
+        207
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 8341,
+        "bbox": [
+          34,
+          6,
+          77,
+          205
+        ],
+        "pixels": null
+      },
+      {
+        "size": 4134,
+        "bbox": [
+          0,
+          0,
+          21,
+          207
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/03-window-interior-right.png",
+    "size": [
+      29,
+      155
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        29,
+        155
+      ],
+      "region_half_open": [
+        0,
+        0,
+        29,
+        155
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 2508,
+        "bbox": [
+          0,
+          0,
+          29,
+          155
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/04-timber-frame.png",
+    "size": [
+      99,
+      204
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        99,
+        204
+      ],
+      "region_half_open": [
+        0,
+        0,
+        99,
+        204
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 2758,
+        "bbox": [
+          0,
+          0,
+          14,
+          197
+        ],
+        "pixels": null
+      },
+      {
+        "size": 2663,
+        "bbox": [
+          57,
+          18,
+          72,
+          204
+        ],
+        "pixels": null
+      },
+      {
+        "size": 1740,
+        "bbox": [
+          87,
+          35,
+          99,
+          180
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/05-blue-awning.png",
+    "size": [
+      143,
+      52
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        143,
+        52
+      ],
+      "region_half_open": [
+        0,
+        0,
+        143,
+        52
+      ],
+      "hole_components_xy": [
+        [
+          [
+            104,
+            39
+          ],
+          [
+            105,
+            39
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          104,
+          39
+        ],
+        [
+          105,
+          39
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 2799,
+        "bbox": [
+          0,
+          0,
+          143,
+          52
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/06-entry-steps.png",
+    "size": [
+      175,
+      39
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        175,
+        39
+      ],
+      "region_half_open": [
+        0,
+        0,
+        175,
+        39
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 1441,
+        "bbox": [
+          77,
+          0,
+          175,
+          28
+        ],
+        "pixels": null
+      },
+      {
+        "size": 223,
+        "bbox": [
+          8,
+          25,
+          29,
+          38
+        ],
+        "pixels": null
+      },
+      {
+        "size": 75,
+        "bbox": [
+          36,
+          28,
+          74,
+          34
+        ],
+        "pixels": null
+      },
+      {
+        "size": 61,
+        "bbox": [
+          0,
+          22,
+          5,
+          39
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/07-chalkboard.png",
+    "size": [
+      36,
+      101
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        36,
+        101
+      ],
+      "region_half_open": [
+        0,
+        0,
+        36,
+        101
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 2645,
+        "bbox": [
+          0,
+          0,
+          36,
+          101
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/08-large-planter.png",
+    "size": [
+      67,
+      106
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        67,
+        106
+      ],
+      "region_half_open": [
+        0,
+        0,
+        67,
+        106
+      ],
+      "hole_components_xy": [
+        [
+          [
+            34,
+            2
+          ]
+        ],
+        [
+          [
+            34,
+            5
+          ],
+          [
+            34,
+            6
+          ]
+        ],
+        [
+          [
+            27,
+            18
+          ]
+        ],
+        [
+          [
+            20,
+            20
+          ],
+          [
+            22,
+            20
+          ],
+          [
+            20,
+            21
+          ],
+          [
+            21,
+            21
+          ],
+          [
+            22,
+            21
+          ],
+          [
+            23,
+            21
+          ],
+          [
+            24,
+            21
+          ],
+          [
+            20,
+            22
+          ],
+          [
+            23,
+            22
+          ],
+          [
+            24,
+            22
+          ],
+          [
+            25,
+            22
+          ],
+          [
+            26,
+            22
+          ],
+          [
+            25,
+            23
+          ],
+          [
+            26,
+            23
+          ],
+          [
+            26,
+            24
+          ]
+        ],
+        [
+          [
+            43,
+            21
+          ],
+          [
+            44,
+            21
+          ]
+        ],
+        [
+          [
+            45,
+            22
+          ]
+        ],
+        [
+          [
+            56,
+            22
+          ]
+        ],
+        [
+          [
+            44,
+            23
+          ]
+        ],
+        [
+          [
+            31,
+            24
+          ]
+        ],
+        [
+          [
+            27,
+            25
+          ],
+          [
+            28,
+            25
+          ]
+        ],
+        [
+          [
+            35,
+            25
+          ]
+        ],
+        [
+          [
+            50,
+            25
+          ]
+        ],
+        [
+          [
+            18,
+            26
+          ],
+          [
+            19,
+            26
+          ]
+        ],
+        [
+          [
+            29,
+            26
+          ],
+          [
+            30,
+            26
+          ]
+        ],
+        [
+          [
+            17,
+            27
+          ],
+          [
+            17,
+            28
+          ]
+        ],
+        [
+          [
+            27,
+            27
+          ]
+        ],
+        [
+          [
+            34,
+            27
+          ]
+        ],
+        [
+          [
+            20,
+            28
+          ],
+          [
+            20,
+            29
+          ]
+        ],
+        [
+          [
+            26,
+            28
+          ]
+        ],
+        [
+          [
+            27,
+            29
+          ]
+        ],
+        [
+          [
+            26,
+            30
+          ],
+          [
+            26,
+            31
+          ]
+        ],
+        [
+          [
+            29,
+            31
+          ]
+        ],
+        [
+          [
+            31,
+            31
+          ]
+        ],
+        [
+          [
+            16,
+            32
+          ]
+        ],
+        [
+          [
+            25,
+            32
+          ],
+          [
+            24,
+            33
+          ],
+          [
+            25,
+            33
+          ],
+          [
+            24,
+            34
+          ]
+        ],
+        [
+          [
+            30,
+            32
+          ]
+        ],
+        [
+          [
+            14,
+            33
+          ]
+        ],
+        [
+          [
+            13,
+            34
+          ]
+        ],
+        [
+          [
+            26,
+            34
+          ],
+          [
+            26,
+            35
+          ]
+        ],
+        [
+          [
+            54,
+            35
+          ]
+        ],
+        [
+          [
+            56,
+            35
+          ],
+          [
+            56,
+            36
+          ],
+          [
+            54,
+            37
+          ],
+          [
+            55,
+            37
+          ],
+          [
+            56,
+            37
+          ],
+          [
+            52,
+            38
+          ],
+          [
+            53,
+            38
+          ],
+          [
+            54,
+            38
+          ],
+          [
+            55,
+            38
+          ],
+          [
+            55,
+            39
+          ]
+        ],
+        [
+          [
+            28,
+            36
+          ]
+        ],
+        [
+          [
+            10,
+            37
+          ]
+        ],
+        [
+          [
+            15,
+            37
+          ]
+        ],
+        [
+          [
+            30,
+            37
+          ]
+        ],
+        [
+          [
+            17,
+            38
+          ]
+        ],
+        [
+          [
+            31,
+            38
+          ]
+        ],
+        [
+          [
+            22,
+            41
+          ]
+        ],
+        [
+          [
+            55,
+            42
+          ]
+        ],
+        [
+          [
+            20,
+            43
+          ],
+          [
+            19,
+            44
+          ],
+          [
+            20,
+            44
+          ],
+          [
+            19,
+            45
+          ]
+        ],
+        [
+          [
+            25,
+            43
+          ],
+          [
+            26,
+            43
+          ]
+        ],
+        [
+          [
+            27,
+            44
+          ],
+          [
+            28,
+            44
+          ],
+          [
+            26,
+            45
+          ],
+          [
+            27,
+            45
+          ],
+          [
+            28,
+            45
+          ],
+          [
+            29,
+            45
+          ],
+          [
+            30,
+            45
+          ],
+          [
+            25,
+            46
+          ],
+          [
+            26,
+            46
+          ],
+          [
+            27,
+            46
+          ],
+          [
+            29,
+            46
+          ],
+          [
+            24,
+            47
+          ],
+          [
+            25,
+            47
+          ],
+          [
+            26,
+            47
+          ],
+          [
+            22,
+            48
+          ],
+          [
+            23,
+            48
+          ],
+          [
+            24,
+            48
+          ],
+          [
+            22,
+            49
+          ],
+          [
+            22,
+            50
+          ],
+          [
+            22,
+            51
+          ]
+        ],
+        [
+          [
+            39,
+            44
+          ]
+        ],
+        [
+          [
+            55,
+            44
+          ],
+          [
+            55,
+            45
+          ],
+          [
+            56,
+            45
+          ]
+        ],
+        [
+          [
+            22,
+            45
+          ]
+        ],
+        [
+          [
+            40,
+            45
+          ]
+        ],
+        [
+          [
+            48,
+            45
+          ]
+        ],
+        [
+          [
+            52,
+            45
+          ],
+          [
+            52,
+            46
+          ]
+        ],
+        [
+          [
+            21,
+            46
+          ]
+        ],
+        [
+          [
+            28,
+            47
+          ],
+          [
+            30,
+            47
+          ],
+          [
+            31,
+            47
+          ],
+          [
+            27,
+            48
+          ],
+          [
+            28,
+            48
+          ],
+          [
+            29,
+            48
+          ],
+          [
+            30,
+            48
+          ],
+          [
+            30,
+            49
+          ],
+          [
+            31,
+            49
+          ],
+          [
+            29,
+            50
+          ],
+          [
+            31,
+            50
+          ],
+          [
+            28,
+            51
+          ],
+          [
+            29,
+            51
+          ],
+          [
+            30,
+            51
+          ],
+          [
+            31,
+            51
+          ],
+          [
+            29,
+            52
+          ],
+          [
+            30,
+            52
+          ],
+          [
+            31,
+            52
+          ],
+          [
+            30,
+            53
+          ],
+          [
+            31,
+            53
+          ],
+          [
+            32,
+            53
+          ]
+        ],
+        [
+          [
+            17,
+            48
+          ]
+        ],
+        [
+          [
+            50,
+            48
+          ]
+        ],
+        [
+          [
+            18,
+            50
+          ],
+          [
+            19,
+            50
+          ]
+        ],
+        [
+          [
+            36,
+            50
+          ]
+        ],
+        [
+          [
+            47,
+            50
+          ]
+        ],
+        [
+          [
+            35,
+            51
+          ]
+        ],
+        [
+          [
+            45,
+            51
+          ],
+          [
+            45,
+            52
+          ]
+        ],
+        [
+          [
+            48,
+            52
+          ],
+          [
+            47,
+            53
+          ],
+          [
+            48,
+            53
+          ]
+        ],
+        [
+          [
+            43,
+            53
+          ]
+        ],
+        [
+          [
+            50,
+            53
+          ],
+          [
+            51,
+            53
+          ]
+        ],
+        [
+          [
+            46,
+            55
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          34,
+          2
+        ],
+        [
+          34,
+          5
+        ],
+        [
+          34,
+          6
+        ],
+        [
+          27,
+          18
+        ],
+        [
+          20,
+          20
+        ],
+        [
+          22,
+          20
+        ],
+        [
+          20,
+          21
+        ],
+        [
+          21,
+          21
+        ],
+        [
+          22,
+          21
+        ],
+        [
+          23,
+          21
+        ],
+        [
+          24,
+          21
+        ],
+        [
+          43,
+          21
+        ],
+        [
+          44,
+          21
+        ],
+        [
+          20,
+          22
+        ],
+        [
+          23,
+          22
+        ],
+        [
+          24,
+          22
+        ],
+        [
+          25,
+          22
+        ],
+        [
+          26,
+          22
+        ],
+        [
+          45,
+          22
+        ],
+        [
+          56,
+          22
+        ],
+        [
+          25,
+          23
+        ],
+        [
+          26,
+          23
+        ],
+        [
+          44,
+          23
+        ],
+        [
+          26,
+          24
+        ],
+        [
+          31,
+          24
+        ],
+        [
+          27,
+          25
+        ],
+        [
+          28,
+          25
+        ],
+        [
+          35,
+          25
+        ],
+        [
+          50,
+          25
+        ],
+        [
+          18,
+          26
+        ],
+        [
+          19,
+          26
+        ],
+        [
+          29,
+          26
+        ],
+        [
+          30,
+          26
+        ],
+        [
+          17,
+          27
+        ],
+        [
+          27,
+          27
+        ],
+        [
+          34,
+          27
+        ],
+        [
+          17,
+          28
+        ],
+        [
+          20,
+          28
+        ],
+        [
+          26,
+          28
+        ],
+        [
+          20,
+          29
+        ],
+        [
+          27,
+          29
+        ],
+        [
+          26,
+          30
+        ],
+        [
+          26,
+          31
+        ],
+        [
+          29,
+          31
+        ],
+        [
+          31,
+          31
+        ],
+        [
+          16,
+          32
+        ],
+        [
+          25,
+          32
+        ],
+        [
+          30,
+          32
+        ],
+        [
+          14,
+          33
+        ],
+        [
+          24,
+          33
+        ],
+        [
+          25,
+          33
+        ],
+        [
+          13,
+          34
+        ],
+        [
+          24,
+          34
+        ],
+        [
+          26,
+          34
+        ],
+        [
+          26,
+          35
+        ],
+        [
+          54,
+          35
+        ],
+        [
+          56,
+          35
+        ],
+        [
+          28,
+          36
+        ],
+        [
+          56,
+          36
+        ],
+        [
+          10,
+          37
+        ],
+        [
+          15,
+          37
+        ],
+        [
+          30,
+          37
+        ],
+        [
+          54,
+          37
+        ],
+        [
+          55,
+          37
+        ],
+        [
+          56,
+          37
+        ],
+        [
+          17,
+          38
+        ],
+        [
+          31,
+          38
+        ],
+        [
+          52,
+          38
+        ],
+        [
+          53,
+          38
+        ],
+        [
+          54,
+          38
+        ],
+        [
+          55,
+          38
+        ],
+        [
+          55,
+          39
+        ],
+        [
+          22,
+          41
+        ],
+        [
+          55,
+          42
+        ],
+        [
+          20,
+          43
+        ],
+        [
+          25,
+          43
+        ],
+        [
+          26,
+          43
+        ],
+        [
+          19,
+          44
+        ],
+        [
+          20,
+          44
+        ],
+        [
+          27,
+          44
+        ],
+        [
+          28,
+          44
+        ],
+        [
+          39,
+          44
+        ],
+        [
+          55,
+          44
+        ],
+        [
+          19,
+          45
+        ],
+        [
+          22,
+          45
+        ],
+        [
+          26,
+          45
+        ],
+        [
+          27,
+          45
+        ],
+        [
+          28,
+          45
+        ],
+        [
+          29,
+          45
+        ],
+        [
+          30,
+          45
+        ],
+        [
+          40,
+          45
+        ],
+        [
+          48,
+          45
+        ],
+        [
+          52,
+          45
+        ],
+        [
+          55,
+          45
+        ],
+        [
+          56,
+          45
+        ],
+        [
+          21,
+          46
+        ],
+        [
+          25,
+          46
+        ],
+        [
+          26,
+          46
+        ],
+        [
+          27,
+          46
+        ],
+        [
+          29,
+          46
+        ],
+        [
+          52,
+          46
+        ],
+        [
+          24,
+          47
+        ],
+        [
+          25,
+          47
+        ],
+        [
+          26,
+          47
+        ],
+        [
+          28,
+          47
+        ],
+        [
+          30,
+          47
+        ],
+        [
+          31,
+          47
+        ],
+        [
+          17,
+          48
+        ],
+        [
+          22,
+          48
+        ],
+        [
+          23,
+          48
+        ],
+        [
+          24,
+          48
+        ],
+        [
+          27,
+          48
+        ],
+        [
+          28,
+          48
+        ],
+        [
+          29,
+          48
+        ],
+        [
+          30,
+          48
+        ],
+        [
+          50,
+          48
+        ],
+        [
+          22,
+          49
+        ],
+        [
+          30,
+          49
+        ],
+        [
+          31,
+          49
+        ],
+        [
+          18,
+          50
+        ],
+        [
+          19,
+          50
+        ],
+        [
+          22,
+          50
+        ],
+        [
+          29,
+          50
+        ],
+        [
+          31,
+          50
+        ],
+        [
+          36,
+          50
+        ],
+        [
+          47,
+          50
+        ],
+        [
+          22,
+          51
+        ],
+        [
+          28,
+          51
+        ],
+        [
+          29,
+          51
+        ],
+        [
+          30,
+          51
+        ],
+        [
+          31,
+          51
+        ],
+        [
+          35,
+          51
+        ],
+        [
+          45,
+          51
+        ],
+        [
+          29,
+          52
+        ],
+        [
+          30,
+          52
+        ],
+        [
+          31,
+          52
+        ],
+        [
+          45,
+          52
+        ],
+        [
+          48,
+          52
+        ],
+        [
+          30,
+          53
+        ],
+        [
+          31,
+          53
+        ],
+        [
+          32,
+          53
+        ],
+        [
+          43,
+          53
+        ],
+        [
+          47,
+          53
+        ],
+        [
+          48,
+          53
+        ],
+        [
+          50,
+          53
+        ],
+        [
+          51,
+          53
+        ],
+        [
+          46,
+          55
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 3639,
+        "bbox": [
+          0,
+          7,
+          67,
+          106
+        ],
+        "pixels": null
+      },
+      {
+        "size": 34,
+        "bbox": [
+          30,
+          0,
+          37,
+          12
+        ],
+        "pixels": null
+      },
+      {
+        "size": 4,
+        "bbox": [
+          42,
+          10,
+          44,
+          13
+        ],
+        "pixels": [
+          [
+            43,
+            10
+          ],
+          [
+            43,
+            11
+          ],
+          [
+            43,
+            12
+          ],
+          [
+            42,
+            11
+          ]
+        ]
+      },
+      {
+        "size": 3,
+        "bbox": [
+          27,
+          3,
+          30,
+          5
+        ],
+        "pixels": [
+          [
+            27,
+            3
+          ],
+          [
+            28,
+            3
+          ],
+          [
+            29,
+            4
+          ]
+        ]
+      },
+      {
+        "size": 3,
+        "bbox": [
+          5,
+          53,
+          7,
+          55
+        ],
+        "pixels": [
+          [
+            5,
+            53
+          ],
+          [
+            6,
+            54
+          ],
+          [
+            5,
+            54
+          ]
+        ]
+      },
+      {
+        "size": 2,
+        "bbox": [
+          59,
+          8,
+          60,
+          10
+        ],
+        "pixels": [
+          [
+            59,
+            8
+          ],
+          [
+            59,
+            9
+          ]
+        ]
+      },
+      {
+        "size": 2,
+        "bbox": [
+          9,
+          18,
+          11,
+          19
+        ],
+        "pixels": [
+          [
+            9,
+            18
+          ],
+          [
+            10,
+            18
+          ]
+        ]
+      },
+      {
+        "size": 2,
+        "bbox": [
+          25,
+          53,
+          26,
+          55
+        ],
+        "pixels": [
+          [
+            25,
+            53
+          ],
+          [
+            25,
+            54
+          ]
+        ]
+      },
+      {
+        "size": 1,
+        "bbox": [
+          36,
+          0,
+          37,
+          1
+        ],
+        "pixels": [
+          [
+            36,
+            0
+          ]
+        ]
+      },
+      {
+        "size": 1,
+        "bbox": [
+          59,
+          14,
+          60,
+          15
+        ],
+        "pixels": [
+          [
+            59,
+            14
+          ]
+        ]
+      },
+      {
+        "size": 1,
+        "bbox": [
+          66,
+          37,
+          67,
+          38
+        ],
+        "pixels": [
+          [
+            66,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/09-small-planter.png",
+    "size": [
+      46,
+      54
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        46,
+        54
+      ],
+      "region_half_open": [
+        0,
+        0,
+        46,
+        54
+      ],
+      "hole_components_xy": [
+        [
+          [
+            17,
+            5
+          ]
+        ],
+        [
+          [
+            20,
+            9
+          ]
+        ],
+        [
+          [
+            25,
+            12
+          ]
+        ],
+        [
+          [
+            6,
+            13
+          ],
+          [
+            7,
+            13
+          ],
+          [
+            6,
+            14
+          ],
+          [
+            7,
+            14
+          ]
+        ],
+        [
+          [
+            22,
+            13
+          ]
+        ],
+        [
+          [
+            5,
+            19
+          ]
+        ],
+        [
+          [
+            25,
+            21
+          ],
+          [
+            26,
+            21
+          ],
+          [
+            26,
+            22
+          ]
+        ],
+        [
+          [
+            19,
+            22
+          ],
+          [
+            20,
+            22
+          ]
+        ],
+        [
+          [
+            23,
+            22
+          ],
+          [
+            24,
+            22
+          ]
+        ],
+        [
+          [
+            14,
+            25
+          ]
+        ],
+        [
+          [
+            20,
+            25
+          ]
+        ],
+        [
+          [
+            31,
+            25
+          ],
+          [
+            32,
+            25
+          ],
+          [
+            32,
+            26
+          ]
+        ],
+        [
+          [
+            9,
+            26
+          ]
+        ],
+        [
+          [
+            21,
+            26
+          ]
+        ],
+        [
+          [
+            13,
+            30
+          ],
+          [
+            14,
+            30
+          ],
+          [
+            13,
+            31
+          ],
+          [
+            14,
+            31
+          ],
+          [
+            13,
+            32
+          ],
+          [
+            14,
+            32
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          17,
+          5
+        ],
+        [
+          20,
+          9
+        ],
+        [
+          25,
+          12
+        ],
+        [
+          6,
+          13
+        ],
+        [
+          7,
+          13
+        ],
+        [
+          22,
+          13
+        ],
+        [
+          6,
+          14
+        ],
+        [
+          7,
+          14
+        ],
+        [
+          5,
+          19
+        ],
+        [
+          25,
+          21
+        ],
+        [
+          26,
+          21
+        ],
+        [
+          19,
+          22
+        ],
+        [
+          20,
+          22
+        ],
+        [
+          23,
+          22
+        ],
+        [
+          24,
+          22
+        ],
+        [
+          26,
+          22
+        ],
+        [
+          14,
+          25
+        ],
+        [
+          20,
+          25
+        ],
+        [
+          31,
+          25
+        ],
+        [
+          32,
+          25
+        ],
+        [
+          9,
+          26
+        ],
+        [
+          21,
+          26
+        ],
+        [
+          32,
+          26
+        ],
+        [
+          13,
+          30
+        ],
+        [
+          14,
+          30
+        ],
+        [
+          13,
+          31
+        ],
+        [
+          14,
+          31
+        ],
+        [
+          13,
+          32
+        ],
+        [
+          14,
+          32
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 1231,
+        "bbox": [
+          0,
+          0,
+          42,
+          54
+        ],
+        "pixels": null
+      },
+      {
+        "size": 11,
+        "bbox": [
+          15,
+          0,
+          20,
+          3
+        ],
+        "pixels": null
+      },
+      {
+        "size": 11,
+        "bbox": [
+          41,
+          0,
+          46,
+          4
+        ],
+        "pixels": null
+      },
+      {
+        "size": 8,
+        "bbox": [
+          36,
+          0,
+          40,
+          4
+        ],
+        "pixels": null
+      },
+      {
+        "size": 6,
+        "bbox": [
+          34,
+          0,
+          37,
+          4
+        ],
+        "pixels": [
+          [
+            34,
+            0
+          ],
+          [
+            34,
+            1
+          ],
+          [
+            35,
+            2
+          ],
+          [
+            36,
+            3
+          ],
+          [
+            35,
+            3
+          ],
+          [
+            34,
+            2
+          ]
+        ]
+      },
+      {
+        "size": 1,
+        "bbox": [
+          28,
+          0,
+          29,
+          1
+        ],
+        "pixels": [
+          [
+            28,
+            0
+          ]
+        ]
+      },
+      {
+        "size": 1,
+        "bbox": [
+          31,
+          0,
+          32,
+          1
+        ],
+        "pixels": [
+          [
+            31,
+            0
+          ]
+        ]
+      },
+      {
+        "size": 1,
+        "bbox": [
+          32,
+          2,
+          33,
+          3
+        ],
+        "pixels": [
+          [
+            32,
+            2
+          ]
+        ]
+      },
+      {
+        "size": 1,
+        "bbox": [
+          29,
+          3,
+          30,
+          4
+        ],
+        "pixels": [
+          [
+            29,
+            3
+          ]
+        ]
+      },
+      {
+        "size": 1,
+        "bbox": [
+          43,
+          19,
+          44,
+          20
+        ],
+        "pixels": [
+          [
+            43,
+            19
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/10-pendant-left-shell.png",
+    "size": [
+      24,
+      31
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        24,
+        31
+      ],
+      "region_half_open": [
+        0,
+        0,
+        24,
+        31
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 176,
+        "bbox": [
+          0,
+          0,
+          24,
+          31
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/11-pendant-right-shell.png",
+    "size": [
+      16,
+      16
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        16,
+        16
+      ],
+      "region_half_open": [
+        0,
+        0,
+        16,
+        16
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 77,
+        "bbox": [
+          0,
+          0,
+          16,
+          16
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/12-ceiling-left-emitter.png",
+    "size": [
+      19,
+      7
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        19,
+        7
+      ],
+      "region_half_open": [
+        0,
+        0,
+        19,
+        7
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 95,
+        "bbox": [
+          0,
+          0,
+          19,
+          7
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/13-ceiling-right-emitter.png",
+    "size": [
+      13,
+      6
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        13,
+        6
+      ],
+      "region_half_open": [
+        0,
+        0,
+        13,
+        6
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 55,
+        "bbox": [
+          0,
+          0,
+          13,
+          6
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/14-pendant-left-emitter.png",
+    "size": [
+      5,
+      5
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        5,
+        5
+      ],
+      "region_half_open": [
+        0,
+        0,
+        5,
+        5
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 20,
+        "bbox": [
+          0,
+          0,
+          5,
+          5
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/15-pendant-right-emitter.png",
+    "size": [
+      4,
+      4
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        4,
+        4
+      ],
+      "region_half_open": [
+        0,
+        0,
+        4,
+        4
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 14,
+        "bbox": [
+          0,
+          0,
+          4,
+          4
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/context-residual.png",
+    "size": [
+      362,
+      272
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        362,
+        272
+      ],
+      "region_half_open": [
+        0,
+        0,
+        362,
+        272
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 13739,
+        "bbox": [
+          32,
+          0,
+          213,
+          232
+        ],
+        "pixels": null
+      },
+      {
+        "size": 6,
+        "bbox": [
+          25,
+          232,
+          31,
+          233
+        ],
+        "pixels": [
+          [
+            25,
+            232
+          ],
+          [
+            26,
+            232
+          ],
+          [
+            27,
+            232
+          ],
+          [
+            28,
+            232
+          ],
+          [
+            29,
+            232
+          ],
+          [
+            30,
+            232
+          ]
+        ]
+      },
+      {
+        "size": 5,
+        "bbox": [
+          18,
+          233,
+          23,
+          234
+        ],
+        "pixels": [
+          [
+            18,
+            233
+          ],
+          [
+            19,
+            233
+          ],
+          [
+            20,
+            233
+          ],
+          [
+            21,
+            233
+          ],
+          [
+            22,
+            233
+          ]
+        ]
+      },
+      {
+        "size": 4,
+        "bbox": [
+          11,
+          234,
+          15,
+          235
+        ],
+        "pixels": [
+          [
+            11,
+            234
+          ],
+          [
+            12,
+            234
+          ],
+          [
+            13,
+            234
+          ],
+          [
+            14,
+            234
+          ]
+        ]
+      },
+      {
+        "size": 4,
+        "bbox": [
+          4,
+          235,
+          8,
+          236
+        ],
+        "pixels": [
+          [
+            4,
+            235
+          ],
+          [
+            5,
+            235
+          ],
+          [
+            6,
+            235
+          ],
+          [
+            7,
+            235
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/shop-reopened.png",
+    "size": [
+      208,
+      240
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        208,
+        240
+      ],
+      "region_half_open": [
+        0,
+        0,
+        208,
+        240
+      ],
+      "hole_components_xy": [
+        [
+          [
+            35,
+            228
+          ],
+          [
+            35,
+            229
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          35,
+          228
+        ],
+        [
+          35,
+          229
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 31213,
+        "bbox": [
+          0,
+          0,
+          175,
+          236
+        ],
+        "pixels": null
+      }
+    ]
+  },
+  {
+    "path": "assets/export/shop-modular-v01/shop.png",
+    "size": [
+      208,
+      240
+    ],
+    "partial_alpha": 0,
+    "alpha": {
+      "passed": false,
+      "failures": [
+        "unexpected_interior_transparency"
+      ],
+      "canvas": [
+        208,
+        240
+      ],
+      "region_half_open": [
+        0,
+        0,
+        208,
+        240
+      ],
+      "hole_components_xy": [
+        [
+          [
+            35,
+            228
+          ],
+          [
+            35,
+            229
+          ]
+        ]
+      ],
+      "hole_pixels_xy": [
+        [
+          35,
+          228
+        ],
+        [
+          35,
+          229
+        ]
+      ],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review."
+    },
+    "opaque_components": [
+      {
+        "size": 31213,
+        "bbox": [
+          0,
+          0,
+          175,
+          236
+        ],
+        "pixels": null
+      }
+    ]
+  }
+]

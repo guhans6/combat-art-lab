@@ -1,0 +1,31 @@
+{
+  "id": "013",
+  "time": "2026-10-26T10:28:43.736Z",
+  "call": {
+    "name": "export",
+    "arguments": {
+      "op": "png",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-26-pixel-art-pilot/smoke/one-pixel.png"
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Wrote 1 file(s): /Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-26-pixel-art-pilot/smoke/one-pixel.png"
+      }
+    ],
+    "structuredContent": {
+      "frame": 1,
+      "files": [
+        "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-26-pixel-art-pilot/smoke/one-pixel.png"
+      ],
+      "width": 16,
+      "sprite": "before.aseprite",
+      "height": 16,
+      "frameCount": 1,
+      "op": "png"
+    }
+  },
+  "images": []
+}

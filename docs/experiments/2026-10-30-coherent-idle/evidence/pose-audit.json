@@ -1,0 +1,149 @@
+{
+  "sol": [
+    {
+      "frame": 1,
+      "duration_ms": 1100,
+      "head_dy": 0,
+      "changed_layers": []
+    },
+    {
+      "frame": 2,
+      "duration_ms": 180,
+      "head_dy": 0,
+      "changed_layers": [
+        "03-shirt"
+      ]
+    },
+    {
+      "frame": 3,
+      "duration_ms": 120,
+      "head_dy": 0,
+      "changed_layers": [
+        "02a-jacket-left",
+        "02b-jacket-right",
+        "03-shirt",
+        "05-tote-strap"
+      ]
+    },
+    {
+      "frame": 4,
+      "duration_ms": 360,
+      "head_dy": -1,
+      "changed_layers": [
+        "02a-jacket-left",
+        "02b-jacket-right",
+        "03-shirt",
+        "05-tote-strap",
+        "07-face-and-neck",
+        "08-hair-tie-and-hair"
+      ]
+    },
+    {
+      "frame": 5,
+      "duration_ms": 220,
+      "head_dy": -1,
+      "changed_layers": [
+        "02a-jacket-left",
+        "02b-jacket-right",
+        "03-shirt",
+        "05-tote-strap",
+        "07-face-and-neck",
+        "08-hair-tie-and-hair"
+      ]
+    },
+    {
+      "frame": 6,
+      "duration_ms": 160,
+      "head_dy": 0,
+      "changed_layers": [
+        "02a-jacket-left",
+        "02b-jacket-right",
+        "03-shirt",
+        "05-tote-strap"
+      ]
+    },
+    {
+      "frame": 7,
+      "duration_ms": 240,
+      "head_dy": 0,
+      "changed_layers": [
+        "03-shirt"
+      ]
+    },
+    {
+      "frame": 8,
+      "duration_ms": 1000,
+      "head_dy": 0,
+      "changed_layers": []
+    }
+  ],
+  "luna56": [
+    {
+      "frame": 1,
+      "duration_ms": 420,
+      "head_dy": 0,
+      "changed_layers": []
+    },
+    {
+      "frame": 2,
+      "duration_ms": 140,
+      "head_dy": -1,
+      "changed_layers": [
+        "02a-jacket-left",
+        "02b-jacket-right",
+        "03-shirt",
+        "06a-left-hand",
+        "06b-right-hand",
+        "07-face-and-neck",
+        "08-hair-tie-and-hair"
+      ]
+    },
+    {
+      "frame": 3,
+      "duration_ms": 180,
+      "head_dy": -1,
+      "changed_layers": [
+        "02a-jacket-left",
+        "02b-jacket-right",
+        "03-shirt",
+        "04-tote",
+        "05-tote-strap",
+        "06a-left-hand",
+        "06b-right-hand",
+        "07-face-and-neck",
+        "08-hair-tie-and-hair"
+      ]
+    },
+    {
+      "frame": 4,
+      "duration_ms": 220,
+      "head_dy": -1,
+      "changed_layers": [
+        "02a-jacket-left",
+        "02b-jacket-right",
+        "03-shirt",
+        "04-tote",
+        "05-tote-strap",
+        "06a-left-hand",
+        "06b-right-hand",
+        "07-face-and-neck",
+        "08-hair-tie-and-hair"
+      ]
+    },
+    {
+      "frame": 5,
+      "duration_ms": 180,
+      "head_dy": 0,
+      "changed_layers": [
+        "04-tote",
+        "05-tote-strap"
+      ]
+    },
+    {
+      "frame": 6,
+      "duration_ms": 560,
+      "head_dy": 0,
+      "changed_layers": []
+    }
+  ]
+}

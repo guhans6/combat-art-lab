@@ -1,0 +1,94 @@
+--- task-start/tools/pixel-art-director/references/animation.md
++++ tools/pixel-art-director/references/animation.md
+@@ -45,6 +45,44 @@
+ anchors. Record intended root/jump offsets instead of independently fitting bounds
+ or grounding each pose. Keep effects separate so the underlying action is reviewable.
+ Inspect affected overlaps with [alpha-coverage.md](alpha-coverage.md).
++
++### Plan connected motion before extending the keys
++
++Choose one primary action and a shared phase timeline (for breathing: rest,
++inhale, apex, exhale, settle). Write a frame/duration table for the torso,
++shoulders, neck/head, arms, clothing, hair and carried objects; mark unchanged
++parts explicitly. Each primary attachment follows that action with its own
++appropriate displacement and shape. Independent part clocks and a blanket
++one-frame delay for every part are not motion plans.
++Treat backend idle recipes (such as "head last", delayed face contents, mandatory
++horizontal drift or different part-loop lengths) as optional techniques. Apply
++them only when the character's anatomy and action justify them; the task's
++attachment constraints and reviewed key poses take precedence.
++
++Record the attachment chain and constraints: ground/root → pelvis → thorax →
++shoulders/neck → head and arms; hair follows its skull attachment, straps follow
++shoulder and bag attachments. Locate actual native owners, including cross-part
++pixels. For pocketed hands, hold wrist/pocket contact and reshape or reuse the
++sleeve between elbow and shoulder; moving a whole hand cel can break that contact.
++Preserve neck/collar overlap and limb length/volume across each transition.
++
++Give each secondary delay a physical cause, attachment and release condition.
++Loose cloth may settle after a torso change; a tied hair mass or supported bag
++can remain still. Use different amplitudes and supported follow-through rather
++than identical whole-body translation. Add a separate blink only within its eye
++scope. With one-pixel motion, inspect the quantized steps: more timeline frames
++or delayed parts do not themselves create smoother motion.
++
++**Checkpoint before cycle acceptance:** inspect actual exported rest/extreme/
++transition poses and final→first return at native size and integer zoom, then
++review the loop at authored speed. Follow chest→collar→neck→head, shoulder→elbow→
++wrist and strap→bag through the cycle; check feet/pockets and corresponding cloth
++clusters for drift, floating marks or shape flicker. Record motion and material
++decisions separately. Fix attachment/phase breaks before dependent animation work.
++Checks may enforce declared anchors, registered rigid parts, phase relationships,
++alpha and export timing; they do not establish natural movement or artistic approval.
++When actual temporal perception is unavailable, state the gap and deliver a playback
++candidate for the user's review; decoded timestamps and a filmstrip are pose evidence.
+ 
+ ## Compare corresponding forms and material roles
+ 
+--- task-start/docs/art/motion-guide.md
++++ docs/art/motion-guide.md
+@@ -1,6 +1,14 @@
+ # Motion guide
+ 
+ ## Current idle direction — 30 October 2026
++
++Latest feedback: Sol6.1's restraint/slow cycle was initially preferred in the
++[four-model study](../experiments/2026-10-30-evidence-idle-four-model/README.md),
++but disconnected movement remains rejected. The [derived coherence candidate](../experiments/2026-10-30-coherent-idle/record.md)
++uses a shared breathing phase, connected upper-body pose, planted pocket/foot
++anchors and only justified cloth follow-through. It awaits user visual approval.
++Use the director's [connected-motion checkpoint](../../tools/pixel-art-director/references/animation.md#plan-connected-motion-before-extending-the-keys)
++for new sequences. Earlier partial preferences below are historical direction.
+ 
+ The user prefers the movement direction of the [latest redraw](../experiments/2026-10-30-redrawn-breathing-sol/proof/neutral-3x.gif)
+ but rejects its clothing appearance for game use. The earlier two-panel comparison's
+--- task-start/docs/handoff.md
++++ docs/handoff.md
+@@ -704,3 +704,27 @@
+ installation, global config, commit or publication. Next owner: user compares material
+ appearance, expression and movement independently; any selected revision or engine
+ test is a subsequent scoped task. No manual user repainting required.
++
++## Connected idle correction — 30 October 2026
++
++The user rejected disconnected movement in the four-model idle study and selected
++Sol6.1 as the initial visual baseline. A separate [coherent v02 candidate](experiments/2026-10-30-coherent-idle/record.md)
++retains its 3380ms period/appearance, uses one primary head/neck/shoulder/collar pose,
++fixed pocket/foot anchors and only a connected shirt-fold follow-through. Original
++Sol F3/F6 primary phase mismatch is detected; new candidate passes the declared
++contract. Native SHA256 `b5051489af54beef68b9dd4176d1cddb4fc990dfed4054de278416f06f0e6b40`.
++[Actual-speed comparison](experiments/2026-10-30-coherent-idle/review/comparison-3x.gif)
++shows original left/new right; [review page](experiments/2026-10-30-coherent-idle/review/index.html)
++also shows exact native-size GIFs and duration contacts. Native/reopen/export/palette/
++protected-part/alpha/loop checks pass; director35/35 and focused contract5/5, current
++character/shop28/28. Dedicated Godot4.7.2 ran the isolated existing preview at authored
++speed with all8frame captures, ≥3loops and no final errors; original project untouched.
++Agent reviewed native-size/integer-zoom poses, not continuous video perception;
++actual-speed artistic naturalness remains for user review. One-pixel rise remains
++stepped and long rest may feel held. A detached crease mark in v01 was rejected and
++repaired in v02; both natives/recipes are retained. Existing animation instructions
++now require shared phases, anatomical constraints and justified secondary delays,
++with generic backend lag/sway recipes conditional. No user approval, production
++replacement, other-project install, commit or publication. Next owner: user reviews
++v02 motion/materials/expression; agent owns feedback-driven correction. Independent
++review and final preservation evidence are recorded in the experiment review record.

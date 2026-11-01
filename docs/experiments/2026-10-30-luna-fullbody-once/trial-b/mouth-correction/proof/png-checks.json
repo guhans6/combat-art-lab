@@ -1,0 +1,41 @@
+{
+  "dimensions": [
+    128,
+    192
+  ],
+  "mode": "RGBA",
+  "first_final_png_sha256": "ffbda8af18b9e6c59f949876f520a577f66d9918ed82e3d3279eec100bcbc761",
+  "fresh_reopen_png_sha256": "ffbda8af18b9e6c59f949876f520a577f66d9918ed82e3d3279eec100bcbc761",
+  "fresh_reopen_byte_identical": true,
+  "composite_pixels_changed_vs_baseline": 3,
+  "changed_pixels": [
+    {
+      "x": 67,
+      "y": 28,
+      "before": "#fda977ff",
+      "after": "#744c40ff"
+    },
+    {
+      "x": 65,
+      "y": 29,
+      "before": "#fda977ff",
+      "after": "#744c40ff"
+    },
+    {
+      "x": 66,
+      "y": 29,
+      "before": "#fda977ff",
+      "after": "#744c40ff"
+    }
+  ],
+  "changed_outside_union_mask": 0,
+  "outside_mask_coords": [],
+  "alpha_changed_pixels": 0,
+  "baseline_visible_pixels": 7844,
+  "final_visible_pixels": 7844,
+  "changed_colors": [
+    "#744c40ff"
+  ],
+  "all_changed_pixels_in_mask": true,
+  "eyes_face_outline_body_unchanged_by_diff": true
+}

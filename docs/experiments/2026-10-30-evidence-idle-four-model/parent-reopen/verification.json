@@ -1,0 +1,39 @@
+{
+  "artists": {
+    "luna56-max": {
+      "all_fresh_mcp_reopen_frames_equal_native_and_delivered_pngs": true,
+      "frames_checked": 6,
+      "atlas_timing_exact": true,
+      "source_hash_unchanged_by_readonly_check": true,
+      "native_sha256": "f7aa4235209d78823d7fe769e4ba53035692bc014d1af2e5fda11af93ed655d9"
+    },
+    "luna6-max": {
+      "all_fresh_mcp_reopen_frames_equal_native_and_delivered_pngs": true,
+      "frames_checked": 10,
+      "atlas_timing_exact": true,
+      "source_hash_unchanged_by_readonly_check": true,
+      "native_sha256": "57d27225db3b800816bf8399fbd0443188cca4ed1fab41b641c2194de953bbe4"
+    },
+    "terra56": {
+      "all_fresh_mcp_reopen_frames_equal_native_and_delivered_pngs": true,
+      "frames_checked": 8,
+      "atlas_timing_exact": true,
+      "source_hash_unchanged_by_readonly_check": true,
+      "native_sha256": "9db6aa3cce3210376b6b6ce9b3f013f8798dd59b70fecf13adff7453ce7d5df8"
+    },
+    "sol61": {
+      "all_fresh_mcp_reopen_frames_equal_native_and_delivered_pngs": true,
+      "frames_checked": 8,
+      "atlas_timing_exact": true,
+      "source_hash_unchanged_by_readonly_check": true,
+      "native_sha256": "e93d058a373ef5329ee862523a966e6db225ee0f5ba6fafd294a574b34b6c6c5"
+    }
+  },
+  "total_reopened_frames": 32,
+  "final_saved_documents_closed": true,
+  "parent_drawing_or_native_save_calls": 0,
+  "runtime": {
+    "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+    "pillow": "12.3.0"
+  }
+}

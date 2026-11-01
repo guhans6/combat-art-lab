@@ -1,0 +1,125 @@
+[
+  {
+    "artist": "terra56",
+    "event": "granted",
+    "order": 1,
+    "status": "active"
+  },
+  {
+    "artist": "sol61",
+    "event": "queued",
+    "order": 2,
+    "status": "waiting"
+  },
+  {
+    "artist": "luna6-max",
+    "event": "queued",
+    "order": 3,
+    "status": "waiting"
+  },
+  {
+    "artist": "terra56",
+    "event": "released",
+    "status": "closed_native_work_complete_offline_packaging"
+  },
+  {
+    "artist": "sol61",
+    "event": "granted",
+    "order": 2,
+    "status": "active"
+  },
+  {
+    "artist": "sol61",
+    "event": "released",
+    "status": "closed_native_work_complete_offline_packaging"
+  },
+  {
+    "artist": "luna6-max",
+    "event": "granted",
+    "order": 3,
+    "status": "active"
+  },
+  {
+    "artist": "terra56",
+    "event": "technical_alpha_review",
+    "status": "offline_investigation_no_lease"
+  },
+  {
+    "artist": "luna6-max",
+    "event": "released",
+    "status": "closed_native_work_complete_offline_packaging"
+  },
+  {
+    "artist": "luna56-max",
+    "event": "granted",
+    "order": 4,
+    "status": "active"
+  },
+  {
+    "artist": "luna56-max",
+    "event": "released",
+    "status": "native_and_packaging_complete"
+  },
+  {
+    "artist": "terra56",
+    "event": "technical_repair_granted",
+    "order": 5,
+    "status": "active"
+  },
+  {
+    "artist": "luna6-max",
+    "event": "self_correction_queued",
+    "order": 6,
+    "status": "waiting"
+  },
+  {
+    "artist": "luna56-max",
+    "event": "technical_alpha_review_queued",
+    "order": 7,
+    "status": "offline_investigation_no_lease"
+  },
+  {
+    "artist": "terra56",
+    "event": "already_interrupted_state_observed_resumed_same_assignment",
+    "status": "active_repair_lease_continues",
+    "evidence": "coordinator interrupt returned previous_status=interrupted; followup then list_agents confirmed running; nonmutating preflight ready/no active sprite"
+  },
+  {
+    "artist": "terra56",
+    "event": "technical_repair_released",
+    "status": "native_complete_offline_verification_packaging"
+  },
+  {
+    "artist": "luna6-max",
+    "event": "self_correction_granted",
+    "order": 6,
+    "status": "active"
+  },
+  {
+    "artist": "luna6-max",
+    "event": "self_correction_released",
+    "status": "native_complete_offline_verification_packaging"
+  },
+  {
+    "artist": "luna56-max",
+    "event": "technical_repair_granted",
+    "order": 7,
+    "status": "active"
+  },
+  {
+    "artist": "luna56-max",
+    "event": "technical_repair_released",
+    "status": "native_and_packaging_complete"
+  },
+  {
+    "artist": "parent",
+    "event": "read_only_reopen_export_granted",
+    "order": 8,
+    "status": "active_no_drawing_or_native_resave"
+  },
+  {
+    "artist": "parent",
+    "event": "read_only_reopen_export_released",
+    "status": "all32_frames_match_all_sources_unchanged_documents_closed"
+  }
+]

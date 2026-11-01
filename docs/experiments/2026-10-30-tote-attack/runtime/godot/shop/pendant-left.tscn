@@ -1,0 +1,17 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://shop/part_sprite.gd" id="1"]
+
+[node name="pendant_left" type="Node2D"]
+
+[node name="P10_pendant_left_shell" type="Sprite2D" parent="."]
+position = Vector2(-12, 0)
+centered = false
+script = ExtResource("1")
+image_path = "res://shop/textures/10-pendant-left-shell.png"
+
+[node name="P14_pendant_left_emitter" type="Sprite2D" parent="."]
+position = Vector2(-2, 30)
+centered = false
+script = ExtResource("1")
+image_path = "res://shop/textures/14-pendant-left-emitter.png"

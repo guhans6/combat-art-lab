@@ -1,0 +1,172 @@
+{
+  "source": "../inputs/additional-keys.png",
+  "panel_xyxy": [
+    724,
+    0,
+    1448,
+    724
+  ],
+  "scale": 0.264,
+  "source_root_foot_xy": [
+    310,
+    708
+  ],
+  "target_root_foot_xy": [
+    132,
+    185
+  ],
+  "offset_xy": [
+    50,
+    -2
+  ],
+  "canvas": [
+    256,
+    192
+  ],
+  "alpha_threshold": 128,
+  "palette_colors_opaque": 254,
+  "edge_spill_mask_source_xyxy": [
+    0,
+    640,
+    24,
+    724
+  ],
+  "edge_spill_pixels_removed": 689,
+  "head_replacement_mask_canvas_polygon": [
+    [
+      111,
+      14
+    ],
+    [
+      115,
+      5
+    ],
+    [
+      124,
+      1
+    ],
+    [
+      137,
+      -2
+    ],
+    [
+      151,
+      0
+    ],
+    [
+      162,
+      6
+    ],
+    [
+      169,
+      16
+    ],
+    [
+      170,
+      26
+    ],
+    [
+      165,
+      34
+    ],
+    [
+      158,
+      39
+    ],
+    [
+      149,
+      41
+    ],
+    [
+      139,
+      39
+    ],
+    [
+      130,
+      39
+    ],
+    [
+      122,
+      40
+    ],
+    [
+      116,
+      36
+    ],
+    [
+      110,
+      28
+    ],
+    [
+      108,
+      21
+    ]
+  ],
+  "head_source_sideburn_edge_removed_canvas_xy": [
+    [
+      163,
+      36
+    ],
+    [
+      162,
+      37
+    ],
+    [
+      163,
+      37
+    ],
+    [
+      164,
+      37
+    ],
+    [
+      160,
+      38
+    ],
+    [
+      161,
+      38
+    ],
+    [
+      162,
+      38
+    ],
+    [
+      163,
+      38
+    ],
+    [
+      164,
+      38
+    ],
+    [
+      159,
+      39
+    ],
+    [
+      160,
+      39
+    ],
+    [
+      161,
+      39
+    ],
+    [
+      162,
+      39
+    ],
+    [
+      163,
+      39
+    ],
+    [
+      164,
+      39
+    ],
+    [
+      165,
+      39
+    ]
+  ],
+  "layer_state": "body checkpoint only; cleared head is replaced from exact neutral face/hair layers through MCP"
+}

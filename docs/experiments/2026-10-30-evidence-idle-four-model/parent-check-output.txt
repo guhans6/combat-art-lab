@@ -1,0 +1,589 @@
+{
+  "artists": {
+    "luna56-max": {
+      "status": "technical_delivery_pass",
+      "native": "luna56-max/technical-repair/luna56-idle-repaired.aseprite",
+      "native_sha256": "f7aa4235209d78823d7fe769e4ba53035692bc014d1af2e5fda11af93ed655d9",
+      "frame_count": 6,
+      "durations_ms": [
+        420,
+        140,
+        180,
+        220,
+        180,
+        560
+      ],
+      "cycle_ms": 1700,
+      "gif_native_frame_indices_0based": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "native_export_exact": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "rest_frames_1based": [
+        1,
+        6
+      ],
+      "native_palette_and_existing_layer_metadata_exact": true,
+      "declared_added_layers": [
+        "09-anim-overlap-repair"
+      ],
+      "shoes_and_hidden_guide_preserved": true,
+      "gifs": {
+        "1x": {
+          "sha256": "6ce8e13887e46e0f1dc5f32f64509ecd8d8ede92fa56247e1ee7910a93fa981c",
+          "encoded_frames": 6,
+          "durations_ms": [
+            420,
+            140,
+            180,
+            220,
+            180,
+            560
+          ],
+          "cycle_ms": 1700,
+          "loop": 0,
+          "matte_rgb": [
+            0,
+            0,
+            0
+          ],
+          "timeline_equals_native": true
+        },
+        "3x": {
+          "sha256": "4ee60625fb2511ef332729898d209df4fd2e4c929379948099d6431c89b7256c",
+          "encoded_frames": 6,
+          "durations_ms": [
+            420,
+            140,
+            180,
+            220,
+            180,
+            560
+          ],
+          "cycle_ms": 1700,
+          "loop": 0,
+          "matte_rgb": [
+            0,
+            0,
+            0
+          ],
+          "timeline_equals_native": true
+        }
+      },
+      "alpha": {
+        "passed": true,
+        "frames": [
+          {
+            "frame_1based": 1,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 2,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 3,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 4,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 5,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 6,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          }
+        ],
+        "inherited_body_holes_xy": [
+          [
+            63,
+            116
+          ]
+        ],
+        "limits": "Enclosed body-hole/binary-alpha check only; moving silhouette and intentional head/hair gaps need scoped review."
+      },
+      "record": "luna56-max/record.md",
+      "verification": "luna56-max/technical-repair/verification.json",
+      "limits": "No automatic artistic verdict, temporal observation, or engine proof."
+    },
+    "luna6-max": {
+      "status": "technical_delivery_pass",
+      "native": "luna6-max/idle-candidate-corrected.aseprite",
+      "native_sha256": "57d27225db3b800816bf8399fbd0443188cca4ed1fab41b641c2194de953bbe4",
+      "frame_count": 10,
+      "durations_ms": [
+        600,
+        180,
+        180,
+        360,
+        220,
+        220,
+        450,
+        50,
+        80,
+        50
+      ],
+      "cycle_ms": 2390,
+      "gif_native_frame_indices_0based": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "native_export_exact": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "rest_frames_1based": [
+        1,
+        7
+      ],
+      "native_palette_and_existing_layer_metadata_exact": true,
+      "declared_added_layers": [],
+      "shoes_and_hidden_guide_preserved": true,
+      "gifs": {
+        "1x": {
+          "sha256": "cbc27f8f3b1909452544e3576388fceb8df0f3ad0abe9958217c3d25d14e133d",
+          "encoded_frames": 10,
+          "durations_ms": [
+            600,
+            180,
+            180,
+            360,
+            220,
+            220,
+            450,
+            50,
+            80,
+            50
+          ],
+          "cycle_ms": 2390,
+          "loop": 0,
+          "matte_rgb": [
+            128,
+            128,
+            128
+          ],
+          "timeline_equals_native": true
+        },
+        "3x": {
+          "sha256": "9c7f3197546bb5fcb5ec3b5c1275c93b5492ca734a70576c323f8e32874e2062",
+          "encoded_frames": 10,
+          "durations_ms": [
+            600,
+            180,
+            180,
+            360,
+            220,
+            220,
+            450,
+            50,
+            80,
+            50
+          ],
+          "cycle_ms": 2390,
+          "loop": 0,
+          "matte_rgb": [
+            128,
+            128,
+            128
+          ],
+          "timeline_equals_native": true
+        }
+      },
+      "alpha": {
+        "passed": true,
+        "frames": [
+          {
+            "frame_1based": 1,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 2,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 3,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 4,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 5,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 6,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 7,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 8,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 9,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 10,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          }
+        ],
+        "inherited_body_holes_xy": [
+          [
+            63,
+            116
+          ]
+        ],
+        "limits": "Enclosed body-hole/binary-alpha check only; moving silhouette and intentional head/hair gaps need scoped review."
+      },
+      "record": "luna6-max/record.md",
+      "verification": "luna6-max/verification/export-check-corrected.json",
+      "limits": "No automatic artistic verdict, temporal observation, or engine proof."
+    },
+    "terra56": {
+      "status": "technical_delivery_pass",
+      "native": "terra56/native/terra56-breathe-seam-repair.aseprite",
+      "native_sha256": "9db6aa3cce3210376b6b6ce9b3f013f8798dd59b70fecf13adff7453ce7d5df8",
+      "frame_count": 8,
+      "durations_ms": [
+        110,
+        90,
+        80,
+        90,
+        110,
+        90,
+        80,
+        90
+      ],
+      "cycle_ms": 740,
+      "gif_native_frame_indices_0based": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "native_export_exact": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "rest_frames_1based": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "native_palette_and_existing_layer_metadata_exact": true,
+      "declared_added_layers": [
+        "09-breath-seam-backing"
+      ],
+      "shoes_and_hidden_guide_preserved": true,
+      "gifs": {
+        "1x": {
+          "sha256": "198de39cce310d9009ef09c6aa30f45ced312ca086bcfa9366c68602ab09227f",
+          "encoded_frames": 5,
+          "durations_ms": [
+            200,
+            80,
+            200,
+            90,
+            170
+          ],
+          "cycle_ms": 740,
+          "loop": 0,
+          "matte_rgb": [
+            0,
+            0,
+            0
+          ],
+          "timeline_equals_native": true
+        },
+        "3x": {
+          "sha256": "b519d03fd847762f74459e88065d5d7e4622ed1e1fc6d5ce29d6609c2d7b8f0d",
+          "encoded_frames": 5,
+          "durations_ms": [
+            200,
+            80,
+            200,
+            90,
+            170
+          ],
+          "cycle_ms": 740,
+          "loop": 0,
+          "matte_rgb": [
+            0,
+            0,
+            0
+          ],
+          "timeline_equals_native": true
+        }
+      },
+      "alpha": {
+        "passed": true,
+        "frames": [
+          {
+            "frame_1based": 1,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 2,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 3,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 4,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 5,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 6,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 7,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 8,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          }
+        ],
+        "inherited_body_holes_xy": [
+          [
+            63,
+            116
+          ]
+        ],
+        "limits": "Enclosed body-hole/binary-alpha check only; moving silhouette and intentional head/hair gaps need scoped review."
+      },
+      "record": "terra56/record.md",
+      "verification": "terra56/verification/repair-gif-checks.json",
+      "limits": "No automatic artistic verdict, temporal observation, or engine proof."
+    },
+    "sol61": {
+      "status": "technical_delivery_pass",
+      "native": "sol61/pass01.aseprite",
+      "native_sha256": "e93d058a373ef5329ee862523a966e6db225ee0f5ba6fafd294a574b34b6c6c5",
+      "frame_count": 8,
+      "durations_ms": [
+        1100,
+        180,
+        120,
+        360,
+        220,
+        160,
+        240,
+        1000
+      ],
+      "cycle_ms": 3380,
+      "gif_native_frame_indices_0based": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "native_export_exact": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "rest_frames_1based": [
+        1,
+        8
+      ],
+      "native_palette_and_existing_layer_metadata_exact": true,
+      "declared_added_layers": [],
+      "shoes_and_hidden_guide_preserved": true,
+      "gifs": {
+        "1x": {
+          "sha256": "eb0df4d85b9125703fba30c2960dfe1af4a3049b004cd97c68ac9ff42ed88845",
+          "encoded_frames": 7,
+          "durations_ms": [
+            1100,
+            180,
+            120,
+            580,
+            160,
+            240,
+            1000
+          ],
+          "cycle_ms": 3380,
+          "loop": 0,
+          "matte_rgb": [
+            96,
+            96,
+            96
+          ],
+          "timeline_equals_native": true
+        },
+        "3x": {
+          "sha256": "67fbf69b4c6456a4cc91399b30d124d7837a743cae75db22ce1757d0bb96472e",
+          "encoded_frames": 7,
+          "durations_ms": [
+            1100,
+            180,
+            120,
+            580,
+            160,
+            240,
+            1000
+          ],
+          "cycle_ms": 3380,
+          "loop": 0,
+          "matte_rgb": [
+            96,
+            96,
+            96
+          ],
+          "timeline_equals_native": true
+        }
+      },
+      "alpha": {
+        "passed": true,
+        "frames": [
+          {
+            "frame_1based": 1,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 2,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 3,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 4,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 5,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 6,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 7,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          },
+          {
+            "frame_1based": 8,
+            "binary_alpha": true,
+            "new_enclosed_body_holes_xy": []
+          }
+        ],
+        "inherited_body_holes_xy": [
+          [
+            63,
+            116
+          ]
+        ],
+        "limits": "Enclosed body-hole/binary-alpha check only; moving silhouette and intentional head/hair gaps need scoped review."
+      },
+      "record": "sol61/record.md",
+      "verification": "sol61/verification.json",
+      "limits": "No automatic artistic verdict, temporal observation, or engine proof."
+    }
+  },
+  "preservation": {
+    "protected_files": 2791,
+    "changed": [],
+    "common_frozen_inputs_changed": [],
+    "extracted_evidence_files_checked": 248,
+    "extracted_evidence_files_changed": []
+  }
+}

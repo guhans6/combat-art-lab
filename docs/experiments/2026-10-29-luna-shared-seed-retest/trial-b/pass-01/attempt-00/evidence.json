@@ -1,0 +1,33 @@
+{
+  "status": "caught-before-checkpoint-and-corrected",
+  "failure": "The first exported PNG was byte-identical to the seed baseline because the new face-smile layer was below the opaque character-pixels layer.",
+  "failed_export": {
+    "evidence_file": "pass-01/attempt-00/export-mismatch.png",
+    "sha256": "7353611071482ea1e879ab9c247fb1d92c7bd90050b8eb99cbec4cdbdf612d12",
+    "source_of_preserved_bytes": "Exact byte copy of the baseline PNG; the first Aseprite export was independently observed to have the same SHA-256 and identical RGBA before the candidate path was overwritten."
+  },
+  "native_failure_snapshot": {
+    "binary_preserved": false,
+    "explanation": "The first attempt was saved to the pass-01 candidate path, then that same native file was corrected and saved before I had made a separate copy. This overwrite cannot be undone by the current editor API. Its tool state and layer/readback results are preserved in call-log.md; the final corrected native is at ../character-pass-01.aseprite.",
+    "observed_layers_top_to_bottom": [
+      "character-pixels",
+      "face-smile"
+    ],
+    "observed_face_smile_layer_pixels": [
+      [
+        68,
+        28
+      ],
+      [
+        70,
+        28
+      ],
+      [
+        69,
+        29
+      ]
+    ],
+    "observed_composite_region": "Baseline skin pixels only; the isolated face-smile cel had three #744433 pixels."
+  },
+  "corrected_candidate_native_sha256": "5fa1605572813aed944cfc65733f89e4e32c48786db2ea61060cb1800f8a9372"
+}

@@ -1,0 +1,196 @@
+{
+  "seed_sha256": "672cfa0a5672943174ac6c4047dea5765ec38a40b814daaa9aaafc606d18d742",
+  "canvas": [
+    128,
+    192
+  ],
+  "parts": {
+    "Hair": 775,
+    "Contour details": 57,
+    "Face, neck, hands": 314,
+    "Facial features": 52,
+    "Jacket": 1387,
+    "Tote and strap": 396,
+    "Shirt": 437,
+    "Jeans": 3873,
+    "Shoes": 543
+  },
+  "visible_pixels": 7834,
+  "palette_colors": 35,
+  "source_semantic_partition_recomposes_exactly": true,
+  "final_alpha_matches_seed": true,
+  "changed_pixels_vs_seed": 32,
+  "changed_xy": [
+    [
+      63,
+      20
+    ],
+    [
+      64,
+      20
+    ],
+    [
+      65,
+      20
+    ],
+    [
+      66,
+      20
+    ],
+    [
+      67,
+      20
+    ],
+    [
+      68,
+      20
+    ],
+    [
+      70,
+      20
+    ],
+    [
+      71,
+      20
+    ],
+    [
+      72,
+      20
+    ],
+    [
+      73,
+      20
+    ],
+    [
+      63,
+      21
+    ],
+    [
+      64,
+      21
+    ],
+    [
+      65,
+      21
+    ],
+    [
+      66,
+      21
+    ],
+    [
+      70,
+      21
+    ],
+    [
+      71,
+      21
+    ],
+    [
+      72,
+      21
+    ],
+    [
+      73,
+      21
+    ],
+    [
+      63,
+      22
+    ],
+    [
+      64,
+      22
+    ],
+    [
+      65,
+      22
+    ],
+    [
+      71,
+      22
+    ],
+    [
+      72,
+      22
+    ],
+    [
+      73,
+      22
+    ],
+    [
+      64,
+      23
+    ],
+    [
+      65,
+      23
+    ],
+    [
+      66,
+      23
+    ],
+    [
+      73,
+      23
+    ],
+    [
+      67,
+      28
+    ],
+    [
+      70,
+      28
+    ],
+    [
+      68,
+      29
+    ],
+    [
+      69,
+      29
+    ]
+  ],
+  "editable_parts": [
+    "Face, neck, hands",
+    "Hair",
+    "Tote and strap",
+    "Shirt",
+    "Jacket",
+    "Jeans",
+    "Shoes",
+    "Contour details",
+    "Facial features"
+  ],
+  "mask_basis": "Hand-defined masks follow visible object boundaries in the supplied downsample; source colors and alpha are retained except the documented face cleanup.",
+  "face_cleanup": {
+    "eye_box_half_open": [
+      63,
+      20,
+      74,
+      24
+    ],
+    "mouth_box_half_open": [
+      66,
+      27,
+      71,
+      30
+    ],
+    "new_mark_count": 13,
+    "new_visible_marks": {
+      "63,20": "#4c2a24",
+      "64,20": "#4c2a24",
+      "63,21": "#fde4cd",
+      "64,21": "#fde4cd",
+      "65,21": "#2d2427",
+      "64,22": "#4c2a24",
+      "71,20": "#4c2a24",
+      "71,21": "#fbdabc",
+      "72,21": "#2d2427",
+      "67,28": "#aa8378",
+      "68,29": "#aa8378",
+      "69,29": "#aa8378",
+      "70,28": "#aa8378"
+    },
+    "alpha_changed": false
+  }
+}

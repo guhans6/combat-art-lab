@@ -1,0 +1,92 @@
+[
+  {
+    "args": {
+      "sprite": "#64",
+      "layer": "03-shirt",
+      "frame": 3,
+      "paletteLock": true,
+      "label": "technical collar overlap repair",
+      "ops": [
+        {
+          "kind": "grid",
+          "x": 70,
+          "y": 40,
+          "rows": [
+            "A"
+          ],
+          "legend": {
+            "A": "#665e3a"
+          },
+          "transparent": "erase"
+        }
+      ]
+    },
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "1 op(s), 1 pixel(s) changed on '03-shirt' frame 3. Now call look to see the result before moving on."
+        }
+      ],
+      "structuredContent": {
+        "opsApplied": 1,
+        "frame": 3,
+        "bounds": {
+          "y": 40,
+          "height": 1,
+          "width": 1,
+          "x": 70
+        },
+        "sprite": "pass01.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 1,
+        "layer": "03-shirt"
+      }
+    }
+  },
+  {
+    "args": {
+      "sprite": "#64",
+      "layer": "03-shirt",
+      "frame": 6,
+      "paletteLock": true,
+      "label": "technical collar overlap repair",
+      "ops": [
+        {
+          "kind": "grid",
+          "x": 70,
+          "y": 40,
+          "rows": [
+            "A"
+          ],
+          "legend": {
+            "A": "#665e3a"
+          },
+          "transparent": "erase"
+        }
+      ]
+    },
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "1 op(s), 1 pixel(s) changed on '03-shirt' frame 6. Now call look to see the result before moving on."
+        }
+      ],
+      "structuredContent": {
+        "opsApplied": 1,
+        "frame": 6,
+        "bounds": {
+          "y": 40,
+          "height": 1,
+          "width": 1,
+          "x": 70
+        },
+        "sprite": "pass01.aseprite",
+        "colorsSnapped": [],
+        "pixelsChanged": 1,
+        "layer": "03-shirt"
+      }
+    }
+  }
+]

@@ -1,0 +1,218 @@
+{
+  "character": {
+    "layout": "godot/standing-idle-lab/textures/idle-layout.json",
+    "frame_count": 8,
+    "intentional_holes_xy": [
+      [
+        [
+          27,
+          40
+        ],
+        [
+          28,
+          40
+        ],
+        [
+          24,
+          42
+        ],
+        [
+          24,
+          43
+        ]
+      ],
+      [
+        [
+          27,
+          39
+        ],
+        [
+          28,
+          39
+        ],
+        [
+          24,
+          41
+        ],
+        [
+          24,
+          42
+        ]
+      ],
+      [
+        [
+          27,
+          39
+        ],
+        [
+          28,
+          39
+        ],
+        [
+          24,
+          41
+        ],
+        [
+          24,
+          42
+        ]
+      ],
+      [
+        [
+          27,
+          39
+        ],
+        [
+          28,
+          39
+        ],
+        [
+          24,
+          41
+        ],
+        [
+          24,
+          42
+        ]
+      ],
+      [
+        [
+          27,
+          39
+        ],
+        [
+          28,
+          39
+        ],
+        [
+          24,
+          41
+        ],
+        [
+          24,
+          42
+        ]
+      ],
+      [
+        [
+          27,
+          39
+        ],
+        [
+          28,
+          39
+        ],
+        [
+          24,
+          41
+        ],
+        [
+          24,
+          42
+        ]
+      ],
+      [
+        [
+          27,
+          40
+        ],
+        [
+          28,
+          40
+        ],
+        [
+          24,
+          42
+        ],
+        [
+          24,
+          43
+        ]
+      ],
+      [
+        [
+          27,
+          40
+        ],
+        [
+          28,
+          40
+        ],
+        [
+          24,
+          42
+        ],
+        [
+          24,
+          43
+        ]
+      ]
+    ]
+  },
+  "shop": {
+    "exports": "assets/export/shop-modular-v01",
+    "part_count": 16,
+    "parts": {
+      "00-wall-backing": {
+        "role": "solid"
+      },
+      "01-window-backing": {
+        "role": "solid"
+      },
+      "02-window-interior-left": {
+        "role": "solid"
+      },
+      "03-window-interior-right": {
+        "role": "solid"
+      },
+      "04-timber-frame": {
+        "role": "solid"
+      },
+      "05-blue-awning": {
+        "role": "solid"
+      },
+      "06-entry-steps": {
+        "role": "solid"
+      },
+      "07-chalkboard": {
+        "role": "solid"
+      },
+      "08-large-planter": {
+        "role": "foliage_with_solid_pot",
+        "coverage_region": [
+          14,
+          59,
+          56,
+          106
+        ]
+      },
+      "09-small-planter": {
+        "role": "foliage_with_solid_pot",
+        "coverage_region": [
+          0,
+          33,
+          28,
+          54
+        ]
+      },
+      "10-pendant-left-shell": {
+        "role": "solid"
+      },
+      "11-pendant-right-shell": {
+        "role": "solid"
+      },
+      "12-ceiling-left-emitter": {
+        "role": "solid"
+      },
+      "13-ceiling-right-emitter": {
+        "role": "solid"
+      },
+      "14-pendant-left-emitter": {
+        "role": "solid"
+      },
+      "15-pendant-right-emitter": {
+        "role": "solid"
+      }
+    }
+  }
+}

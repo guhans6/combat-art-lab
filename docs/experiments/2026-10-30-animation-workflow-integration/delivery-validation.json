@@ -1,0 +1,76 @@
+{
+  "protected_files": 2751,
+  "protected_violations": [],
+  "source_local_links": 22,
+  "extracted_local_links": 22,
+  "new_project_links": [
+    [
+      "docs/workflow/art-production.md",
+      "../art/motion-guide.md#animation-procedure"
+    ],
+    [
+      "docs/art/motion-guide.md",
+      "../experiments/2026-10-30-redrawn-breathing-sol/proof/neutral-3x.gif"
+    ],
+    [
+      "docs/art/motion-guide.md",
+      "style-guide.md#animation-appearance-direction--30-october-2026"
+    ],
+    [
+      "docs/art/motion-guide.md",
+      "../experiments/2026-10-30-animation-workflow-integration/record.md"
+    ],
+    [
+      "docs/art/motion-guide.md",
+      "../../tools/pixel-art-director/references/animation.md"
+    ],
+    [
+      "docs/art/motion-guide.md",
+      "../../tools/pixel-art-director/references/face-likeness.md"
+    ],
+    [
+      "docs/art/motion-guide.md",
+      "../experiments/2026-10-30-quiet-chest-idle-sol/reddit-motion-study/record.md"
+    ],
+    [
+      "docs/art/style-guide.md",
+      "../experiments/2026-10-30-natural-idle-sol/proof/terra-left-sol-right-3x.gif"
+    ],
+    [
+      "docs/art/style-guide.md",
+      "../experiments/2026-10-30-redrawn-breathing-sol/proof/neutral-3x.gif"
+    ],
+    [
+      "docs/art/style-guide.md",
+      "motion-guide.md#animation-procedure"
+    ],
+    [
+      "docs/handoff.md",
+      "experiments/2026-10-30-animation-workflow-integration/record.md"
+    ],
+    [
+      "docs/handoff.md",
+      "experiments/2026-10-30-animation-workflow-integration/verification.md"
+    ],
+    [
+      "docs/handoff.md",
+      "experiments/2026-10-30-animation-workflow-integration/pixel-art-director-2026-10-30-animation-continuity-v1.zip"
+    ]
+  ],
+  "source_schema": {
+    "yaml_parser": "Ruby Psych safe_load",
+    "name": "pixel-art-director",
+    "description_characters": 423
+  },
+  "extracted_schema": {
+    "yaml_parser": "Ruby Psych safe_load",
+    "name": "pixel-art-director",
+    "description_characters": 423
+  },
+  "extracted_tests": 35,
+  "archive": "pixel-art-director-2026-10-30-animation-continuity-v1.zip",
+  "archive_sha256": "33779e6da10dedb6fec0da2b59e4aed92337b4198850f77e6c7c583a82797473",
+  "bundled_files": 22,
+  "quick_validate": "Not run successfully: Python PyYAML unavailable; see verification.md",
+  "local_skill_symlink_resolves_to_canonical": true
+}

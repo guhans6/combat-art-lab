@@ -1,0 +1,34 @@
+{
+  "backend": "faster-whisper",
+  "candidate_filename": "stt.faster-whisper.large-v3-turbo.en.jsonl",
+  "candidate_id": "stt-faster-whisper-large-v3-turbo-en",
+  "config": {
+    "backend": "faster-whisper",
+    "beam_size": 5,
+    "compute_type": "int8",
+    "condition_on_previous_text": false,
+    "device": "cpu",
+    "language": "en",
+    "model_name": "large-v3-turbo",
+    "vad_filter": true,
+    "word_timestamps": true
+  },
+  "duration_coverage_ratio": 1.0,
+  "language_detected": "en",
+  "language_probability": null,
+  "language_requested": "en",
+  "model": "large-v3-turbo",
+  "model_path": null,
+  "model_quantization": null,
+  "origin": "stt_fallback",
+  "quality_flags": [],
+  "quality_signals": {
+    "duration_coverage_ratio": 1.0,
+    "max_gap_seconds": 5.86,
+    "repetition_ratio": 0.04,
+    "segment_count": 172,
+    "words_per_minute": 161.77
+  },
+  "segment_count": 172,
+  "selected": true
+}

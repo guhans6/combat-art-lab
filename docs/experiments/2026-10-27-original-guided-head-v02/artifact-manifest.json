@@ -1,0 +1,221 @@
+{
+  "base_revision": "9e35c5c13987a153e942e6f93f49f247fad13c3a",
+  "state": "local uncommitted artwork; user acceptance pending",
+  "modified_existing_documents": [
+    "CONTEXT.md",
+    "docs/handoff.md"
+  ],
+  "note": "Manifest excludes its own hash. Previous art, references, experiment records and tooling are byte-identical. New artifacts are isolated to this run.",
+  "files": [
+    {
+      "path": "CONTEXT.md",
+      "sha256": "ee5c592883908742f2b27376c6d14dc7af2589b6cb12c4b13cdda99436beffb7",
+      "bytes": 14442
+    },
+    {
+      "path": "docs/handoff.md",
+      "sha256": "192fc97ac8ea2447afd325c094b7fb5a958a9e1643456d18dffdd5e93fdc1d7f",
+      "bytes": 25817
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/baseline-reopened.png",
+      "sha256": "2334c0974cb926baf9f7f9739ea5a1979507f84b33dbfbcd438cdf4f5bc35ef7",
+      "bytes": 3261
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/baseline.aseprite",
+      "sha256": "65de28ee46423c570c9da069fb22f8011a0e99b226731cdee2cc3855c82a8d6e",
+      "bytes": 4592
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/baseline.png",
+      "sha256": "2334c0974cb926baf9f7f9739ea5a1979507f84b33dbfbcd438cdf4f5bc35ef7",
+      "bytes": 3261
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/check.py",
+      "sha256": "d03dc8641fa56271f2d1b9ca061365eca3ffd9d1d21bc6f4b7f6a8c4afcb4d36",
+      "bytes": 3160
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/face-guide.png",
+      "sha256": "faef992acd462b7159ad60896f309ef0044c7d8d81a4db4cf855dae248a2b3c6",
+      "bytes": 79382
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/frozen-inputs.json",
+      "sha256": "8838e1c91be50ca38feeb1bd82a0ce120e35e9f0b77956ddde1ba75e10ab3cab",
+      "bytes": 1355
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/hair-guide.png",
+      "sha256": "d7cf01441befbe2adbd3dfb3549fef54bebd1d515a731277635fe6c42fc68fce",
+      "bytes": 246455
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/input.aseprite",
+      "sha256": "457eae1e96d88129bd714d8a927ffea1dae3e07724d199dec653360aa7848d00",
+      "bytes": 5098
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/make-review.py",
+      "sha256": "54b0ceca31d49f520db14d420e695763ef1ed1cf5d888b29ede84ea9e0d7da8d",
+      "bytes": 1800
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/native-checks.json",
+      "sha256": "b5e3790e7b40c77383873decae5e66c84f965dc56031acc705c049eceef3cb0c",
+      "bytes": 13226
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/original-prior-new.json",
+      "sha256": "2fcdf6d07c9e861327193c7ce875298f7f963056931a23cc7b900c9615dbb677",
+      "bytes": 963
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/original-prior-new.png",
+      "sha256": "096b59d2830aa6fdbf245ed707d9b7afefb8120196da2228952bc5fec4483a96",
+      "bytes": 325868
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/original-vs-pass-01.json",
+      "sha256": "c9cf857f455176fad2efce2dc5070fc507981230d412a2bce2cf6dff0a36fc6a",
+      "bytes": 1249
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/original-vs-pass-01.png",
+      "sha256": "f7077049c96ea7babcfbaad8f2b9a9f4fcb3901f349f74284e23d89332583fc2",
+      "bytes": 316069
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/original-vs-pass-02.json",
+      "sha256": "73f60d5f33069a98cdb7fa1d8fc77cfd04aaa6017e56fda7bf3c05c2625059d7",
+      "bytes": 1249
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/original-vs-pass-02.png",
+      "sha256": "d5c072727abd5f57129c08cf0b25f7f4dc6e3e4bd4b50b366e306a0f1f78d77b",
+      "bytes": 316249
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/original-vs-pass-03.json",
+      "sha256": "b59baba5bb3622a326fb7de0e799c3581d9ebb0bcefcad49f1e2a149893dcd4b",
+      "bytes": 1252
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/original-vs-pass-03.png",
+      "sha256": "cb13d5e7ab21d663356d563de0b184dd2a0403eada79289c66b13dd73f2b89f2",
+      "bytes": 316471
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/palette.lua",
+      "sha256": "99e7758fbc9ab9c8428c793e6d3a6ef0353854fc38d1486c99a305a14e20b4d2",
+      "bytes": 369
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/pass-01-hair-reopened.png",
+      "sha256": "5f88b8b12c6810be9969950bc3292b9c6f88017f19baaff9b472f47f35974fd9",
+      "bytes": 3787
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/pass-01-hair.aseprite",
+      "sha256": "e1801d6718d0472bc5e9f895ffe75a78b153ec85ca5bf80a831a92273b53468b",
+      "bytes": 4808
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/pass-01-hair.png",
+      "sha256": "5f88b8b12c6810be9969950bc3292b9c6f88017f19baaff9b472f47f35974fd9",
+      "bytes": 3787
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/pass-02-face-reopened.png",
+      "sha256": "516f2b94b339cee4f0b9980596e378a173f0ba03569fe2addab18318f725cfdd",
+      "bytes": 3778
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/pass-02-face.aseprite",
+      "sha256": "64231827b11a14e6529d88eb8c30b993aa5d00dc5aff3e641a753d104d691c78",
+      "bytes": 4884
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/pass-02-face.png",
+      "sha256": "516f2b94b339cee4f0b9980596e378a173f0ba03569fe2addab18318f725cfdd",
+      "bytes": 3778
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/pass-03-refined-reopened.png",
+      "sha256": "88600cf9f800887e437c430545abaccb1ce93a5762aa26c3764ae9f4493677c0",
+      "bytes": 3928
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/pass-03-refined.aseprite",
+      "sha256": "ab330a55ad7f576e1500f0865a748250a104041974db322a236be4b62dc6eaf6",
+      "bytes": 4906
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/pass-03-refined.png",
+      "sha256": "88600cf9f800887e437c430545abaccb1ce93a5762aa26c3764ae9f4493677c0",
+      "bytes": 3928
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/prepare.lua",
+      "sha256": "ef653de9168fbc4b583ad193a0fddaffb853a5a6771fa767a896498f719f79c8",
+      "bytes": 553
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/preservation-checks.json",
+      "sha256": "41b14146c3e3b181cfd91165752096cf6836cd7a5cf8224aabec5a3845f167a3",
+      "bytes": 142199
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/record.md",
+      "sha256": "2f10cbdcf24dc5a56a7117c96f591937f7e11b9b7c5a524b616df87c65185cd5",
+      "bytes": 10412
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/revise-face-syntax-rejected.lua",
+      "sha256": "36a0c40551bb87e994a01dd997e9448a07c2f773f879d82f68659a8052ba62b6",
+      "bytes": 11828
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/revise-pass01.lua",
+      "sha256": "b3a1e06fbcc49ac1f518cdd3b0969db3d23a948c241e3094e4d7a35db220eff6",
+      "bytes": 8803
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/revise-pass02.lua",
+      "sha256": "8c34dccf058e38759d4dc9be19b46d20e2c998689ae59ee2a6e1c41d0ee1bbb0",
+      "bytes": 11840
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/revise.lua",
+      "sha256": "37633dcd731b9b9503f5ed27dd472c35e5368fed9e7f88e8d94d1bd021cddeb8",
+      "bytes": 12852
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/tie-edit-proof-reopened.png",
+      "sha256": "fb72de3559d367c4699de8b5388890a845823d9d0db3410e3c4c5caa9008c685",
+      "bytes": 3916
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/tie-edit-proof.aseprite",
+      "sha256": "6909543d25e352b8664cdcd13ee5a788614daa43b7ae2d4ecc522c5af3ae03b7",
+      "bytes": 4896
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/tie-edit-proof.png",
+      "sha256": "fb72de3559d367c4699de8b5388890a845823d9d0db3410e3c4c5caa9008c685",
+      "bytes": 3916
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/validation.json",
+      "sha256": "6a0a9de6ef991b103ad33fd29f00dff7e83661481a98a399b3e07b6734f87c73",
+      "bytes": 1176
+    },
+    {
+      "path": "docs/experiments/2026-10-27-original-guided-head-v02/verify.lua",
+      "sha256": "f3b7e0c0e04a43073010b4f808da385243f7e715cf97a7d1c0e4dd842e24382a",
+      "bytes": 1319
+    }
+  ]
+}

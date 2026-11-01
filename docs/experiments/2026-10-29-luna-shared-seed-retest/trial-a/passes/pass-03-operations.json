@@ -1,0 +1,30 @@
+{
+  "pass": "pass-03",
+  "model": "gpt-5.6-luna",
+  "effort": "max",
+  "document": "passes/pass-03.aseprite",
+  "sprite_id": "#181",
+  "backend": {
+    "aseprite": "1.3.18.6-dev",
+    "extension": "0.8.2",
+    "mode": "headless"
+  },
+  "source_baseline": "passes/pass-02.aseprite",
+  "protected_layer": "shared-source-seed",
+  "correction_layer": "pass-03-smile-correction",
+  "mask": "M-face-expression x=54..83, y=19..48",
+  "palette_lock": true,
+  "operations": [
+    {"kind": "pixels", "points": [
+      {"x": 67, "y": 30, "color": "#542a1e"},
+      {"x": 70, "y": 30, "color": "#542a1e"},
+      {"x": 71, "y": 29, "color": "#542a1e"}
+    ]}
+  ],
+  "artistic_intent": "Make the existing restrained mouth read as a short shallow smile at native size without changing the eyes, pose, costume, hair/tie or silhouette.",
+  "exports": {
+    "png": "passes/pass-03.png",
+    "png_sha256": "c6de338361498495d2e634f4c377d3f7e281dee9050371f94c2d1d4f36c91aee",
+    "decoded_rgba_sha256": "cb5864a4f0862d132d0ef51c9f9dcb38e24649abab9e7ff58ee4c909db94d52e"
+  }
+}

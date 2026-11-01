@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "frozen_inputs": [
+    {
+      "path": "docs/experiments/2026-10-29-e1-pixel-craft/inputs/control-a.aseprite",
+      "sha256": "ae970e34f489faa6f97c1bd950a4ef8fc2248e7c6ea4bb7ffde85d12cde0fc7e"
+    },
+    {
+      "path": "docs/experiments/2026-10-29-e1-pixel-craft/inputs/control-a.png",
+      "sha256": "0341156ff730ebc22514cb267d758bc81968596faff20b06fdd5264e0ae8b55d"
+    },
+    {
+      "path": "docs/experiments/2026-10-29-e0-deterministic-replay/recipe.json",
+      "sha256": "c84e300b9442c4c346b766ad228103aa84f857c1e913b1f723c5d2817ddabe48"
+    },
+    {
+      "path": "docs/experiments/2026-10-29-e0-deterministic-replay/e0-manifest.json",
+      "sha256": "f7b7d2c570375295edeed53dc9e4539bafae93f07887fe3001ff3ee841cfe48d"
+    }
+  ],
+  "candidate": {
+    "allowed_coordinates_zero_based": [[29, 91], [30, 91], [31, 92], [32, 92]],
+    "allowed_layer": "01-jacket",
+    "existing_palette_color": "#5f4a34"
+  }
+}

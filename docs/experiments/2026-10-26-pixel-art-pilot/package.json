@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@pebbly/aseprite-ai-artist": "file:pebbly-0.8.2.tgz"
+  }
+}

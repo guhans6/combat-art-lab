@@ -1,0 +1,69 @@
+[
+  {
+    "path": "assets/references/approved-2026-10-26/character-scene.png",
+    "sha256": "a274a80133371b61387848495bf0dd93546ba5daf0a60c051b27109237160eae",
+    "role": [
+      "identity",
+      "style",
+      "proportions",
+      "lighting"
+    ],
+    "origin": "user-approved original concept",
+    "review_status": "user-approved concept",
+    "notes": "Full body/context anchor; no new asset approval."
+  },
+  {
+    "path": "assets/references/approved-2026-10-26/character-closeup.png",
+    "sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7",
+    "role": [
+      "identity",
+      "expression",
+      "hair",
+      "style"
+    ],
+    "origin": "user-approved original concept",
+    "review_status": "user-approved concept",
+    "notes": "Primary source of both arms; crop [380,64,860,512]."
+  },
+  {
+    "path": "assets/references/approved-2026-10-26/character-cutout.png",
+    "sha256": "4dd54a802798adc994a14349025ab48bc5830e43507d1c1c09822de692c280b8",
+    "role": [
+      "visibility"
+    ],
+    "origin": "previous generated cutout",
+    "review_status": "supporting only",
+    "notes": "May not override originals; not sampled in this comparison."
+  },
+  {
+    "path": "docs/experiments/2026-10-27-original-guided-head-v02/pass-03-refined.png",
+    "sha256": "88600cf9f800887e437c430545abaccb1ce93a5762aa26c3764ae9f4493677c0",
+    "role": [
+      "historical baseline"
+    ],
+    "origin": "earlier native redraw",
+    "review_status": "provisional, not accepted",
+    "notes": "Same crop/grid; different work history; not controlled third arm."
+  },
+  {
+    "path": "docs/experiments/2026-10-27-assisted-head-comparison/generated-blink-reference.png",
+    "sha256": "b54f9e8daaaec3fc7f0a861433ccf6dd70e704d924b50cc2828625980b4fcdfa",
+    "role": [
+      "expression",
+      "pose"
+    ],
+    "origin": "one built-in image_gen call this task",
+    "review_status": "accepted-for-use by agent: eyelid closure guidance only",
+    "notes": "Three poses, RGB 2029x775, opaque gray. Hair/crop differs; not new identity authority or user approval."
+  },
+  {
+    "path": "docs/experiments/2026-10-27-assisted-head-comparison/c01-restored-mouth.png",
+    "sha256": "28d8044cdacbd1b61fa0da13701b3f97203a67d8862c67d6f296d28bc6813816",
+    "role": [
+      "provisional native treatment"
+    ],
+    "origin": "B02 eyes and B01 source-derived mouth",
+    "review_status": "agent recommended; user approval pending",
+    "notes": "Chosen final C01; canonical originals still identity/style authority."
+  }
+]

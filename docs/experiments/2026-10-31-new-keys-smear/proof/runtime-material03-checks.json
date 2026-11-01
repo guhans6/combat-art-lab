@@ -1,0 +1,473 @@
+{
+  "runtime_frame_pixel_checks": [
+    {
+      "frame": 1,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 7844,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 7844,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    },
+    {
+      "frame": 2,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 8061,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 8061,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    },
+    {
+      "frame": 3,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 7835,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 7835,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    },
+    {
+      "frame": 4,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 7975,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 7975,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    },
+    {
+      "frame": 5,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 7345,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 7345,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    },
+    {
+      "frame": 6,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 7461,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 7461,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    },
+    {
+      "frame": 7,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 9168,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 9168,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    },
+    {
+      "frame": 8,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 8053,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 8053,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    },
+    {
+      "frame": 9,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 8378,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 9040,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    },
+    {
+      "frame": 10,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 9144,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 9144,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    },
+    {
+      "frame": 11,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 9114,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 9114,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    },
+    {
+      "frame": 12,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 8928,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 8928,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    },
+    {
+      "frame": 13,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 8889,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 8889,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    },
+    {
+      "frame": 14,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 7935,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 7935,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    },
+    {
+      "frame": 15,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 7165,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 7165,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    },
+    {
+      "frame": 16,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 7671,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 7671,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    },
+    {
+      "frame": 17,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 7835,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 7835,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    },
+    {
+      "frame": 18,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 8061,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 8061,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    },
+    {
+      "frame": 19,
+      "capture_size": [
+        640,
+        280
+      ],
+      "clean": {
+        "opaque_pixels_checked_outside_target": 7844,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      },
+      "smear": {
+        "opaque_pixels_checked_outside_target": 7844,
+        "rgb_mismatch_count": 0,
+        "max_rgb_delta": 0
+      }
+    }
+  ],
+  "total_rgb_mismatch_count": 0,
+  "scope": "actualGodotviewport captures, opaque actorpixels outside provisionaldummyrectangle; continuousmotionperception separate",
+  "engine": "4.7.2-stable (official)",
+  "loop_events": [
+    {
+      "actual_elapsed_ms": 2244,
+      "declared_duration_ms": 2230,
+      "event": "idle_return",
+      "frame_1based": 1,
+      "loop": 1,
+      "returned_to_idle": true
+    },
+    {
+      "actual_elapsed_ms": 2241,
+      "declared_duration_ms": 2230,
+      "event": "idle_return",
+      "frame_1based": 1,
+      "loop": 2,
+      "returned_to_idle": true
+    },
+    {
+      "actual_elapsed_ms": 2227,
+      "declared_duration_ms": 2230,
+      "event": "idle_return",
+      "frame_1based": 1,
+      "loop": 3,
+      "returned_to_idle": true
+    },
+    {
+      "actual_elapsed_ms": 2233,
+      "declared_duration_ms": 2230,
+      "event": "idle_return",
+      "frame_1based": 1,
+      "loop": 4,
+      "returned_to_idle": true
+    }
+  ],
+  "contact_events": [
+    {
+      "actual_elapsed_ms": 891,
+      "contact_opaque_pixels": 78,
+      "declared_elapsed_ms": 870,
+      "event": "contact",
+      "frame_1based": 10,
+      "loop": 1,
+      "phase": "contact",
+      "scope": "clean-frame alpha overlap with provisional dummy rectangle; not full combat collision",
+      "target_flash": true
+    },
+    {
+      "actual_elapsed_ms": 883,
+      "contact_opaque_pixels": 78,
+      "declared_elapsed_ms": 870,
+      "event": "contact",
+      "frame_1based": 10,
+      "loop": 2,
+      "phase": "contact",
+      "scope": "clean-frame alpha overlap with provisional dummy rectangle; not full combat collision",
+      "target_flash": true
+    },
+    {
+      "actual_elapsed_ms": 875,
+      "contact_opaque_pixels": 78,
+      "declared_elapsed_ms": 870,
+      "event": "contact",
+      "frame_1based": 10,
+      "loop": 3,
+      "phase": "contact",
+      "scope": "clean-frame alpha overlap with provisional dummy rectangle; not full combat collision",
+      "target_flash": true
+    },
+    {
+      "actual_elapsed_ms": 875,
+      "contact_opaque_pixels": 78,
+      "declared_elapsed_ms": 870,
+      "event": "contact",
+      "frame_1based": 10,
+      "loop": 4,
+      "phase": "contact",
+      "scope": "clean-frame alpha overlap with provisional dummy rectangle; not full combat collision",
+      "target_flash": true
+    }
+  ],
+  "contact_errors": [],
+  "three_ab_loops_plus_clean_trail_probe_completed": true,
+  "source_inputs": {
+    "godot/smear_comparison.gd": "6cdc03b1d78f3de13a3340f48092f2b7872ad6a91f01605566f78ab3f519d830",
+    "godot/project.godot": "99ebd8860a0e36272da097d53e177ff9538682513c1bae2129a24948e9185898",
+    "godot/main.tscn": "8f35ca3526c439b5af96083bc523332665744277a9577f4756dae10a68515531",
+    "exports/timing.json": "f7297dceb3719bf7d2fe2a42138ba32c51bc155cbd34473ae591cff1438d2484",
+    "exports/tote-clean-sheet.png": "28e85f4084275c906e514aecd902be939d4fe2924dd528f7f4858f35fec9d0b6",
+    "exports/tote-smear-sheet.png": "c40c6a8a73ba5698274e0ce3f8f17f5ff93ccc1af705747b7ecd7cc4e279c56a",
+    "source/tote-clean-material03.aseprite": "b29bc145f3159044e29857501056cc2194aa11dc022f43d884482bdc469bb77e",
+    "source/tote-smear-material03.aseprite": "c36f806b09e9898401a6ba6dc85ab543c40a0d3c0e519e752b5a516f715ace4f",
+    "exports/tote-prop-sheet.png": "50df53afaa47a24cc38ab46d4b72f636197373b5b886e023f0b5fc945729012a",
+    "exports/tote-prop-sheet.json": "4bb4dc52e36150a8d32ef63b131a20ffb02e98720bd20aadd68faf6762b24e04"
+  },
+  "source_inputs_fresh": true,
+  "runtime_trail_source": {
+    "enabled": false,
+    "fallback_rect_xywh": [
+      150,
+      45,
+      106,
+      100
+    ],
+    "full_character_fallback": false,
+    "label": "RUNTIME TRAIL (NOT DRAWN SMEAR)",
+    "lifetime_ms": 85,
+    "max_ghosts": 3,
+    "metadata_key": "trail_rects_xywh",
+    "scope": "isolated tote-owner export, then optional prop crop",
+    "spawn_transitions": "entering or leaving declared smear frames only"
+  },
+  "capture_hashes": {
+    "runtime-frame-18.png": "9a13430b9d0cf23a7d78c168a4e6fb06912466724f5d4e05d4c1d50ca539e4e1",
+    "runtime-frame-08.png": "cb60af3e0394e61206f708dd2b31c3ebd366fdf5925dcd3e05caf6587999c136",
+    "runtime-frame-09.png": "6d9675de4d9007d8d77b197c71409cf802b5ddf9666cc7f1ead3efdd6698d337",
+    "runtime-probe-clean-runtime-trail-smear-08.png": "23a9d54310a9059793234efe72c5f8bc0392f71f27d3664cb1bd3d1e15e922ed",
+    "runtime-comparison-clean-runtime-trail-start.png": "1ff932bc2c638865de41e3e07ca30659e33ca25f4de88b880232008980947d82",
+    "runtime-comparison-authored-smear-default.png": "58ba827e93cfe62a349af582a86a70160f446f20924ec3f6251d192562f22870",
+    "runtime-frame-07.png": "9f50c2d14a7dfa754aa2d53e9a7c324a251c155ccfaf526a923a29df4f02c45a",
+    "runtime-frame-13.png": "e79eef3c633a02f110dabb762e06b0534941fa72437dcca838b412b58a769722",
+    "runtime-return-01.png": "c59d4e913b3f8d9bb1a08bc771df9e5d4aaa0dc61315f85c35339340670e48aa",
+    "runtime-comparison-restored-authored-smear.png": "1090ffaec378adc7238f19c151614e1b212ef99784ab4296de417e703ad3bb12",
+    "runtime-frame-12.png": "3c1e7f0b418741670a07a954be6d373f5a047f3683b507c5a98071ecb22ccd73",
+    "runtime-frame-06.png": "75ec70d0268910173f979b22e93580d0211ef16f986311f92fb290703e455ad5",
+    "runtime-frame-10.png": "e014a96c451882a9e70f5ea4f525a31ddfc3cd90f0d90320fd38e9d01cfd145a",
+    "runtime-frame-04.png": "d0a33430047abcea91e9e42816a8b5cdd4460e8dec46433feb47b77639973ec3",
+    "runtime-return-02.png": "1e6d8cbc2a0724a238adbb9f61ae1122553dceec42daa77c34224b86e13bb50f",
+    "runtime-return-03.png": "1175fd8ed644a46b9ba70b41c6205cba26fe80ff0489d6db24c637b0da98da90",
+    "runtime-frame-05.png": "1a9af0cc205e281408a4dbfd1736d4c0308c622f63331d09fc32e9386ee53e00",
+    "runtime-frame-11.png": "6e1a280f62e22ad410c52060bf79a3c1dfa46aff494f610d69022637dedcca8a",
+    "runtime-frame-15.png": "7b00e3e33fca43cc288437349fb53162e83c2a3cc2532cb48168a6b20e0b7f6a",
+    "runtime-frame-01.png": "67d56a02502a06ab82e6c4ec126ad257610858320ce8f3421916eda91b4bde50",
+    "runtime-return-07.png": "1bef931b8639fdb4348214bd1fc39f582ab3ecef6478cd3bedc11af4e208a854",
+    "runtime-return-06.png": "c8131e4c6af8f0257fc665a5047aeaaec2ac0e30b6c24ffed7bde1672c6765fa",
+    "runtime-frame-00.png": "58ba827e93cfe62a349af582a86a70160f446f20924ec3f6251d192562f22870",
+    "runtime-frame-14.png": "3250e7567bb47fa9631cfe8dfbbf24f692ebaaa8a8cc6c636f1ce1e72954d558",
+    "runtime-frame-02.png": "a9b187a1eeb96b19abb0eaf11a2d4f12be500a07cb236e529565042eae2e14b0",
+    "runtime-frame-16.png": "3d82f23e1c91c01aa235c115b29a19bed2d9e64f1603c9ea2819ab8af5f485e5",
+    "runtime-return-04.png": "1090ffaec378adc7238f19c151614e1b212ef99784ab4296de417e703ad3bb12",
+    "runtime-return-05.png": "dffe6f2b4394fe74041e1d57d094bbf8ead05dd767bf40d3feab21ba5b2f5975",
+    "runtime-frame-17.png": "d5eb55ca0e29df6854fd3da565429af69b4550cc0ae9228d86154d436b14c316",
+    "runtime-frame-03.png": "2ec8d6f5f7d47f5bf9d08a32ad961de7e3ae8c583462a19f82edcf7adfa3cf15"
+  }
+}

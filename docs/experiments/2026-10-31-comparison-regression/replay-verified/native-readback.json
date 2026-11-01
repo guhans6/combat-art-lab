@@ -1,0 +1,7 @@
+{
+  "native_sha256": "1f6d68c6927bbcc594be9913156f74a6b0939aa373a9be9971dcd5be8ab52065",
+  "frame_1based": 9,
+  "candidate_png_sha256": "754cfbca68fe90cb70051983992369d40dd1545068d47f3404138d1e5d65f3cb",
+  "native_composite_equal_png": true,
+  "scope": "Read-only F9 composite equality; no native mutation or new animation approval."
+}

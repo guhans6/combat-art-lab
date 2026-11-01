@@ -1,0 +1,23 @@
+[mcp_servers.aseprite-ai-artist]
+command = "/Users/guhan/.local/bin/node"
+args = ["/Users/guhan/Guhan/Projects/combat-art-lab/.art-tools/pebbly/node_modules/@pebbly/aseprite-ai-artist/dist/cli.js", "serve", "--headless", "--aseprite", "/Applications/Aseprite.app/Contents/MacOS/aseprite"]
+cwd = "/Users/guhan/Guhan/Projects/combat-art-lab"
+startup_timeout_sec = 30
+tool_timeout_sec = 60
+
+[mcp_servers.aseprite-ai-artist.env]
+ASEPRITE_AI_ALLOW_LUA = "0"
+ASEPRITE_USER_FOLDER = "/Users/guhan/Guhan/Projects/combat-art-lab/.art-tools/pebbly/user-folder"
+
+
+[mcp_servers.godot-art-lab]
+command = "/Users/guhan/.local/bin/node"
+args = ["/Users/guhan/Guhan/Projects/combat-art-lab/.art-tools/godot-mcp/node_modules/@coding-solo/godot-mcp/build/index.js"]
+cwd = "/Users/guhan/Guhan/Projects/combat-art-lab"
+startup_timeout_sec = 30
+tool_timeout_sec = 60
+enabled_tools = ["get_godot_version", "list_projects", "get_project_info", "run_project", "get_debug_output", "stop_project"]
+
+[mcp_servers.godot-art-lab.env]
+GODOT_PATH = "/Applications/Godot.app/Contents/MacOS/Godot"
+DEBUG = "false"

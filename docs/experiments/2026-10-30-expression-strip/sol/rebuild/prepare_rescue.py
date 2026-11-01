@@ -1,0 +1,12 @@
+from pathlib import Path
+import json,hashlib,shutil
+R=Path(__file__).resolve().parents[1];L=R.parent/'luna';sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
+for name in ['neutral','subtle-smile','surprise']:
+ for ext in ['aseprite','png']:
+  p=L/f'passes/luna6-{name}.{ext}';shutil.copy2(p,R/'inputs'/p.name)
+inputs=json.loads((R/'inputs/preflight-input-hashes.json').read_text());inputs.update({str(p):sha(p) for p in (L/'passes').glob('luna6-*') if p.suffix in ['.aseprite','.png'] and '-3x' not in p.name});(R/'inputs/input-hashes.json').write_text(json.dumps(inputs,indent=2)+'\n')
+smile={'base':'inputs/luna6-subtle-smile.aseprite','native_owner':'08-hair-tie-and-hair','frame':1,'editable_regions_half_open':[[66,26,71,29]],'paletteLock':True,'reason':'Replace high-contrast detached squared U with a continuous warm low-contrast uneven shallow curve. No second mouth mark.','ops':[{'kind':'pixels','color':'#fda977','points':[{'x':68,'y':27}]},{'kind':'pixels','color':'#e48558','points':[{'x':66,'y':27}]},{'kind':'pixels','color':'#ca6a44','points':[{'x':67,'y':28},{'x':70,'y':27}]},{'kind':'pixels','color':'#c7744e','points':[{'x':68,'y':28},{'x':69,'y':28}]}]}
+surprise={'base':'inputs/luna6-surprise.aseprite','native_owner':'08-hair-tie-and-hair','frame':1,'editable_regions_half_open':[[61,18,74,24],[66,26,71,29]],'protected_landmarks':[[71,24]],'exact_rescue_write_coordinates':[[64,18],[65,18],[64,19],[65,19],[63,23],[71,22],[68,27],[69,27],[68,28],[69,28]],'paletteLock':True,'reason':'Authored new-expression inference: one-pixel near-brow arch lift inside visible skin, small lower-eye opening while preserving pupils/gaze/unequal eyes, compact 2x2 open mouth replacing hook. Original anchors identity, not surprise pose.','ops':[{'kind':'pixels','color':'#ab6545','points':[{'x':64,'y':18}]},{'kind':'pixels','color':'#69442d','points':[{'x':65,'y':18}]},{'kind':'pixels','color':'#fda977','points':[{'x':64,'y':19},{'x':65,'y':19}]},{'kind':'pixels','color':'#f8ece0','points':[{'x':63,'y':23}]},{'kind':'pixels','color':'#e7d5c7','points':[{'x':71,'y':22}]},{'kind':'pixels','color':'#744c40','points':[{'x':68,'y':27},{'x':69,'y':27},{'x':68,'y':28}]},{'kind':'pixels','color':'#b76a45','points':[{'x':69,'y':28}]}]}
+for name,v in [('subtle-smile',smile),('surprise',surprise)]:
+ v['save_as']=f'passes/sol-{name}-pass01.aseprite';(R/f'operations/{name}-pass01.json').write_text(json.dumps(v,indent=2)+'\n')
+print('Frozen rescue operations and original hashes; no native art written by this script.')

@@ -1,0 +1,36 @@
+{
+  "id": "040",
+  "time": "2026-10-26T10:31:45.099Z",
+  "call": {
+    "name": "select",
+    "arguments": {
+      "op": "rect",
+      "rect": {
+        "x": 60,
+        "y": 19,
+        "width": 12,
+        "height": 10
+      }
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "sprite=candidate.aseprite pixelCount=120 empty=false"
+      }
+    ],
+    "structuredContent": {
+      "sprite": "candidate.aseprite",
+      "bounds": {
+        "y": 19,
+        "width": 12,
+        "height": 10,
+        "x": 60
+      },
+      "pixelCount": 120,
+      "empty": false
+    }
+  },
+  "images": []
+}

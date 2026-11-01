@@ -1,0 +1,328 @@
+{
+  "layers": [
+    {
+      "isTilemap": false,
+      "cels": [
+        1
+      ],
+      "name": "00-wall-backing",
+      "index": 1,
+      "opacity": 255,
+      "isGroup": false,
+      "editable": true,
+      "blendMode": "3",
+      "visible": true
+    },
+    {
+      "isTilemap": false,
+      "cels": [
+        1
+      ],
+      "name": "01-window-backing",
+      "index": 2,
+      "opacity": 255,
+      "isGroup": false,
+      "editable": true,
+      "blendMode": "3",
+      "visible": true
+    },
+    {
+      "isTilemap": false,
+      "cels": [
+        1
+      ],
+      "name": "02-window-interior-left",
+      "index": 3,
+      "opacity": 255,
+      "isGroup": false,
+      "editable": true,
+      "blendMode": "3",
+      "visible": true
+    },
+    {
+      "isTilemap": false,
+      "cels": [
+        1
+      ],
+      "name": "03-window-interior-right",
+      "index": 4,
+      "opacity": 255,
+      "isGroup": false,
+      "editable": true,
+      "blendMode": "3",
+      "visible": true
+    },
+    {
+      "isTilemap": false,
+      "cels": [
+        1
+      ],
+      "name": "04-timber-frame",
+      "index": 5,
+      "opacity": 255,
+      "isGroup": false,
+      "editable": true,
+      "blendMode": "3",
+      "visible": true
+    },
+    {
+      "isTilemap": false,
+      "cels": [
+        1
+      ],
+      "name": "05-blue-awning",
+      "index": 6,
+      "opacity": 255,
+      "isGroup": false,
+      "editable": true,
+      "blendMode": "3",
+      "visible": true
+    },
+    {
+      "isTilemap": false,
+      "cels": [
+        1
+      ],
+      "name": "06-entry-steps",
+      "index": 7,
+      "opacity": 255,
+      "isGroup": false,
+      "editable": true,
+      "blendMode": "3",
+      "visible": true
+    },
+    {
+      "isTilemap": false,
+      "cels": [
+        1
+      ],
+      "name": "07-chalkboard",
+      "index": 8,
+      "opacity": 255,
+      "isGroup": false,
+      "editable": true,
+      "blendMode": "3",
+      "visible": true
+    },
+    {
+      "isTilemap": false,
+      "cels": [
+        1
+      ],
+      "name": "08-large-planter",
+      "index": 9,
+      "opacity": 255,
+      "isGroup": false,
+      "editable": true,
+      "blendMode": "3",
+      "visible": true
+    },
+    {
+      "isTilemap": false,
+      "cels": [
+        1
+      ],
+      "name": "09-small-planter",
+      "index": 10,
+      "opacity": 255,
+      "isGroup": false,
+      "editable": true,
+      "blendMode": "3",
+      "visible": true
+    },
+    {
+      "isTilemap": false,
+      "cels": [
+        1
+      ],
+      "name": "10-pendant-left-shell",
+      "index": 11,
+      "opacity": 255,
+      "isGroup": false,
+      "editable": true,
+      "blendMode": "3",
+      "visible": true
+    },
+    {
+      "isTilemap": false,
+      "cels": [
+        1
+      ],
+      "name": "11-pendant-right-shell",
+      "index": 12,
+      "opacity": 255,
+      "isGroup": false,
+      "editable": true,
+      "blendMode": "3",
+      "visible": true
+    },
+    {
+      "isTilemap": false,
+      "cels": [
+        1
+      ],
+      "name": "12-ceiling-left-emitter",
+      "index": 13,
+      "opacity": 255,
+      "isGroup": false,
+      "editable": true,
+      "blendMode": "3",
+      "visible": true
+    },
+    {
+      "isTilemap": false,
+      "cels": [
+        1
+      ],
+      "name": "13-ceiling-right-emitter",
+      "index": 14,
+      "opacity": 255,
+      "isGroup": false,
+      "editable": true,
+      "blendMode": "3",
+      "visible": true
+    },
+    {
+      "isTilemap": false,
+      "cels": [
+        1
+      ],
+      "name": "14-pendant-left-emitter",
+      "index": 15,
+      "opacity": 255,
+      "isGroup": false,
+      "editable": true,
+      "blendMode": "3",
+      "visible": true
+    },
+    {
+      "isTilemap": false,
+      "cels": [
+        1
+      ],
+      "name": "15-pendant-right-emitter",
+      "index": 16,
+      "opacity": 255,
+      "isGroup": false,
+      "editable": true,
+      "blendMode": "3",
+      "visible": true
+    }
+  ],
+  "width": 208,
+  "colorMode": "rgb",
+  "frameCount": 1,
+  "height": 240,
+  "name": "shop.aseprite",
+  "palette": [
+    "#00000000",
+    "#1a1f26",
+    "#1d2531",
+    "#202024",
+    "#212c4e",
+    "#21395e",
+    "#232635",
+    "#232a2e",
+    "#253575",
+    "#27313b",
+    "#282c2a",
+    "#2b2521",
+    "#2b2d57",
+    "#2b3342",
+    "#2c2c45",
+    "#2c3362",
+    "#2c3c7b",
+    "#2d3643",
+    "#2e3777",
+    "#2f3865",
+    "#2f48af",
+    "#302d29",
+    "#303e8f",
+    "#33313e",
+    "#33344b",
+    "#34383a",
+    "#3443a9",
+    "#3846b8",
+    "#3b3557",
+    "#3d322d",
+    "#3d344a",
+    "#3e3859",
+    "#3f2822",
+    "#3f3c27",
+    "#3f3d6b",
+    "#3f3e8b",
+    "#403d42",
+    "#41384d",
+    "#423c5a",
+    "#444567",
+    "#4447ad",
+    "#4c2c26",
+    "#4d3132",
+    "#4d3e80",
+    "#4e3925",
+    "#4e3b47",
+    "#4f4641",
+    "#502f28",
+    "#564bae",
+    "#5a3423",
+    "#5a3948",
+    "#5a4a2b",
+    "#5a4a65",
+    "#673930",
+    "#684846",
+    "#68502e",
+    "#685085",
+    "#694aa2",
+    "#695066",
+    "#6f505d",
+    "#6f587c",
+    "#715925",
+    "#733c2d",
+    "#7e4d81",
+    "#81565d",
+    "#823f2f",
+    "#854824",
+    "#865c61",
+    "#865f30",
+    "#875747",
+    "#876c95",
+    "#906d19",
+    "#945c55",
+    "#984b1c",
+    "#984c70",
+    "#996255",
+    "#9b5d38",
+    "#a74f46",
+    "#a86349",
+    "#aa6f29",
+    "#ac6b51",
+    "#ad5b22",
+    "#be7040",
+    "#bf702d",
+    "#c14f68",
+    "#c35c3b",
+    "#ca732f",
+    "#ce8128",
+    "#ce8350",
+    "#d67529",
+    "#e0822e",
+    "#e55b5a",
+    "#e6892e",
+    "#e79433",
+    "#f69929",
+    "#fba52b",
+    "#fbc85d"
+  ],
+  "filename": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/source/shop-modular-v01/shop.aseprite",
+  "frames": [
+    {
+      "number": 1,
+      "durationMs": 100
+    }
+  ],
+  "tags": [],
+  "activeLayer": "15-pendant-right-emitter",
+  "activeFrame": 1,
+  "id": 75,
+  "modified": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "042",
+  "time": "2026-10-26T10:31:45.101Z",
+  "call": {
+    "name": "select",
+    "arguments": {
+      "op": "none"
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "sprite=candidate.aseprite pixelCount=0 empty=true"
+      }
+    ],
+    "structuredContent": {
+      "sprite": "candidate.aseprite",
+      "pixelCount": 0,
+      "empty": true
+    }
+  },
+  "images": []
+}

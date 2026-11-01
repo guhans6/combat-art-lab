@@ -1,0 +1,27 @@
+{
+  "native": "source/recovery-grip-pass02.aseprite",
+  "png": "proof/recovery-grip-pass02.png",
+  "mask": "proof/allowed-mask.png",
+  "reopen_png": "proof/recovery-grip-pass02-reopen.png",
+  "allowed_layers_0based": [
+    2,
+    4,
+    5,
+    6
+  ],
+  "scope_record": "scope.json",
+  "frame_index_0based": 8,
+  "frame_1based": 9,
+  "native_sha256": "b2508d390693adaacc8f6db9ed9f3f129828a6071d20a1c4f9b6779c78009f38",
+  "operations": [
+    "operations/pass01.json",
+    "operations/pass02.json"
+  ],
+  "checks": "proof/pass02-checks.json",
+  "readback": "proof/attachment-readback.json",
+  "observations": "observations.md",
+  "status": "isolated pose candidate, no self-approval or animation propagation",
+  "remaining_correction_rounds": 1,
+  "MCP_lease": "closed; all artist-owned documents saved/closed",
+  "validate_tool": "unavailable in exposed inventory; independent checks used"
+}

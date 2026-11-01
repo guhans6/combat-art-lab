@@ -1,0 +1,50 @@
+{
+  "duplicate_local_edit_only": [
+    [
+      [
+        8,
+        5
+      ],
+      [
+        [
+          166,
+          112
+        ]
+      ]
+    ]
+  ],
+  "fresh_proof_reopen_matches": true,
+  "structural_to_detail_alpha_exact": true,
+  "detail_deltas": [
+    {
+      "frame": 8,
+      "layer": "06-continuous-handle-tension",
+      "recolored_pixels": 0
+    },
+    {
+      "frame": 8,
+      "layer": "04-tote-and-handles",
+      "recolored_pixels": 66
+    },
+    {
+      "frame": 9,
+      "layer": "06-continuous-handle-tension",
+      "recolored_pixels": 0
+    },
+    {
+      "frame": 9,
+      "layer": "04-tote-and-handles",
+      "recolored_pixels": 84
+    },
+    {
+      "frame": 10,
+      "layer": "06-continuous-handle-tension",
+      "recolored_pixels": 0
+    },
+    {
+      "frame": 10,
+      "layer": "04-tote-and-handles",
+      "recolored_pixels": 64
+    }
+  ]
+}

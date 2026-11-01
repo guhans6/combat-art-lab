@@ -1,0 +1,43 @@
+{
+  "all_parent_flagged_holes_opaque": true,
+  "flag_counts": {
+    "1": {
+      "checked": 0,
+      "remaining_transparent": []
+    },
+    "2": {
+      "checked": 0,
+      "remaining_transparent": []
+    },
+    "3": {
+      "checked": 61,
+      "remaining_transparent": []
+    },
+    "4": {
+      "checked": 54,
+      "remaining_transparent": []
+    },
+    "5": {
+      "checked": 54,
+      "remaining_transparent": []
+    },
+    "6": {
+      "checked": 64,
+      "remaining_transparent": []
+    },
+    "7": {
+      "checked": 0,
+      "remaining_transparent": []
+    },
+    "8": {
+      "checked": 0,
+      "remaining_transparent": []
+    }
+  },
+  "rest_exact": {
+    "1": true,
+    "2": true,
+    "7": true,
+    "8": true
+  }
+}

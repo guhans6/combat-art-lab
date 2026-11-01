@@ -1,0 +1,350 @@
+{
+  "status": "verified_offline_exports",
+  "native_dimensions": [
+    128,
+    192
+  ],
+  "expected_durations_ms": [
+    420,
+    140,
+    180,
+    220,
+    180,
+    560
+  ],
+  "total_duration_ms": 1700,
+  "frame_count": 6,
+  "frame_records": [
+    {
+      "native_frame": 1,
+      "path": "frames/frame-0.png",
+      "duration_ms": 420,
+      "sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+      "size": [
+        128,
+        192
+      ],
+      "opaque_pixels": 7844,
+      "alpha_bbox": [
+        32,
+        2,
+        104,
+        185
+      ],
+      "unique_rgba": 249
+    },
+    {
+      "native_frame": 2,
+      "path": "frames/frame-1.png",
+      "duration_ms": 140,
+      "sha256": "acc47b21834850c97bc612d0aed1dfb0d2232436689db9d8c58ea773e0948f85",
+      "size": [
+        128,
+        192
+      ],
+      "opaque_pixels": 7833,
+      "alpha_bbox": [
+        32,
+        1,
+        104,
+        185
+      ],
+      "unique_rgba": 249
+    },
+    {
+      "native_frame": 3,
+      "path": "frames/frame-2.png",
+      "duration_ms": 180,
+      "sha256": "aa97b0edc862eb74a5d63543575f16caa4805aaa4736a953f81706991793148e",
+      "size": [
+        128,
+        192
+      ],
+      "opaque_pixels": 7844,
+      "alpha_bbox": [
+        32,
+        1,
+        104,
+        185
+      ],
+      "unique_rgba": 249
+    },
+    {
+      "native_frame": 4,
+      "path": "frames/frame-3.png",
+      "duration_ms": 220,
+      "sha256": "53bae469c2ba37dae3b5c0e909e288ce8483a7e11e90d403fbf10b3b7e7187d7",
+      "size": [
+        128,
+        192
+      ],
+      "opaque_pixels": 7809,
+      "alpha_bbox": [
+        32,
+        1,
+        104,
+        185
+      ],
+      "unique_rgba": 249
+    },
+    {
+      "native_frame": 5,
+      "path": "frames/frame-4.png",
+      "duration_ms": 180,
+      "sha256": "ae34739dcf9f3141726531a4ffae31c2d013dbe15b81840be9d29b98b69f7f45",
+      "size": [
+        128,
+        192
+      ],
+      "opaque_pixels": 7809,
+      "alpha_bbox": [
+        32,
+        2,
+        104,
+        185
+      ],
+      "unique_rgba": 249
+    },
+    {
+      "native_frame": 6,
+      "path": "frames/frame-5.png",
+      "duration_ms": 560,
+      "sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+      "size": [
+        128,
+        192
+      ],
+      "opaque_pixels": 7844,
+      "alpha_bbox": [
+        32,
+        2,
+        104,
+        185
+      ],
+      "unique_rgba": 249
+    }
+  ],
+  "gif_records": {
+    "idle-1x.gif": {
+      "path": "proof/idle-1x.gif",
+      "sha256": "2253c7a1d4a9781ae9caedad09515b57ca7329299d6062c1ab7e50f1a7a911ba",
+      "size": [
+        128,
+        192
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        420,
+        140,
+        180,
+        220,
+        180,
+        560
+      ],
+      "expected_durations_ms": [
+        420,
+        140,
+        180,
+        220,
+        180,
+        560
+      ],
+      "durations_match": true,
+      "visible_frame_comparisons_to_native": [
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        }
+      ]
+    },
+    "idle-3x.gif": {
+      "path": "proof/idle-3x.gif",
+      "sha256": "7f18292752bf513438193b2d68667cb701111fa1a089fc589c02c211841d0272",
+      "size": [
+        384,
+        576
+      ],
+      "frame_count": 6,
+      "durations_ms": [
+        420,
+        140,
+        180,
+        220,
+        180,
+        560
+      ],
+      "expected_durations_ms": [
+        420,
+        140,
+        180,
+        220,
+        180,
+        560
+      ],
+      "durations_match": true,
+      "visible_frame_comparisons_to_native": [
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        },
+        {
+          "changed_pixels": 0,
+          "changed_percent": 0.0,
+          "mean_channel_abs_error": 0.0,
+          "max_pixel_channel_sum_error": 0
+        }
+      ]
+    }
+  },
+  "fresh_reopen_records": [
+    {
+      "native_frame": 1,
+      "path": "proof/reopen-frame-0.png",
+      "sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+      "match_exported_frame": {
+        "changed_pixels": 0,
+        "changed_percent": 0.0,
+        "mean_channel_abs_error": 0.0,
+        "max_pixel_channel_sum_error": 0
+      }
+    },
+    {
+      "native_frame": 2,
+      "path": "proof/reopen-frame-1.png",
+      "sha256": "acc47b21834850c97bc612d0aed1dfb0d2232436689db9d8c58ea773e0948f85",
+      "match_exported_frame": {
+        "changed_pixels": 0,
+        "changed_percent": 0.0,
+        "mean_channel_abs_error": 0.0,
+        "max_pixel_channel_sum_error": 0
+      }
+    },
+    {
+      "native_frame": 3,
+      "path": "proof/reopen-frame-2.png",
+      "sha256": "aa97b0edc862eb74a5d63543575f16caa4805aaa4736a953f81706991793148e",
+      "match_exported_frame": {
+        "changed_pixels": 0,
+        "changed_percent": 0.0,
+        "mean_channel_abs_error": 0.0,
+        "max_pixel_channel_sum_error": 0
+      }
+    },
+    {
+      "native_frame": 4,
+      "path": "proof/reopen-frame-3.png",
+      "sha256": "53bae469c2ba37dae3b5c0e909e288ce8483a7e11e90d403fbf10b3b7e7187d7",
+      "match_exported_frame": {
+        "changed_pixels": 0,
+        "changed_percent": 0.0,
+        "mean_channel_abs_error": 0.0,
+        "max_pixel_channel_sum_error": 0
+      }
+    },
+    {
+      "native_frame": 5,
+      "path": "proof/reopen-frame-4.png",
+      "sha256": "ae34739dcf9f3141726531a4ffae31c2d013dbe15b81840be9d29b98b69f7f45",
+      "match_exported_frame": {
+        "changed_pixels": 0,
+        "changed_percent": 0.0,
+        "mean_channel_abs_error": 0.0,
+        "max_pixel_channel_sum_error": 0
+      }
+    },
+    {
+      "native_frame": 6,
+      "path": "proof/reopen-frame-5.png",
+      "sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+      "match_exported_frame": {
+        "changed_pixels": 0,
+        "changed_percent": 0.0,
+        "mean_channel_abs_error": 0.0,
+        "max_pixel_channel_sum_error": 0
+      }
+    }
+  ],
+  "local_revision_proof": {
+    "duplicate_native": "revision/luna56-idle-duplicate.aseprite",
+    "revised_frame": "revision/revised-frame-3.png",
+    "source_frame_compared": "frames/frame-2.png",
+    "changed_composited_pixels": {
+      "changed_pixels": 1,
+      "changed_percent": 0.0041,
+      "mean_channel_abs_error": 0.003133,
+      "max_pixel_channel_sum_error": 308
+    },
+    "edit_point": {
+      "x": 55,
+      "y": 39,
+      "layer": "03-shirt",
+      "native_frame": 3
+    }
+  },
+  "native_validation_boundary": {
+    "status": "not_exposed_by_dedicated_server",
+    "note": "The preflight feature list advertised validate, but no callable validate tool was exposed in this session; sprite_info, tag/cel lists, read_pixels, look filmstrip/ascii, save/reopen and local export comparisons were used instead."
+  },
+  "contacts": [
+    "contacts/idle-contact.png",
+    "contacts/idle-contact-1x.png"
+  ]
+}

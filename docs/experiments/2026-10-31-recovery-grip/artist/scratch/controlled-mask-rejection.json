@@ -1,0 +1,32 @@
+{
+  "passed": false,
+  "failures": [
+    "protected_pixels_changed"
+  ],
+  "canvas": [
+    16,
+    16
+  ],
+  "changed_pixels": 2,
+  "outside_mask_changed_pixels": 1,
+  "outside_mask_examples_xy": [
+    [
+      9,
+      5
+    ]
+  ],
+  "changed_bbox_half_open": [
+    9,
+    4,
+    11,
+    6
+  ],
+  "visible_colors_before": 3,
+  "visible_colors_after": 2,
+  "new_visible_rgb_colors": [],
+  "partial_alpha_pixels": 0,
+  "visible_pixels": 8,
+  "silhouette_changed_pixels": 1,
+  "alpha_changed_pixels": 1,
+  "boundary": "PNG checks only; native layers, likeness and user approval are not certified."
+}

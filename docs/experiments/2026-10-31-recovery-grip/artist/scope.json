@@ -1,0 +1,169 @@
+{
+  "baseline": "docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/source/tote-attack-v03.aseprite",
+  "baseline_sha256": "1f6d68c6927bbcc594be9913156f74a6b0939aa373a9be9971dcd5be8ab52065",
+  "mode": "isolated F9 pose candidate; full 13-frame native copy, no animation propagation",
+  "frame_1based": 9,
+  "frame_index_0based": 8,
+  "mask_rectangles_half_open": [
+    [
+      163,
+      77,
+      184,
+      94
+    ],
+    [
+      158,
+      86,
+      192,
+      110
+    ]
+  ],
+  "allowed_layers_0based": [
+    2,
+    4,
+    5,
+    6
+  ],
+  "protected": "all other frames/cels, all other layers, all pixels outside mask, canvas/palette/timing/layer metadata",
+  "priority": "cuff to wrist to enclosed handle bundle to both rim attachments; compact shaped fingers, cream strap and warm skin material continuity",
+  "method": "native owner edits with dedicated MCP grid operations, read-only native decoder for checks; only exported F9 used for visual review",
+  "budget": "one main pass and at most two specific correction rounds",
+  "review_status": "awaiting candidate, independent review and user approval",
+  "layers": [
+    {
+      "name": "01-leg-base-and-shoes",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "02-jacket-shirt-and-sleeves",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "04a-underarm-and-waist-backing",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "03-head-neck-collar",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "04-tote-and-handles",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "05-loaded-grip-drawing",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "06-continuous-handle-tension",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    }
+  ],
+  "cels_F9": {
+    "01-leg-base-and-shoes": {
+      "geometry": [
+        0,
+        0,
+        320,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "type": 2
+    },
+    "02-jacket-shirt-and-sleeves": {
+      "geometry": [
+        0,
+        0,
+        320,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "type": 2
+    },
+    "04a-underarm-and-waist-backing": {
+      "geometry": [
+        0,
+        0,
+        320,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "type": 2
+    },
+    "03-head-neck-collar": {
+      "geometry": [
+        0,
+        0,
+        320,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "type": 2
+    },
+    "04-tote-and-handles": {
+      "geometry": [
+        0,
+        0,
+        320,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "type": 2
+    },
+    "05-loaded-grip-drawing": {
+      "geometry": [
+        0,
+        0,
+        320,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "type": 2
+    },
+    "06-continuous-handle-tension": {
+      "geometry": [
+        0,
+        0,
+        320,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "type": 2
+    }
+  }
+}

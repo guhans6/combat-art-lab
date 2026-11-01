@@ -1,0 +1,38 @@
+[
+  {
+    "path": "references/approved_concept_upload.png",
+    "sha256": "f519d27fcc9ce82499749ed6a86490463d5ed5d72d64f11c95051a71221ac9ed",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "alpha_bbox_xyxy": [
+      0,
+      0,
+      1448,
+      1086
+    ],
+    "visible_rgb_colors": 297428,
+    "fully_transparent_pixels": 0,
+    "fully_opaque_pixels": 1572528,
+    "partial_alpha_pixels": 0
+  },
+  {
+    "path": "references/supplied_sprite.png",
+    "sha256": "271f0b64ec8344ba66be907ba5f1513a6c82558b5cec0e9aeeea39e39e1a6c3e",
+    "dimensions": [
+      128,
+      192
+    ],
+    "alpha_bbox_xyxy": [
+      32,
+      2,
+      104,
+      186
+    ],
+    "visible_rgb_colors": 51,
+    "fully_transparent_pixels": 16871,
+    "fully_opaque_pixels": 7705,
+    "partial_alpha_pixels": 0
+  }
+]

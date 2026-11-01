@@ -1,0 +1,137 @@
+{
+  "before": "docs/experiments/2026-10-30-luna-fullbody-once/trial-b/inputs/candidate-b-baseline.png",
+  "after": "docs/experiments/2026-10-30-luna-fullbody-once/trial-b/proof/luna6-fullbody-cleanup-reopen.png",
+  "canvas": [
+    128,
+    192
+  ],
+  "visible_pixels_before": 7844,
+  "visible_pixels_after": 7844,
+  "alpha_changed_pixels": 0,
+  "partial_alpha_pixels_after": 0,
+  "changed_composite_pixels": 913,
+  "changed_bounds_xyxy": [
+    35,
+    5,
+    94,
+    182
+  ],
+  "new_visible_rgb_values_vs_baseline": [],
+  "off_palette_rgb_values": [],
+  "protected_regions": [
+    {
+      "name": "face, eyes, nose, and mouth",
+      "bbox": [
+        53,
+        16,
+        75,
+        38
+      ],
+      "changed_pixels": 0
+    }
+  ],
+  "review_regions": [
+    {
+      "name": "rear hair mass",
+      "bbox": [
+        38,
+        5,
+        52,
+        27
+      ],
+      "changed_pixels": 123
+    },
+    {
+      "name": "hair crown",
+      "bbox": [
+        50,
+        4,
+        74,
+        14
+      ],
+      "changed_pixels": 102
+    },
+    {
+      "name": "left jacket",
+      "bbox": [
+        35,
+        47,
+        53,
+        69
+      ],
+      "changed_pixels": 148
+    },
+    {
+      "name": "right jacket",
+      "bbox": [
+        80,
+        49,
+        96,
+        70
+      ],
+      "changed_pixels": 60
+    },
+    {
+      "name": "shirt",
+      "bbox": [
+        51,
+        43,
+        71,
+        71
+      ],
+      "changed_pixels": 89
+    },
+    {
+      "name": "tote",
+      "bbox": [
+        83,
+        80,
+        93,
+        99
+      ],
+      "changed_pixels": 37
+    },
+    {
+      "name": "left denim leg",
+      "bbox": [
+        43,
+        95,
+        62,
+        155
+      ],
+      "changed_pixels": 90
+    },
+    {
+      "name": "right denim leg",
+      "bbox": [
+        62,
+        100,
+        86,
+        156
+      ],
+      "changed_pixels": 186
+    },
+    {
+      "name": "left shoe",
+      "bbox": [
+        45,
+        174,
+        60,
+        181
+      ],
+      "changed_pixels": 50
+    },
+    {
+      "name": "right shoe",
+      "bbox": [
+        81,
+        176,
+        93,
+        182
+      ],
+      "changed_pixels": 46
+    }
+  ],
+  "png_constraints_pass": true,
+  "note": "This is a composite PNG check. It does not verify hidden layers, layer ownership, artistic quality or user approval. With --palette, RGB membership is checked against the exact palette read from the native MCP document."
+}

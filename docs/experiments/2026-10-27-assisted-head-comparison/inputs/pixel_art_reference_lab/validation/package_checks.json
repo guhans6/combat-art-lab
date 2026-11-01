@@ -1,0 +1,171 @@
+{
+  "json_files_parsed_before_this_report": 15,
+  "images_verified": [
+    {
+      "path": "references/approved_concept_upload.png",
+      "dimensions": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "path": "references/supplied_sprite.png",
+      "dimensions": [
+        128,
+        192
+      ]
+    },
+    {
+      "path": "references/supplied_head_comparison.png",
+      "dimensions": [
+        1664,
+        368
+      ]
+    },
+    {
+      "path": "examples/earlier_scale_comparison.png",
+      "dimensions": [
+        1512,
+        708
+      ]
+    },
+    {
+      "path": "examples/reference_head_croptest.png",
+      "dimensions": [
+        423,
+        326
+      ]
+    },
+    {
+      "path": "examples/sprite_head_croptest.png",
+      "dimensions": [
+        500,
+        340
+      ]
+    },
+    {
+      "path": "examples/seed_smoke/seed_84x63.png",
+      "dimensions": [
+        84,
+        63
+      ]
+    },
+    {
+      "path": "examples/seed_smoke/seed_56x42.png",
+      "dimensions": [
+        56,
+        42
+      ]
+    },
+    {
+      "path": "examples/seed_smoke/seed_112x84.png",
+      "dimensions": [
+        112,
+        84
+      ]
+    },
+    {
+      "path": "examples/seed_smoke/source_crop.png",
+      "dimensions": [
+        420,
+        315
+      ]
+    },
+    {
+      "path": "examples/previous_conversion/resolution_comparison.png",
+      "dimensions": [
+        1464,
+        432
+      ]
+    },
+    {
+      "path": "examples/previous_conversion/sampling_comparison.png",
+      "dimensions": [
+        1464,
+        432
+      ]
+    },
+    {
+      "path": "examples/previous_conversion/conversion_seed_84x63_32colors.png",
+      "dimensions": [
+        84,
+        63
+      ]
+    },
+    {
+      "path": "examples/previous_conversion/method_3_56x42.png",
+      "dimensions": [
+        56,
+        42
+      ]
+    },
+    {
+      "path": "examples/previous_conversion/source_head_crop.png",
+      "dimensions": [
+        420,
+        315
+      ]
+    },
+    {
+      "path": "examples/previous_conversion/method_2_56x42.png",
+      "dimensions": [
+        56,
+        42
+      ]
+    },
+    {
+      "path": "examples/previous_conversion/conversion_seed_56x42_32colors.png",
+      "dimensions": [
+        56,
+        42
+      ]
+    },
+    {
+      "path": "examples/previous_conversion/method_1_56x42.png",
+      "dimensions": [
+        56,
+        42
+      ]
+    },
+    {
+      "path": "examples/previous_conversion/method_4_56x42.png",
+      "dimensions": [
+        56,
+        42
+      ]
+    },
+    {
+      "path": "examples/previous_conversion/conversion_seed_112x84_32colors.png",
+      "dimensions": [
+        112,
+        84
+      ]
+    },
+    {
+      "path": "examples/normalization_smoke/base.png",
+      "dimensions": [
+        192,
+        224
+      ]
+    },
+    {
+      "path": "examples/normalization_smoke/shifted.png",
+      "dimensions": [
+        192,
+        224
+      ]
+    },
+    {
+      "path": "examples/normalization_smoke/sheet.png",
+      "dimensions": [
+        384,
+        224
+      ]
+    }
+  ],
+  "broken_relative_markdown_links": [],
+  "python_files_compiled": 4,
+  "original_uploads_preserved": true,
+  "historical_archive_members_preserved": true,
+  "new_art_or_runtime_validation": false
+}

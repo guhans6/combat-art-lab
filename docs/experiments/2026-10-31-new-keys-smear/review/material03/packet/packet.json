@@ -1,0 +1,851 @@
+{
+  "schema_version": 1,
+  "baseline_role": "retained before final material/wrist/root correction; rejected material treatment",
+  "registration_claim": "same256x208 grid; exact root/head/legs/prop except smearrearroot; anatomy-specific nativeowners checked separately",
+  "sources": [
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/comparison.json",
+      "role": "spec",
+      "sha256": "f843ef62cb6d49f42c938032e6c0581ddd2172bd465f86b09dbf23757f02518d"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/ownership-4.png",
+      "role": "F4 actualnativeownersandhide",
+      "sha256": "1b033f0b4ef6f2f78207da3ee03e8d7d5628c71202ef0ec5d1f39381392babd7"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/ownership-5.png",
+      "role": "F5 actualnativeownersandhide",
+      "sha256": "8137da3393d05b6423579b83f686a9ce8b798525f4b435f3a0b1bd04dc2c837f"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/ownership-6.png",
+      "role": "F6 actualnativeownersandhide",
+      "sha256": "bc542663629dc3309cdbe49e8e4896a388e3331f9c8d766561f74c5331b78b5e"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/ownership-8.png",
+      "role": "F8 actualnativeownersandhide",
+      "sha256": "20ff30f6d409c27224cdb01049443919d99392614ee0d168ec35c3ea6be8953e"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/ownership-9.png",
+      "role": "F9 actualnativeownersandhide",
+      "sha256": "2508175c3570808e8e60cbc8acf595860b2969a5614d55d83d1452e70ee744c5"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/ownership-14.png",
+      "role": "F14 actualnativeownersandhide",
+      "sha256": "3bfeb6fb0e8c067ebe9eda25a27de456c753dd1d3bea22a699840c8491ab12bd"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/ownership-15.png",
+      "role": "F15 actualnativeownersandhide",
+      "sha256": "bcb179969d58044f6fa91241d75cc336c8a53a20676555d2a09bfd428f4e1340"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/ownership-16.png",
+      "role": "F16 actualnativeownersandhide",
+      "sha256": "75f5e3f144176d8c5084df609fc42103bd46004540ecdeef6b241de9705b4cd6"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/material-before-after.png",
+      "role": "allaffectednativecomposites matchedgrid",
+      "sha256": "f0f2a4cdf38843185b4a081de74837c7350f49c18aab68041451b6db1d3991fb"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/source/tote-smear-material03.aseprite",
+      "role": "candidate native",
+      "sha256": "c36f806b09e9898401a6ba6dc85ab543c40a0d3c0e519e752b5a516f715ace4f"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/source/tote-smear.aseprite",
+      "role": "baseline native",
+      "sha256": "e9645c42f8eb0174525ca0e2aca24271229d70bef2f69bca21b4d4716eb8aa6a"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/proof/material03-smear-sheet.png",
+      "role": "actual MCP sheet",
+      "sha256": "c40c6a8a73ba5698274e0ce3f8f17f5ff93ccc1af705747b7ecd7cc4e279c56a"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/recipe/material03-scope.json",
+      "role": "scope and exact arm roles",
+      "sha256": "5018ec0de71058e9b9a23aa4da53d5b2bd1001f27cfe7bb370bb0e50bd768adc"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/before-4.png",
+      "role": "F4 baseline",
+      "sha256": "b4ee0ab1825deedfccc3864fbd3195212e4081ef65839652e6d3d6a178b366d2"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/after-4.png",
+      "role": "F4 candidate",
+      "sha256": "b9e38be1261dd8002054afca506e920e512d6fc08c01c13e09b479a723c030dd"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/mask-4.png",
+      "role": "F4 allowed edit mask",
+      "sha256": "7516084921f828706daf52fe4db0c6010a0316eee26b3169682012dcc83ee263"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/before-5.png",
+      "role": "F5 baseline",
+      "sha256": "61dc84bae9fa611fbf9257fdee2a9629420dbef3a1ee6b8cb7e7553d2cbba0eb"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/after-5.png",
+      "role": "F5 candidate",
+      "sha256": "e6ff3caea70c7d57c0e3760032dbfad35b1f17aed2bdc40790243592977ec6d1"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/mask-5.png",
+      "role": "F5 allowed edit mask",
+      "sha256": "f143dfe6f9b37a3f0ba72913939fbef925b0b4c08fcb3bab8a9efb683a11cc39"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/before-6.png",
+      "role": "F6 baseline",
+      "sha256": "17edc8530032d1d6a69b03a8b3b167558bf97daf2ca25665c54e261c51cb40b7"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/after-6.png",
+      "role": "F6 candidate",
+      "sha256": "664450e1bc4d1d7a3c04c2695b2dc9d9d22a2821ec2572beaf29ae655f3b0242"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/mask-6.png",
+      "role": "F6 allowed edit mask",
+      "sha256": "085e8c220b396d4ec73ff356d1aa288b948ff9dbff9d2ed20384da9618bf9999"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/before-8.png",
+      "role": "F8 baseline",
+      "sha256": "2e83faf51b6a8dcf4a5522a9301792bcde74a0c53ad172ffbb7d180d09fe62b6"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/after-8.png",
+      "role": "F8 candidate",
+      "sha256": "515d5d9653879d30f29d7dd0bbc9e843e9e59ee47c9a104c69aeb31bd63bf643"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/mask-8.png",
+      "role": "F8 allowed edit mask",
+      "sha256": "657e40d856b3a5dedf5a545ce22a484d3bec04fddeb3c6acf92fc9ef93649a15"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/before-9.png",
+      "role": "F9 baseline",
+      "sha256": "118ba383902a289e344d6ff90bd8594a274d36d9a9cdea5ad2c99a0d08798893"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/after-9.png",
+      "role": "F9 candidate",
+      "sha256": "bc304ada90c5316b584d177c88799df59ca2b33eb2c4f6c5d96c5b81d424a0a5"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/mask-9.png",
+      "role": "F9 allowed edit mask",
+      "sha256": "8e39aaf87f8f61ec3245041915b47db6f901d3d0ef965013f5c79261be816072"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/before-14.png",
+      "role": "F14 baseline",
+      "sha256": "a87e6b7ef754ecbc1bf4f13b0e62edc580689400f0f5dab4bd68243542a2811d"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/after-14.png",
+      "role": "F14 candidate",
+      "sha256": "02393b5dc35306386c477e6a3ee87c0ed514856390e8214cd8cdf92b93be0000"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/mask-14.png",
+      "role": "F14 allowed edit mask",
+      "sha256": "079c58ae49449acd0012b1e2bbc7647021c3cab97e03714481889cc185b44602"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/before-15.png",
+      "role": "F15 baseline",
+      "sha256": "27beae0c97959714062628e38ef97db8ab2233ada36177e5f9c2d299f467a922"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/after-15.png",
+      "role": "F15 candidate",
+      "sha256": "17ee4ef0ddefb3279ca69f39c5968ec5d69b45c90d6b1d2f78f4ced4c0c5eacf"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/mask-15.png",
+      "role": "F15 allowed edit mask",
+      "sha256": "f143dfe6f9b37a3f0ba72913939fbef925b0b4c08fcb3bab8a9efb683a11cc39"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/before-16.png",
+      "role": "F16 baseline",
+      "sha256": "f2532760a082d626f3fdfad31c26e76c27fdddc4597cca23a0e47d5f71986e85"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/after-16.png",
+      "role": "F16 candidate",
+      "sha256": "4bd762948444f119d6e605d74a445ab67c575627f8ccb751c29b325dd116b9ba"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/mask-16.png",
+      "role": "F16 allowed edit mask",
+      "sha256": "7516084921f828706daf52fe4db0c6010a0316eee26b3169682012dcc83ee263"
+    }
+  ],
+  "sheets": [
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/packet/frame-000-region-00.png",
+      "sha256": "a5922989603a26d8a8b432eb167acd0d85eea80217e35066d5f3f00ead939bde"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/packet/frame-001-region-00.png",
+      "sha256": "24725f70ce437f77156e570415a537d3ac12e404cebc8f0dd719040f8240b9c3"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/packet/frame-002-region-00.png",
+      "sha256": "48bdb177487c6ac26d7daba95e694ee4b46d76589f0a29300d19d716ccf87021"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/packet/frame-003-region-00.png",
+      "sha256": "b9e06f5a7da761b3d09e93fd47bb2b99695d8e0d7715a7c2fe0f5ca2ffde9238"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/packet/frame-004-region-00.png",
+      "sha256": "ca4a67f38a18d66972e40403d7086d51045f58944c783842ced6d3e92af47e0c"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/packet/frame-005-region-00.png",
+      "sha256": "e4f1341ff2e128a5d6a29845b11403eb76d6e294794e9c373af44ad48cc0d56a"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/packet/frame-006-region-00.png",
+      "sha256": "02504d4dba1264842a950dd8dfb8189d0ed2c2a12cee33231643740df538af5d"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/packet/frame-007-region-00.png",
+      "sha256": "77b2a2b8868146f6508ecf9bbbd565523b1972391bf0578121e785c7651f0626"
+    }
+  ],
+  "frames": [
+    {
+      "id": "F4",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          256,
+          208
+        ],
+        "changed_pixels": 981,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          104,
+          39,
+          174,
+          80
+        ],
+        "visible_colors_before": 222,
+        "visible_colors_after": 223,
+        "new_visible_rgb_colors": [
+          [
+            186,
+            128,
+            95
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 7975,
+        "silhouette_changed_pixels": 31,
+        "alpha_changed_pixels": 31,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "b4ee0ab1825deedfccc3864fbd3195212e4081ef65839652e6d3d6a178b366d2",
+          "after": "b9e38be1261dd8002054afca506e920e512d6fc08c01c13e09b479a723c030dd",
+          "mask": "7516084921f828706daf52fe4db0c6010a0316eee26b3169682012dcc83ee263"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "sleeves-wrists-grip-through-root-context",
+          "crop_xyxy_half_open": [
+            85,
+            32,
+            185,
+            123
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/packet/frame-000-region-00.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F5",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          256,
+          208
+        ],
+        "changed_pixels": 930,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          104,
+          41,
+          150,
+          89
+        ],
+        "visible_colors_before": 213,
+        "visible_colors_after": 218,
+        "new_visible_rgb_colors": [
+          [
+            46,
+            41,
+            20
+          ],
+          [
+            85,
+            74,
+            44
+          ],
+          [
+            114,
+            105,
+            65
+          ],
+          [
+            151,
+            100,
+            72
+          ],
+          [
+            186,
+            128,
+            95
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 7345,
+        "silhouette_changed_pixels": 11,
+        "alpha_changed_pixels": 11,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "61dc84bae9fa611fbf9257fdee2a9629420dbef3a1ee6b8cb7e7553d2cbba0eb",
+          "after": "e6ff3caea70c7d57c0e3760032dbfad35b1f17aed2bdc40790243592977ec6d1",
+          "mask": "f143dfe6f9b37a3f0ba72913939fbef925b0b4c08fcb3bab8a9efb683a11cc39"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "sleeves-wrists-grip-through-root-context",
+          "crop_xyxy_half_open": [
+            85,
+            32,
+            185,
+            123
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/packet/frame-001-region-00.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F6",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          256,
+          208
+        ],
+        "changed_pixels": 985,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          101,
+          42,
+          147,
+          96
+        ],
+        "visible_colors_before": 211,
+        "visible_colors_after": 217,
+        "new_visible_rgb_colors": [
+          [
+            46,
+            41,
+            20
+          ],
+          [
+            85,
+            74,
+            44
+          ],
+          [
+            112,
+            102,
+            62
+          ],
+          [
+            114,
+            105,
+            65
+          ],
+          [
+            115,
+            100,
+            81
+          ],
+          [
+            186,
+            128,
+            95
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 7461,
+        "silhouette_changed_pixels": 1,
+        "alpha_changed_pixels": 1,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "17edc8530032d1d6a69b03a8b3b167558bf97daf2ca25665c54e261c51cb40b7",
+          "after": "664450e1bc4d1d7a3c04c2695b2dc9d9d22a2821ec2572beaf29ae655f3b0242",
+          "mask": "085e8c220b396d4ec73ff356d1aa288b948ff9dbff9d2ed20384da9618bf9999"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "sleeves-wrists-grip-through-root-context",
+          "crop_xyxy_half_open": [
+            85,
+            32,
+            185,
+            123
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/packet/frame-002-region-00.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F8",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          256,
+          208
+        ],
+        "changed_pixels": 979,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          101,
+          42,
+          147,
+          97
+        ],
+        "visible_colors_before": 204,
+        "visible_colors_after": 212,
+        "new_visible_rgb_colors": [
+          [
+            36,
+            35,
+            26
+          ],
+          [
+            45,
+            44,
+            34
+          ],
+          [
+            46,
+            41,
+            20
+          ],
+          [
+            59,
+            53,
+            28
+          ],
+          [
+            85,
+            74,
+            44
+          ],
+          [
+            112,
+            102,
+            62
+          ],
+          [
+            114,
+            105,
+            65
+          ],
+          [
+            186,
+            128,
+            95
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 8053,
+        "silhouette_changed_pixels": 0,
+        "alpha_changed_pixels": 0,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "2e83faf51b6a8dcf4a5522a9301792bcde74a0c53ad172ffbb7d180d09fe62b6",
+          "after": "515d5d9653879d30f29d7dd0bbc9e843e9e59ee47c9a104c69aeb31bd63bf643",
+          "mask": "657e40d856b3a5dedf5a545ce22a484d3bec04fddeb3c6acf92fc9ef93649a15"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "sleeves-wrists-grip-through-root-context",
+          "crop_xyxy_half_open": [
+            85,
+            32,
+            185,
+            123
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/packet/frame-003-region-00.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F9",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          256,
+          208
+        ],
+        "changed_pixels": 946,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          95,
+          44,
+          161,
+          99
+        ],
+        "visible_colors_before": 206,
+        "visible_colors_after": 213,
+        "new_visible_rgb_colors": [
+          [
+            36,
+            35,
+            26
+          ],
+          [
+            45,
+            44,
+            34
+          ],
+          [
+            46,
+            41,
+            20
+          ],
+          [
+            112,
+            102,
+            62
+          ],
+          [
+            114,
+            105,
+            65
+          ],
+          [
+            151,
+            100,
+            72
+          ],
+          [
+            186,
+            128,
+            95
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 9135,
+        "silhouette_changed_pixels": 50,
+        "alpha_changed_pixels": 50,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "118ba383902a289e344d6ff90bd8594a274d36d9a9cdea5ad2c99a0d08798893",
+          "after": "bc304ada90c5316b584d177c88799df59ca2b33eb2c4f6c5d96c5b81d424a0a5",
+          "mask": "8e39aaf87f8f61ec3245041915b47db6f901d3d0ef965013f5c79261be816072"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "sleeves-wrists-grip-through-root-context",
+          "crop_xyxy_half_open": [
+            85,
+            32,
+            185,
+            123
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/packet/frame-004-region-00.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F14",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          256,
+          208
+        ],
+        "changed_pixels": 923,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          101,
+          41,
+          153,
+          88
+        ],
+        "visible_colors_before": 207,
+        "visible_colors_after": 213,
+        "new_visible_rgb_colors": [
+          [
+            36,
+            35,
+            26
+          ],
+          [
+            45,
+            44,
+            34
+          ],
+          [
+            46,
+            41,
+            20
+          ],
+          [
+            112,
+            102,
+            62
+          ],
+          [
+            114,
+            105,
+            65
+          ],
+          [
+            186,
+            128,
+            95
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 7935,
+        "silhouette_changed_pixels": 11,
+        "alpha_changed_pixels": 11,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "a87e6b7ef754ecbc1bf4f13b0e62edc580689400f0f5dab4bd68243542a2811d",
+          "after": "02393b5dc35306386c477e6a3ee87c0ed514856390e8214cd8cdf92b93be0000",
+          "mask": "079c58ae49449acd0012b1e2bbc7647021c3cab97e03714481889cc185b44602"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "sleeves-wrists-grip-through-root-context",
+          "crop_xyxy_half_open": [
+            85,
+            32,
+            185,
+            123
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/packet/frame-005-region-00.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F15",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          256,
+          208
+        ],
+        "changed_pixels": 930,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          104,
+          41,
+          150,
+          89
+        ],
+        "visible_colors_before": 208,
+        "visible_colors_after": 213,
+        "new_visible_rgb_colors": [
+          [
+            46,
+            41,
+            20
+          ],
+          [
+            85,
+            74,
+            44
+          ],
+          [
+            114,
+            105,
+            65
+          ],
+          [
+            151,
+            100,
+            72
+          ],
+          [
+            186,
+            128,
+            95
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 7165,
+        "silhouette_changed_pixels": 8,
+        "alpha_changed_pixels": 8,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "27beae0c97959714062628e38ef97db8ab2233ada36177e5f9c2d299f467a922",
+          "after": "17ee4ef0ddefb3279ca69f39c5968ec5d69b45c90d6b1d2f78f4ced4c0c5eacf",
+          "mask": "f143dfe6f9b37a3f0ba72913939fbef925b0b4c08fcb3bab8a9efb683a11cc39"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "sleeves-wrists-grip-through-root-context",
+          "crop_xyxy_half_open": [
+            85,
+            32,
+            185,
+            123
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/packet/frame-006-region-00.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F16",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          256,
+          208
+        ],
+        "changed_pixels": 981,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          104,
+          39,
+          174,
+          80
+        ],
+        "visible_colors_before": 221,
+        "visible_colors_after": 222,
+        "new_visible_rgb_colors": [
+          [
+            186,
+            128,
+            95
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 7671,
+        "silhouette_changed_pixels": 31,
+        "alpha_changed_pixels": 31,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "f2532760a082d626f3fdfad31c26e76c27fdddc4597cca23a0e47d5f71986e85",
+          "after": "4bd762948444f119d6e605d74a445ab67c575627f8ccb751c29b325dd116b9ba",
+          "mask": "7516084921f828706daf52fe4db0c6010a0316eee26b3169682012dcc83ee263"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "sleeves-wrists-grip-through-root-context",
+          "crop_xyxy_half_open": [
+            85,
+            32,
+            185,
+            123
+          ],
+          "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/review/material03/packet/frame-007-region-00.png"
+        }
+      ],
+      "mechanical_passed": true
+    }
+  ],
+  "zoom": 3,
+  "resampling": "integer nearest-neighbor",
+  "matte": "checkerboard RGB49,49,61 / 61,61,73",
+  "mechanical_passed": true,
+  "visual_acceptance": "pending",
+  "user_approval": "pending",
+  "limits": "Coverage means pixels are available for inspection. Scope/coverage cannot judge anatomy, occlusion, grip or improvement. Registration and affected-frame inventory are caller declarations. Bound native/report hashes do not prove export correspondence or hidden-layer integrity. Source or packet changes require fresh review."
+}

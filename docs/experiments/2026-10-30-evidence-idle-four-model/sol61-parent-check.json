@@ -1,0 +1,143 @@
+{
+  "status": "technical_delivery_pass",
+  "native": "sol61/pass01.aseprite",
+  "native_sha256": "e93d058a373ef5329ee862523a966e6db225ee0f5ba6fafd294a574b34b6c6c5",
+  "frame_count": 8,
+  "durations_ms": [
+    1100,
+    180,
+    120,
+    360,
+    220,
+    160,
+    240,
+    1000
+  ],
+  "cycle_ms": 3380,
+  "gif_native_frame_indices_0based": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "native_export_exact": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "rest_frames_1based": [
+    1,
+    8
+  ],
+  "native_palette_layer_metadata_exact": true,
+  "declared_added_layers": [],
+  "shoes_and_hidden_guide_preserved": true,
+  "gifs": {
+    "1x": {
+      "sha256": "eb0df4d85b9125703fba30c2960dfe1af4a3049b004cd97c68ac9ff42ed88845",
+      "encoded_frames": 7,
+      "durations_ms": [
+        1100,
+        180,
+        120,
+        580,
+        160,
+        240,
+        1000
+      ],
+      "cycle_ms": 3380,
+      "loop": 0,
+      "matte_rgb": [
+        96,
+        96,
+        96
+      ],
+      "timeline_equals_native": true
+    },
+    "3x": {
+      "sha256": "67fbf69b4c6456a4cc91399b30d124d7837a743cae75db22ce1757d0bb96472e",
+      "encoded_frames": 7,
+      "durations_ms": [
+        1100,
+        180,
+        120,
+        580,
+        160,
+        240,
+        1000
+      ],
+      "cycle_ms": 3380,
+      "loop": 0,
+      "matte_rgb": [
+        96,
+        96,
+        96
+      ],
+      "timeline_equals_native": true
+    }
+  },
+  "alpha": {
+    "passed": true,
+    "frames": [
+      {
+        "frame_1based": 1,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 2,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 3,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 4,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 5,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 6,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 7,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      },
+      {
+        "frame_1based": 8,
+        "binary_alpha": true,
+        "new_enclosed_body_holes_xy": []
+      }
+    ],
+    "inherited_body_holes_xy": [
+      [
+        63,
+        116
+      ]
+    ],
+    "limits": "Enclosed body-hole/binary-alpha check only; moving silhouette and intentional head/hair gaps need scoped review."
+  },
+  "record": "sol61/record.md",
+  "verification": "sol61/verification.json",
+  "limits": "No automatic artistic verdict, temporal observation, or engine proof."
+}

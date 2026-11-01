@@ -1,0 +1,104 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://shop/shop.gd" id="1"]
+[ext_resource type="Script" path="res://shop/part_sprite.gd" id="2"]
+
+[node name="ShopFacade" type="Node2D"]
+texture_filter = 1
+script = ExtResource("1")
+
+[node name="P00_wall_backing" type="Sprite2D" parent="."]
+position = Vector2(0, 12)
+centered = false
+script = ExtResource("2")
+image_path = "res://shop/textures/00-wall-backing.png"
+
+[node name="P01_window_backing" type="Sprite2D" parent="."]
+position = Vector2(0, 14)
+centered = false
+script = ExtResource("2")
+image_path = "res://shop/textures/01-window-backing.png"
+
+[node name="P02_window_interior_left" type="Sprite2D" parent="."]
+position = Vector2(0, 15)
+centered = false
+script = ExtResource("2")
+image_path = "res://shop/textures/02-window-interior-left.png"
+
+[node name="P03_window_interior_right" type="Sprite2D" parent="."]
+position = Vector2(88, 42)
+centered = false
+script = ExtResource("2")
+image_path = "res://shop/textures/03-window-interior-right.png"
+
+[node name="P04_timber_frame" type="Sprite2D" parent="."]
+position = Vector2(20, 18)
+centered = false
+script = ExtResource("2")
+image_path = "res://shop/textures/04-timber-frame.png"
+
+[node name="P05_blue_awning" type="Sprite2D" parent="."]
+position = Vector2(0, 0)
+centered = false
+script = ExtResource("2")
+image_path = "res://shop/textures/05-blue-awning.png"
+
+[node name="P06_entry_steps" type="Sprite2D" parent="."]
+position = Vector2(0, 197)
+centered = false
+script = ExtResource("2")
+image_path = "res://shop/textures/06-entry-steps.png"
+
+[node name="P07_chalkboard" type="Sprite2D" parent="."]
+position = Vector2(0, 135)
+centered = false
+script = ExtResource("2")
+image_path = "res://shop/textures/07-chalkboard.png"
+
+[node name="P08_large_planter" type="Sprite2D" parent="."]
+position = Vector2(31, 119)
+centered = false
+script = ExtResource("2")
+image_path = "res://shop/textures/08-large-planter.png"
+
+[node name="P09_small_planter" type="Sprite2D" parent="."]
+position = Vector2(29, 174)
+centered = false
+script = ExtResource("2")
+image_path = "res://shop/textures/09-small-planter.png"
+
+[node name="P10_pendant_left_shell" type="Sprite2D" parent="."]
+position = Vector2(34, 30)
+centered = false
+script = ExtResource("2")
+image_path = "res://shop/textures/10-pendant-left-shell.png"
+
+[node name="P11_pendant_right_shell" type="Sprite2D" parent="."]
+position = Vector2(87, 63)
+centered = false
+script = ExtResource("2")
+image_path = "res://shop/textures/11-pendant-right-shell.png"
+
+[node name="P12_ceiling_left_emitter" type="Sprite2D" parent="."]
+position = Vector2(31, 7)
+centered = false
+script = ExtResource("2")
+image_path = "res://shop/textures/12-ceiling-left-emitter.png"
+
+[node name="P13_ceiling_right_emitter" type="Sprite2D" parent="."]
+position = Vector2(98, 39)
+centered = false
+script = ExtResource("2")
+image_path = "res://shop/textures/13-ceiling-right-emitter.png"
+
+[node name="P14_pendant_left_emitter" type="Sprite2D" parent="."]
+position = Vector2(44, 60)
+centered = false
+script = ExtResource("2")
+image_path = "res://shop/textures/14-pendant-left-emitter.png"
+
+[node name="P15_pendant_right_emitter" type="Sprite2D" parent="."]
+position = Vector2(93, 77)
+centered = false
+script = ExtResource("2")
+image_path = "res://shop/textures/15-pendant-right-emitter.png"

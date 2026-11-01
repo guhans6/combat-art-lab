@@ -1,0 +1,84 @@
+{
+  "size": [
+    768,
+    606
+  ],
+  "frames": 8,
+  "loop": 0,
+  "header_px": 30,
+  "per_frame": [
+    {
+      "duration": 600,
+      "baseline_half_exact": false,
+      "candidate_half_exact": false,
+      "baseline_different_display_pixels": 405,
+      "baseline_max_channel_difference": 13,
+      "candidate_different_display_pixels": 405,
+      "candidate_max_channel_difference": 13
+    },
+    {
+      "duration": 350,
+      "baseline_half_exact": false,
+      "candidate_half_exact": false,
+      "baseline_different_display_pixels": 414,
+      "baseline_max_channel_difference": 13,
+      "candidate_different_display_pixels": 405,
+      "candidate_max_channel_difference": 13
+    },
+    {
+      "duration": 550,
+      "baseline_half_exact": false,
+      "candidate_half_exact": false,
+      "baseline_different_display_pixels": 468,
+      "baseline_max_channel_difference": 13,
+      "candidate_different_display_pixels": 459,
+      "candidate_max_channel_difference": 13
+    },
+    {
+      "duration": 600,
+      "baseline_half_exact": false,
+      "candidate_half_exact": false,
+      "baseline_different_display_pixels": 414,
+      "baseline_max_channel_difference": 13,
+      "candidate_different_display_pixels": 405,
+      "candidate_max_channel_difference": 13
+    },
+    {
+      "duration": 50,
+      "baseline_half_exact": false,
+      "candidate_half_exact": false,
+      "baseline_different_display_pixels": 360,
+      "baseline_max_channel_difference": 13,
+      "candidate_different_display_pixels": 360,
+      "candidate_max_channel_difference": 13
+    },
+    {
+      "duration": 80,
+      "baseline_half_exact": false,
+      "candidate_half_exact": false,
+      "baseline_different_display_pixels": 252,
+      "baseline_max_channel_difference": 13,
+      "candidate_different_display_pixels": 252,
+      "candidate_max_channel_difference": 13
+    },
+    {
+      "duration": 50,
+      "baseline_half_exact": false,
+      "candidate_half_exact": false,
+      "baseline_different_display_pixels": 360,
+      "baseline_max_channel_difference": 13,
+      "candidate_different_display_pixels": 360,
+      "candidate_max_channel_difference": 13
+    },
+    {
+      "duration": 250,
+      "baseline_half_exact": false,
+      "candidate_half_exact": false,
+      "baseline_different_display_pixels": 405,
+      "baseline_max_channel_difference": 13,
+      "candidate_different_display_pixels": 405,
+      "candidate_max_channel_difference": 13
+    }
+  ],
+  "watched_actual_speed": false
+}

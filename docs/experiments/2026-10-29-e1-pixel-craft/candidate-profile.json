@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "mode": "local pixel-craft correction",
+  "control": "inputs/control-a.aseprite",
+  "canvas": [120, 112],
+  "allowed_layer": "01-jacket",
+  "allowed_coordinates_zero_based": [
+    [29, 91], [30, 91], [31, 92], [32, 92]
+  ],
+  "protected_layers": [
+    "02-shirt", "03-neck-ear", "04-rear-hair", "05-face",
+    "06-crown-fringe", "07-hair-tie", "08-eyes-brows", "09-mouth"
+  ],
+  "protected_within_jacket": "every coordinate outside allowed_coordinates_zero_based",
+  "palette_rule": "existing frozen E0 palette only; no alpha or silhouette change",
+  "pass_budget": {"candidate_passes": 1, "repair_passes": 1, "editor_calls_maximum": 80}
+}

@@ -1,0 +1,36 @@
+{
+  "pass": "pass-02",
+  "model": "gpt-5.6-luna",
+  "effort": "max",
+  "document": "passes/pass-02.aseprite",
+  "sprite_id_during_edit": "#140",
+  "backend": {
+    "aseprite": "1.3.18.6-dev",
+    "extension": "0.8.2",
+    "mode": "headless"
+  },
+  "source_baseline": "input/shared-source-seed-baseline.aseprite",
+  "protected_layer": "shared-source-seed",
+  "correction_layer": "pass-02-face-correction",
+  "mask": "M-face-expression x=54..83, y=19..48",
+  "palette_lock": true,
+  "technical_proof": {"x": 64, "y": 21, "color": "#030202"},
+  "operations": [
+    {"kind": "pixels", "points": [
+      {"x": 64, "y": 21, "color": "#030202"},
+      {"x": 71, "y": 20, "color": "#fef8ee"},
+      {"x": 72, "y": 20, "color": "#080403"},
+      {"x": 71, "y": 21, "color": "#fef8ee"},
+      {"x": 72, "y": 21, "color": "#080403"},
+      {"x": 68, "y": 30, "color": "#542a1e"},
+      {"x": 69, "y": 30, "color": "#542a1e"},
+      {"x": 70, "y": 29, "color": "#542a1e"}
+    ]}
+  ],
+  "artistic_intent": "Clarify unequal eye/gaze read and add a restrained mouth mark while preserving the seed body and palette.",
+  "exports": {
+    "png": "passes/pass-02.png",
+    "png_sha256": "fd221d8a2d411b985e257dbdfb327e8c1437b5bb7f23d9b8a9532ef5e5d2cb9f",
+    "decoded_rgba_sha256": "5c6533d48ed388fd44295a70848b02693d74a3f2231cf844c4d14bf6bcce0d97"
+  }
+}

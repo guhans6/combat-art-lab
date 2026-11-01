@@ -1,0 +1,51 @@
+{
+  "id": "004",
+  "time": "2026-10-26T10:28:26.128Z",
+  "call": {
+    "name": "layer",
+    "arguments": {
+      "op": "create",
+      "name": "protected"
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "2 layer(s), top to bottom: protected, pattern"
+      }
+    ],
+    "structuredContent": {
+      "sprite": "Sprite",
+      "activeLayer": "protected",
+      "layers": [
+        {
+          "isTilemap": false,
+          "name": "pattern",
+          "blendMode": "3",
+          "index": 1,
+          "cels": [
+            1
+          ],
+          "opacity": 255,
+          "editable": true,
+          "isGroup": false,
+          "visible": true
+        },
+        {
+          "isTilemap": false,
+          "name": "protected",
+          "blendMode": "3",
+          "index": 2,
+          "cels": [],
+          "opacity": 255,
+          "editable": true,
+          "isGroup": false,
+          "visible": true
+        }
+      ],
+      "applied": 1
+    }
+  },
+  "images": []
+}

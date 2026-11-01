@@ -1,0 +1,42 @@
+{
+  "canvas": [
+    320,
+    192
+  ],
+  "durations_ms": [
+    60,
+    110,
+    140,
+    210,
+    70,
+    60,
+    90,
+    110,
+    140,
+    170,
+    140,
+    160,
+    220
+  ],
+  "phases": [
+    "ready idle",
+    "pickup",
+    "shared grip",
+    "counter-windup",
+    "acceleration",
+    "committed contact",
+    "follow-through",
+    "arrest and redirect",
+    "controlled recovery",
+    "tote settle",
+    "re-shoulder",
+    "release and settle",
+    "ready idle return"
+  ],
+  "part_names": [
+    "01-leg-base-and-shoes",
+    "02-jacket-shirt-and-sleeves",
+    "03-head-neck-collar",
+    "04-tote-and-handles"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "native": "terra/source/tote-attack.aseprite",
+  "frames": [
+    "terra/frames/frame-0.png", "terra/frames/frame-1.png", "terra/frames/frame-2.png",
+    "terra/frames/frame-3.png", "terra/frames/frame-4.png", "terra/frames/frame-5.png",
+    "terra/frames/frame-6.png", "terra/frames/frame-7.png", "terra/frames/frame-8.png",
+    "terra/frames/frame-9.png", "terra/frames/frame-10.png", "terra/frames/frame-11.png",
+    "terra/frames/frame-12.png"
+  ],
+  "reopen_sheet": "terra/checkpoints/reopen-sheet.png",
+  "durations_ms": [60, 110, 140, 210, 70, 60, 90, 110, 140, 170, 140, 160, 220],
+  "phases": ["ready idle", "pickup", "shared grip", "counter-windup", "acceleration", "committed contact", "follow-through", "arrest and redirect", "controlled recovery", "tote settle", "re-shoulder", "release and settle", "ready idle return"],
+  "active_frames_1based": [6],
+  "canvas": [256, 192],
+  "root_pivot": [128, 185],
+  "root_offsets": [[0,0],[0,0],[0,-1],[0,0],[0,-1],[-1,1],[-1,0],[0,-1],[0,1],[0,1],[0,0],[1,1],[0,0]],
+  "bag_bounds_xyxy": [[144,72,170,125],[145,67,184,133],[160,65,212,128],[65,53,136,100],[160,64,212,127],[190,49,255,113],[191,54,255,114],[160,64,212,127],[172,89,218,151],[172,89,218,151],[159,65,191,128],[1,1,178,181],[144,72,170,125]],
+  "grip_xy": [[134,79],[142,75],[152,79],[126,65],[152,78],[169,70],[171,72],[152,78],[168,80],[168,81],[157,67],[126,80],[134,79]],
+  "head_xy": [[130,20],[132,24],[123,27],[137,25],[123,26],[136,19],[125,20],[123,26],[138,22],[138,23],[149,25],[113,21],[130,20]],
+  "thorax_xy": [[128,90],[130,92],[129,84],[139,85],[129,83],[142,76],[135,70],[129,83],[142,86],[142,87],[146,89],[126,81],[128,90]],
+  "foot_contacts": [[[111,181],[150,181]],[[106,182],[154,182]],[[81,187],[185,187]],[[91,180],[207,180]],[[81,186],[185,186]],[[101,176],[218,176]],[[87,175],[205,174]],[[81,186],[185,186]],[[114,181],[190,181]],[[114,182],[190,182]],[[130,181],[175,181]],[[20,176],[146,177]],[[111,181],[150,181]]]
+}

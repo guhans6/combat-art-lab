@@ -1,0 +1,11 @@
+{
+	"dynamic_lighting": false,
+	"emitter_visibility_exercised": true,
+	"engine": "4.7.2-stable (official)",
+	"instances_independent": true,
+	"os_input_exercised": false,
+	"parts_with_textures": 16,
+	"planter_moved_native_pixels": 8,
+	"props_visibility_exercised": true,
+	"second_instance_parts": 16
+}

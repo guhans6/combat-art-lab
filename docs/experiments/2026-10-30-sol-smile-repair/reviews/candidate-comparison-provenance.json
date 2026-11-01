@@ -1,0 +1,29 @@
+{
+  "reference_source": "inputs/character-closeup.png",
+  "reference_crop_half_open": [
+    520,
+    170,
+    820,
+    470
+  ],
+  "reference_preview_size": [
+    30,
+    30
+  ],
+  "reference_resampling": "Lanczos for review only",
+  "candidate_crop_half_open": [
+    50,
+    10,
+    80,
+    40
+  ],
+  "candidate_resampling": "integer nearest neighbor only",
+  "approximate_alignment": "Ref near eye (655,289)->(63.5,21.9), far eye (720,278)->(70,20.8), chin y374->30.4, mouth center (691,340)->(67.1,27). Candidate mouth center68; residual source/native pose differences remain.",
+  "earlier_pass01_reference_crop": [
+    570,
+    210,
+    770,
+    410
+  ],
+  "earlier_crop_limitation": "Equal crop size did not align eye-chin span. Anatomical comparison uses wider source crop; no sprite pixels transformed."
+}

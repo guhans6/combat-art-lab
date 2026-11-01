@@ -1,0 +1,7 @@
+192 (120, 132) reopen exact, edit one pixel, transparent corner 19
+256 (160, 176) reopen exact, edit one pixel, transparent corner 20
+28c4712085f84a9f3b0d52a5a1aa95c531d93062074e1697f9cd8935f2806732 baseline.aseprite
+ef86aae7a448859ff0b6e51a8b8c6ba1e94f493b1d5a8698bb1cc3e10f702c96 study-192-edit-proof.aseprite
+35ccffd4561d80621288629aae546c4c5316abf615d2043816cd38dea6c8595b study-192.aseprite
+584e73510d090f8effd8a7cf195002cd27d030f4b07ef51955f616a87747b567 study-256-edit-proof.aseprite
+4ab107c30fc254aa4dc2aa1ab17734b2b1a3832d9bf0d7b31f5ae30b243cc549 study-256.aseprite

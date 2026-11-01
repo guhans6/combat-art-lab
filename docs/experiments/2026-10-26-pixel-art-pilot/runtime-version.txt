@@ -1,0 +1,4 @@
+Python 3.12.14
+Pillow 12.3.0
+Node 26.9.0
+Codex CLI 0.162.1

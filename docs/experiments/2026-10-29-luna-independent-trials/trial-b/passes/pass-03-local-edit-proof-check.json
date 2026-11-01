@@ -1,0 +1,22 @@
+{
+  "accepted": true,
+  "reason": "all changed pixels are within the allowed mask",
+  "size": [
+    128,
+    192
+  ],
+  "allowed_pixels": [
+    [
+      68,
+      28
+    ]
+  ],
+  "changed_pixels": [
+    [
+      68,
+      28
+    ]
+  ],
+  "changed_count": 1,
+  "outside_allowed": []
+}

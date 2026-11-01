@@ -1,0 +1,117 @@
+{
+  "passed": true,
+  "one_pixel_check": {
+    "passed": true,
+    "failures": [],
+    "canvas": [
+      16,
+      16
+    ],
+    "changed_pixels": 1,
+    "outside_mask_changed_pixels": 0,
+    "outside_mask_examples_xy": [],
+    "changed_bbox_half_open": [
+      2,
+      2,
+      3,
+      3
+    ],
+    "visible_colors_before": 3,
+    "visible_colors_after": 3,
+    "new_visible_rgb_colors": [],
+    "partial_alpha_pixels": 0,
+    "visible_pixels": 9,
+    "silhouette_changed_pixels": 0,
+    "alpha_changed_pixels": 0,
+    "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+    "sha256": {
+      "before": "ae7a0188d70995b0abef2c06a65b45e033e2c45516ce84e3720d201531c3cd4e",
+      "after": "231588aa3f2e0c651e324ab198421d57f0712370a51f511c8ddce80e21aa5dfd",
+      "mask": "79c9229c7507944cfb5faccf830af15179ac5b3ddce5eec52510af92ad90d807"
+    }
+  },
+  "native_check": {
+    "passed": true,
+    "failures": [],
+    "layers": [
+      {
+        "name": "pattern",
+        "changed_pixels": 1,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          16,
+          16
+        ],
+        "after_cel": [
+          0,
+          0,
+          16,
+          16
+        ]
+      },
+      {
+        "name": "protected",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          16,
+          16
+        ],
+        "after_cel": [
+          0,
+          0,
+          16,
+          16
+        ]
+      }
+    ],
+    "frame_metadata_equal": true,
+    "layer_metadata_equal": true,
+    "header_equal": true
+  },
+  "out_of_mask_expected_rejection": {
+    "passed": false,
+    "failures": [
+      "protected_pixels_changed"
+    ],
+    "canvas": [
+      16,
+      16
+    ],
+    "changed_pixels": 2,
+    "outside_mask_changed_pixels": 1,
+    "outside_mask_examples_xy": [
+      [
+        15,
+        15
+      ]
+    ],
+    "changed_bbox_half_open": [
+      2,
+      2,
+      16,
+      16
+    ],
+    "visible_colors_before": 3,
+    "visible_colors_after": 3,
+    "new_visible_rgb_colors": [],
+    "partial_alpha_pixels": 0,
+    "visible_pixels": 10,
+    "silhouette_changed_pixels": 1,
+    "alpha_changed_pixels": 1,
+    "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+    "sha256": {
+      "before": "ae7a0188d70995b0abef2c06a65b45e033e2c45516ce84e3720d201531c3cd4e",
+      "after": "4a875e86a32e51b3ea7aacfb61f85fd78c4c7f3557931939ff43fd0fc420ab87",
+      "mask": "79c9229c7507944cfb5faccf830af15179ac5b3ddce5eec52510af92ad90d807"
+    }
+  },
+  "fresh_reopen_export_equal": true,
+  "transparent_skip_preserves": true,
+  "transparent_default_erases": true,
+  "model_image_observation": "Red L opens right, green branch; isolated blue pixel at (12,4). After scoped edit top-left is green; after erase top-left absent. MCP image bytes delivered through view_image in current host."
+}

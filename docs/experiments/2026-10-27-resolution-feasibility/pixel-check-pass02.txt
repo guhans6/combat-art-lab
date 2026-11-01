@@ -1,0 +1,2 @@
+192 (120, 132) reopen exact, edit one pixel, transparent corner 561b628f448357d9457a6774b306677da2f034a57e5e29262acb9d85ba2d5269
+256 (160, 176) reopen exact, edit one pixel, transparent corner f16106b0596c47d343d3d600c00eadf25557647cf179a12e41b1b8bfc3d590b2

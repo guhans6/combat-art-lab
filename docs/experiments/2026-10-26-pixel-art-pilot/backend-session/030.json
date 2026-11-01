@@ -1,0 +1,46 @@
+{
+  "id": "030",
+  "time": "2026-10-26T10:29:11.330Z",
+  "call": {
+    "name": "draw",
+    "arguments": {
+      "layer": "pattern",
+      "paletteLock": false,
+      "ops": [
+        {
+          "kind": "pixels",
+          "color": "#ff0000",
+          "points": [
+            {
+              "x": 15,
+              "y": 15
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "1 op(s), 1 pixel(s) changed on 'pattern' frame 1. Now call look to see the result before moving on."
+      }
+    ],
+    "structuredContent": {
+      "bounds": {
+        "y": 15,
+        "width": 1,
+        "height": 1,
+        "x": 15
+      },
+      "frame": 1,
+      "colorsSnapped": [],
+      "sprite": "one-pixel.aseprite",
+      "pixelsChanged": 1,
+      "opsApplied": 1,
+      "layer": "pattern"
+    }
+  },
+  "images": []
+}

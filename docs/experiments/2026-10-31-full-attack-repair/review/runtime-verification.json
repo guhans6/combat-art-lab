@@ -1,0 +1,44 @@
+{
+  "native_sha256": "5fb9a4f776ea46df1ee86c3eb5e10c8be32b094aa265004e908e832b7f4518ea",
+  "engine": "4.7.2-stable (official)",
+  "target": "isolated macOS Godot desktop preview, OpenGL Compatibility, nearest filtering",
+  "viewport": [
+    362,
+    304
+  ],
+  "root": [
+    30.0,
+    69.0
+  ],
+  "window_scale": 2,
+  "attacks": 3,
+  "contacts": 3,
+  "active_frame": 6,
+  "exact_idle_returns": 3,
+  "live_captures": 13,
+  "opaque_pixel_exact_counts": [
+    7844,
+    7807,
+    8828,
+    8336,
+    8936,
+    9482,
+    9393,
+    9113,
+    7777,
+    7526,
+    7202,
+    7486,
+    7844
+  ],
+  "durations_ms": [
+    1666,
+    1681,
+    1661
+  ],
+  "authored_ms": 1680,
+  "timing_allowance_ms": 50,
+  "physical_keyboard_tested": false,
+  "continuous_temporal_perception_by_agent": false,
+  "limits": "Synthetic input and copied fixture; bounds-based contact, not collision tuning or artistic acceptance."
+}

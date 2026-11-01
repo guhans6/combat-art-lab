@@ -1,0 +1,99 @@
+*** Begin Patch
+*** Update File: tools/pixel-art-director/scripts/doctor.py
+@@
+-def version(executable: str | None) -> dict:
++def version(executable: str | None) -> dict:
+@@
+     except (OSError, subprocess.TimeoutExpired) as exc:
+         return {'found': True, 'executable': executable, 'version_error': str(exc)}
++
++
++def aseprite_inventory(executable: str | None, probe_version: bool = False) -> dict:
++    """Report discovery without starting Aseprite unless explicitly requested."""
++    if not executable:
++        return {'found': False, 'version_probe': 'not_run'}
++    path = Path(executable)
++    result = {
++        'found': True,
++        'executable': executable,
++        'size_bytes': path.stat().st_size,
++        'version_probe': 'not_run',
++        'version_probe_reason': (
++            'Direct Aseprite launch was not requested. This inventory does not '
++            'establish headless MCP readiness; run the configured MCP preflight '
++            'under the editor-lease procedure for that boundary.'
++        ),
++    }
++    if probe_version:
++        result.update(version(executable))
++        result['version_probe'] = 'completed'
++    return result
+@@
+     p = argparse.ArgumentParser(description=__doc__)
+     p.add_argument('--aseprite', help='Explicit path to your trusted Aseprite executable')
++    p.add_argument('--probe-aseprite-version', action='store_true', help=(
++        'Deliberately execute Aseprite --version. Use only where direct editor '
++        'launch is permitted; this is not an MCP health check.'))
+@@
+-        'pillow': pillow, 'aseprite': version(aseprite),
++        'pillow': pillow,
++        'aseprite': aseprite_inventory(aseprite, args.probe_aseprite_version),
+*** Update File: tools/pixel-art-director/tests/test_tools.py
+@@
+ from pathlib import Path
+ import sys
+ import tempfile
+ import unittest
++from unittest.mock import patch
+@@
+ from prepare_run import prepare, verify
++import doctor
+@@
+ class PixelChecksTests(unittest.TestCase):
++    @patch('doctor.subprocess.run')
++    def test_default_aseprite_inventory_never_launches_editor(self, run):
++        report = doctor.aseprite_inventory(sys.executable)
++        self.assertTrue(report['found'])
++        self.assertEqual(report['version_probe'], 'not_run')
++        self.assertIn('does not establish headless MCP readiness', report['version_probe_reason'])
++        run.assert_not_called()
++
++    @patch('doctor.subprocess.run')
++    def test_explicit_aseprite_probe_keeps_direct_diagnostic(self, run):
++        run.return_value = type('Result', (), {'returncode': 0, 'stdout': 'Aseprite X', 'stderr': ''})()
++        report = doctor.aseprite_inventory(sys.executable, probe_version=True)
++        self.assertEqual(report['version_probe'], 'completed')
++        self.assertEqual(report['version_output'], 'Aseprite X')
++        run.assert_called_once_with([sys.executable, '--version'], capture_output=True,
++                                    text=True, timeout=15, check=False)
+*** Update File: tools/pixel-art-director/SKILL.md
+@@
+-Run `python3 scripts/doctor.py` relative to this skill directory. This inventories
+-binaries only; it does not certify MCP connectivity. Discover the actual runtime
+-tool schemas. Use [adapters.md](references/adapters.md) for backend differences.
++Run `python3 scripts/doctor.py` relative to this skill directory. Its default
++Aseprite result is non-launching file inventory only; it does not certify MCP
++connectivity. Use `--probe-aseprite-version` only in an execution context where
++direct editor launch is permitted. Discover the actual runtime tool schemas and use
++the configured MCP preflight for the headless readiness boundary. Use
++[adapters.md](references/adapters.md) for backend differences.
+*** Update File: tools/pixel-art-director/references/setup.md
+@@
+-python3 scripts/doctor.py
++python3 scripts/doctor.py
+@@
+-The user's repository records Aseprite 1.3.18.6-dev at
+-`/Applications/Aseprite.app/Contents/MacOS/aseprite`. Verify it; do not rebuild or
+-purchase Aseprite automatically. Read existing client MCP configuration without
+-printing unrelated credentials. Look for duplicate Aseprite servers and old plugin
+-names. Inventory an already installed integration before replacing it.
++The user's repository records Aseprite 1.3.18.6-dev at
++`/Applications/Aseprite.app/Contents/MacOS/aseprite`. The default doctor checks the
++executable's presence without launching it. If a direct version diagnostic is needed,
++run `python3 scripts/doctor.py --probe-aseprite-version` only where direct app launch
++is permitted; an application-registration failure in a restricted shell is a launch
++context result, not proof of a damaged build or MCP failure. Do not rebuild or
++purchase Aseprite automatically. Read existing client MCP configuration without
++printing unrelated credentials. Look for duplicate Aseprite servers and old plugin
++names. Inventory an already installed integration before replacing it.
+*** End Patch

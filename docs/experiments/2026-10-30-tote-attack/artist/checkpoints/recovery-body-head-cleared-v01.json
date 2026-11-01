@@ -1,0 +1,42 @@
+{
+  "source": "../inputs/additional-keys.png",
+  "panel_xyxy": [
+    724,
+    0,
+    1448,
+    724
+  ],
+  "scale": 0.264,
+  "source_root_foot_xy": [
+    310,
+    708
+  ],
+  "target_root_foot_xy": [
+    132,
+    185
+  ],
+  "offset_xy": [
+    50,
+    -2
+  ],
+  "canvas": [
+    256,
+    192
+  ],
+  "alpha_threshold": 128,
+  "palette_colors_opaque": 254,
+  "edge_spill_mask_source_xyxy": [
+    0,
+    640,
+    24,
+    724
+  ],
+  "edge_spill_pixels_removed": 689,
+  "head_replacement_ellipse_canvas_xyxy": [
+    108,
+    -9,
+    171,
+    53
+  ],
+  "layer_state": "body checkpoint only; cleared head is replaced from exact neutral face/hair layers through MCP"
+}

@@ -1,0 +1,92 @@
+{
+  "checked_at_utc": "2026-10-30T13:05:15.144320+00:00",
+  "source_run_validation": "passed",
+  "compact_package_validation": "passed",
+  "cumulative_package_validation": "passed",
+  "prepared_native_frames": {
+    "count": 77,
+    "sha256_and_exact_source_copy": "passed",
+    "image_dimensions": "1920x1080"
+  },
+  "transcript": {
+    "segments": 172,
+    "cited_event_ids_exist": true
+  },
+  "cumulative_evidence_count": 58,
+  "motion_excerpts": [
+    {
+      "id": "clip-01-core-poses",
+      "streams": [
+        "video",
+        "audio"
+      ],
+      "duration_seconds": 14.0,
+      "status": "passed"
+    },
+    {
+      "id": "clip-02-chest-subpixel",
+      "streams": [
+        "video",
+        "audio"
+      ],
+      "duration_seconds": 26.0,
+      "status": "passed"
+    },
+    {
+      "id": "clip-03-arms-delay",
+      "streams": [
+        "video",
+        "audio"
+      ],
+      "duration_seconds": 18.0,
+      "status": "passed"
+    },
+    {
+      "id": "clip-04-hair-settle",
+      "streams": [
+        "video",
+        "audio"
+      ],
+      "duration_seconds": 22.0,
+      "status": "passed"
+    },
+    {
+      "id": "clip-05-leg-shading",
+      "streams": [
+        "video",
+        "audio"
+      ],
+      "duration_seconds": 20.0,
+      "status": "passed"
+    },
+    {
+      "id": "clip-06-breathe-tag",
+      "streams": [
+        "video",
+        "audio"
+      ],
+      "duration_seconds": 24.0,
+      "status": "passed"
+    },
+    {
+      "id": "clip-07-cleanup-and-export",
+      "streams": [
+        "video",
+        "audio"
+      ],
+      "duration_seconds": 23.0,
+      "status": "passed"
+    }
+  ],
+  "chapter_sample_presence": {
+    "chapters": 10,
+    "sampled": 10,
+    "meaning": "Structural sample presence only; semantic completeness not established."
+  },
+  "local_report_links_checked": 115,
+  "directly_inspected_delivered_images": 6,
+  "remaining_visual_flags_preserved": true,
+  "archive_verification": "See adjacent delivery-receipt.json, written only after ZIP integrity and member hashes pass.",
+  "code_tests": "Not run: extraction and artifact task; no product source edits.",
+  "semantic_scope": "Bounded image inspection, transcript-backed checkpoints and declared limitations; not an exhaustive independent semantic audit."
+}

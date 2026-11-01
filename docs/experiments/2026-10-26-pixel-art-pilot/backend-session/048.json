@@ -1,0 +1,65 @@
+{
+  "id": "048",
+  "time": "2026-10-26T10:32:13.880Z",
+  "call": {
+    "name": "look",
+    "arguments": {
+      "op": "ascii",
+      "layer": "10-hair-front",
+      "region": {
+        "x": 49,
+        "y": 5,
+        "width": 25,
+        "height": 16
+      },
+      "rulers": false
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "25×16 at (49,5)\n\n.......KDDDDDMMMDD.....DD\n......DDKKKKKMMMMRRDDDDKK\n...KDDKKKRRRRKKKDMMKKKKKK\n.KDDKKKMRMMKDKKKKDDKKKKKR\nKDKKMMMMMMKDKMMGGGGDKKDKK\nDKKMRRMMKKDMMMFGGGMMDKKDM\nDKMRMMKKKRRMMFGGGDMMKDKKD\nKKMMKKKDRMMMFGGGDMMMKGKKD\nKGMKKDDMMMMFGGGGDMMKKGGKK\nGGGDDKMMMFFGGGGDKMMDKGGKK\nGGGGGMMFFKKGGGDKKMDDKGGKK\nGGGGGFFMKKGGGGDKKKD.DGGKK\nDGGGGGGKDKGGGDKKKD..DDGKK\nDGMGGGGDKKGGKDKK.D..DD.DK\n.GGMGGGDKGGKDKKDD......DK\n.GGMGGGKDGGKDKD.........D\n\nLegend: K=#6b4435  D=#402b29  M=#7d503a  R=#925e43  G=#57382e  F=#49322d\n'.' = transparent"
+      }
+    ],
+    "structuredContent": {
+      "op": "ascii",
+      "sprite": "pass-01.aseprite",
+      "width": 25,
+      "height": 16,
+      "text": ".......KDDDDDMMMDD.....DD\n......DDKKKKKMMMMRRDDDDKK\n...KDDKKKRRRRKKKDMMKKKKKK\n.KDDKKKMRMMKDKKKKDDKKKKKR\nKDKKMMMMMMKDKMMGGGGDKKDKK\nDKKMRRMMKKDMMMFGGGMMDKKDM\nDKMRMMKKKRRMMFGGGDMMKDKKD\nKKMMKKKDRMMMFGGGDMMMKGKKD\nKGMKKDDMMMMFGGGGDMMKKGGKK\nGGGDDKMMMFFGGGGDKMMDKGGKK\nGGGGGMMFFKKGGGDKKMDDKGGKK\nGGGGGFFMKKGGGGDKKKD.DGGKK\nDGGGGGGKDKGGGDKKKD..DDGKK\nDGMGGGGDKKGGKDKK.D..DD.DK\n.GGMGGGDKGGKDKKDD......DK\n.GGMGGGKDGGKDKD.........D",
+      "legend": {
+        "K": "#6b4435",
+        "D": "#402b29",
+        "M": "#7d503a",
+        "R": "#925e43",
+        "G": "#57382e",
+        "F": "#49322d"
+      },
+      "offPalette": [],
+      "gridRows": [
+        ".......KDDDDDMMMDD.....DD",
+        "......DDKKKKKMMMMRRDDDDKK",
+        "...KDDKKKRRRRKKKDMMKKKKKK",
+        ".KDDKKKMRMMKDKKKKDDKKKKKR",
+        "KDKKMMMMMMKDKMMGGGGDKKDKK",
+        "DKKMRRMMKKDMMMFGGGMMDKKDM",
+        "DKMRMMKKKRRMMFGGGDMMKDKKD",
+        "KKMMKKKDRMMMFGGGDMMMKGKKD",
+        "KGMKKDDMMMMFGGGGDMMKKGGKK",
+        "GGGDDKMMMFFGGGGDKMMDKGGKK",
+        "GGGGGMMFFKKGGGDKKMDDKGGKK",
+        "GGGGGFFMKKGGGGDKKKD.DGGKK",
+        "DGGGGGGKDKGGGDKKKD..DDGKK",
+        "DGMGGGGDKKGGKDKK.D..DD.DK",
+        ".GGMGGGDKGGKDKKDD......DK",
+        ".GGMGGGKDGGKDKD.........D"
+      ],
+      "origin": {
+        "x": 49,
+        "y": 5
+      }
+    }
+  },
+  "images": []
+}

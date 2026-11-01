@@ -1,0 +1,29 @@
+{
+  "source": "../inputs/additional-keys.png",
+  "panel_xyxy": [
+    724,
+    0,
+    1448,
+    724
+  ],
+  "scale": 0.264,
+  "source_root_foot_xy": [
+    310,
+    708
+  ],
+  "target_root_foot_xy": [
+    132,
+    185
+  ],
+  "offset_xy": [
+    50,
+    -2
+  ],
+  "canvas": [
+    256,
+    192
+  ],
+  "alpha_threshold": 128,
+  "palette_colors_opaque": 254,
+  "layer_state": "flattened checkpoint seed only; semantic layers are required before delivery"
+}

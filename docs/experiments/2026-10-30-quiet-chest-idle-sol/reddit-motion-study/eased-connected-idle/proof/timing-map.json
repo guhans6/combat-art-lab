@@ -1,0 +1,62 @@
+{
+  "old_frame_zero_based_mapping": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    2,
+    3,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "durations_ms": [
+    650,
+    240,
+    240,
+    420,
+    380,
+    260,
+    360,
+    500,
+    50,
+    80,
+    50,
+    720
+  ],
+  "cycle_ms": 3950,
+  "head_up_frames_one_based": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "blink_new_frames_one_based": [
+    9,
+    10,
+    11
+  ],
+  "blink_old_frames_one_based": [
+    5,
+    6,
+    7
+  ],
+  "foot_fixed_y_min": 118,
+  "phases": [
+    "rest",
+    "chest onset",
+    "rise",
+    "lower response",
+    "turnaround",
+    "upper release",
+    "waist release",
+    "leg settle",
+    "blink half",
+    "blink closed",
+    "blink half",
+    "rest"
+  ]
+}

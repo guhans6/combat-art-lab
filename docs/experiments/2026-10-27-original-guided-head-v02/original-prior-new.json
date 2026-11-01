@@ -1,0 +1,37 @@
+[
+  {
+    "path": "/Users/guhan/Guhan/Projects/combat-art-lab/assets/references/approved-2026-10-26/character-closeup.png",
+    "sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7",
+    "native_size": [
+      1448,
+      1086
+    ],
+    "crop": [
+      380,
+      64,
+      860,
+      512
+    ],
+    "display_zoom": 1
+  },
+  {
+    "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-27-original-guided-head-v02/baseline.png",
+    "sha256": "2334c0974cb926baf9f7f9739ea5a1979507f84b33dbfbcd438cdf4f5bc35ef7",
+    "native_size": [
+      120,
+      112
+    ],
+    "crop": null,
+    "display_zoom": 4
+  },
+  {
+    "path": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-27-original-guided-head-v02/pass-03-refined.png",
+    "sha256": "88600cf9f800887e437c430545abaccb1ce93a5762aa26c3764ae9f4493677c0",
+    "native_size": [
+      120,
+      112
+    ],
+    "crop": null,
+    "display_zoom": 4
+  }
+]

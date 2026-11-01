@@ -1,0 +1,179 @@
+{
+  "passed": true,
+  "native_layers": [
+    {
+      "name": "01-hair-back",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "02-tote-body",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "03-jeans",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "04-sneakers",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "05-skin-face",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "06-tee",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "07-jacket",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "08-hands",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "09-tote-strap",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "10-hair-front",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "11-face-features",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "12-guide-ground-hidden",
+      "flags": 2,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    }
+  ],
+  "frames": [
+    {
+      "duration_ms": 100,
+      "non_cel_chunks": [
+        {
+          "type": "0x2007",
+          "sha256": "4cbbd8ca5215b8d161aec181a74b694f4e24b001d5b081dc0030ed797a8973e0"
+        },
+        {
+          "type": "0x2019",
+          "sha256": "cb5652637f23888019952141c2d35ca975143137b1e86b83bbb4993bab55c9c9"
+        },
+        {
+          "type": "0x2020",
+          "sha256": "c0b47390d8e7430fb19ed72bc42dd3e32a7771e86a9688d089797fa01e3f7a3d"
+        },
+        {
+          "type": "0x2018",
+          "sha256": "c45ba25ef4c9534122cbb398409a421f3c1d239ad675c0a98bac6da5d1281309"
+        },
+        {
+          "type": "0x2020",
+          "sha256": "0a7fe8fbed41cbfad735d25a6e42026c1981922a32f8c748be371d1506825211"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "1aa94208dcd6eb26dbb45228888e6f1e6977413fb8c74abc5ea5560bd65f617f"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "e6af6e4ff146de83c039406959ce0d75b6412976aadfe96e3ac4e2c0e05603a9"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "0157abb755b501457355652a0a46322a87756d5f6ef9bac5b7a0e315294d6e99"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "716670835f4b6c1d27152ed6dd7bd2ee75efe7cc3742bcf547b2fdcfac490388"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "cf9e46d66b0b32313b1cfb2929cdda2f56499d08d4e4fb9546401976d9f62adf"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "2b4f64e0056231f09e74466d002e4e88ef5bea04f624a81d9db46088ff4618dd"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "c77c68aef252d29e215deacfd130f0ad098ceb411bb215564e6fad198e99a5b6"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "7e94491a026f4c4748b9dc5704b3175c87cf5dd961191b2c5826fad03a82ae6a"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "e53648a408a0e6416175689cca04013eaf6454b5b7fe86e85ed1914ed8fed65f"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "b0f6b8e3d4a57befcbb42e488b40ef1f1ab7936394483be459f980747ab248ac"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "4dfdfaf50bf1e01f8d93bccb70fb1f7641081b18d6ff9d6b8ca9b698134a30f3"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "f8939461804f73e6ad01ee57a30c81ab33548e4443d5667df867356d6cf54de6"
+        }
+      ]
+    }
+  ],
+  "mask_matches_edit_head_lua": true,
+  "native_composite_matches_frozen_png": true,
+  "editable_pixel_count": 1316
+}

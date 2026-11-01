@@ -1,0 +1,47 @@
+[
+  {
+    "path": "docs/workflow/art-production.md",
+    "before_sha256": "920ccc71693ea5c4d79ac302ecb7a36afab403189c6d2adcb9c8faaf73004aef",
+    "after_sha256": "27b579b98472738d8d4e9935a4c30b1efc8e4cf97f31bfefcf7910a865f3ff1d"
+  },
+  {
+    "path": "docs/art/motion-guide.md",
+    "before_sha256": "e2384683f135c0446dff0427f730f4c85bc7c75382ec1137d1f9f71bd7267ba3",
+    "after_sha256": "6b366bffe398dc87853ffdf85f33b9d152af2123b3ca93bfdb95366576737d02"
+  },
+  {
+    "path": "docs/art/style-guide.md",
+    "before_sha256": "c3214b2a8985ae9c1740a20a479ea055eb8d49ece4878d370e110650dc9a07f8",
+    "after_sha256": "ec5d6bb692d42b78853aea60d62051fee761fa1cdbfcfeececbaa2b2f06389d2"
+  },
+  {
+    "path": "docs/handoff.md",
+    "before_sha256": "f026fba3588d6603f8f7778df9804d961ad50349f2358a76e7470b819bfcaf95",
+    "after_sha256": "ea7634e71d266d0650c78fd0c852a494c9f5601052b90afba750a14a924cc90f"
+  },
+  {
+    "path": "tools/pixel-art-director/SKILL.md",
+    "before_sha256": "39d7bc6b3c0ae4fb5a83ac2322baa478563b4b3ada0cff66fa17a68f2266476f",
+    "after_sha256": "1c4de83b2c057f93fa339d4617266b2a39e129ecce45be50b271078bdbeef2d5"
+  },
+  {
+    "path": "tools/pixel-art-director/references/animation.md",
+    "before_sha256": null,
+    "after_sha256": "bd0c5b6b7bcca2404c4255a6163cb52e20892b4e4f750fa82a2e7cc2c2ffbb53"
+  },
+  {
+    "path": "tools/pixel-art-director/references/alpha-coverage.md",
+    "before_sha256": "5616037c1c173224eae2ef9d15e90d674b0be3e804c70b298f979e0d961e9e79",
+    "after_sha256": "072ee4b87758d95ca12d62bf93a006f54178a27b1021ff814c394542a4535ec8"
+  },
+  {
+    "path": "tools/pixel-art-director/references/craft.md",
+    "before_sha256": "d69e227ef789d94caee76597a33ec722d4d722d1a05bebe1b5c671cd6d9a2b55",
+    "after_sha256": "f7f635d57c6ed031607987c099b54a5abdcf16ce8e3d93f40ce37e5f4257c460"
+  },
+  {
+    "path": "tools/pixel-art-director/assets/AGENTS.snippet.md",
+    "before_sha256": "c9582cbb31db4b5aeb6a0676b4803bef0d727313fae4a62a852a92bad7a0fb4e",
+    "after_sha256": "d46c79380b8e21ca4e2d546c7f671a92fe6b6cc5d8e6c337f09e7666138eace4"
+  }
+]

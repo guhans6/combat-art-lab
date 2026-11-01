@@ -1,0 +1,2652 @@
+{
+	"asset_loading": "Image.load_from_file absolute sibling exports path",
+	"captured_frame_indices_0based": [
+		0,
+		1,
+		2,
+		3,
+		4,
+		5,
+		6,
+		7,
+		8,
+		9,
+		10,
+		11,
+		12,
+		13,
+		14,
+		15,
+		16,
+		17,
+		18
+	],
+	"contact_errors": [],
+	"contact_events": [
+		{
+			"actual_elapsed_ms": 888,
+			"contact_opaque_pixels": 78,
+			"declared_elapsed_ms": 870,
+			"event": "contact",
+			"frame_1based": 10,
+			"loop": 1,
+			"phase": "contact",
+			"scope": "clean-frame alpha overlap with provisional dummy rectangle; not full combat collision",
+			"target_flash": true
+		},
+		{
+			"actual_elapsed_ms": 879,
+			"contact_opaque_pixels": 78,
+			"declared_elapsed_ms": 870,
+			"event": "contact",
+			"frame_1based": 10,
+			"loop": 2,
+			"phase": "contact",
+			"scope": "clean-frame alpha overlap with provisional dummy rectangle; not full combat collision",
+			"target_flash": true
+		},
+		{
+			"actual_elapsed_ms": 875,
+			"contact_opaque_pixels": 78,
+			"declared_elapsed_ms": 870,
+			"event": "contact",
+			"frame_1based": 10,
+			"loop": 3,
+			"phase": "contact",
+			"scope": "clean-frame alpha overlap with provisional dummy rectangle; not full combat collision",
+			"target_flash": true
+		},
+		{
+			"actual_elapsed_ms": 878,
+			"contact_opaque_pixels": 78,
+			"declared_elapsed_ms": 870,
+			"event": "contact",
+			"frame_1based": 10,
+			"loop": 4,
+			"phase": "contact",
+			"scope": "clean-frame alpha overlap with provisional dummy rectangle; not full combat collision",
+			"target_flash": true
+		},
+		{
+			"actual_elapsed_ms": 842,
+			"contact_opaque_pixels": 78,
+			"declared_elapsed_ms": 870,
+			"event": "contact",
+			"frame_1based": 10,
+			"loop": 5,
+			"phase": "contact",
+			"scope": "clean-frame alpha overlap with provisional dummy rectangle; not full combat collision",
+			"target_flash": true
+		},
+		{
+			"actual_elapsed_ms": 866,
+			"contact_opaque_pixels": 78,
+			"declared_elapsed_ms": 870,
+			"event": "contact",
+			"frame_1based": 10,
+			"loop": 6,
+			"phase": "contact",
+			"scope": "clean-frame alpha overlap with provisional dummy rectangle; not full combat collision",
+			"target_flash": true
+		},
+		{
+			"actual_elapsed_ms": 866,
+			"contact_opaque_pixels": 78,
+			"declared_elapsed_ms": 870,
+			"event": "contact",
+			"frame_1based": 10,
+			"loop": 6,
+			"phase": "contact",
+			"scope": "clean-frame alpha overlap with provisional dummy rectangle; not full combat collision",
+			"target_flash": true
+		},
+		{
+			"actual_elapsed_ms": 866,
+			"contact_opaque_pixels": 78,
+			"declared_elapsed_ms": 870,
+			"event": "contact",
+			"frame_1based": 10,
+			"loop": 6,
+			"phase": "contact",
+			"scope": "clean-frame alpha overlap with provisional dummy rectangle; not full combat collision",
+			"target_flash": true
+		},
+		{
+			"actual_elapsed_ms": 866,
+			"contact_opaque_pixels": 78,
+			"declared_elapsed_ms": 870,
+			"event": "contact",
+			"frame_1based": 10,
+			"loop": 6,
+			"phase": "contact",
+			"scope": "clean-frame alpha overlap with provisional dummy rectangle; not full combat collision",
+			"target_flash": true
+		},
+		{
+			"actual_elapsed_ms": 867,
+			"contact_opaque_pixels": 78,
+			"declared_elapsed_ms": 870,
+			"event": "contact",
+			"frame_1based": 10,
+			"loop": 7,
+			"phase": "contact",
+			"scope": "clean-frame alpha overlap with provisional dummy rectangle; not full combat collision",
+			"target_flash": true
+		},
+		{
+			"actual_elapsed_ms": 866,
+			"contact_opaque_pixels": 78,
+			"declared_elapsed_ms": 870,
+			"event": "contact",
+			"frame_1based": 10,
+			"loop": 7,
+			"phase": "contact",
+			"scope": "clean-frame alpha overlap with provisional dummy rectangle; not full combat collision",
+			"target_flash": true
+		},
+		{
+			"actual_elapsed_ms": 866,
+			"contact_opaque_pixels": 78,
+			"declared_elapsed_ms": 870,
+			"event": "contact",
+			"frame_1based": 10,
+			"loop": 7,
+			"phase": "contact",
+			"scope": "clean-frame alpha overlap with provisional dummy rectangle; not full combat collision",
+			"target_flash": true
+		},
+		{
+			"actual_elapsed_ms": 866,
+			"contact_opaque_pixels": 78,
+			"declared_elapsed_ms": 870,
+			"event": "contact",
+			"frame_1based": 10,
+			"loop": 7,
+			"phase": "contact",
+			"scope": "clean-frame alpha overlap with provisional dummy rectangle; not full combat collision",
+			"target_flash": true
+		}
+	],
+	"engine": "4.7.2-stable (official)",
+	"filter": "nearest",
+	"frame_events": [
+		{
+			"actual_elapsed_ms": 2416,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 1,
+			"phase": "idle",
+			"reason": "ready"
+		},
+		{
+			"actual_elapsed_ms": 0,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 1,
+			"phase": "idle",
+			"reason": "automatic-observation"
+		},
+		{
+			"actual_elapsed_ms": 188,
+			"declared_elapsed_ms": 180,
+			"event": "frame",
+			"frame_1based": 2,
+			"loop": 1,
+			"phase": "reach",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 288,
+			"declared_elapsed_ms": 280,
+			"event": "frame",
+			"frame_1based": 3,
+			"loop": 1,
+			"phase": "free-hand",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 379,
+			"declared_elapsed_ms": 370,
+			"event": "frame",
+			"frame_1based": 4,
+			"loop": 1,
+			"phase": "shoulder-clearance",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 455,
+			"declared_elapsed_ms": 450,
+			"event": "frame",
+			"frame_1based": 5,
+			"loop": 1,
+			"phase": "two-hand-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 555,
+			"declared_elapsed_ms": 550,
+			"event": "frame",
+			"frame_1based": 6,
+			"loop": 1,
+			"phase": "counter-step",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 650,
+			"declared_elapsed_ms": 640,
+			"event": "frame",
+			"frame_1based": 7,
+			"loop": 1,
+			"phase": "windup",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 779,
+			"declared_elapsed_ms": 770,
+			"event": "frame",
+			"frame_1based": 8,
+			"loop": 1,
+			"phase": "launch",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 838,
+			"declared_elapsed_ms": 820,
+			"event": "frame",
+			"frame_1based": 9,
+			"loop": 1,
+			"phase": "smear",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 888,
+			"declared_elapsed_ms": 870,
+			"event": "frame",
+			"frame_1based": 10,
+			"loop": 1,
+			"phase": "contact",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 967,
+			"declared_elapsed_ms": 960,
+			"event": "frame",
+			"frame_1based": 11,
+			"loop": 1,
+			"phase": "overshoot",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1038,
+			"declared_elapsed_ms": 1030,
+			"event": "frame",
+			"frame_1based": 12,
+			"loop": 1,
+			"phase": "arrest",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1130,
+			"declared_elapsed_ms": 1130,
+			"event": "frame",
+			"frame_1based": 13,
+			"loop": 1,
+			"phase": "rear-foot-plant",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1216,
+			"declared_elapsed_ms": 1220,
+			"event": "frame",
+			"frame_1based": 14,
+			"loop": 1,
+			"phase": "front-step-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1330,
+			"declared_elapsed_ms": 1320,
+			"event": "frame",
+			"frame_1based": 15,
+			"loop": 1,
+			"phase": "inward-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1432,
+			"declared_elapsed_ms": 1420,
+			"event": "frame",
+			"frame_1based": 16,
+			"loop": 1,
+			"phase": "re-shoulder-lift",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1530,
+			"declared_elapsed_ms": 1520,
+			"event": "frame",
+			"frame_1based": 17,
+			"loop": 1,
+			"phase": "shoulder-support",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1633,
+			"declared_elapsed_ms": 1630,
+			"event": "frame",
+			"frame_1based": 18,
+			"loop": 1,
+			"phase": "strap-settle",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1732,
+			"declared_elapsed_ms": 1730,
+			"event": "frame",
+			"frame_1based": 19,
+			"loop": 1,
+			"phase": "idle-return",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 2233,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 2,
+			"phase": "idle",
+			"reason": "idle-return"
+		},
+		{
+			"actual_elapsed_ms": 0,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 2,
+			"phase": "idle",
+			"reason": "automatic-observation"
+		},
+		{
+			"actual_elapsed_ms": 183,
+			"declared_elapsed_ms": 180,
+			"event": "frame",
+			"frame_1based": 2,
+			"loop": 2,
+			"phase": "reach",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 283,
+			"declared_elapsed_ms": 280,
+			"event": "frame",
+			"frame_1based": 3,
+			"loop": 2,
+			"phase": "free-hand",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 375,
+			"declared_elapsed_ms": 370,
+			"event": "frame",
+			"frame_1based": 4,
+			"loop": 2,
+			"phase": "shoulder-clearance",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 450,
+			"declared_elapsed_ms": 450,
+			"event": "frame",
+			"frame_1based": 5,
+			"loop": 2,
+			"phase": "two-hand-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 554,
+			"declared_elapsed_ms": 550,
+			"event": "frame",
+			"frame_1based": 6,
+			"loop": 2,
+			"phase": "counter-step",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 646,
+			"declared_elapsed_ms": 640,
+			"event": "frame",
+			"frame_1based": 7,
+			"loop": 2,
+			"phase": "windup",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 779,
+			"declared_elapsed_ms": 770,
+			"event": "frame",
+			"frame_1based": 8,
+			"loop": 2,
+			"phase": "launch",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 824,
+			"declared_elapsed_ms": 820,
+			"event": "frame",
+			"frame_1based": 9,
+			"loop": 2,
+			"phase": "smear",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 879,
+			"declared_elapsed_ms": 870,
+			"event": "frame",
+			"frame_1based": 10,
+			"loop": 2,
+			"phase": "contact",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 967,
+			"declared_elapsed_ms": 960,
+			"event": "frame",
+			"frame_1based": 11,
+			"loop": 2,
+			"phase": "overshoot",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1038,
+			"declared_elapsed_ms": 1030,
+			"event": "frame",
+			"frame_1based": 12,
+			"loop": 2,
+			"phase": "arrest",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1138,
+			"declared_elapsed_ms": 1130,
+			"event": "frame",
+			"frame_1based": 13,
+			"loop": 2,
+			"phase": "rear-foot-plant",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1225,
+			"declared_elapsed_ms": 1220,
+			"event": "frame",
+			"frame_1based": 14,
+			"loop": 2,
+			"phase": "front-step-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1324,
+			"declared_elapsed_ms": 1320,
+			"event": "frame",
+			"frame_1based": 15,
+			"loop": 2,
+			"phase": "inward-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1425,
+			"declared_elapsed_ms": 1420,
+			"event": "frame",
+			"frame_1based": 16,
+			"loop": 2,
+			"phase": "re-shoulder-lift",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1525,
+			"declared_elapsed_ms": 1520,
+			"event": "frame",
+			"frame_1based": 17,
+			"loop": 2,
+			"phase": "shoulder-support",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1632,
+			"declared_elapsed_ms": 1630,
+			"event": "frame",
+			"frame_1based": 18,
+			"loop": 2,
+			"phase": "strap-settle",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1738,
+			"declared_elapsed_ms": 1730,
+			"event": "frame",
+			"frame_1based": 19,
+			"loop": 2,
+			"phase": "idle-return",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 2238,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 3,
+			"phase": "idle",
+			"reason": "idle-return"
+		},
+		{
+			"actual_elapsed_ms": 0,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 3,
+			"phase": "idle",
+			"reason": "automatic-observation"
+		},
+		{
+			"actual_elapsed_ms": 183,
+			"declared_elapsed_ms": 180,
+			"event": "frame",
+			"frame_1based": 2,
+			"loop": 3,
+			"phase": "reach",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 280,
+			"declared_elapsed_ms": 280,
+			"event": "frame",
+			"frame_1based": 3,
+			"loop": 3,
+			"phase": "free-hand",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 374,
+			"declared_elapsed_ms": 370,
+			"event": "frame",
+			"frame_1based": 4,
+			"loop": 3,
+			"phase": "shoulder-clearance",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 450,
+			"declared_elapsed_ms": 450,
+			"event": "frame",
+			"frame_1based": 5,
+			"loop": 3,
+			"phase": "two-hand-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 550,
+			"declared_elapsed_ms": 550,
+			"event": "frame",
+			"frame_1based": 6,
+			"loop": 3,
+			"phase": "counter-step",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 638,
+			"declared_elapsed_ms": 640,
+			"event": "frame",
+			"frame_1based": 7,
+			"loop": 3,
+			"phase": "windup",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 774,
+			"declared_elapsed_ms": 770,
+			"event": "frame",
+			"frame_1based": 8,
+			"loop": 3,
+			"phase": "launch",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 825,
+			"declared_elapsed_ms": 820,
+			"event": "frame",
+			"frame_1based": 9,
+			"loop": 3,
+			"phase": "smear",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 875,
+			"declared_elapsed_ms": 870,
+			"event": "frame",
+			"frame_1based": 10,
+			"loop": 3,
+			"phase": "contact",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 962,
+			"declared_elapsed_ms": 960,
+			"event": "frame",
+			"frame_1based": 11,
+			"loop": 3,
+			"phase": "overshoot",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1033,
+			"declared_elapsed_ms": 1030,
+			"event": "frame",
+			"frame_1based": 12,
+			"loop": 3,
+			"phase": "arrest",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1133,
+			"declared_elapsed_ms": 1130,
+			"event": "frame",
+			"frame_1based": 13,
+			"loop": 3,
+			"phase": "rear-foot-plant",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1225,
+			"declared_elapsed_ms": 1220,
+			"event": "frame",
+			"frame_1based": 14,
+			"loop": 3,
+			"phase": "front-step-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1325,
+			"declared_elapsed_ms": 1320,
+			"event": "frame",
+			"frame_1based": 15,
+			"loop": 3,
+			"phase": "inward-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1425,
+			"declared_elapsed_ms": 1420,
+			"event": "frame",
+			"frame_1based": 16,
+			"loop": 3,
+			"phase": "re-shoulder-lift",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1525,
+			"declared_elapsed_ms": 1520,
+			"event": "frame",
+			"frame_1based": 17,
+			"loop": 3,
+			"phase": "shoulder-support",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1633,
+			"declared_elapsed_ms": 1630,
+			"event": "frame",
+			"frame_1based": 18,
+			"loop": 3,
+			"phase": "strap-settle",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1733,
+			"declared_elapsed_ms": 1730,
+			"event": "frame",
+			"frame_1based": 19,
+			"loop": 3,
+			"phase": "idle-return",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 2233,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 4,
+			"phase": "idle",
+			"reason": "idle-return"
+		},
+		{
+			"actual_elapsed_ms": 0,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 4,
+			"phase": "idle",
+			"reason": "automatic-clean-runtime-trail-probe"
+		},
+		{
+			"actual_elapsed_ms": 186,
+			"declared_elapsed_ms": 180,
+			"event": "frame",
+			"frame_1based": 2,
+			"loop": 4,
+			"phase": "reach",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 287,
+			"declared_elapsed_ms": 280,
+			"event": "frame",
+			"frame_1based": 3,
+			"loop": 4,
+			"phase": "free-hand",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 378,
+			"declared_elapsed_ms": 370,
+			"event": "frame",
+			"frame_1based": 4,
+			"loop": 4,
+			"phase": "shoulder-clearance",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 453,
+			"declared_elapsed_ms": 450,
+			"event": "frame",
+			"frame_1based": 5,
+			"loop": 4,
+			"phase": "two-hand-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 553,
+			"declared_elapsed_ms": 550,
+			"event": "frame",
+			"frame_1based": 6,
+			"loop": 4,
+			"phase": "counter-step",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 645,
+			"declared_elapsed_ms": 640,
+			"event": "frame",
+			"frame_1based": 7,
+			"loop": 4,
+			"phase": "windup",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 778,
+			"declared_elapsed_ms": 770,
+			"event": "frame",
+			"frame_1based": 8,
+			"loop": 4,
+			"phase": "launch",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 828,
+			"declared_elapsed_ms": 820,
+			"event": "frame",
+			"frame_1based": 9,
+			"loop": 4,
+			"phase": "smear",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 878,
+			"declared_elapsed_ms": 870,
+			"event": "frame",
+			"frame_1based": 10,
+			"loop": 4,
+			"phase": "contact",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 970,
+			"declared_elapsed_ms": 960,
+			"event": "frame",
+			"frame_1based": 11,
+			"loop": 4,
+			"phase": "overshoot",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1033,
+			"declared_elapsed_ms": 1030,
+			"event": "frame",
+			"frame_1based": 12,
+			"loop": 4,
+			"phase": "arrest",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1134,
+			"declared_elapsed_ms": 1130,
+			"event": "frame",
+			"frame_1based": 13,
+			"loop": 4,
+			"phase": "rear-foot-plant",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1228,
+			"declared_elapsed_ms": 1220,
+			"event": "frame",
+			"frame_1based": 14,
+			"loop": 4,
+			"phase": "front-step-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1328,
+			"declared_elapsed_ms": 1320,
+			"event": "frame",
+			"frame_1based": 15,
+			"loop": 4,
+			"phase": "inward-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1428,
+			"declared_elapsed_ms": 1420,
+			"event": "frame",
+			"frame_1based": 16,
+			"loop": 4,
+			"phase": "re-shoulder-lift",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1528,
+			"declared_elapsed_ms": 1520,
+			"event": "frame",
+			"frame_1based": 17,
+			"loop": 4,
+			"phase": "shoulder-support",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1633,
+			"declared_elapsed_ms": 1630,
+			"event": "frame",
+			"frame_1based": 18,
+			"loop": 4,
+			"phase": "strap-settle",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1733,
+			"declared_elapsed_ms": 1730,
+			"event": "frame",
+			"frame_1based": 19,
+			"loop": 4,
+			"phase": "idle-return",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 2230,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 5,
+			"phase": "idle",
+			"reason": "idle-return"
+		},
+		{
+			"actual_elapsed_ms": 0,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 5,
+			"phase": "idle",
+			"reason": "keyboard"
+		},
+		{
+			"actual_elapsed_ms": 155,
+			"declared_elapsed_ms": 180,
+			"event": "frame",
+			"frame_1based": 2,
+			"loop": 5,
+			"phase": "reach",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 251,
+			"declared_elapsed_ms": 280,
+			"event": "frame",
+			"frame_1based": 3,
+			"loop": 5,
+			"phase": "free-hand",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 341,
+			"declared_elapsed_ms": 370,
+			"event": "frame",
+			"frame_1based": 4,
+			"loop": 5,
+			"phase": "shoulder-clearance",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 422,
+			"declared_elapsed_ms": 450,
+			"event": "frame",
+			"frame_1based": 5,
+			"loop": 5,
+			"phase": "two-hand-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 518,
+			"declared_elapsed_ms": 550,
+			"event": "frame",
+			"frame_1based": 6,
+			"loop": 5,
+			"phase": "counter-step",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 613,
+			"declared_elapsed_ms": 640,
+			"event": "frame",
+			"frame_1based": 7,
+			"loop": 5,
+			"phase": "windup",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 747,
+			"declared_elapsed_ms": 770,
+			"event": "frame",
+			"frame_1based": 8,
+			"loop": 5,
+			"phase": "launch",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 797,
+			"declared_elapsed_ms": 820,
+			"event": "frame",
+			"frame_1based": 9,
+			"loop": 5,
+			"phase": "smear",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 842,
+			"declared_elapsed_ms": 870,
+			"event": "frame",
+			"frame_1based": 10,
+			"loop": 5,
+			"phase": "contact",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 936,
+			"declared_elapsed_ms": 960,
+			"event": "frame",
+			"frame_1based": 11,
+			"loop": 5,
+			"phase": "overshoot",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1005,
+			"declared_elapsed_ms": 1030,
+			"event": "frame",
+			"frame_1based": 12,
+			"loop": 5,
+			"phase": "arrest",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1100,
+			"declared_elapsed_ms": 1130,
+			"event": "frame",
+			"frame_1based": 13,
+			"loop": 5,
+			"phase": "rear-foot-plant",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1192,
+			"declared_elapsed_ms": 1220,
+			"event": "frame",
+			"frame_1based": 14,
+			"loop": 5,
+			"phase": "front-step-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1291,
+			"declared_elapsed_ms": 1320,
+			"event": "frame",
+			"frame_1based": 15,
+			"loop": 5,
+			"phase": "inward-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1396,
+			"declared_elapsed_ms": 1420,
+			"event": "frame",
+			"frame_1based": 16,
+			"loop": 5,
+			"phase": "re-shoulder-lift",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1496,
+			"declared_elapsed_ms": 1520,
+			"event": "frame",
+			"frame_1based": 17,
+			"loop": 5,
+			"phase": "shoulder-support",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1598,
+			"declared_elapsed_ms": 1630,
+			"event": "frame",
+			"frame_1based": 18,
+			"loop": 5,
+			"phase": "strap-settle",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1698,
+			"declared_elapsed_ms": 1730,
+			"event": "frame",
+			"frame_1based": 19,
+			"loop": 5,
+			"phase": "idle-return",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 2199,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 6,
+			"phase": "idle",
+			"reason": "idle-return"
+		},
+		{
+			"actual_elapsed_ms": 0,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 6,
+			"phase": "idle",
+			"reason": "keyboard"
+		},
+		{
+			"actual_elapsed_ms": 175,
+			"declared_elapsed_ms": 180,
+			"event": "frame",
+			"frame_1based": 2,
+			"loop": 6,
+			"phase": "reach",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 271,
+			"declared_elapsed_ms": 280,
+			"event": "frame",
+			"frame_1based": 3,
+			"loop": 6,
+			"phase": "free-hand",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 361,
+			"declared_elapsed_ms": 370,
+			"event": "frame",
+			"frame_1based": 4,
+			"loop": 6,
+			"phase": "shoulder-clearance",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 442,
+			"declared_elapsed_ms": 450,
+			"event": "frame",
+			"frame_1based": 5,
+			"loop": 6,
+			"phase": "two-hand-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 537,
+			"declared_elapsed_ms": 550,
+			"event": "frame",
+			"frame_1based": 6,
+			"loop": 6,
+			"phase": "counter-step",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 627,
+			"declared_elapsed_ms": 640,
+			"event": "frame",
+			"frame_1based": 7,
+			"loop": 6,
+			"phase": "windup",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 761,
+			"declared_elapsed_ms": 770,
+			"event": "frame",
+			"frame_1based": 8,
+			"loop": 6,
+			"phase": "launch",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 816,
+			"declared_elapsed_ms": 820,
+			"event": "frame",
+			"frame_1based": 9,
+			"loop": 6,
+			"phase": "smear",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 866,
+			"declared_elapsed_ms": 870,
+			"event": "frame",
+			"frame_1based": 10,
+			"loop": 6,
+			"phase": "contact",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 958,
+			"declared_elapsed_ms": 960,
+			"event": "frame",
+			"frame_1based": 11,
+			"loop": 6,
+			"phase": "overshoot",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1025,
+			"declared_elapsed_ms": 1030,
+			"event": "frame",
+			"frame_1based": 12,
+			"loop": 6,
+			"phase": "arrest",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1119,
+			"declared_elapsed_ms": 1130,
+			"event": "frame",
+			"frame_1based": 13,
+			"loop": 6,
+			"phase": "rear-foot-plant",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1217,
+			"declared_elapsed_ms": 1220,
+			"event": "frame",
+			"frame_1based": 14,
+			"loop": 6,
+			"phase": "front-step-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1316,
+			"declared_elapsed_ms": 1320,
+			"event": "frame",
+			"frame_1based": 15,
+			"loop": 6,
+			"phase": "inward-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1417,
+			"declared_elapsed_ms": 1420,
+			"event": "frame",
+			"frame_1based": 16,
+			"loop": 6,
+			"phase": "re-shoulder-lift",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1516,
+			"declared_elapsed_ms": 1520,
+			"event": "frame",
+			"frame_1based": 17,
+			"loop": 6,
+			"phase": "shoulder-support",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1625,
+			"declared_elapsed_ms": 1630,
+			"event": "frame",
+			"frame_1based": 18,
+			"loop": 6,
+			"phase": "strap-settle",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1719,
+			"declared_elapsed_ms": 1730,
+			"event": "frame",
+			"frame_1based": 19,
+			"loop": 6,
+			"phase": "idle-return",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 0,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 6,
+			"phase": "idle",
+			"reason": "keyboard"
+		},
+		{
+			"actual_elapsed_ms": 175,
+			"declared_elapsed_ms": 180,
+			"event": "frame",
+			"frame_1based": 2,
+			"loop": 6,
+			"phase": "reach",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 274,
+			"declared_elapsed_ms": 280,
+			"event": "frame",
+			"frame_1based": 3,
+			"loop": 6,
+			"phase": "free-hand",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 366,
+			"declared_elapsed_ms": 370,
+			"event": "frame",
+			"frame_1based": 4,
+			"loop": 6,
+			"phase": "shoulder-clearance",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 441,
+			"declared_elapsed_ms": 450,
+			"event": "frame",
+			"frame_1based": 5,
+			"loop": 6,
+			"phase": "two-hand-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 541,
+			"declared_elapsed_ms": 550,
+			"event": "frame",
+			"frame_1based": 6,
+			"loop": 6,
+			"phase": "counter-step",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 632,
+			"declared_elapsed_ms": 640,
+			"event": "frame",
+			"frame_1based": 7,
+			"loop": 6,
+			"phase": "windup",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 760,
+			"declared_elapsed_ms": 770,
+			"event": "frame",
+			"frame_1based": 8,
+			"loop": 6,
+			"phase": "launch",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 816,
+			"declared_elapsed_ms": 820,
+			"event": "frame",
+			"frame_1based": 9,
+			"loop": 6,
+			"phase": "smear",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 866,
+			"declared_elapsed_ms": 870,
+			"event": "frame",
+			"frame_1based": 10,
+			"loop": 6,
+			"phase": "contact",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 958,
+			"declared_elapsed_ms": 960,
+			"event": "frame",
+			"frame_1based": 11,
+			"loop": 6,
+			"phase": "overshoot",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1025,
+			"declared_elapsed_ms": 1030,
+			"event": "frame",
+			"frame_1based": 12,
+			"loop": 6,
+			"phase": "arrest",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1119,
+			"declared_elapsed_ms": 1130,
+			"event": "frame",
+			"frame_1based": 13,
+			"loop": 6,
+			"phase": "rear-foot-plant",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1216,
+			"declared_elapsed_ms": 1220,
+			"event": "frame",
+			"frame_1based": 14,
+			"loop": 6,
+			"phase": "front-step-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1316,
+			"declared_elapsed_ms": 1320,
+			"event": "frame",
+			"frame_1based": 15,
+			"loop": 6,
+			"phase": "inward-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1416,
+			"declared_elapsed_ms": 1420,
+			"event": "frame",
+			"frame_1based": 16,
+			"loop": 6,
+			"phase": "re-shoulder-lift",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1516,
+			"declared_elapsed_ms": 1520,
+			"event": "frame",
+			"frame_1based": 17,
+			"loop": 6,
+			"phase": "shoulder-support",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1624,
+			"declared_elapsed_ms": 1630,
+			"event": "frame",
+			"frame_1based": 18,
+			"loop": 6,
+			"phase": "strap-settle",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1719,
+			"declared_elapsed_ms": 1730,
+			"event": "frame",
+			"frame_1based": 19,
+			"loop": 6,
+			"phase": "idle-return",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 0,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 6,
+			"phase": "idle",
+			"reason": "keyboard"
+		},
+		{
+			"actual_elapsed_ms": 175,
+			"declared_elapsed_ms": 180,
+			"event": "frame",
+			"frame_1based": 2,
+			"loop": 6,
+			"phase": "reach",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 269,
+			"declared_elapsed_ms": 280,
+			"event": "frame",
+			"frame_1based": 3,
+			"loop": 6,
+			"phase": "free-hand",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 366,
+			"declared_elapsed_ms": 370,
+			"event": "frame",
+			"frame_1based": 4,
+			"loop": 6,
+			"phase": "shoulder-clearance",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 441,
+			"declared_elapsed_ms": 450,
+			"event": "frame",
+			"frame_1based": 5,
+			"loop": 6,
+			"phase": "two-hand-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 535,
+			"declared_elapsed_ms": 550,
+			"event": "frame",
+			"frame_1based": 6,
+			"loop": 6,
+			"phase": "counter-step",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 633,
+			"declared_elapsed_ms": 640,
+			"event": "frame",
+			"frame_1based": 7,
+			"loop": 6,
+			"phase": "windup",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 766,
+			"declared_elapsed_ms": 770,
+			"event": "frame",
+			"frame_1based": 8,
+			"loop": 6,
+			"phase": "launch",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 816,
+			"declared_elapsed_ms": 820,
+			"event": "frame",
+			"frame_1based": 9,
+			"loop": 6,
+			"phase": "smear",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 866,
+			"declared_elapsed_ms": 870,
+			"event": "frame",
+			"frame_1based": 10,
+			"loop": 6,
+			"phase": "contact",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 954,
+			"declared_elapsed_ms": 960,
+			"event": "frame",
+			"frame_1based": 11,
+			"loop": 6,
+			"phase": "overshoot",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1019,
+			"declared_elapsed_ms": 1030,
+			"event": "frame",
+			"frame_1based": 12,
+			"loop": 6,
+			"phase": "arrest",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1125,
+			"declared_elapsed_ms": 1130,
+			"event": "frame",
+			"frame_1based": 13,
+			"loop": 6,
+			"phase": "rear-foot-plant",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1216,
+			"declared_elapsed_ms": 1220,
+			"event": "frame",
+			"frame_1based": 14,
+			"loop": 6,
+			"phase": "front-step-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1311,
+			"declared_elapsed_ms": 1320,
+			"event": "frame",
+			"frame_1based": 15,
+			"loop": 6,
+			"phase": "inward-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1416,
+			"declared_elapsed_ms": 1420,
+			"event": "frame",
+			"frame_1based": 16,
+			"loop": 6,
+			"phase": "re-shoulder-lift",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1511,
+			"declared_elapsed_ms": 1520,
+			"event": "frame",
+			"frame_1based": 17,
+			"loop": 6,
+			"phase": "shoulder-support",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1620,
+			"declared_elapsed_ms": 1630,
+			"event": "frame",
+			"frame_1based": 18,
+			"loop": 6,
+			"phase": "strap-settle",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1720,
+			"declared_elapsed_ms": 1730,
+			"event": "frame",
+			"frame_1based": 19,
+			"loop": 6,
+			"phase": "idle-return",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 0,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 6,
+			"phase": "idle",
+			"reason": "keyboard"
+		},
+		{
+			"actual_elapsed_ms": 174,
+			"declared_elapsed_ms": 180,
+			"event": "frame",
+			"frame_1based": 2,
+			"loop": 6,
+			"phase": "reach",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 274,
+			"declared_elapsed_ms": 280,
+			"event": "frame",
+			"frame_1based": 3,
+			"loop": 6,
+			"phase": "free-hand",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 366,
+			"declared_elapsed_ms": 370,
+			"event": "frame",
+			"frame_1based": 4,
+			"loop": 6,
+			"phase": "shoulder-clearance",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 441,
+			"declared_elapsed_ms": 450,
+			"event": "frame",
+			"frame_1based": 5,
+			"loop": 6,
+			"phase": "two-hand-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 541,
+			"declared_elapsed_ms": 550,
+			"event": "frame",
+			"frame_1based": 6,
+			"loop": 6,
+			"phase": "counter-step",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 629,
+			"declared_elapsed_ms": 640,
+			"event": "frame",
+			"frame_1based": 7,
+			"loop": 6,
+			"phase": "windup",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 762,
+			"declared_elapsed_ms": 770,
+			"event": "frame",
+			"frame_1based": 8,
+			"loop": 6,
+			"phase": "launch",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 810,
+			"declared_elapsed_ms": 820,
+			"event": "frame",
+			"frame_1based": 9,
+			"loop": 6,
+			"phase": "smear",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 866,
+			"declared_elapsed_ms": 870,
+			"event": "frame",
+			"frame_1based": 10,
+			"loop": 6,
+			"phase": "contact",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 958,
+			"declared_elapsed_ms": 960,
+			"event": "frame",
+			"frame_1based": 11,
+			"loop": 6,
+			"phase": "overshoot",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1024,
+			"declared_elapsed_ms": 1030,
+			"event": "frame",
+			"frame_1based": 12,
+			"loop": 6,
+			"phase": "arrest",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1120,
+			"declared_elapsed_ms": 1130,
+			"event": "frame",
+			"frame_1based": 13,
+			"loop": 6,
+			"phase": "rear-foot-plant",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1211,
+			"declared_elapsed_ms": 1220,
+			"event": "frame",
+			"frame_1based": 14,
+			"loop": 6,
+			"phase": "front-step-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1316,
+			"declared_elapsed_ms": 1320,
+			"event": "frame",
+			"frame_1based": 15,
+			"loop": 6,
+			"phase": "inward-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1411,
+			"declared_elapsed_ms": 1420,
+			"event": "frame",
+			"frame_1based": 16,
+			"loop": 6,
+			"phase": "re-shoulder-lift",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1516,
+			"declared_elapsed_ms": 1520,
+			"event": "frame",
+			"frame_1based": 17,
+			"loop": 6,
+			"phase": "shoulder-support",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1625,
+			"declared_elapsed_ms": 1630,
+			"event": "frame",
+			"frame_1based": 18,
+			"loop": 6,
+			"phase": "strap-settle",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1719,
+			"declared_elapsed_ms": 1730,
+			"event": "frame",
+			"frame_1based": 19,
+			"loop": 6,
+			"phase": "idle-return",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 2225,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 7,
+			"phase": "idle",
+			"reason": "idle-return"
+		},
+		{
+			"actual_elapsed_ms": 0,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 7,
+			"phase": "idle",
+			"reason": "keyboard"
+		},
+		{
+			"actual_elapsed_ms": 170,
+			"declared_elapsed_ms": 180,
+			"event": "frame",
+			"frame_1based": 2,
+			"loop": 7,
+			"phase": "reach",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 275,
+			"declared_elapsed_ms": 280,
+			"event": "frame",
+			"frame_1based": 3,
+			"loop": 7,
+			"phase": "free-hand",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 364,
+			"declared_elapsed_ms": 370,
+			"event": "frame",
+			"frame_1based": 4,
+			"loop": 7,
+			"phase": "shoulder-clearance",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 445,
+			"declared_elapsed_ms": 450,
+			"event": "frame",
+			"frame_1based": 5,
+			"loop": 7,
+			"phase": "two-hand-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 544,
+			"declared_elapsed_ms": 550,
+			"event": "frame",
+			"frame_1based": 6,
+			"loop": 7,
+			"phase": "counter-step",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 628,
+			"declared_elapsed_ms": 640,
+			"event": "frame",
+			"frame_1based": 7,
+			"loop": 7,
+			"phase": "windup",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 761,
+			"declared_elapsed_ms": 770,
+			"event": "frame",
+			"frame_1based": 8,
+			"loop": 7,
+			"phase": "launch",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 817,
+			"declared_elapsed_ms": 820,
+			"event": "frame",
+			"frame_1based": 9,
+			"loop": 7,
+			"phase": "smear",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 867,
+			"declared_elapsed_ms": 870,
+			"event": "frame",
+			"frame_1based": 10,
+			"loop": 7,
+			"phase": "contact",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 958,
+			"declared_elapsed_ms": 960,
+			"event": "frame",
+			"frame_1based": 11,
+			"loop": 7,
+			"phase": "overshoot",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1025,
+			"declared_elapsed_ms": 1030,
+			"event": "frame",
+			"frame_1based": 12,
+			"loop": 7,
+			"phase": "arrest",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1125,
+			"declared_elapsed_ms": 1130,
+			"event": "frame",
+			"frame_1based": 13,
+			"loop": 7,
+			"phase": "rear-foot-plant",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1217,
+			"declared_elapsed_ms": 1220,
+			"event": "frame",
+			"frame_1based": 14,
+			"loop": 7,
+			"phase": "front-step-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1313,
+			"declared_elapsed_ms": 1320,
+			"event": "frame",
+			"frame_1based": 15,
+			"loop": 7,
+			"phase": "inward-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1417,
+			"declared_elapsed_ms": 1420,
+			"event": "frame",
+			"frame_1based": 16,
+			"loop": 7,
+			"phase": "re-shoulder-lift",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1513,
+			"declared_elapsed_ms": 1520,
+			"event": "frame",
+			"frame_1based": 17,
+			"loop": 7,
+			"phase": "shoulder-support",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1625,
+			"declared_elapsed_ms": 1630,
+			"event": "frame",
+			"frame_1based": 18,
+			"loop": 7,
+			"phase": "strap-settle",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1725,
+			"declared_elapsed_ms": 1730,
+			"event": "frame",
+			"frame_1based": 19,
+			"loop": 7,
+			"phase": "idle-return",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 0,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 7,
+			"phase": "idle",
+			"reason": "keyboard"
+		},
+		{
+			"actual_elapsed_ms": 174,
+			"declared_elapsed_ms": 180,
+			"event": "frame",
+			"frame_1based": 2,
+			"loop": 7,
+			"phase": "reach",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 274,
+			"declared_elapsed_ms": 280,
+			"event": "frame",
+			"frame_1based": 3,
+			"loop": 7,
+			"phase": "free-hand",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 361,
+			"declared_elapsed_ms": 370,
+			"event": "frame",
+			"frame_1based": 4,
+			"loop": 7,
+			"phase": "shoulder-clearance",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 441,
+			"declared_elapsed_ms": 450,
+			"event": "frame",
+			"frame_1based": 5,
+			"loop": 7,
+			"phase": "two-hand-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 541,
+			"declared_elapsed_ms": 550,
+			"event": "frame",
+			"frame_1based": 6,
+			"loop": 7,
+			"phase": "counter-step",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 629,
+			"declared_elapsed_ms": 640,
+			"event": "frame",
+			"frame_1based": 7,
+			"loop": 7,
+			"phase": "windup",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 763,
+			"declared_elapsed_ms": 770,
+			"event": "frame",
+			"frame_1based": 8,
+			"loop": 7,
+			"phase": "launch",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 811,
+			"declared_elapsed_ms": 820,
+			"event": "frame",
+			"frame_1based": 9,
+			"loop": 7,
+			"phase": "smear",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 866,
+			"declared_elapsed_ms": 870,
+			"event": "frame",
+			"frame_1based": 10,
+			"loop": 7,
+			"phase": "contact",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 958,
+			"declared_elapsed_ms": 960,
+			"event": "frame",
+			"frame_1based": 11,
+			"loop": 7,
+			"phase": "overshoot",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1024,
+			"declared_elapsed_ms": 1030,
+			"event": "frame",
+			"frame_1based": 12,
+			"loop": 7,
+			"phase": "arrest",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1120,
+			"declared_elapsed_ms": 1130,
+			"event": "frame",
+			"frame_1based": 13,
+			"loop": 7,
+			"phase": "rear-foot-plant",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1216,
+			"declared_elapsed_ms": 1220,
+			"event": "frame",
+			"frame_1based": 14,
+			"loop": 7,
+			"phase": "front-step-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1312,
+			"declared_elapsed_ms": 1320,
+			"event": "frame",
+			"frame_1based": 15,
+			"loop": 7,
+			"phase": "inward-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1416,
+			"declared_elapsed_ms": 1420,
+			"event": "frame",
+			"frame_1based": 16,
+			"loop": 7,
+			"phase": "re-shoulder-lift",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1512,
+			"declared_elapsed_ms": 1520,
+			"event": "frame",
+			"frame_1based": 17,
+			"loop": 7,
+			"phase": "shoulder-support",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1619,
+			"declared_elapsed_ms": 1630,
+			"event": "frame",
+			"frame_1based": 18,
+			"loop": 7,
+			"phase": "strap-settle",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1724,
+			"declared_elapsed_ms": 1730,
+			"event": "frame",
+			"frame_1based": 19,
+			"loop": 7,
+			"phase": "idle-return",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 0,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 7,
+			"phase": "idle",
+			"reason": "keyboard"
+		},
+		{
+			"actual_elapsed_ms": 178,
+			"declared_elapsed_ms": 180,
+			"event": "frame",
+			"frame_1based": 2,
+			"loop": 7,
+			"phase": "reach",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 273,
+			"declared_elapsed_ms": 280,
+			"event": "frame",
+			"frame_1based": 3,
+			"loop": 7,
+			"phase": "free-hand",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 369,
+			"declared_elapsed_ms": 370,
+			"event": "frame",
+			"frame_1based": 4,
+			"loop": 7,
+			"phase": "shoulder-clearance",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 441,
+			"declared_elapsed_ms": 450,
+			"event": "frame",
+			"frame_1based": 5,
+			"loop": 7,
+			"phase": "two-hand-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 541,
+			"declared_elapsed_ms": 550,
+			"event": "frame",
+			"frame_1based": 6,
+			"loop": 7,
+			"phase": "counter-step",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 631,
+			"declared_elapsed_ms": 640,
+			"event": "frame",
+			"frame_1based": 7,
+			"loop": 7,
+			"phase": "windup",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 769,
+			"declared_elapsed_ms": 770,
+			"event": "frame",
+			"frame_1based": 8,
+			"loop": 7,
+			"phase": "launch",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 820,
+			"declared_elapsed_ms": 820,
+			"event": "frame",
+			"frame_1based": 9,
+			"loop": 7,
+			"phase": "smear",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 866,
+			"declared_elapsed_ms": 870,
+			"event": "frame",
+			"frame_1based": 10,
+			"loop": 7,
+			"phase": "contact",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 953,
+			"declared_elapsed_ms": 960,
+			"event": "frame",
+			"frame_1based": 11,
+			"loop": 7,
+			"phase": "overshoot",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1021,
+			"declared_elapsed_ms": 1030,
+			"event": "frame",
+			"frame_1based": 12,
+			"loop": 7,
+			"phase": "arrest",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1120,
+			"declared_elapsed_ms": 1130,
+			"event": "frame",
+			"frame_1based": 13,
+			"loop": 7,
+			"phase": "rear-foot-plant",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 0,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 7,
+			"phase": "idle",
+			"reason": "keyboard"
+		},
+		{
+			"actual_elapsed_ms": 171,
+			"declared_elapsed_ms": 180,
+			"event": "frame",
+			"frame_1based": 2,
+			"loop": 7,
+			"phase": "reach",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 275,
+			"declared_elapsed_ms": 280,
+			"event": "frame",
+			"frame_1based": 3,
+			"loop": 7,
+			"phase": "free-hand",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 366,
+			"declared_elapsed_ms": 370,
+			"event": "frame",
+			"frame_1based": 4,
+			"loop": 7,
+			"phase": "shoulder-clearance",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 441,
+			"declared_elapsed_ms": 450,
+			"event": "frame",
+			"frame_1based": 5,
+			"loop": 7,
+			"phase": "two-hand-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 541,
+			"declared_elapsed_ms": 550,
+			"event": "frame",
+			"frame_1based": 6,
+			"loop": 7,
+			"phase": "counter-step",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 633,
+			"declared_elapsed_ms": 640,
+			"event": "frame",
+			"frame_1based": 7,
+			"loop": 7,
+			"phase": "windup",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 0,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 7,
+			"phase": "idle",
+			"reason": "keyboard"
+		},
+		{
+			"actual_elapsed_ms": 175,
+			"declared_elapsed_ms": 180,
+			"event": "frame",
+			"frame_1based": 2,
+			"loop": 7,
+			"phase": "reach",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 0,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 7,
+			"phase": "idle",
+			"reason": "keyboard"
+		},
+		{
+			"actual_elapsed_ms": 174,
+			"declared_elapsed_ms": 180,
+			"event": "frame",
+			"frame_1based": 2,
+			"loop": 7,
+			"phase": "reach",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 269,
+			"declared_elapsed_ms": 280,
+			"event": "frame",
+			"frame_1based": 3,
+			"loop": 7,
+			"phase": "free-hand",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 360,
+			"declared_elapsed_ms": 370,
+			"event": "frame",
+			"frame_1based": 4,
+			"loop": 7,
+			"phase": "shoulder-clearance",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 0,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 7,
+			"phase": "idle",
+			"reason": "keyboard"
+		},
+		{
+			"actual_elapsed_ms": 169,
+			"declared_elapsed_ms": 180,
+			"event": "frame",
+			"frame_1based": 2,
+			"loop": 7,
+			"phase": "reach",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 274,
+			"declared_elapsed_ms": 280,
+			"event": "frame",
+			"frame_1based": 3,
+			"loop": 7,
+			"phase": "free-hand",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 366,
+			"declared_elapsed_ms": 370,
+			"event": "frame",
+			"frame_1based": 4,
+			"loop": 7,
+			"phase": "shoulder-clearance",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 441,
+			"declared_elapsed_ms": 450,
+			"event": "frame",
+			"frame_1based": 5,
+			"loop": 7,
+			"phase": "two-hand-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 536,
+			"declared_elapsed_ms": 550,
+			"event": "frame",
+			"frame_1based": 6,
+			"loop": 7,
+			"phase": "counter-step",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 633,
+			"declared_elapsed_ms": 640,
+			"event": "frame",
+			"frame_1based": 7,
+			"loop": 7,
+			"phase": "windup",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 766,
+			"declared_elapsed_ms": 770,
+			"event": "frame",
+			"frame_1based": 8,
+			"loop": 7,
+			"phase": "launch",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 816,
+			"declared_elapsed_ms": 820,
+			"event": "frame",
+			"frame_1based": 9,
+			"loop": 7,
+			"phase": "smear",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 866,
+			"declared_elapsed_ms": 870,
+			"event": "frame",
+			"frame_1based": 10,
+			"loop": 7,
+			"phase": "contact",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 958,
+			"declared_elapsed_ms": 960,
+			"event": "frame",
+			"frame_1based": 11,
+			"loop": 7,
+			"phase": "overshoot",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1024,
+			"declared_elapsed_ms": 1030,
+			"event": "frame",
+			"frame_1based": 12,
+			"loop": 7,
+			"phase": "arrest",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1124,
+			"declared_elapsed_ms": 1130,
+			"event": "frame",
+			"frame_1based": 13,
+			"loop": 7,
+			"phase": "rear-foot-plant",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1212,
+			"declared_elapsed_ms": 1220,
+			"event": "frame",
+			"frame_1based": 14,
+			"loop": 7,
+			"phase": "front-step-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1311,
+			"declared_elapsed_ms": 1320,
+			"event": "frame",
+			"frame_1based": 15,
+			"loop": 7,
+			"phase": "inward-gather",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1411,
+			"declared_elapsed_ms": 1420,
+			"event": "frame",
+			"frame_1based": 16,
+			"loop": 7,
+			"phase": "re-shoulder-lift",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1516,
+			"declared_elapsed_ms": 1520,
+			"event": "frame",
+			"frame_1based": 17,
+			"loop": 7,
+			"phase": "shoulder-support",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1620,
+			"declared_elapsed_ms": 1630,
+			"event": "frame",
+			"frame_1based": 18,
+			"loop": 7,
+			"phase": "strap-settle",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 1720,
+			"declared_elapsed_ms": 1730,
+			"event": "frame",
+			"frame_1based": 19,
+			"loop": 7,
+			"phase": "idle-return",
+			"reason": "advance"
+		},
+		{
+			"actual_elapsed_ms": 2221,
+			"declared_elapsed_ms": 0,
+			"event": "frame",
+			"frame_1based": 1,
+			"loop": 8,
+			"phase": "idle",
+			"reason": "idle-return"
+		}
+	],
+	"loop_events": [
+		{
+			"actual_elapsed_ms": 2233,
+			"declared_duration_ms": 2230,
+			"event": "idle_return",
+			"frame_1based": 1,
+			"loop": 1,
+			"returned_to_idle": true
+		},
+		{
+			"actual_elapsed_ms": 2238,
+			"declared_duration_ms": 2230,
+			"event": "idle_return",
+			"frame_1based": 1,
+			"loop": 2,
+			"returned_to_idle": true
+		},
+		{
+			"actual_elapsed_ms": 2233,
+			"declared_duration_ms": 2230,
+			"event": "idle_return",
+			"frame_1based": 1,
+			"loop": 3,
+			"returned_to_idle": true
+		},
+		{
+			"actual_elapsed_ms": 2230,
+			"declared_duration_ms": 2230,
+			"event": "idle_return",
+			"frame_1based": 1,
+			"loop": 4,
+			"returned_to_idle": true
+		},
+		{
+			"actual_elapsed_ms": 2199,
+			"declared_duration_ms": 2230,
+			"event": "idle_return",
+			"frame_1based": 1,
+			"loop": 5,
+			"returned_to_idle": true
+		},
+		{
+			"actual_elapsed_ms": 2225,
+			"declared_duration_ms": 2230,
+			"event": "idle_return",
+			"frame_1based": 1,
+			"loop": 6,
+			"returned_to_idle": true
+		},
+		{
+			"actual_elapsed_ms": 2221,
+			"declared_duration_ms": 2230,
+			"event": "idle_return",
+			"frame_1based": 1,
+			"loop": 7,
+			"returned_to_idle": true
+		}
+	],
+	"physical_keyboard_tested": false,
+	"probe_events": [
+		{
+			"event": "probe",
+			"key": "A",
+			"left": "clean",
+			"reason": "startup-default",
+			"right": "authored_smear",
+			"runtime_trail_on_right": false,
+			"time_ms": 2415
+		},
+		{
+			"event": "probe",
+			"key": "C",
+			"left": "clean",
+			"reason": "automatic-clean-runtime-trail-probe",
+			"right": "clean",
+			"runtime_trail_on_right": true,
+			"time_ms": 10312
+		},
+		{
+			"event": "probe",
+			"key": "A",
+			"left": "clean",
+			"reason": "automatic-restore-default",
+			"right": "authored_smear",
+			"runtime_trail_on_right": false,
+			"time_ms": 12545
+		}
+	],
+	"probe_state": {
+		"left": "clean",
+		"observation_stage": "complete",
+		"right": "authored_smear"
+	},
+	"reason": "idle-return",
+	"runtime_trail": {
+		"enabled": false,
+		"fallback_rect_xywh": [
+			150,
+			45,
+			106,
+			100
+		],
+		"label": "RUNTIME TRAIL (NOT DRAWN SMEAR)",
+		"lifetime_ms": 85,
+		"max_ghosts": 3,
+		"metadata_key": "trail_rects_xywh",
+		"scope": "tote/prop crop only",
+		"spawn_transitions": "entering or leaving declared smear frames only"
+	},
+	"source_exports": {
+		"authored_smear": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/tote-smear-sheet.png",
+		"clean": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/tote-clean-sheet.png",
+		"timing": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/exports/timing.json"
+	},
+	"timeline_note": "declared fields are authored metadata; actual_elapsed_ms is wall-clock observation and does not claim an FPS measurement",
+	"viewport": [
+		640,
+		280
+	],
+	"window_scale": 2
+}

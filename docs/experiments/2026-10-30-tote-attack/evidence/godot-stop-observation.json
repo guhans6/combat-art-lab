@@ -1,0 +1,8 @@
+{
+  "tool": "mcp__godot_art_lab__stop_project",
+  "target": "docs/experiments/2026-10-30-tote-attack/runtime/godot",
+  "observed_message": "Godot project stopped",
+  "finalErrors": [],
+  "completion_marker": "TOTE_FRAME_EVIDENCE live=13 inspection_only=0",
+  "note": "Stop result observed directly after the passing final-art runtime audit. Full preceding output is in godot-final-debug.json."
+}

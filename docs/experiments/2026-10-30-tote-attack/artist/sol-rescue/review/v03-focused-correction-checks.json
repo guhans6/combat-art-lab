@@ -1,0 +1,50 @@
+{
+  "passed": true,
+  "changed_frames": {
+    "7": "exact complete-pose +18x translation",
+    "8": "exact complete-pose +18x translation",
+    "9": [
+      [
+        161,
+        0
+      ],
+      [
+        162,
+        0
+      ],
+      [
+        161,
+        1
+      ],
+      [
+        162,
+        1
+      ]
+    ],
+    "10": [
+      [
+        161,
+        0
+      ],
+      [
+        162,
+        0
+      ],
+      [
+        161,
+        1
+      ],
+      [
+        162,
+        1
+      ]
+    ]
+  },
+  "all_other_frames_exact": true,
+  "contact_followthrough_arrest_front_sole_xy": [
+    208,
+    184
+  ],
+  "strict_transparent_canvas_margins": true,
+  "no_timing_palette_or_first_last_change": true
+}

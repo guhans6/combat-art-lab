@@ -1,0 +1,203 @@
+{
+  "sequences": [
+    {
+      "label": "A-left Terra",
+      "native": "docs/experiments/2026-10-30-idle-breathing-comparison/terra/pass01.aseprite",
+      "sha256": "3ea95ac7cd738e3920bac50d22641b8d296ed28a61234f65898d43f4737964ee",
+      "canvas": [
+        128,
+        192
+      ],
+      "layer_count": 12,
+      "frame_count": 8,
+      "native_equals_all_exports": true,
+      "new_visible_RGB_per_frame": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "durations_ms": [
+        600,
+        350,
+        550,
+        600,
+        50,
+        80,
+        50,
+        250
+      ]
+    },
+    {
+      "label": "A-right Sol",
+      "native": "docs/experiments/2026-10-30-natural-idle-sol/pass01.aseprite",
+      "sha256": "25ae8dc1952cf5ef62d081735f52a56cb4cd726c08423d639b3c510b2d6f6f42",
+      "canvas": [
+        128,
+        192
+      ],
+      "layer_count": 12,
+      "frame_count": 8,
+      "native_equals_all_exports": true,
+      "new_visible_RGB_per_frame": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "durations_ms": [
+        600,
+        350,
+        550,
+        600,
+        50,
+        80,
+        50,
+        250
+      ]
+    },
+    {
+      "label": "B redraw",
+      "native": "docs/experiments/2026-10-30-redrawn-breathing-sol/pass01.aseprite",
+      "sha256": "fa4fc5aa239b4c2cf36f2b110eaab0cff7f56456b563058603c46fd4dba70c39",
+      "canvas": [
+        128,
+        192
+      ],
+      "layer_count": 12,
+      "frame_count": 12,
+      "native_equals_all_exports": true,
+      "new_visible_RGB_per_frame": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "durations_ms": [
+        650,
+        240,
+        240,
+        500,
+        350,
+        300,
+        190,
+        500,
+        50,
+        80,
+        50,
+        800
+      ]
+    }
+  ],
+  "gifs": [
+    {
+      "path": "docs/experiments/2026-10-30-natural-idle-sol/proof/terra-left-sol-right-3x.gif",
+      "sha256": "41e884b763c7073b7338f417311b723812607bb929ff34ed2ef2fd54cc09b7ff",
+      "size": [
+        768,
+        576
+      ],
+      "durations_ms": [
+        600,
+        350,
+        550,
+        600,
+        50,
+        80,
+        50,
+        250
+      ],
+      "cycle_ms": 2530,
+      "loop": 0,
+      "all_decoded_frames_equal_native": true,
+      "matte_rgb": [
+        48,
+        50,
+        57
+      ]
+    },
+    {
+      "path": "docs/experiments/2026-10-30-redrawn-breathing-sol/proof/neutral-3x.gif",
+      "sha256": "a8a40b65c25460a8533e28350014f9fa51db667deb53558b11ff24a5b9e1e501",
+      "size": [
+        384,
+        576
+      ],
+      "durations_ms": [
+        650,
+        240,
+        240,
+        500,
+        350,
+        300,
+        190,
+        500,
+        50,
+        80,
+        50,
+        800
+      ],
+      "cycle_ms": 3950,
+      "loop": 0,
+      "all_decoded_frames_equal_native": true,
+      "matte_rgb": [
+        221,
+        221,
+        221
+      ]
+    }
+  ],
+  "B_raised_head_registered_exact_above_y30": {
+    "4": true,
+    "5": true,
+    "6": true
+  },
+  "B_visible_shirt_witness_x60_to64_y57": {
+    "1": [
+      "#d6b7bb",
+      "#d6b7bb",
+      "#d6b7bb",
+      "#d6b7bb",
+      "#2d291d"
+    ],
+    "4": [
+      "#d6b7bb",
+      "#d6b7bb",
+      "#fde4cc",
+      "#d6b7bb",
+      "#d6b7bb"
+    ],
+    "5": [
+      "#d6b7bb",
+      "#fde4cc",
+      "#fde4cc",
+      "#d6b7bb",
+      "#d6b7bb"
+    ],
+    "6": [
+      "#fde4cc",
+      "#d6b7bb",
+      "#d6b7bb",
+      "#d6b7bb",
+      "#d6b7bb"
+    ]
+  },
+  "all_three_rest_composites_equal": true,
+  "limits": "Static diagnostic; no actual-speed viewing, art score, or gameplay validation. No cloth registration inferred from head movement."
+}

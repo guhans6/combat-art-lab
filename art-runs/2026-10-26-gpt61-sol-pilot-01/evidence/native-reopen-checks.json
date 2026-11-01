@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "reopen_mcp_calls": [
+    "061",
+    "062",
+    "063",
+    "064"
+  ],
+  "fresh_export_rgba_equal": true,
+  "candidate_png_sha256": "4acd1e72348472656c6438eaf61001bb0e64f8b63f409bab9da1ac2cbbb7f761",
+  "reopened_png_sha256": "4acd1e72348472656c6438eaf61001bb0e64f8b63f409bab9da1ac2cbbb7f761",
+  "native_candidate_sha256": "aa0051d6c2113dd1ebe057640ec17526326200baf0a1e98f8c9641cede26febd",
+  "native_metadata_compared_to_frozen_baseline": "final-native-checks.json",
+  "native_checks_include": [
+    "all twelve layer payloads and order",
+    "visibility/editability/opacity/blend",
+    "hidden guide layer pixels",
+    "frame count and 100ms duration",
+    "all palette and tag chunks",
+    "cel positions, dimensions, opacity and z",
+    "all protected native pixels including neck notch"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+	"animation_frames": 8,
+	"character_root": [
+		108.0,
+		48.0
+	],
+	"engine": "4.7.2-stable (official)",
+	"engine_observation": "played loop; captured each frame, paused closed pose and isolated shop; OS keyboard interaction not exercised",
+	"loops_observed": 2,
+	"nearest_filter": true,
+	"shop_parts": [
+		"05-near-shop-wall",
+		"07-shop-glass",
+		"08-shop-awning",
+		"09-shop-posts",
+		"10-shop-steps",
+		"13-shop-lamp-pixels"
+	],
+	"viewport": [
+		362.0,
+		304.0
+	]
+}

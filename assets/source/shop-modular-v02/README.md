@@ -1,0 +1,1 @@
+Shop review successor to v01. Structural backing, ceiling housing and pot-foot gaps repaired. Exact inputs/checks: docs/experiments/2026-10-27-character-shop-quality-review. Earlier sources are preserved.

@@ -1,0 +1,321 @@
+{
+  "baseline_native": "docs/experiments/2026-10-30-expression-strip/luna/passes/luna6-neutral.aseprite",
+  "baseline_sha256": "d76266fa8afcd1de643e6b6421ec4dfe4fa77f8044a1d083205b921eb2f25540",
+  "baseline_png": "docs/experiments/2026-10-30-expression-strip/luna/passes/luna6-neutral.png",
+  "png_sha256": "e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad",
+  "canvas": [
+    128,
+    192
+  ],
+  "frames": [
+    {
+      "duration_ms": 100,
+      "non_cel_chunks": [
+        {
+          "type": "0x2007",
+          "sha256": "4cbbd8ca5215b8d161aec181a74b694f4e24b001d5b081dc0030ed797a8973e0"
+        },
+        {
+          "type": "0x2019",
+          "sha256": "f2d4907a7493af8e6557f933e3c2c40d73f733658fc8250d925f79678ffb5b81"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "f70a90402025e34c2692a0a71b1f7a07f5f48028b94e9d77ad4caaa53a58629f"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "186956c84456b804009f512a5d82d84ea61f1ca4746ce07113f5f1197634df0f"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "13342bd5d68094d5cbd4721a7b2fc2c7e42e8a89a91588313d8ce1c688bf2072"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "7002aae4b16e872439f7dd3762bd58ae0e6446035fa84df2a6544bb2cb08942c"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "b51df7dac6264503dbcbf1cecf5d01843a973e7e0cb3e2772cb1974320db6b64"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "ca52d5526d2897192c7158fd7f35053bb4e24193de59fdde8f542c0a0ea79c19"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "6978dfab8394e8a9df4712fe38a1e68357cd86c006c09879c4c0849cfc4d80b2"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "f7cbd2f5063ebf97a0bafd5cf8c26b36d41239a4da9b6d364b5f2922bbb7f589"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "979a82d779b53edc1db8c16e08e13aa8d6f04ad11acfe08792a876e363a037e8"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "04318a1259ae743f247e14dc43fcec3059417cb03b92ea1e6226a937ea27897b"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "bea27e468bbf55a9e7748b22ae4c89f90aa039549e4ad6521ea8d86cc7b74762"
+        },
+        {
+          "type": "0x2004",
+          "sha256": "aabc01497977f8961c3892273d31613fa297340ffa7c9dab86f72ac17d76ef76"
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "name": "guide-source-seed (hidden)",
+      "flags": 0,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "00-shoes",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "01-denim",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "02a-jacket-left",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "02b-jacket-right",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "03-shirt",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "04-tote",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "05-tote-strap",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "06a-left-hand",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "06b-right-hand",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "07-face-and-neck",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    },
+    {
+      "name": "08-hair-tie-and-hair",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    }
+  ],
+  "cels": {
+    "(0, 0)": {
+      "geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "raw_sha256": "8839680f1bc70c1c99653a28c76c6f8ea41f401d2755c93146d765523cb5806c"
+    },
+    "(0, 1)": {
+      "geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "raw_sha256": "63b535700a6f7425582ac1eb4175157eb35b13c08b53c42a731ee92af5ea0034"
+    },
+    "(0, 2)": {
+      "geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "raw_sha256": "44fcc99af6786f685536beb1b4af29c3c5ec581f33d2a385d9019a2b0afff104"
+    },
+    "(0, 3)": {
+      "geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "raw_sha256": "1d41b70964dea32693b3d5193be7fa0605fcc3244d47c2837c6881f188a413f1"
+    },
+    "(0, 4)": {
+      "geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "raw_sha256": "2fc1b7a89dbebc61d3e65a11771ab69c58331f27adbedd5013027d64c230a9a4"
+    },
+    "(0, 5)": {
+      "geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "raw_sha256": "b72d95921873844bc44125d0d335bdfcdfbe8aea51c1e21ced34bf8c04948646"
+    },
+    "(0, 6)": {
+      "geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "raw_sha256": "2acc69677bc4b5286984031b49405c406940c7ba6c153cd46178466c0a62591b"
+    },
+    "(0, 7)": {
+      "geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "raw_sha256": "3b39882a25524004eb61f2298bd560fc3e491d6538bb4782d085de42eac4fbda"
+    },
+    "(0, 8)": {
+      "geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "raw_sha256": "5c45cb93f9873c5cb2d41cd86b8029a011beea510a23cebcc47308056ccbad1b"
+    },
+    "(0, 9)": {
+      "geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "raw_sha256": "35f3cbec2833daffa40f7f0af26897f601149addf8004632d8f40aecfafb2ccf"
+    },
+    "(0, 10)": {
+      "geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "raw_sha256": "0fc6d0a45ddc1f26edb55b15a22c030882db9b1ba493b96a8578fbc64fc2d9a6"
+    },
+    "(0, 11)": {
+      "geometry": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "opacity": 255,
+      "z": 0,
+      "raw_sha256": "1885d7b4c5ead9e78a08a4ad85df5b95fe4cd4845be3fbdabfc49b7f2e04f05b"
+    }
+  },
+  "native_composite_equals_png": true,
+  "alpha_bounds": [
+    32,
+    2,
+    104,
+    185
+  ],
+  "opaque_count": 7844,
+  "visible_colors": 249,
+  "existing_coverage_holes": "not assessed yet",
+  "palette_chunks": [
+    {
+      "type": "0x2019",
+      "sha256": "f2d4907a7493af8e6557f933e3c2c40d73f733658fc8250d925f79678ffb5b81"
+    }
+  ]
+}

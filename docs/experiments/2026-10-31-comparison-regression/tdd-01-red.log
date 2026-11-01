@@ -1,0 +1,21 @@
+test_comparison_review (unittest.loader._FailedTest.test_comparison_review) ... ERROR
+
+======================================================================
+ERROR: test_comparison_review (unittest.loader._FailedTest.test_comparison_review)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: test_comparison_review
+Traceback (most recent call last):
+  File "/Users/guhan/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/unittest/loader.py", line 396, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/guhan/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/unittest/loader.py", line 339, in _get_module_from_name
+    __import__(name)
+  File "/Users/guhan/Guhan/Projects/combat-art-lab/tools/pixel-art-director/tests/test_comparison_review.py", line 9, in <module>
+    from comparison_review import build_packet
+ModuleNotFoundError: No module named 'comparison_review'
+
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (errors=1)

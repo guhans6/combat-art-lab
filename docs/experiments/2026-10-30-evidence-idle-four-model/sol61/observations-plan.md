@@ -1,0 +1,31 @@
+# Independent breathing study — Sol 6.1
+
+Prepared 30 October 2026. Model assignment: `gpt-6.1-sol`, reasoning high. One main art pass, at most one artistic correction. No other contestant inspected and no artist/reviewer delegation. Main task is an end-to-end interpretation from equal inputs; differing authored timings/methods prevent pure model-skill attribution.
+
+## Frozen references and inspected evidence
+
+Read root context, glossary, handoff, ADR 0001, art-production workflow, style/motion guides, asset contract, validated-checkpoints/domain guidance, and pixel-art-director animation/benchmark/setup/alpha branches. No separate repository delivery reference/Definition of Done is established. Preserve existing dirty workspace. All outputs remain under this folder; no workflow/handoff changes, publication or Godot.
+
+Visually inspected common `inputs/character-scene.png`, `character-closeup.png`, `neutral.png`, own faithful 4x neutral and 2x native-layer inspection. Originals show tied brown rear hair with pale tie, broken fringe, right-facing three-quarter eyes, a small relaxed smile, olive jacket framing a pale shirt, wide blue jeans and a cream tote. The baseline captures these identities at 128x192 with less fine detail; suitable as the frozen provisional animation seed, not newly approved static art. Face/hair and broad garment light/shadow relationships are priority locks. Scene glow is not a new animation lighting source.
+
+Video pack README/EVIDENCE-REVIEW, transcript and motion index read. Directly inspected source still IDs `chunk-001-frame-022` (05:15), `chunk-001-frame-030` (07:15), `chunk-002-frame-004` (10:45), `chunk-002-frame-021` (14:30), `chunk-002-frame-028` (16:00). Also decoded clip-02 at local 4, 8, 12, 16, 20 seconds (source 06:58–07:14) and inspected frames 01/03/05. These show chest-plane edges redistributed within the existing green ramp while limb/root shapes stay restrained; they are sampled motion evidence, not observed video playback.
+
+Source-supported lessons: transcript-052–060 (04:57–06:00) separates two core breathing poses and holds/transitions. Transcript-067–074 (06:35–07:23) starts core-first and distributes chest tone transition to avoid a simultaneous jump. Transcript-103–107 (10:14–10:28) delays arms. Transcript-134–139 (14:28–14:49) prefers leg-shade adjustment to moving leg silhouette. Transcript-146–154 (15:47–16:38) separates a Breathe event from a held Idle. Their exact animation FPS/per-cel durations and editable palette/project are unavailable. Recording 30fps is not this study's timing.
+
+## Independent authored plan
+
+A restrained chest-led inhale with one pixel maximum shoulder/head rise; a slower release, then a generous rest. Adapt the source lesson to hands already resting in pockets: keep hands/pockets, denim, shoes and hip rooted rather than copying the tutorial's dangling-hand swing. Omit blink and separate hair flutter in this bounded pass to keep expression exact and breathing legible on its own. No inherited body cycle is used.
+
+Construct a rest, a chest anticipation, a connected lifted upper torso, and a softened release, with repeated states/holds as needed. Author 10–12 frames, roughly 3–4 seconds, precise timings frozen with native construction. Read actual ownership first: named layers contain cross-part backing (e.g. head/face is largely in the hair layer; neck is in face-and-neck; jacket/denim crumbs appear in adjacent layers). Therefore anatomical masks and overlap checks take precedence over labels.
+
+Per-part intent: shoes/denim/tote body/hands fixed. Hair/head reused rigidly by one pixel at the lifted key to preserve all facial marks; neck/collar follow with connection repair. Upper jacket shoulder/collar contour is reconstructed for rise; sleeves retain forearm/pocket anchors. Shirt neckline follows collar while central/lower fabric retains pale base and characteristic mauve folds; change a few existing fold-edge pixels to suggest chest inflation and release, not wholesale reshadowing. Strap top follows shoulder, lower tote attachment stays anchored with an explicit junction repair. No blanket row-band warp. Native rest frame and hidden guide remain exact.
+
+Appearance gate: keep olive broad planes, limited dark elbow folds and original highlight accents; shirt's pale uninterrupted chest and muted mauve lower folds; denim unchanged. Inspect baseline versus inhale/release at 1x and integer zoom. A color histogram is diagnostic only. New shadow patches, bright flashing or excessive area change require the one retained correction pass or a rejected-candidate outcome.
+
+## Proof and delivery plan
+
+During the exclusive lease: dedicated headless Aseprite MCP preflight, list docs, inspect metadata/owners, scratch 16x16 two-layer asymmetric pattern, preview/readback, one-pixel edit and transparency semantics, save/reopen/export and out-of-mask rejection. All native construction/save/export remains MCP. Python may prepare literal operations and read native/export data; it cannot write production PNGs/native artwork. Keep scratch and proof-only duplicate separate.
+
+Save main checkpoint before any optional correction; preserve operations and all native frames/timing. Export every transparent frame, close/reopen native into a fresh export folder and require equality. Verify canvas/layer flags/names/order/opacity/blend, palette chunks, native rest/hidden guide, static limbs/root and no new enclosed body holes relative to reviewed baseline. Duplicate-only one-pixel revision with other native content protected proves practical editing. Generate exact-palette neutral-matte 1x/3x GIFs from actual exports and compare decoded pixels/timing to the composites. Produce full pose and torso sheets and JSON delivery manifest, input hashes and verification. Playback naturalness remains unverified unless actually observed; user art approval and engine playback remain separate.
+
+Prepared evidence: `evidence/neutral-4x.png`, `layers-2x.png`, `torso-coordinates.png`, source-derived `chest-01.png` through `chest-05.png`; input hash list `input-hashes.json`. Doctor inventory: macOS26.6.2 arm64, Python3.14.7 lacks Pillow, Python3.11 has Pillow12.0.0; Aseprite executable present but not launched directly. Actual editor/server versions deferred to lease preflight.

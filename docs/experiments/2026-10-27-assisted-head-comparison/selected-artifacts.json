@@ -1,0 +1,19 @@
+{
+  "base_revision": "9e35c5c13987a153e942e6f93f49f247fad13c3a",
+  "local_uncommitted": true,
+  "selected": "C01",
+  "files": [
+    {
+      "path": "assets/source/assisted-bust-v01/bust.aseprite",
+      "sha256": "8c1a58ef0c51278136c8c990a5e0b518f3116c4d01310097301d4fcc2f47bd04"
+    },
+    {
+      "path": "assets/source/assisted-bust-v01/blink.aseprite",
+      "sha256": "2d3586adb917306ee845ea7a8dd7d9c50d530b03972553e486cc4757643ba8c4"
+    },
+    {
+      "path": "assets/export/assisted-bust-v01/bust.png",
+      "sha256": "28d8044cdacbd1b61fa0da13701b3f97203a67d8862c67d6f296d28bc6813816"
+    }
+  ]
+}

@@ -1,0 +1,728 @@
+{
+  "pass-01-hair": {
+    "passed": true,
+    "failures": [],
+    "layers": [
+      {
+        "name": "01-tied-hair-back",
+        "changed_pixels": 1150,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "02-shoulders-and-hood-back",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "03-shirt",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "04-neck-and-ear",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "05-face-plane",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "06-crown-and-fringe",
+        "changed_pixels": 3204,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "07-pale-hair-tie",
+        "changed_pixels": 24,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "08-face-features",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "09-hood-front",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "10-tote-strap",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      }
+    ],
+    "frame_metadata_equal": true,
+    "layer_metadata_equal": true,
+    "header_equal": true,
+    "visible_rgb_count": 23,
+    "fresh_reopen_export_match": true,
+    "source_sha256": "e1801d6718d0472bc5e9f895ffe75a78b153ec85ca5bf80a831a92273b53468b"
+  },
+  "pass-02-face": {
+    "passed": true,
+    "failures": [],
+    "layers": [
+      {
+        "name": "01-tied-hair-back",
+        "changed_pixels": 1150,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "02-shoulders-and-hood-back",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "03-shirt",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "04-neck-and-ear",
+        "changed_pixels": 657,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "05-face-plane",
+        "changed_pixels": 1571,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "06-crown-and-fringe",
+        "changed_pixels": 3204,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "07-pale-hair-tie",
+        "changed_pixels": 24,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "08-face-features",
+        "changed_pixels": 195,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "09-hood-front",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "10-tote-strap",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      }
+    ],
+    "frame_metadata_equal": true,
+    "layer_metadata_equal": true,
+    "header_equal": true,
+    "visible_rgb_count": 25,
+    "fresh_reopen_export_match": true,
+    "source_sha256": "64231827b11a14e6529d88eb8c30b993aa5d00dc5aff3e641a753d104d691c78"
+  },
+  "pass-03-refined": {
+    "passed": true,
+    "failures": [],
+    "layers": [
+      {
+        "name": "01-tied-hair-back",
+        "changed_pixels": 1176,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "02-shoulders-and-hood-back",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "03-shirt",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "04-neck-and-ear",
+        "changed_pixels": 657,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "05-face-plane",
+        "changed_pixels": 1571,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "06-crown-and-fringe",
+        "changed_pixels": 3176,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "07-pale-hair-tie",
+        "changed_pixels": 24,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "08-face-features",
+        "changed_pixels": 186,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "09-hood-front",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "10-tote-strap",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      }
+    ],
+    "frame_metadata_equal": true,
+    "layer_metadata_equal": true,
+    "header_equal": true,
+    "visible_rgb_count": 25,
+    "fresh_reopen_export_match": true,
+    "source_sha256": "ab330a55ad7f576e1500f0865a748250a104041974db322a236be4b62dc6eaf6"
+  },
+  "tie-edit-proof": {
+    "passed": true,
+    "failures": [],
+    "layers": [
+      {
+        "name": "01-tied-hair-back",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "02-shoulders-and-hood-back",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "03-shirt",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "04-neck-and-ear",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "05-face-plane",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "06-crown-and-fringe",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "07-pale-hair-tie",
+        "changed_pixels": 16,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "08-face-features",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "09-hood-front",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      },
+      {
+        "name": "10-tote-strap",
+        "changed_pixels": 0,
+        "protected_changed_pixels": 0,
+        "before_cel": [
+          0,
+          0,
+          120,
+          112
+        ],
+        "after_cel": [
+          0,
+          0,
+          120,
+          112
+        ]
+      }
+    ],
+    "frame_metadata_equal": true,
+    "layer_metadata_equal": true,
+    "header_equal": true
+  },
+  "baseline_preparation_visual_change": false
+}

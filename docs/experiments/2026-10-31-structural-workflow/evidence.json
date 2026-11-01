@@ -1,0 +1,22 @@
+[
+  {
+    "path": "docs/experiments/2026-10-30-tote-attack/artist/sol-rescue/source/tote-attack-v03.aseprite",
+    "sha256": "1f6d68c6927bbcc594be9913156f74a6b0939aa373a9be9971dcd5be8ab52065"
+  },
+  {
+    "path": "docs/experiments/2026-10-31-structural-workflow/proportion-case.png",
+    "sha256": "76063d5161d93b4160efb4399e5a068984f1ed05aafa02ea685a405cfabb2340"
+  },
+  {
+    "path": "docs/experiments/2026-10-31-attack-cause-audit/f9-ownership-8x.png",
+    "sha256": "2fa98f60be0757334d5ebd04d1cdff8c8ff90021410b9492e839b4856b07aa58"
+  },
+  {
+    "path": "docs/experiments/2026-10-31-full-attack-repair/source/attack-repaired.aseprite",
+    "sha256": "5fb9a4f776ea46df1ee86c3eb5e10c8be32b094aa265004e908e832b7f4518ea"
+  },
+  {
+    "path": "docs/experiments/2026-10-31-full-attack-repair/review/contact-2x.png",
+    "sha256": "f58e77f6adf479aee1c0377e0395fa2e22fc9a5023dbd779df5fa76493353ee9"
+  }
+]

@@ -1,0 +1,209 @@
+{
+  "baseline_role": "retained before final material/wrist/root correction; rejected material treatment",
+  "registration": "same256x208 grid; exact root/head/legs/prop except smearrearroot; anatomy-specific nativeowners checked separately",
+  "required_frame_ids": [
+    "F4",
+    "F5",
+    "F6",
+    "F8",
+    "F9",
+    "F14",
+    "F15",
+    "F16"
+  ],
+  "allow_new_colors": true,
+  "allow_partial_alpha": false,
+  "frames": [
+    {
+      "id": "F4",
+      "before": "before-4.png",
+      "after": "after-4.png",
+      "mask": "mask-4.png",
+      "regions": [
+        {
+          "name": "sleeves-wrists-grip-through-root-context",
+          "crop": [
+            85,
+            32,
+            185,
+            123
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5",
+      "before": "before-5.png",
+      "after": "after-5.png",
+      "mask": "mask-5.png",
+      "regions": [
+        {
+          "name": "sleeves-wrists-grip-through-root-context",
+          "crop": [
+            85,
+            32,
+            185,
+            123
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F6",
+      "before": "before-6.png",
+      "after": "after-6.png",
+      "mask": "mask-6.png",
+      "regions": [
+        {
+          "name": "sleeves-wrists-grip-through-root-context",
+          "crop": [
+            85,
+            32,
+            185,
+            123
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F8",
+      "before": "before-8.png",
+      "after": "after-8.png",
+      "mask": "mask-8.png",
+      "regions": [
+        {
+          "name": "sleeves-wrists-grip-through-root-context",
+          "crop": [
+            85,
+            32,
+            185,
+            123
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F9",
+      "before": "before-9.png",
+      "after": "after-9.png",
+      "mask": "mask-9.png",
+      "regions": [
+        {
+          "name": "sleeves-wrists-grip-through-root-context",
+          "crop": [
+            85,
+            32,
+            185,
+            123
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F14",
+      "before": "before-14.png",
+      "after": "after-14.png",
+      "mask": "mask-14.png",
+      "regions": [
+        {
+          "name": "sleeves-wrists-grip-through-root-context",
+          "crop": [
+            85,
+            32,
+            185,
+            123
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F15",
+      "before": "before-15.png",
+      "after": "after-15.png",
+      "mask": "mask-15.png",
+      "regions": [
+        {
+          "name": "sleeves-wrists-grip-through-root-context",
+          "crop": [
+            85,
+            32,
+            185,
+            123
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F16",
+      "before": "before-16.png",
+      "after": "after-16.png",
+      "mask": "mask-16.png",
+      "regions": [
+        {
+          "name": "sleeves-wrists-grip-through-root-context",
+          "crop": [
+            85,
+            32,
+            185,
+            123
+          ]
+        }
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "role": "F4 actualnativeownersandhide",
+      "path": "ownership-4.png"
+    },
+    {
+      "role": "F5 actualnativeownersandhide",
+      "path": "ownership-5.png"
+    },
+    {
+      "role": "F6 actualnativeownersandhide",
+      "path": "ownership-6.png"
+    },
+    {
+      "role": "F8 actualnativeownersandhide",
+      "path": "ownership-8.png"
+    },
+    {
+      "role": "F9 actualnativeownersandhide",
+      "path": "ownership-9.png"
+    },
+    {
+      "role": "F14 actualnativeownersandhide",
+      "path": "ownership-14.png"
+    },
+    {
+      "role": "F15 actualnativeownersandhide",
+      "path": "ownership-15.png"
+    },
+    {
+      "role": "F16 actualnativeownersandhide",
+      "path": "ownership-16.png"
+    },
+    {
+      "role": "allaffectednativecomposites matchedgrid",
+      "path": "material-before-after.png"
+    },
+    {
+      "role": "candidate native",
+      "path": "../../source/tote-smear-material03.aseprite"
+    },
+    {
+      "role": "baseline native",
+      "path": "../../source/tote-smear.aseprite"
+    },
+    {
+      "role": "actual MCP sheet",
+      "path": "../../proof/material03-smear-sheet.png"
+    },
+    {
+      "role": "scope and exact arm roles",
+      "path": "../../recipe/material03-scope.json"
+    }
+  ],
+  "zoom": 3
+}

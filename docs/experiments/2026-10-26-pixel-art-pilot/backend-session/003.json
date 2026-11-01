@@ -1,0 +1,41 @@
+{
+  "id": "003",
+  "time": "2026-10-26T10:28:26.127Z",
+  "call": {
+    "name": "layer",
+    "arguments": {
+      "op": "rename",
+      "name": "Layer 1",
+      "newName": "pattern"
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "1 layer(s), top to bottom: pattern"
+      }
+    ],
+    "structuredContent": {
+      "sprite": "Sprite",
+      "activeLayer": "pattern",
+      "layers": [
+        {
+          "isTilemap": false,
+          "name": "pattern",
+          "blendMode": "3",
+          "index": 1,
+          "cels": [
+            1
+          ],
+          "opacity": 255,
+          "editable": true,
+          "isGroup": false,
+          "visible": true
+        }
+      ],
+      "applied": 1
+    }
+  },
+  "images": []
+}

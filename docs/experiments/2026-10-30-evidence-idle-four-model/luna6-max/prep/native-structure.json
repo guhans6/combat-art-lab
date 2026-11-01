@@ -1,0 +1,2294 @@
+[
+  {
+    "path": "docs/experiments/2026-10-30-evidence-idle-four-model/inputs/neutral.aseprite",
+    "sha256": "d76266fa8afcd1de643e6b6421ec4dfe4fa77f8044a1d083205b921eb2f25540",
+    "canvas": [
+      128,
+      192
+    ],
+    "depth": 32,
+    "header_flags": 1,
+    "frame_count": 1,
+    "frames": [
+      {
+        "frame": 1,
+        "duration_ms": 100,
+        "chunks": [
+          {
+            "type": "0x2007",
+            "bytes": 22
+          },
+          {
+            "type": "0x2019",
+            "bytes": 1556
+          },
+          {
+            "type": "0x2004",
+            "bytes": 50,
+            "name": "guide-source-seed (hidden)",
+            "flags": 0,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 32,
+            "name": "00-shoes",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 32,
+            "name": "01-denim",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 39,
+            "name": "02a-jacket-left",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 40,
+            "name": "02b-jacket-right",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 32,
+            "name": "03-shirt",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 31,
+            "name": "04-tote",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 37,
+            "name": "05-tote-strap",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 37,
+            "name": "06a-left-hand",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 38,
+            "name": "06b-right-hand",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 40,
+            "name": "07-face-and-neck",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 44,
+            "name": "08-hair-tie-and-hair",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2005",
+            "bytes": 35652,
+            "layer_index": 0,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 1366,
+            "layer_index": 1,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 3028,
+            "layer_index": 2,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 990,
+            "layer_index": 3,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 597,
+            "layer_index": 4,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 891,
+            "layer_index": 5,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 693,
+            "layer_index": 6,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 635,
+            "layer_index": 7,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 653,
+            "layer_index": 8,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 490,
+            "layer_index": 9,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 378,
+            "layer_index": 10,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 1737,
+            "layer_index": 11,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          }
+        ]
+      }
+    ],
+    "layers": [
+      {
+        "type": "0x2004",
+        "bytes": 50,
+        "name": "guide-source-seed (hidden)",
+        "flags": 0,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 32,
+        "name": "00-shoes",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 32,
+        "name": "01-denim",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 39,
+        "name": "02a-jacket-left",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 40,
+        "name": "02b-jacket-right",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 32,
+        "name": "03-shirt",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 31,
+        "name": "04-tote",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 37,
+        "name": "05-tote-strap",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 37,
+        "name": "06a-left-hand",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 38,
+        "name": "06b-right-hand",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 40,
+        "name": "07-face-and-neck",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 44,
+        "name": "08-hair-tie-and-hair",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      }
+    ]
+  },
+  {
+    "path": "docs/experiments/2026-10-30-evidence-idle-four-model/inputs/blink-source.aseprite",
+    "sha256": "25ae8dc1952cf5ef62d081735f52a56cb4cd726c08423d639b3c510b2d6f6f42",
+    "canvas": [
+      128,
+      192
+    ],
+    "depth": 32,
+    "header_flags": 1,
+    "frame_count": 8,
+    "frames": [
+      {
+        "frame": 1,
+        "duration_ms": 600,
+        "chunks": [
+          {
+            "type": "0x2007",
+            "bytes": 22
+          },
+          {
+            "type": "0x2019",
+            "bytes": 1556
+          },
+          {
+            "type": "0x2018",
+            "bytes": 39
+          },
+          {
+            "type": "0x2020",
+            "bytes": 14
+          },
+          {
+            "type": "0x2004",
+            "bytes": 50,
+            "name": "guide-source-seed (hidden)",
+            "flags": 0,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 32,
+            "name": "00-shoes",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 32,
+            "name": "01-denim",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 39,
+            "name": "02a-jacket-left",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 40,
+            "name": "02b-jacket-right",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 32,
+            "name": "03-shirt",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 31,
+            "name": "04-tote",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 37,
+            "name": "05-tote-strap",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 37,
+            "name": "06a-left-hand",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 38,
+            "name": "06b-right-hand",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 40,
+            "name": "07-face-and-neck",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2004",
+            "bytes": 44,
+            "name": "08-hair-tie-and-hair",
+            "flags": 3,
+            "layer_type": 0,
+            "level": 0,
+            "default_size": [
+              0,
+              0
+            ],
+            "blend_mode": 0,
+            "opacity": 255
+          },
+          {
+            "type": "0x2005",
+            "bytes": 35652,
+            "layer_index": 0,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 1366,
+            "layer_index": 1,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 3028,
+            "layer_index": 2,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 990,
+            "layer_index": 3,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 597,
+            "layer_index": 4,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 891,
+            "layer_index": 5,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 693,
+            "layer_index": 6,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 635,
+            "layer_index": 7,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 653,
+            "layer_index": 8,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 490,
+            "layer_index": 9,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 378,
+            "layer_index": 10,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 1737,
+            "layer_index": 11,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          }
+        ]
+      },
+      {
+        "frame": 2,
+        "duration_ms": 350,
+        "chunks": [
+          {
+            "type": "0x2005",
+            "bytes": 35652,
+            "layer_index": 0,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 1366,
+            "layer_index": 1,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 3028,
+            "layer_index": 2,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 978,
+            "layer_index": 3,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 581,
+            "layer_index": 4,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 868,
+            "layer_index": 5,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 693,
+            "layer_index": 6,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 631,
+            "layer_index": 7,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 653,
+            "layer_index": 8,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 490,
+            "layer_index": 9,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 378,
+            "layer_index": 10,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 1737,
+            "layer_index": 11,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          }
+        ]
+      },
+      {
+        "frame": 3,
+        "duration_ms": 550,
+        "chunks": [
+          {
+            "type": "0x2005",
+            "bytes": 35652,
+            "layer_index": 0,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 1366,
+            "layer_index": 1,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 3028,
+            "layer_index": 2,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 976,
+            "layer_index": 3,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 579,
+            "layer_index": 4,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 865,
+            "layer_index": 5,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 693,
+            "layer_index": 6,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 621,
+            "layer_index": 7,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 653,
+            "layer_index": 8,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 490,
+            "layer_index": 9,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 378,
+            "layer_index": 10,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 1737,
+            "layer_index": 11,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          }
+        ]
+      },
+      {
+        "frame": 4,
+        "duration_ms": 600,
+        "chunks": [
+          {
+            "type": "0x2005",
+            "bytes": 35652,
+            "layer_index": 0,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 1366,
+            "layer_index": 1,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 3028,
+            "layer_index": 2,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 978,
+            "layer_index": 3,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 581,
+            "layer_index": 4,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 868,
+            "layer_index": 5,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 693,
+            "layer_index": 6,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 631,
+            "layer_index": 7,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 653,
+            "layer_index": 8,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 490,
+            "layer_index": 9,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 378,
+            "layer_index": 10,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 1737,
+            "layer_index": 11,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          }
+        ]
+      },
+      {
+        "frame": 5,
+        "duration_ms": 50,
+        "chunks": [
+          {
+            "type": "0x2005",
+            "bytes": 35652,
+            "layer_index": 0,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 1366,
+            "layer_index": 1,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 3028,
+            "layer_index": 2,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 990,
+            "layer_index": 3,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 597,
+            "layer_index": 4,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 891,
+            "layer_index": 5,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 693,
+            "layer_index": 6,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 635,
+            "layer_index": 7,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 653,
+            "layer_index": 8,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 490,
+            "layer_index": 9,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 378,
+            "layer_index": 10,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 1703,
+            "layer_index": 11,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          }
+        ]
+      },
+      {
+        "frame": 6,
+        "duration_ms": 80,
+        "chunks": [
+          {
+            "type": "0x2005",
+            "bytes": 35652,
+            "layer_index": 0,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 1366,
+            "layer_index": 1,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 3028,
+            "layer_index": 2,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 990,
+            "layer_index": 3,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 597,
+            "layer_index": 4,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 891,
+            "layer_index": 5,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 693,
+            "layer_index": 6,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 635,
+            "layer_index": 7,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 653,
+            "layer_index": 8,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 490,
+            "layer_index": 9,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 378,
+            "layer_index": 10,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 1678,
+            "layer_index": 11,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          }
+        ]
+      },
+      {
+        "frame": 7,
+        "duration_ms": 50,
+        "chunks": [
+          {
+            "type": "0x2005",
+            "bytes": 35652,
+            "layer_index": 0,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 1366,
+            "layer_index": 1,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 3028,
+            "layer_index": 2,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 990,
+            "layer_index": 3,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 597,
+            "layer_index": 4,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 891,
+            "layer_index": 5,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 693,
+            "layer_index": 6,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 635,
+            "layer_index": 7,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 653,
+            "layer_index": 8,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 490,
+            "layer_index": 9,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 378,
+            "layer_index": 10,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 1703,
+            "layer_index": 11,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          }
+        ]
+      },
+      {
+        "frame": 8,
+        "duration_ms": 250,
+        "chunks": [
+          {
+            "type": "0x2005",
+            "bytes": 35652,
+            "layer_index": 0,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 1366,
+            "layer_index": 1,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 3028,
+            "layer_index": 2,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 990,
+            "layer_index": 3,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 597,
+            "layer_index": 4,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 891,
+            "layer_index": 5,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 693,
+            "layer_index": 6,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 635,
+            "layer_index": 7,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 653,
+            "layer_index": 8,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 490,
+            "layer_index": 9,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 378,
+            "layer_index": 10,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          },
+          {
+            "type": "0x2005",
+            "bytes": 1737,
+            "layer_index": 11,
+            "x": 0,
+            "y": 0,
+            "opacity": 255,
+            "cel_type": 2,
+            "z_index": 0,
+            "size": [
+              128,
+              192
+            ]
+          }
+        ]
+      }
+    ],
+    "layers": [
+      {
+        "type": "0x2004",
+        "bytes": 50,
+        "name": "guide-source-seed (hidden)",
+        "flags": 0,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 32,
+        "name": "00-shoes",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 32,
+        "name": "01-denim",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 39,
+        "name": "02a-jacket-left",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 40,
+        "name": "02b-jacket-right",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 32,
+        "name": "03-shirt",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 31,
+        "name": "04-tote",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 37,
+        "name": "05-tote-strap",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 37,
+        "name": "06a-left-hand",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 38,
+        "name": "06b-right-hand",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 40,
+        "name": "07-face-and-neck",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      },
+      {
+        "type": "0x2004",
+        "bytes": 44,
+        "name": "08-hair-tie-and-hair",
+        "flags": 3,
+        "layer_type": 0,
+        "level": 0,
+        "default_size": [
+          0,
+          0
+        ],
+        "blend_mode": 0,
+        "opacity": 255
+      }
+    ]
+  }
+]

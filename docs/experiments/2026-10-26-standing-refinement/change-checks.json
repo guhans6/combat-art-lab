@@ -1,0 +1,27 @@
+{
+  "previous_v01_export_preserved": true,
+  "face_checkpoint_changed_pixels": 292,
+  "face_checkpoint_all_changes_inside": [
+    53,
+    13,
+    78,
+    42
+  ],
+  "final_changed_layers": [
+    "01-hair-back",
+    "03-jeans",
+    "04-sneakers",
+    "05-skin-face",
+    "07-jacket",
+    "10-hair-front",
+    "11-face-features"
+  ],
+  "final_unchanged_layers": [
+    "02-tote-body",
+    "06-tee",
+    "08-hands",
+    "09-tote-strap",
+    "12-guide-ground-hidden"
+  ],
+  "method": "Exact decoded RGBA comparison; no claim of visual approval"
+}

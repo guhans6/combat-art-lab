@@ -1,0 +1,31 @@
+AGENTWATCH-FOLLOW-UP v1
+source=src-c946289c8fc1ff74faf4fbc0
+run=run-685706ba8c60b1e15f47126ff98be675f978cf4d084c31ad4f4e1a70a3821ede
+package=pkg-27f82cd7-dcb1-4305-a5dd-278495b4c140
+request=pixel-idle-20261030-r1
+
+[gap core-poses]
+frames t=306000,315000 every=3000 max=3 edge=1920 ocr=true
+why: Recover the one-pixel body shift and the early timeline before later frame counts change.
+
+[gap chest-tone-transition]
+frames t=428000,437000 every=3000 max=3 edge=1920 ocr=true
+why: Recover adjacent chest highlight states; OCR cannot establish sub-pixel changes.
+
+[gap arms-delay]
+frames t=622000,631000 every=3000 max=3 edge=1920 ocr=true
+why: Recover delayed hand motion at native resolution.
+
+[gap hair-settle]
+frames t=732000,741000 every=3000 max=3 edge=1920 ocr=true
+why: Recover the hair flare and settling states, poorly served by sparse stills.
+
+[gap leg-shading]
+frames t=874000,883000 every=3000 max=3 edge=1920 ocr=true
+why: Recover lower-body shading detail omitted by the Compact pixel budget.
+
+[gap breathe-reorder]
+frames t=950000,959000 every=3000 max=3 edge=1920 ocr=true
+why: Recover tag and frame reordering so early 10-12 frame counts are not mistaken for the final count.
+
+END-AGENTWATCH-FOLLOW-UP

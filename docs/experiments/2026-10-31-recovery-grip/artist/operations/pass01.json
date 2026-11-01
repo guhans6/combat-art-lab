@@ -1,0 +1,85 @@
+[
+  {
+    "layer": "05-loaded-grip-drawing",
+    "frame": 9,
+    "label": "F9 compact curved enclosure and wrist planes pass01",
+    "ops": [
+      {
+        "kind": "grid",
+        "x": 166,
+        "y": 80,
+        "rows": [
+          "ggggoshhhhsssoo",
+          "gggoshhhssosog.",
+          "ggoshhshhsooggj",
+          "hhhhhsdhsogkkj.",
+          "hhhhhhhsdogkkj.",
+          "hhhhhhsbsogkkj.",
+          "bhhhhsbbdogkkj.",
+          "bbhhsbbdoggkkj.",
+          "bbbhsbdooggkkj.",
+          "obbbbsdogggkkj.",
+          "goobsooggggkkj.",
+          "jggggggggggkkj."
+        ],
+        "legend": {
+          ".": "#00000000",
+          "o": "#78371c",
+          "h": "#fcaf80",
+          "b": "#fda977",
+          "s": "#ea9368",
+          "d": "#e48558",
+          "e": "#90472c",
+          "j": "#393628",
+          "g": "#524c34",
+          "k": "#4b4732",
+          "G": "#665e3a",
+          "z": "#c8683f"
+        }
+      }
+    ]
+  },
+  {
+    "layer": "06-continuous-handle-tension",
+    "frame": 9,
+    "label": "F9 narrow branches emerge below curled grip to both tote rim attachments pass01",
+    "ops": [
+      {
+        "kind": "grid",
+        "x": 158,
+        "y": 86,
+        "rows": [
+          "..................OBO.............",
+          "..................OLO.............",
+          "..................................",
+          "..................................",
+          "............OBLOOBLO..............",
+          "...........OBLO..OBLO.............",
+          "...........OBLO...OBLO............",
+          "...........OBLO...OBLO............",
+          "..........OBLO.....OBLO...........",
+          ".........OBLO.......OBLO..........",
+          ".........OBLO........OBLO.........",
+          ".........OBLO........OBLO.........",
+          "........OBLO..........OBLO........",
+          ".......OBLO............OBLO.......",
+          ".......OBLO.............OBLO......",
+          ".......OBLO..............OBLO.....",
+          "......OBLO...............OBLO.....",
+          ".....OBLO.................OBLO....",
+          ".....OBLO..................OBLO...",
+          ".....OBLO.........................",
+          "....OBLO..........................",
+          "...OBLO...........................",
+          "...OBLO...........................",
+          "...OBLO..........................."
+        ],
+        "legend": {
+          "O": "#795246",
+          "B": "#dfb39b",
+          "L": "#f2cdb5"
+        }
+      }
+    ]
+  }
+]

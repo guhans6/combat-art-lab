@@ -1,0 +1,248 @@
+{
+  "schema": 1,
+  "operation": "diagnostic_conversion_seeds",
+  "Pillow_version": "12.3.0",
+  "source": {
+    "path": "references/approved_concept_upload.png",
+    "sha256": "f519d27fcc9ce82499749ed6a86490463d5ed5d72d64f11c95051a71221ac9ed",
+    "dimensions": [
+      1448,
+      1086
+    ]
+  },
+  "crop_xyxy": [
+    380,
+    100,
+    800,
+    415
+  ],
+  "mask": null,
+  "method": "BOX",
+  "palette_requested_colors": 32,
+  "palette_rgb": [
+    [
+      247,
+      187,
+      78
+    ],
+    [
+      237,
+      159,
+      63
+    ],
+    [
+      220,
+      136,
+      93
+    ],
+    [
+      216,
+      134,
+      92
+    ],
+    [
+      214,
+      127,
+      83
+    ],
+    [
+      193,
+      104,
+      61
+    ],
+    [
+      175,
+      99,
+      50
+    ],
+    [
+      145,
+      93,
+      43
+    ],
+    [
+      150,
+      80,
+      42
+    ],
+    [
+      134,
+      75,
+      43
+    ],
+    [
+      117,
+      73,
+      44
+    ],
+    [
+      109,
+      61,
+      43
+    ],
+    [
+      83,
+      74,
+      71
+    ],
+    [
+      51,
+      64,
+      89
+    ],
+    [
+      84,
+      56,
+      48
+    ],
+    [
+      52,
+      56,
+      74
+    ],
+    [
+      87,
+      54,
+      47
+    ],
+    [
+      83,
+      53,
+      48
+    ],
+    [
+      84,
+      52,
+      46
+    ],
+    [
+      85,
+      50,
+      43
+    ],
+    [
+      80,
+      51,
+      47
+    ],
+    [
+      78,
+      50,
+      44
+    ],
+    [
+      75,
+      47,
+      43
+    ],
+    [
+      71,
+      43,
+      38
+    ],
+    [
+      61,
+      47,
+      48
+    ],
+    [
+      62,
+      42,
+      38
+    ],
+    [
+      42,
+      50,
+      57
+    ],
+    [
+      37,
+      42,
+      47
+    ],
+    [
+      60,
+      38,
+      37
+    ],
+    [
+      42,
+      38,
+      40
+    ],
+    [
+      51,
+      35,
+      34
+    ],
+    [
+      40,
+      25,
+      25
+    ]
+  ],
+  "dithering": "none",
+  "alpha_threshold": null,
+  "outputs": [
+    {
+      "file": "seed_56x42.png",
+      "sha256": "7cde969c4ddd80ee17cdf978a1a3ef99d8165a564449bc627597f582a6477e43",
+      "dimensions": [
+        56,
+        42
+      ],
+      "alpha_bbox_xyxy": [
+        0,
+        0,
+        56,
+        42
+      ],
+      "visible_rgb_colors": 32,
+      "fully_transparent_pixels": 0,
+      "fully_opaque_pixels": 2352,
+      "partial_alpha_pixels": 0
+    },
+    {
+      "file": "seed_84x63.png",
+      "sha256": "4173b0c013a7b483c00799b875b453b063c14d9331d9dbd551729df16687fe0b",
+      "dimensions": [
+        84,
+        63
+      ],
+      "alpha_bbox_xyxy": [
+        0,
+        0,
+        84,
+        63
+      ],
+      "visible_rgb_colors": 32,
+      "fully_transparent_pixels": 0,
+      "fully_opaque_pixels": 5292,
+      "partial_alpha_pixels": 0
+    },
+    {
+      "file": "seed_112x84.png",
+      "sha256": "37dac27a9cc55725b0b369fa20cdedfdb050092b17cf7bae62415ae88fa5f2fb",
+      "dimensions": [
+        112,
+        84
+      ],
+      "alpha_bbox_xyxy": [
+        0,
+        0,
+        112,
+        84
+      ],
+      "visible_rgb_colors": 32,
+      "fully_transparent_pixels": 0,
+      "fully_opaque_pixels": 9408,
+      "partial_alpha_pixels": 0
+    }
+  ],
+  "limits": [
+    "Not native Aseprite construction",
+    "No automatic background removal or semantic segmentation",
+    "No likeness or production-readiness judgment",
+    "No EXIF orientation or color-profile conversion"
+  ]
+}

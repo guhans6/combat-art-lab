@@ -1,0 +1,47 @@
+{
+  "raw_RGBA_difference_count": 10,
+  "all_differences_alpha_zero": true,
+  "coordinates_xy": [
+    [
+      180,
+      81
+    ],
+    [
+      180,
+      83
+    ],
+    [
+      180,
+      84
+    ],
+    [
+      180,
+      85
+    ],
+    [
+      180,
+      86
+    ],
+    [
+      180,
+      87
+    ],
+    [
+      180,
+      88
+    ],
+    [
+      180,
+      89
+    ],
+    [
+      180,
+      90
+    ],
+    [
+      180,
+      91
+    ]
+  ],
+  "limits": "Canonical visible RGBA may be exact while invisible RGB differs. PNG still not byte-identical to raw native composite."
+}

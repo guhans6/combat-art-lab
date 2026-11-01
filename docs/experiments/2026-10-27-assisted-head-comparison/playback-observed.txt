@@ -1,0 +1,48 @@
+Browser tab: 1, Title: "Native bust blink probe", URL: "http://127.0.0.1:8766/playback.html".
+1 AXWebArea Native bust blink probe, URL: 127.0.0.1:8766/playback.html
+	2 heading Native bust blink probe — provisional, Value: 1
+		3 text Native bust blink probe — provisional
+	4 text Five actual Aseprite exports. Fixed 120×112 grid; only the eye layer moves. Zero root travel.
+	5 button Pause, ID: play
+	6 container
+		7 text Speed 
+		8 pop up button (collapsed, settable) Speed, Value: 1× native timing, ID: speed, Secondary Actions: Expand
+			9 menu
+				10 (selected) 1× native timing
+				11 0.25× inspection
+	12 button Restart, ID: restart
+	13 button Pause and step, ID: step
+	24 text Playing · frame 5/5 · 600 ms native hold · cycle 43 · 1×
+	15 text Native 1×
+	16 image Description: Native blink frame, ID: small
+	17 text Integer zoom 2×
+	18 image Description: Enlarged native blink frame, ID: large
+	19 text Displayed-frame events, newest last (elapsed preview time):
+	20 content list events
+		25 text 92805 ms → frame 2
+		26 text 92855 ms → frame 3
+		27 text 92947 ms → frame 4
+		28 text 93005 ms → frame 5
+		29 text 93605 ms → frame 1
+		30 text 95205 ms → frame 2
+		31 text 95255 ms → frame 3
+		32 text 95347 ms → frame 4
+		33 text 95405 ms → frame 5
+		34 text 96005 ms → frame 1
+		35 text 97605 ms → frame 2
+		36 text 97655 ms → frame 3
+		37 text 97747 ms → frame 4
+		38 text 97805 ms → frame 5
+		39 text 98405 ms → frame 1
+		40 text 100005 ms → frame 2
+		41 text 100055 ms → frame 3
+		42 text 100147 ms → frame 4
+		43 text 100205 ms → frame 5
+		44 text 100801 ms → frame 1
+		45 text 102401 ms → frame 2
+		46 text 102451 ms → frame 3
+		47 text 102543 ms → frame 4
+	22 text Filmstrip for pose inspection; played review above is separate. No combat/contact or Godot validation.
+	23 image Description: Five-frame native blink filmstrip, ID: film
+
+The focused UI element is 1 AXWebArea Native bust blink probe, URL: 127.0.0.1:8766/playback.html

@@ -1,0 +1,11 @@
+{
+  "one_pixel_erase_exact": true,
+  "changed": [
+    [
+      9,
+      7
+    ]
+  ],
+  "red_L_pixels_retained": true,
+  "scope": "abbreviated tool-delivery/erase/native check; no new backend install or change"
+}

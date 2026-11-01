@@ -1,0 +1,514 @@
+{
+  "canvas": [
+    256,
+    192
+  ],
+  "durations_ms": [
+    220,
+    110,
+    140,
+    210,
+    70,
+    60,
+    90,
+    110,
+    140,
+    170,
+    140,
+    160,
+    220
+  ],
+  "phases": [
+    "ready idle",
+    "pickup",
+    "shared grip",
+    "counter-windup",
+    "acceleration",
+    "committed contact",
+    "follow-through",
+    "arrest and redirect",
+    "controlled recovery",
+    "tote settle",
+    "re-shoulder",
+    "release and settle",
+    "ready idle return"
+  ],
+  "source_frame_map": [
+    [
+      "neutral",
+      null
+    ],
+    [
+      "six",
+      2
+    ],
+    [
+      "six",
+      3
+    ],
+    [
+      "additional",
+      1
+    ],
+    [
+      "six",
+      3
+    ],
+    [
+      "six",
+      4
+    ],
+    [
+      "six",
+      5
+    ],
+    [
+      "six",
+      3
+    ],
+    [
+      "additional",
+      2
+    ],
+    [
+      "additional",
+      2
+    ],
+    [
+      "additional",
+      3
+    ],
+    [
+      "six",
+      6
+    ],
+    [
+      "neutral",
+      null
+    ]
+  ],
+  "per_frame": [
+    {
+      "source": "neutral.png",
+      "transform": "exact original layer composite translated +64px x",
+      "scale": 1.0,
+      "offset_xy": [
+        64,
+        0
+      ],
+      "frame": 1,
+      "phase": "ready idle",
+      "duration_ms": 220,
+      "canvas": [
+        256,
+        192
+      ],
+      "opaque_bbox_xyxy": [
+        96,
+        2,
+        168,
+        185
+      ],
+      "unique_visible_rgb": 248,
+      "alpha_values": [
+        0,
+        255
+      ]
+    },
+    {
+      "source": "six-keys.png",
+      "panel_index_1based": 2,
+      "shared_scale": 0.43316412859560066,
+      "panel_mapping": "each equal grid panel mapped to 256x192 at nearest-neighbour",
+      "offset_xy": [
+        0,
+        0
+      ],
+      "reviewed_spill_mask_xyxy": null,
+      "spill_pixels_removed": 0,
+      "frame": 2,
+      "phase": "pickup",
+      "duration_ms": 110,
+      "canvas": [
+        256,
+        192
+      ],
+      "opaque_bbox_xyxy": [
+        87,
+        4,
+        180,
+        186
+      ],
+      "unique_visible_rgb": 238,
+      "alpha_values": [
+        0,
+        255
+      ]
+    },
+    {
+      "source": "six-keys.png",
+      "panel_index_1based": 3,
+      "shared_scale": 0.43316412859560066,
+      "panel_mapping": "each equal grid panel mapped to 256x192 at nearest-neighbour",
+      "offset_xy": [
+        0,
+        0
+      ],
+      "reviewed_spill_mask_xyxy": null,
+      "spill_pixels_removed": 0,
+      "frame": 3,
+      "phase": "shared grip",
+      "duration_ms": 140,
+      "canvas": [
+        256,
+        192
+      ],
+      "opaque_bbox_xyxy": [
+        57,
+        13,
+        211,
+        192
+      ],
+      "unique_visible_rgb": 236,
+      "alpha_values": [
+        0,
+        255
+      ]
+    },
+    {
+      "source": "additional-keys.png",
+      "panel_index_1based": 1,
+      "shared_scale": 0.264,
+      "source_root_foot_xy": [
+        310,
+        708
+      ],
+      "target_root_foot_xy": [
+        132,
+        185
+      ],
+      "offset_xy": [
+        50,
+        -2
+      ],
+      "reviewed_spill_mask_canvas_xyxy": [
+        50,
+        167,
+        57,
+        190
+      ],
+      "spill_pixels_removed": 0,
+      "frame": 4,
+      "phase": "counter-windup",
+      "duration_ms": 210,
+      "canvas": [
+        256,
+        192
+      ],
+      "opaque_bbox_xyxy": [
+        75,
+        8,
+        241,
+        184
+      ],
+      "unique_visible_rgb": 227,
+      "alpha_values": [
+        0,
+        255
+      ]
+    },
+    {
+      "source": "six-keys.png",
+      "panel_index_1based": 3,
+      "shared_scale": 0.43316412859560066,
+      "panel_mapping": "each equal grid panel mapped to 256x192 at nearest-neighbour",
+      "offset_xy": [
+        0,
+        0
+      ],
+      "reviewed_spill_mask_xyxy": null,
+      "spill_pixels_removed": 0,
+      "frame": 5,
+      "phase": "acceleration",
+      "duration_ms": 70,
+      "canvas": [
+        256,
+        192
+      ],
+      "opaque_bbox_xyxy": [
+        57,
+        13,
+        211,
+        192
+      ],
+      "unique_visible_rgb": 236,
+      "alpha_values": [
+        0,
+        255
+      ]
+    },
+    {
+      "source": "six-keys.png",
+      "panel_index_1based": 4,
+      "shared_scale": 0.43316412859560066,
+      "panel_mapping": "each equal grid panel mapped to 256x192 at nearest-neighbour",
+      "offset_xy": [
+        0,
+        0
+      ],
+      "reviewed_spill_mask_xyxy": null,
+      "spill_pixels_removed": 0,
+      "frame": 6,
+      "phase": "committed contact",
+      "duration_ms": 60,
+      "canvas": [
+        256,
+        192
+      ],
+      "opaque_bbox_xyxy": [
+        88,
+        0,
+        256,
+        180
+      ],
+      "unique_visible_rgb": 230,
+      "alpha_values": [
+        0,
+        255
+      ]
+    },
+    {
+      "source": "six-keys.png",
+      "panel_index_1based": 5,
+      "shared_scale": 0.43316412859560066,
+      "panel_mapping": "each equal grid panel mapped to 256x192 at nearest-neighbour",
+      "offset_xy": [
+        0,
+        0
+      ],
+      "reviewed_spill_mask_xyxy": [
+        0,
+        45,
+        12,
+        87
+      ],
+      "spill_pixels_removed": 407,
+      "frame": 7,
+      "phase": "follow-through",
+      "duration_ms": 90,
+      "canvas": [
+        256,
+        192
+      ],
+      "opaque_bbox_xyxy": [
+        65,
+        3,
+        256,
+        179
+      ],
+      "unique_visible_rgb": 228,
+      "alpha_values": [
+        0,
+        255
+      ]
+    },
+    {
+      "source": "six-keys.png",
+      "panel_index_1based": 3,
+      "shared_scale": 0.43316412859560066,
+      "panel_mapping": "each equal grid panel mapped to 256x192 at nearest-neighbour",
+      "offset_xy": [
+        0,
+        0
+      ],
+      "reviewed_spill_mask_xyxy": null,
+      "spill_pixels_removed": 0,
+      "frame": 8,
+      "phase": "arrest and redirect",
+      "duration_ms": 110,
+      "canvas": [
+        256,
+        192
+      ],
+      "opaque_bbox_xyxy": [
+        57,
+        13,
+        211,
+        192
+      ],
+      "unique_visible_rgb": 236,
+      "alpha_values": [
+        0,
+        255
+      ]
+    },
+    {
+      "source": "additional-keys.png",
+      "panel_index_1based": 2,
+      "shared_scale": 0.264,
+      "source_root_foot_xy": [
+        310,
+        708
+      ],
+      "target_root_foot_xy": [
+        132,
+        185
+      ],
+      "offset_xy": [
+        50,
+        -2
+      ],
+      "reviewed_spill_mask_canvas_xyxy": null,
+      "spill_pixels_removed": 0,
+      "frame": 9,
+      "phase": "controlled recovery",
+      "duration_ms": 140,
+      "canvas": [
+        256,
+        192
+      ],
+      "opaque_bbox_xyxy": [
+        50,
+        0,
+        217,
+        185
+      ],
+      "unique_visible_rgb": 233,
+      "alpha_values": [
+        0,
+        255
+      ]
+    },
+    {
+      "source": "additional-keys.png",
+      "panel_index_1based": 2,
+      "shared_scale": 0.264,
+      "source_root_foot_xy": [
+        310,
+        708
+      ],
+      "target_root_foot_xy": [
+        132,
+        185
+      ],
+      "offset_xy": [
+        50,
+        -2
+      ],
+      "reviewed_spill_mask_canvas_xyxy": null,
+      "spill_pixels_removed": 0,
+      "frame": 10,
+      "phase": "tote settle",
+      "duration_ms": 170,
+      "canvas": [
+        256,
+        192
+      ],
+      "opaque_bbox_xyxy": [
+        50,
+        0,
+        217,
+        185
+      ],
+      "unique_visible_rgb": 233,
+      "alpha_values": [
+        0,
+        255
+      ]
+    },
+    {
+      "source": "additional-keys.png",
+      "panel_index_1based": 3,
+      "shared_scale": 0.264,
+      "source_root_foot_xy": [
+        310,
+        708
+      ],
+      "target_root_foot_xy": [
+        132,
+        185
+      ],
+      "offset_xy": [
+        50,
+        -2
+      ],
+      "reviewed_spill_mask_canvas_xyxy": null,
+      "spill_pixels_removed": 0,
+      "frame": 11,
+      "phase": "re-shoulder",
+      "duration_ms": 140,
+      "canvas": [
+        256,
+        192
+      ],
+      "opaque_bbox_xyxy": [
+        108,
+        2,
+        190,
+        185
+      ],
+      "unique_visible_rgb": 234,
+      "alpha_values": [
+        0,
+        255
+      ]
+    },
+    {
+      "source": "six-keys.png",
+      "panel_index_1based": 6,
+      "shared_scale": 0.43316412859560066,
+      "panel_mapping": "each equal grid panel mapped to 256x192 at nearest-neighbour",
+      "offset_xy": [
+        0,
+        0
+      ],
+      "reviewed_spill_mask_xyxy": null,
+      "spill_pixels_removed": 0,
+      "frame": 12,
+      "phase": "release and settle",
+      "duration_ms": 160,
+      "canvas": [
+        256,
+        192
+      ],
+      "opaque_bbox_xyxy": [
+        0,
+        0,
+        177,
+        180
+      ],
+      "unique_visible_rgb": 230,
+      "alpha_values": [
+        0,
+        255
+      ]
+    },
+    {
+      "source": "neutral.png",
+      "transform": "exact original layer composite translated +64px x",
+      "scale": 1.0,
+      "offset_xy": [
+        64,
+        0
+      ],
+      "frame": 13,
+      "phase": "ready idle return",
+      "duration_ms": 220,
+      "canvas": [
+        256,
+        192
+      ],
+      "opaque_bbox_xyxy": [
+        96,
+        2,
+        168,
+        185
+      ],
+      "unique_visible_rgb": 248,
+      "alpha_values": [
+        0,
+        255
+      ]
+    }
+  ]
+}

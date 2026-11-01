@@ -1,0 +1,11 @@
+{
+  "protected_files": 1343,
+  "protected_drift": [],
+  "missing_relative_links": [],
+  "local_skill_resolves_to_canonical": true,
+  "new_procedure_reachable": true,
+  "review_record_exists": true,
+  "helper_syntax": "passed",
+  "git_head": "9e35c5c13987a153e942e6f93f49f247fad13c3a",
+  "scope": "file identity, navigation and local enablement; not artistic detection"
+}

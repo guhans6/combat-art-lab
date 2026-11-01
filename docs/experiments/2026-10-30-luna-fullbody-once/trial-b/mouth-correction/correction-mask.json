@@ -1,0 +1,23 @@
+{
+  "status": "frozen-before-authorized-correction",
+  "trigger": "Parent defects-only review: first mark reads as a lip/pout at far-right lower-face edge.",
+  "coordinate_system": "zero-based canvas pixels",
+  "rectangle_half_open": [65, 28, 71, 30],
+  "editable_pixels": [
+    [65, 28], [66, 28], [67, 28], [68, 28], [69, 28], [70, 28],
+    [65, 29], [66, 29], [67, 29], [68, 29], [69, 29], [70, 29]
+  ],
+  "native_owner_layer": "08-hair-tie-and-hair",
+  "planned_restore_to_baseline": [
+    {"x": 68, "y": 29, "color": "#fda977"},
+    {"x": 69, "y": 28, "color": "#f6a26e"},
+    {"x": 70, "y": 28, "color": "#fda977"}
+  ],
+  "planned_smile": [
+    {"x": 65, "y": 29, "color": "#744c40"},
+    {"x": 66, "y": 29, "color": "#744c40"},
+    {"x": 67, "y": 28, "color": "#744c40"}
+  ],
+  "palette_policy": "Existing palette only; palette lock enabled.",
+  "protected": "Every composite/native pixel outside the union mask, eye/brow/fringe clusters, face silhouette, neck and all other native layers."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "combat-art-lab-godot-mcp-local",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@coding-solo/godot-mcp": "0.1.1"
+  }
+}

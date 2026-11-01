@@ -1,0 +1,154 @@
+{
+  "base": "inputs/luna6-surprise.aseprite",
+  "native_owner": "08-hair-tie-and-hair",
+  "frame": 1,
+  "editable_regions_half_open": [
+    [
+      61,
+      18,
+      74,
+      24
+    ],
+    [
+      66,
+      26,
+      71,
+      29
+    ]
+  ],
+  "protected_landmarks": [
+    [
+      71,
+      24
+    ]
+  ],
+  "exact_rescue_write_coordinates": [
+    [
+      64,
+      18
+    ],
+    [
+      65,
+      18
+    ],
+    [
+      64,
+      19
+    ],
+    [
+      65,
+      19
+    ],
+    [
+      63,
+      23
+    ],
+    [
+      71,
+      22
+    ],
+    [
+      68,
+      27
+    ],
+    [
+      69,
+      27
+    ],
+    [
+      68,
+      28
+    ],
+    [
+      69,
+      28
+    ]
+  ],
+  "paletteLock": true,
+  "reason": "Authored new-expression inference: one-pixel near-brow arch lift inside visible skin, small lower-eye opening while preserving pupils/gaze/unequal eyes, compact 2x2 open mouth replacing hook. Original anchors identity, not surprise pose.",
+  "ops": [
+    {
+      "kind": "pixels",
+      "color": "#ab6545",
+      "points": [
+        {
+          "x": 64,
+          "y": 18
+        }
+      ]
+    },
+    {
+      "kind": "pixels",
+      "color": "#69442d",
+      "points": [
+        {
+          "x": 65,
+          "y": 18
+        }
+      ]
+    },
+    {
+      "kind": "pixels",
+      "color": "#fda977",
+      "points": [
+        {
+          "x": 64,
+          "y": 19
+        },
+        {
+          "x": 65,
+          "y": 19
+        }
+      ]
+    },
+    {
+      "kind": "pixels",
+      "color": "#f8ece0",
+      "points": [
+        {
+          "x": 63,
+          "y": 23
+        }
+      ]
+    },
+    {
+      "kind": "pixels",
+      "color": "#e7d5c7",
+      "points": [
+        {
+          "x": 71,
+          "y": 22
+        }
+      ]
+    },
+    {
+      "kind": "pixels",
+      "color": "#744c40",
+      "points": [
+        {
+          "x": 68,
+          "y": 27
+        },
+        {
+          "x": 69,
+          "y": 27
+        },
+        {
+          "x": 68,
+          "y": 28
+        }
+      ]
+    },
+    {
+      "kind": "pixels",
+      "color": "#b76a45",
+      "points": [
+        {
+          "x": 69,
+          "y": 28
+        }
+      ]
+    }
+  ],
+  "save_as": "passes/sol-surprise-pass01.aseprite"
+}

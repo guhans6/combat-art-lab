@@ -1,0 +1,14 @@
+{
+  "base": "../2026-10-31-full-attack-repair/source/attack-repaired.aseprite",
+  "base_sha256": "5fb9a4f776ea46df1ee86c3eb5e10c8be32b094aa265004e908e832b7f4518ea",
+  "path_base": "experiment root containing this file",
+  "batches": [
+    {
+      "path": "operations/detail.json",
+      "sha256": "89f74bd00fb795a1c158b4c4a19f749b8c3f7a5840cc710eb4d53f3dc26ce910"
+    }
+  ],
+  "procedure": "Dedicated MCP preflight; open base and sprite_info; save_as NEW source; apply each batch with explicit document ID; save/close/reopen/export. Native writes through MCP only. Body/timing/palette protected.",
+  "expected_native_sha256": "3a628bd6960903db95e5908182ff1e62899e852a6cf284cb0be273be96650ec9",
+  "replay_status": "literal final inputs retained; fresh complete replay not run in this task"
+}

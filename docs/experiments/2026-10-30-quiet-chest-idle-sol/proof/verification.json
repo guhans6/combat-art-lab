@@ -1,0 +1,360 @@
+{
+  "native_sha256": "82a4a7f309feae726b3e26134f114a21433a494a0eb2192bb7be82d2ca779b79",
+  "baseline_sha256": "25ae8dc1952cf5ef62d081735f52a56cb4cd726c08423d639b3c510b2d6f6f42",
+  "header_equal": true,
+  "layers_equal": true,
+  "noncel_chunks_timing_palette_equal": true,
+  "cel_geometry_opacity_z_equal": true,
+  "protected_violations": [],
+  "changes": [
+    {
+      "frame": 2,
+      "layer": "02a-jacket-left",
+      "pixels": 114
+    },
+    {
+      "frame": 2,
+      "layer": "02b-jacket-right",
+      "pixels": 51
+    },
+    {
+      "frame": 2,
+      "layer": "03-shirt",
+      "pixels": 133
+    },
+    {
+      "frame": 2,
+      "layer": "05-tote-strap",
+      "pixels": 52
+    },
+    {
+      "frame": 3,
+      "layer": "02a-jacket-left",
+      "pixels": 184
+    },
+    {
+      "frame": 3,
+      "layer": "02b-jacket-right",
+      "pixels": 106
+    },
+    {
+      "frame": 3,
+      "layer": "03-shirt",
+      "pixels": 205
+    },
+    {
+      "frame": 3,
+      "layer": "05-tote-strap",
+      "pixels": 114
+    },
+    {
+      "frame": 4,
+      "layer": "02a-jacket-left",
+      "pixels": 116
+    },
+    {
+      "frame": 4,
+      "layer": "02b-jacket-right",
+      "pixels": 51
+    },
+    {
+      "frame": 4,
+      "layer": "03-shirt",
+      "pixels": 138
+    },
+    {
+      "frame": 4,
+      "layer": "05-tote-strap",
+      "pixels": 52
+    }
+  ],
+  "frames": [
+    {
+      "frame": 1,
+      "duration_ms": 600,
+      "png_native_equal": true,
+      "head_rows_0_34_exact": true,
+      "lower_body_rows_69_192_exact": true,
+      "blink_composite_exact": null,
+      "new_enclosed_hole_pixels": [],
+      "opaque_pixels": 7844
+    },
+    {
+      "frame": 2,
+      "duration_ms": 350,
+      "png_native_equal": true,
+      "head_rows_0_34_exact": true,
+      "lower_body_rows_69_192_exact": true,
+      "blink_composite_exact": null,
+      "new_enclosed_hole_pixels": [],
+      "opaque_pixels": 7844
+    },
+    {
+      "frame": 3,
+      "duration_ms": 550,
+      "png_native_equal": true,
+      "head_rows_0_34_exact": true,
+      "lower_body_rows_69_192_exact": true,
+      "blink_composite_exact": null,
+      "new_enclosed_hole_pixels": [],
+      "opaque_pixels": 7844
+    },
+    {
+      "frame": 4,
+      "duration_ms": 600,
+      "png_native_equal": true,
+      "head_rows_0_34_exact": true,
+      "lower_body_rows_69_192_exact": true,
+      "blink_composite_exact": null,
+      "new_enclosed_hole_pixels": [],
+      "opaque_pixels": 7844
+    },
+    {
+      "frame": 5,
+      "duration_ms": 50,
+      "png_native_equal": true,
+      "head_rows_0_34_exact": true,
+      "lower_body_rows_69_192_exact": true,
+      "blink_composite_exact": true,
+      "new_enclosed_hole_pixels": [],
+      "opaque_pixels": 7844
+    },
+    {
+      "frame": 6,
+      "duration_ms": 80,
+      "png_native_equal": true,
+      "head_rows_0_34_exact": true,
+      "lower_body_rows_69_192_exact": true,
+      "blink_composite_exact": true,
+      "new_enclosed_hole_pixels": [],
+      "opaque_pixels": 7844
+    },
+    {
+      "frame": 7,
+      "duration_ms": 50,
+      "png_native_equal": true,
+      "head_rows_0_34_exact": true,
+      "lower_body_rows_69_192_exact": true,
+      "blink_composite_exact": true,
+      "new_enclosed_hole_pixels": [],
+      "opaque_pixels": 7844
+    },
+    {
+      "frame": 8,
+      "duration_ms": 250,
+      "png_native_equal": true,
+      "head_rows_0_34_exact": true,
+      "lower_body_rows_69_192_exact": true,
+      "blink_composite_exact": null,
+      "new_enclosed_hole_pixels": [],
+      "opaque_pixels": 7844
+    }
+  ],
+  "gif": {
+    "neutral-1x": {
+      "frames_exact": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "durations_ms": [
+        600,
+        350,
+        550,
+        600,
+        50,
+        80,
+        50,
+        250
+      ],
+      "loop": 0
+    },
+    "neutral-3x": {
+      "frames_exact": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "durations_ms": [
+        600,
+        350,
+        550,
+        600,
+        50,
+        80,
+        50,
+        250
+      ],
+      "loop": 0
+    },
+    "shrug-left-quiet-right": {
+      "frames_exact": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "durations_ms": [
+        600,
+        350,
+        550,
+        600,
+        50,
+        80,
+        50,
+        250
+      ],
+      "loop": 0
+    }
+  },
+  "shared_gif_colors": 249,
+  "anatomical_fixed_regions": [
+    {
+      "frame": 1,
+      "head_perframe_shoulders_sleeves_lower_fixed": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "alpha_exact_rest": true
+    },
+    {
+      "frame": 2,
+      "head_perframe_shoulders_sleeves_lower_fixed": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "alpha_exact_rest": true
+    },
+    {
+      "frame": 3,
+      "head_perframe_shoulders_sleeves_lower_fixed": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "alpha_exact_rest": true
+    },
+    {
+      "frame": 4,
+      "head_perframe_shoulders_sleeves_lower_fixed": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "alpha_exact_rest": true
+    },
+    {
+      "frame": 5,
+      "head_perframe_shoulders_sleeves_lower_fixed": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "alpha_exact_rest": true
+    },
+    {
+      "frame": 6,
+      "head_perframe_shoulders_sleeves_lower_fixed": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "alpha_exact_rest": true
+    },
+    {
+      "frame": 7,
+      "head_perframe_shoulders_sleeves_lower_fixed": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "alpha_exact_rest": true
+    },
+    {
+      "frame": 8,
+      "head_perframe_shoulders_sleeves_lower_fixed": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "alpha_exact_rest": true
+    }
+  ],
+  "original_hashes_unchanged": {
+    "docs/experiments/2026-10-30-natural-idle-sol/pass01.aseprite": true,
+    "assets/references/approved-2026-10-26/character-cutout.png": true,
+    "assets/references/approved-2026-10-26/character-scene.png": true,
+    "assets/references/approved-2026-10-26/character-closeup.png": true,
+    "docs/experiments/2026-10-30-idle-breathing-comparison/terra/pass01.aseprite": true
+  },
+  "reopen_png_equal": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "chest_only_motion_vs_neutral": [
+    {
+      "frame": 2,
+      "all_garment_motion_inside_chest_box": true,
+      "violations": [],
+      "composite_difference_from_rest": 79
+    },
+    {
+      "frame": 3,
+      "all_garment_motion_inside_chest_box": true,
+      "violations": [],
+      "composite_difference_from_rest": 162
+    },
+    {
+      "frame": 4,
+      "all_garment_motion_inside_chest_box": true,
+      "violations": [],
+      "composite_difference_from_rest": 88
+    }
+  ]
+}

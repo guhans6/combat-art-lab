@@ -1,0 +1,20 @@
+{
+  "assets/source/standing-alpha-v02/standing-idle.aseprite": {
+    "unchanged": true
+  },
+  "assets/source/shop-modular-v01/shop.aseprite": {
+    "unchanged": true
+  },
+  "tools/pixel-art-director/SKILL.md": {
+    "unchanged": true
+  },
+  "tools/pixel-art-director/scripts/pixel_checks.py": {
+    "unchanged": true
+  },
+  "godot/standing-idle-lab/preview.gd": {
+    "unchanged": false
+  },
+  "godot/standing-idle-lab/textures/idle-layout.json": {
+    "unchanged": false
+  }
+}

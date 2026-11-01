@@ -1,0 +1,24 @@
+{
+  "reopened": true,
+  "changes": {
+    "00-wall-backing": 0,
+    "01-window-backing": 0,
+    "02-window-interior-left": 0,
+    "03-window-interior-right": 0,
+    "04-timber-frame": 0,
+    "05-blue-awning": 0,
+    "06-entry-steps": 0,
+    "07-chalkboard": 0,
+    "08-large-planter": 0,
+    "09-small-planter": 0,
+    "10-pendant-left-shell": 0,
+    "11-pendant-right-shell": 0,
+    "12-ceiling-left-emitter": 0,
+    "13-ceiling-right-emitter": 0,
+    "14-pendant-left-emitter": 20,
+    "15-pendant-right-emitter": 0
+  },
+  "metadata_equal": true,
+  "palette_matches_baseline": true,
+  "passed": true
+}

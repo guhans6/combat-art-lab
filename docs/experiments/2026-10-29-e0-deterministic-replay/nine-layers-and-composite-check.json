@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "presentation_only": true,
+  "source_run": "run-a/replay-2",
+  "order": [
+    "01-jacket",
+    "02-shirt",
+    "03-neck-ear",
+    "04-rear-hair",
+    "05-face",
+    "06-crown-fringe",
+    "07-hair-tie",
+    "08-eyes-brows",
+    "09-mouth"
+  ],
+  "scale": 3,
+  "layer_canvas": [
+    120,
+    112
+  ],
+  "sheet": "nine-layers-and-composite.png",
+  "native_b00": "run-a/replay-2/b00-separated-seed.png",
+  "visible_rgb_and_alpha_match": true,
+  "parts_sha256": {
+    "01-jacket": "eeff6aa7f4055ea360d69a5394bc04afa9936072ac5790211cb5db00470df7e6",
+    "02-shirt": "4356c5aa874d1d0b436a9bc9ef2c04e9e62b3682987f2a12d6aa6d2927e11d95",
+    "03-neck-ear": "948bd8377a0c817b7b7bd2d26688087feb000a4895b88f5dd579e015160da2e2",
+    "04-rear-hair": "707f5cfbe4df563d8f87b3574aca767a73dabaea88c1916d6d378f617ed94621",
+    "05-face": "6e847f552bf71374f69484bb2ad069624391c9284834d52ac9a0627478f28087",
+    "06-crown-fringe": "b12c564c9d6b54172c0a3d7a705034a181c2c552b19090b8f2a19ce0521b043f",
+    "07-hair-tie": "eea887db50c8a66d8cbc70715f88d9d41d4ae801a2e4e795ed05ff6a82df1972",
+    "08-eyes-brows": "5cb0a5501318b3661c15d8daa24f6f6ee6d968a69b2823c17b117f83556c64b2",
+    "09-mouth": "3f64e0a57363ce128d36e821e8bbdc322c737e6e3bb9039bc34d57f90af95a62"
+  },
+  "native_b00_sha256": "0341156ff730ebc22514cb267d758bc81968596faff20b06fdd5264e0ae8b55d",
+  "sheet_sha256": "89c62930276f7affc8e1982c12150d8ab96537d8ca1689283a3afa45e747d2b2"
+}

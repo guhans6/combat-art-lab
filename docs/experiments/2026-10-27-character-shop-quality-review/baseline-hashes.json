@@ -1,0 +1,8 @@
+{
+  "assets/source/standing-alpha-v02/standing-idle.aseprite": "9bde6c25c51f3ba8555643b2b72de7175804645ead156ffcd17c77bee3b62801",
+  "assets/source/shop-modular-v01/shop.aseprite": "146da1483ac1822d31dc77a4e60a0ca5802d6ec04fc2675fc53162c8e4867388",
+  "tools/pixel-art-director/SKILL.md": "404a89851f858c4c93c5a328ae578d329339f1a00f5a9237094a5f2ec39dbbcb",
+  "tools/pixel-art-director/scripts/pixel_checks.py": "948d0ef0b040ba16512fe3abcf05803abca6ac516e0a47f3c77874d8c1c65c00",
+  "godot/standing-idle-lab/preview.gd": "0e5168996d741a2d1f71b5efed07f8269915073a742d7a1fcf24498ef311901f",
+  "godot/standing-idle-lab/textures/idle-layout.json": "f23ad9ce3a625dce1f24af192996b69bb4c9d70bfa409a68ca15463518e01d23"
+}

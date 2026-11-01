@@ -1,0 +1,17 @@
+[
+  {
+    "input": "source",
+    "all_copies_equal_original": true,
+    "sha256": "12e971cc9e3cbfa7add2a17a62ff53d1f45b3c55197ce23c336a6447bed1f49e"
+  },
+  {
+    "input": "scene",
+    "all_copies_equal_original": true,
+    "sha256": "a274a80133371b61387848495bf0dd93546ba5daf0a60c051b27109237160eae"
+  },
+  {
+    "input": "closeup",
+    "all_copies_equal_original": true,
+    "sha256": "0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7"
+  }
+]

@@ -18,3 +18,8 @@ __pycache__/
 
 # Local tool operation records
 /.code-mcp/
+
+# Installed tool dependencies stay local; sources/config remain tracked.
+/.art-tools/
+node_modules/
+.playwright-cli/

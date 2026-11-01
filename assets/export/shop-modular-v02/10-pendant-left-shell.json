@@ -1,0 +1,27 @@
+{ "frames": [
+   {
+    "filename": "shop.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 24, "h": 31 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 34, "y": 30, "w": 24, "h": 31 },
+    "sourceSize": { "w": 208, "h": 240 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.18.6-dev",
+  "image": "10-pendant-left-shell.png",
+  "format": "RGBA8888",
+  "size": { "w": 24, "h": 31 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "10-pendant-left-shell", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

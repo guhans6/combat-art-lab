@@ -1,0 +1,60 @@
+{
+  "applied_via": "dedicated Aseprite MCP cel.move",
+  "target": "source/tote-attack-v02.aseprite",
+  "policy": "Whole pose registration to the declared planted/front sole. Rear toe pivots are not independently grounded. All offsets baked into native cels/exports/GIF; engine root_offsets zero.",
+  "per_frame_translation_xy": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      -2
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "pending_independent_foot_review": "F7/F8 +18px x proposed, not applied yet"
+}

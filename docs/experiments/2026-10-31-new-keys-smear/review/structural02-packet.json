@@ -1,0 +1,24 @@
+{
+  "native": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-31-new-keys-smear/source/structural-pass02.aseprite",
+  "sha256": "2122360d310e6a2d26540e68552a5efd253d734e8ab8ecac7e346b695f6473a3",
+  "native_export_equal": true,
+  "files": {
+    "review/key-3-guides.png": "2ddce2b6304928af6d6c001197cfa2ca89111d88c9cf7173136b6a8d19494444",
+    "review/key-6-guides.png": "be27764338d2ace549766c94fbc7dd755a2504a07236b885b7f7ebf3946f6492",
+    "review/key-2-owners.png": "ef3c8d0385a39ecbba06c452a391bccaba56e2af5a04e4426ca44b25ba53c94f",
+    "review/key-2-hidden.png": "f652fe881923eeb5756cfc7156494ca5a775109c07949291d01b26a4fd6b1f28",
+    "review/key-5-hidden.png": "b07a0079251a29a95e577a635171c4389fdd66c8015c683e3562674ae978f78d",
+    "review/key-5-owners.png": "f2177e86d5e8f5e920207dc2a6c8df7bcce27277a21054601b9d9ad90f725204",
+    "review/key-4-guides.png": "040262c17eb9d87878823554537717175ea6b4ed3ba7ec9bf5865e70c0b33efe",
+    "review/key-3-owners.png": "74bc692b274ac3fe30db443a5fc0f15b3dd6b81a3efb8d450ebe17ce69de7aa9",
+    "review/key-3-hidden.png": "8d9a29f5c198b45a292b8185f0566ffbbcc6760b00815f51265573624fd66d12",
+    "review/key-2-guides.png": "b47ef55c543e15c9a5bc7332ff7d6a8282c0711f0edbd6101eb4679f3586a632",
+    "review/key-6-owners.png": "d4206789533d9a32aab8165f34fe4c8a8c7c7993f5d98fb4faec3496d287b744",
+    "review/key-6-hidden.png": "1e925b5d866e5664b8f5b93e8046631cd7a0bc9dc27e6ea776c1d7af5c70dba8",
+    "review/key-1-hidden.png": "d252d8e74c7927857efe05fde30e5f7c1b80003ecd9d4f8c5882c2f121031b2c",
+    "review/key-1-owners.png": "543171b1523502b750e243aa2b99f720017de627f070671ef09d7458935960fd",
+    "review/key-5-guides.png": "7e0eb5ce551f4467fd7ae74747c0046cbf4382a24241399e479303d53714cbf6",
+    "review/key-4-hidden.png": "259945646f715a7063f55bd628b5a27aaf8ef2f555598f6470c9cf7fc6f04fe6",
+    "review/key-4-owners.png": "6a9cbd9f057d1a3ffa97e66af9b7e6c25f6f808e5811d0f37b6a5d427cbc819a"
+  }
+}

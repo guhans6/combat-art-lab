@@ -1,0 +1,12 @@
+{
+  "variant": "neutral",
+  "coordinateConvention": "zero-based, half-open xyxy",
+  "canvas": [128, 192],
+  "editableRegions": [
+    { "feature": "mouth", "xyxy": [66, 26, 71, 29] }
+  ],
+  "nativeOwner": "08-hair-tie-and-hair",
+  "frame": 1,
+  "protectedLandmarks": [[71, 24]],
+  "lockedOutside": true
+}

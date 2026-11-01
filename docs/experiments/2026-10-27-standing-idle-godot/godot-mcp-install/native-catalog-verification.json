@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-27",
+  "direct_catalog_available": true,
+  "tools": [
+    "get_godot_version",
+    "get_project_info",
+    "list_projects",
+    "run_project",
+    "get_debug_output",
+    "stop_project"
+  ],
+  "project": "godot/standing-idle-lab",
+  "scene": "res://main.tscn",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "startup_image_visually_inspected": true,
+  "keyboard_interaction_tested": false,
+  "preview_left_running": true,
+  "code_mcp_used": false,
+  "computer_use_used": false,
+  "debug": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"output\": [\n    \"Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\",\n    \"\",\n    \"OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro\",\n    \"\",\n    \"\",\n    \"\",\n    \"ART_LAB_READY engine=4.7.2-stable (official) viewport=(362.0, 304.0) frames=8 filter=nearest root=(108,48)\",\n    \"\",\n    \"ART_LAB_CAPTURE startup error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-01 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-02 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-03 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-04 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-05 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-06 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-07 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_LOOP 1\",\n    \"\",\n    \"ART_LAB_CAPTURE frame-00 error=0 size=(362, 304)\",\n    \"\",\n    \"ART_LAB_LOOP 2\",\n    \"\",\n    \"ART_LAB_LOOP 3\",\n    \"\",\n    \"ART_LAB_LOOP 4\",\n    \"\",\n    \"ART_LAB_LOOP 5\",\n    \"\",\n    \"ART_LAB_LOOP 6\",\n    \"\",\n    \"ART_LAB_LOOP 7\",\n    \"\",\n    \"ART_LAB_LOOP 8\",\n    \"\",\n    \"ART_LAB_LOOP 9\",\n    \"\"\n  ],\n  \"errors\": []\n}"
+      }
+    ]
+  }
+}

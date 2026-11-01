@@ -1,0 +1,124 @@
+{
+  "schema": 1,
+  "operation": "explicit_frame_normalization",
+  "Pillow_version": "12.3.0",
+  "config_sha256": "9ac5f8caf681370beb6e1257f28628e187dd185882c62a0fa1130c9f61819fae",
+  "canvas": [
+    192,
+    224
+  ],
+  "scale": 1,
+  "method": "NEAREST",
+  "target_anchor": [
+    96.0,
+    202.0
+  ],
+  "sheet_columns": 2,
+  "frames": [
+    {
+      "id": "base",
+      "source_path": "/mnt/data/pixel_art_reference_lab/references/supplied_sprite.png",
+      "source_sha256": "271f0b64ec8344ba66be907ba5f1513a6c82558b5cec0e9aeeea39e39e1a6c3e",
+      "source_crop_xyxy": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "source_anchor": [
+        64.0,
+        186.0
+      ],
+      "scale_requested": 1,
+      "effective_xy_scale": [
+        1.0,
+        1.0
+      ],
+      "motion_offset": [
+        0.0,
+        0.0
+      ],
+      "translation_xy": [
+        32,
+        16
+      ],
+      "duration_ms": 120,
+      "realized_anchor": [
+        96.0,
+        202.0
+      ],
+      "output_file": "base.png",
+      "dimensions": [
+        192,
+        224
+      ],
+      "alpha_bbox_xyxy": [
+        64,
+        18,
+        136,
+        202
+      ],
+      "visible_rgb_colors": 51,
+      "fully_transparent_pixels": 35303,
+      "fully_opaque_pixels": 7705,
+      "partial_alpha_pixels": 0,
+      "output_sha256": "a3f73c5f31bd93005f0f24ff35f11a4ea494dbbb7e4d7172fc7d4d3c7a7b12ac"
+    },
+    {
+      "id": "shifted",
+      "source_path": "/mnt/data/pixel_art_reference_lab/references/supplied_sprite.png",
+      "source_sha256": "271f0b64ec8344ba66be907ba5f1513a6c82558b5cec0e9aeeea39e39e1a6c3e",
+      "source_crop_xyxy": [
+        0,
+        0,
+        128,
+        192
+      ],
+      "source_anchor": [
+        64.0,
+        186.0
+      ],
+      "scale_requested": 1,
+      "effective_xy_scale": [
+        1.0,
+        1.0
+      ],
+      "motion_offset": [
+        6.0,
+        -8.0
+      ],
+      "translation_xy": [
+        38,
+        8
+      ],
+      "duration_ms": 120,
+      "realized_anchor": [
+        102.0,
+        194.0
+      ],
+      "output_file": "shifted.png",
+      "dimensions": [
+        192,
+        224
+      ],
+      "alpha_bbox_xyxy": [
+        70,
+        10,
+        142,
+        194
+      ],
+      "visible_rgb_colors": 51,
+      "fully_transparent_pixels": 35303,
+      "fully_opaque_pixels": 7705,
+      "partial_alpha_pixels": 0,
+      "output_sha256": "71ad535c7adda6643ea97f9497329344070251491c6de44a884f92014a866685"
+    }
+  ],
+  "limits": [
+    "No frame/pose generation or anatomy correction",
+    "No automatic pivots or source-scale inference",
+    "No background removal, palette unification, or native layers",
+    "Motion offsets are supplied data, not inferred movement",
+    "Not proof of animation or runtime quality"
+  ]
+}

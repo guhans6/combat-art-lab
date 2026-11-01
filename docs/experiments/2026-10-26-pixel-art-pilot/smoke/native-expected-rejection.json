@@ -1,0 +1,47 @@
+{
+  "passed": false,
+  "failures": [
+    "header changed",
+    "frames changed",
+    "pattern protected native pixels changed"
+  ],
+  "layers": [
+    {
+      "name": "pattern",
+      "changed_pixels": 2,
+      "protected_changed_pixels": 1,
+      "before_cel": [
+        0,
+        0,
+        16,
+        16
+      ],
+      "after_cel": [
+        0,
+        0,
+        16,
+        16
+      ]
+    },
+    {
+      "name": "protected",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        16,
+        16
+      ],
+      "after_cel": [
+        0,
+        0,
+        16,
+        16
+      ]
+    }
+  ],
+  "frame_metadata_equal": false,
+  "layer_metadata_equal": true,
+  "header_equal": false
+}

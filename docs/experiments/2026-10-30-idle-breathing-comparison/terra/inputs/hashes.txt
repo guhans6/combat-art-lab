@@ -1,0 +1,11 @@
+d5b9d7675de8bea50a1941361d3e3bed3c187b3ee7e1d7e0585d51f8d37cc8ed  docs/experiments/2026-10-30-idle-breath-blink/luna/passes/pass01/luna6-idle-breath-blink-pass01.aseprite
+e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad  docs/experiments/2026-10-30-idle-breath-blink/luna/exports/pass01/frame-0.png
+f227ead748b0c9c71dfc4bf0b1ec0406e628c61e3b5763b0f750705db5fd20d9  docs/experiments/2026-10-30-idle-breath-blink/luna/exports/pass01/frame-1.png
+39f6dc4140f945c6d822d43b21d88e4afdb9f7445a55500ead223a7485907e2a  docs/experiments/2026-10-30-idle-breath-blink/luna/exports/pass01/frame-2.png
+f227ead748b0c9c71dfc4bf0b1ec0406e628c61e3b5763b0f750705db5fd20d9  docs/experiments/2026-10-30-idle-breath-blink/luna/exports/pass01/frame-3.png
+0dfb4d6984fd9557b9561564bf302979313739b92bf12444c2ea006b00e7d65e  docs/experiments/2026-10-30-idle-breath-blink/luna/exports/pass01/frame-4.png
+0ffca6751ce6a8fd5eccf06424173f52bebc69ec65a3dd9414966af44ec3b4e8  docs/experiments/2026-10-30-idle-breath-blink/luna/exports/pass01/frame-5.png
+0dfb4d6984fd9557b9561564bf302979313739b92bf12444c2ea006b00e7d65e  docs/experiments/2026-10-30-idle-breath-blink/luna/exports/pass01/frame-6.png
+e7c62ff0e2f3f88b10b17904322f834175e62d33579cc646a9e6396f940b57ad  docs/experiments/2026-10-30-idle-breath-blink/luna/exports/pass01/frame-7.png
+a274a80133371b61387848495bf0dd93546ba5daf0a60c051b27109237160eae  assets/references/approved-2026-10-26/character-scene.png
+0577f22e5ab53bfa9f05f8a63947cf39c0626c84efae88d6594b1cce9421ada7  assets/references/approved-2026-10-26/character-closeup.png

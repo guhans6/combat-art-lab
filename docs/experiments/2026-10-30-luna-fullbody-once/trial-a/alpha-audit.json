@@ -1,0 +1,26 @@
+{
+  "comparison": {
+    "baseline": "inputs/baseline-reopen.png",
+    "candidate": "outputs/luna56-fullbody-cleanup-reopen.png",
+    "candidate_equals_first_export": true,
+    "alpha_changed_pixels": 43,
+    "transparent_to_opaque": 43,
+    "opaque_to_transparent": 0,
+    "rgb_only_changes": 239,
+    "total_composite_changes": 282,
+    "baseline_opaque_pixels": 7844,
+    "candidate_opaque_pixels": 7887,
+    "baseline_visible_bounds_xyxy_exclusive": [32, 2, 104, 185],
+    "candidate_visible_bounds_xyxy_exclusive": [32, 2, 104, 185]
+  },
+  "cause": "The batched Aseprite pixel operations wrote opaque palette colors at coordinates that were transparent in the frozen baseline. No hard baseline alpha/silhouette mask clipped those writes before the one artistic pass.",
+  "alpha_additions": [
+    [54, 6], [46, 7], [51, 7], [42, 8], [40, 23], [38, 26], [41, 27], [39, 28], [40, 30], [42, 32], [44, 33],
+    [34, 54], [35, 55],
+    [92, 98], [90, 100], [86, 101], [88, 101],
+    [91, 145], [92, 146], [46, 152], [47, 153],
+    [57, 183], [58, 183], [81, 183], [46, 184], [47, 184], [48, 184], [49, 184], [50, 184], [51, 184], [52, 184], [53, 184], [54, 184], [55, 184], [56, 184], [82, 184], [83, 184], [84, 184], [85, 184], [86, 184], [87, 184], [88, 184], [89, 184]
+  ],
+  "remedy": "No correction was made because this was a one-attempt benchmark. A future authorized pass must precompute/apply a hard baseline alpha mask and reject any transparent-to-opaque write outside it before visual selection.",
+  "selection": "failed scope gate; candidate retained as last-attempt evidence only"
+}

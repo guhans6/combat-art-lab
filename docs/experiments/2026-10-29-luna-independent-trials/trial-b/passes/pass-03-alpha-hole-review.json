@@ -1,0 +1,325 @@
+{
+  "candidate": "passes/pass-03.png",
+  "seed": "prep/seed-128x192.png",
+  "source": "input/source-cutout.png",
+  "source_sha256": "12e971cc9e3cbfa7add2a17a62ff53d1f45b3c55197ce23c336a6447bed1f49e",
+  "alpha_check": "passes/pass-02-alpha-check.json",
+  "warning_pixel_count": 26,
+  "same_as_seed_count": 26,
+  "same_warning_coordinates_as_pass_01": true,
+  "interpretation_boundary": "A match with the seed shows a warning predates the face pass; it does not establish that the opening is intentional or visually acceptable.",
+  "records": [
+    {
+      "xy": [
+        51,
+        7
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 27,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        77,
+        13
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 23,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        41,
+        15
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 31,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        38,
+        21
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 19,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        40,
+        24
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 28,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        40,
+        25
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 0,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        40,
+        26
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 4,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        45,
+        28
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 14,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        52,
+        28
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 29,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        72,
+        28
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 20,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        52,
+        29
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 3,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        53,
+        29
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 15,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        72,
+        29
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 0,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        71,
+        30
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 6,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        72,
+        30
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 10,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        49,
+        31
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 2,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        51,
+        31
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 14,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        55,
+        31
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 11,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        49,
+        32
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 0,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        50,
+        32
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 0,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        51,
+        32
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 16,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        54,
+        32
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 25,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        49,
+        33
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 1,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        50,
+        33
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 0,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        51,
+        33
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 12,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    },
+    {
+      "xy": [
+        63,
+        116
+      ],
+      "candidate_alpha": 0,
+      "seed_alpha": 0,
+      "same_as_seed": true,
+      "source_block_nontransparent_samples": 24,
+      "source_block_samples": 64,
+      "source_alpha_threshold": 32
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "passed": true,
+  "failures": [],
+  "layers": [
+    {
+      "name": "01-jacket",
+      "changed_pixels": 384,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    },
+    {
+      "name": "02-shirt",
+      "changed_pixels": 8,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    },
+    {
+      "name": "03-neck-ear",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    },
+    {
+      "name": "04-rear-hair",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    },
+    {
+      "name": "05-face",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    },
+    {
+      "name": "06-crown-fringe",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    },
+    {
+      "name": "07-hair-tie",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    },
+    {
+      "name": "08-eyes-brows",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    },
+    {
+      "name": "09-mouth",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        120,
+        112
+      ],
+      "after_cel": [
+        0,
+        0,
+        120,
+        112
+      ]
+    }
+  ],
+  "frame_metadata_equal": true,
+  "layer_metadata_equal": true,
+  "header_equal": true
+}

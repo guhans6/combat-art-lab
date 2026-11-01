@@ -1,0 +1,39 @@
+{
+  "native_reopen_export_equal": true,
+  "assembled_parts_equal_native_export": true,
+  "engine": {
+    "dynamic_lighting": false,
+    "emitter_visibility_exercised": true,
+    "engine": "4.7.2-stable (official)",
+    "instances_independent": true,
+    "os_input_exercised": false,
+    "parts_with_textures": 16,
+    "planter_moved_native_pixels": 8,
+    "props_visibility_exercised": true,
+    "second_instance_parts": 16
+  },
+  "preservation": {
+    "docs/experiments/2026-10-27-standing-idle-godot/shop-visible-parts.aseprite": {
+      "unchanged": true,
+      "intentionally_updated": false
+    },
+    "docs/experiments/2026-10-27-standing-idle-godot/shop-visible-parts.png": {
+      "unchanged": true,
+      "intentionally_updated": false
+    },
+    "docs/experiments/2026-10-27-standing-idle-godot/standing-idle.aseprite": {
+      "unchanged": true,
+      "intentionally_updated": false
+    },
+    "godot/standing-idle-lab/preview.gd": {
+      "unchanged": false,
+      "intentionally_updated": true
+    },
+    "godot/standing-idle-lab/textures/environment-layout.json": {
+      "unchanged": true,
+      "intentionally_updated": false
+    }
+  },
+  "dedicated_validate_tool_available": false,
+  "strict_binary_checker_run": false
+}

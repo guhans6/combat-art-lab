@@ -1,0 +1,61 @@
+{
+  "source_archive_sha256": "839a2c4b2ae15c166ddffd8e79e9786120dd226173542c31f15872de536d2d36",
+  "files": [
+    {
+      "file": "README.md",
+      "same_bytes": true
+    },
+    {
+      "file": "conversion_seed_112x84_32colors.png",
+      "same_bytes": true
+    },
+    {
+      "file": "conversion_seed_56x42_32colors.png",
+      "same_bytes": true
+    },
+    {
+      "file": "conversion_seed_84x63_32colors.png",
+      "same_bytes": true
+    },
+    {
+      "file": "method.json",
+      "same_bytes": true
+    },
+    {
+      "file": "method_1_56x42.png",
+      "same_bytes": true
+    },
+    {
+      "file": "method_2_56x42.png",
+      "same_bytes": true
+    },
+    {
+      "file": "method_3_56x42.png",
+      "same_bytes": true
+    },
+    {
+      "file": "method_4_56x42.png",
+      "same_bytes": true
+    },
+    {
+      "file": "reproduce_seeds.py",
+      "same_bytes": true
+    },
+    {
+      "file": "resolution_comparison.png",
+      "same_bytes": true
+    },
+    {
+      "file": "sampling_comparison.png",
+      "same_bytes": true
+    },
+    {
+      "file": "source_head_crop.png",
+      "same_bytes": true
+    },
+    {
+      "file": "verification.json",
+      "same_bytes": true
+    }
+  ]
+}

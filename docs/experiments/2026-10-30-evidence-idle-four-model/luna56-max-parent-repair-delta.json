@@ -1,0 +1,41 @@
+{
+  "existing_native_cels_exact": true,
+  "composite_deltas": [
+    {
+      "frame_1based": 1,
+      "changed_count": 0,
+      "equals_flagged_coordinates": true,
+      "filled_values_equal_neutral_at_coordinates": true
+    },
+    {
+      "frame_1based": 2,
+      "changed_count": 64,
+      "equals_flagged_coordinates": true,
+      "filled_values_equal_neutral_at_coordinates": true
+    },
+    {
+      "frame_1based": 3,
+      "changed_count": 44,
+      "equals_flagged_coordinates": true,
+      "filled_values_equal_neutral_at_coordinates": true
+    },
+    {
+      "frame_1based": 4,
+      "changed_count": 83,
+      "equals_flagged_coordinates": true,
+      "filled_values_equal_neutral_at_coordinates": true
+    },
+    {
+      "frame_1based": 5,
+      "changed_count": 65,
+      "equals_flagged_coordinates": true,
+      "filled_values_equal_neutral_at_coordinates": true
+    },
+    {
+      "frame_1based": 6,
+      "changed_count": 0,
+      "equals_flagged_coordinates": true,
+      "filled_values_equal_neutral_at_coordinates": true
+    }
+  ]
+}

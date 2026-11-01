@@ -1,0 +1,76 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=vs-ierVdE7I",
+  "source_content_sha256": "c946289c8fc1ff74faf4fbc0206c58f2e1c9eebd37e18f595f5418e9b5e93a95",
+  "clips": [
+    {
+      "evidence_id": "clip-01-core-poses",
+      "source_start_seconds": 304,
+      "source_end_seconds": 318,
+      "asset_path": "01-core-poses.mp4",
+      "asset_sha256": "61b4c38fc7dc52051bccdb2c69a5d80936a74f547266e6b4822d07b2b80a081f",
+      "source_content_sha256": "c946289c8fc1ff74faf4fbc0206c58f2e1c9eebd37e18f595f5418e9b5e93a95",
+      "derivation": "FFmpeg frame-accurate bounded excerpt; H.264 CRF18 video and AAC128k audio; native 1920x1080; no speed change",
+      "provenance": "Supplementary source excerpts, separate from immutable AgentWatch package."
+    },
+    {
+      "evidence_id": "clip-02-chest-subpixel",
+      "source_start_seconds": 414,
+      "source_end_seconds": 440,
+      "asset_path": "02-chest-subpixel.mp4",
+      "asset_sha256": "43368a3249b90ad342a6d01a3820852e4dc993de32c675757a0d3ba757ac61af",
+      "source_content_sha256": "c946289c8fc1ff74faf4fbc0206c58f2e1c9eebd37e18f595f5418e9b5e93a95",
+      "derivation": "FFmpeg frame-accurate bounded excerpt; H.264 CRF18 video and AAC128k audio; native 1920x1080; no speed change",
+      "provenance": "Supplementary source excerpts, separate from immutable AgentWatch package."
+    },
+    {
+      "evidence_id": "clip-03-arms-delay",
+      "source_start_seconds": 614,
+      "source_end_seconds": 632,
+      "asset_path": "03-arms-delay.mp4",
+      "asset_sha256": "78f009b50572197af4c4cfb8378cc6aece050d413f64a87c21a2258946c6f12d",
+      "source_content_sha256": "c946289c8fc1ff74faf4fbc0206c58f2e1c9eebd37e18f595f5418e9b5e93a95",
+      "derivation": "FFmpeg frame-accurate bounded excerpt; H.264 CRF18 video and AAC128k audio; native 1920x1080; no speed change",
+      "provenance": "Supplementary source excerpts, separate from immutable AgentWatch package."
+    },
+    {
+      "evidence_id": "clip-04-hair-settle",
+      "source_start_seconds": 727,
+      "source_end_seconds": 749,
+      "asset_path": "04-hair-settle.mp4",
+      "asset_sha256": "0b8ecd6826377b7d4527af05d93f8797076928a1af1b6e1f8bfdca83860297e3",
+      "source_content_sha256": "c946289c8fc1ff74faf4fbc0206c58f2e1c9eebd37e18f595f5418e9b5e93a95",
+      "derivation": "FFmpeg frame-accurate bounded excerpt; H.264 CRF18 video and AAC128k audio; native 1920x1080; no speed change",
+      "provenance": "Supplementary source excerpts, separate from immutable AgentWatch package."
+    },
+    {
+      "evidence_id": "clip-05-leg-shading",
+      "source_start_seconds": 866,
+      "source_end_seconds": 886,
+      "asset_path": "05-leg-shading.mp4",
+      "asset_sha256": "2e7e56d0d1d7f97a7b023b233193bbacc5e1e2a683f8fdbdc208b7604d1b6d77",
+      "source_content_sha256": "c946289c8fc1ff74faf4fbc0206c58f2e1c9eebd37e18f595f5418e9b5e93a95",
+      "derivation": "FFmpeg frame-accurate bounded excerpt; H.264 CRF18 video and AAC128k audio; native 1920x1080; no speed change",
+      "provenance": "Supplementary source excerpts, separate from immutable AgentWatch package."
+    },
+    {
+      "evidence_id": "clip-06-breathe-tag",
+      "source_start_seconds": 946,
+      "source_end_seconds": 970,
+      "asset_path": "06-breathe-tag.mp4",
+      "asset_sha256": "dc0624a21c2733d7a6860a97d641f23861cb5d84ed7069b1966a4385ab4f2ff0",
+      "source_content_sha256": "c946289c8fc1ff74faf4fbc0206c58f2e1c9eebd37e18f595f5418e9b5e93a95",
+      "derivation": "FFmpeg frame-accurate bounded excerpt; H.264 CRF18 video and AAC128k audio; native 1920x1080; no speed change",
+      "provenance": "Supplementary source excerpts, separate from immutable AgentWatch package."
+    },
+    {
+      "evidence_id": "clip-07-cleanup-and-export",
+      "source_start_seconds": 1012,
+      "source_end_seconds": 1035,
+      "asset_path": "07-cleanup-and-export.mp4",
+      "asset_sha256": "792866bbd23743dde8d20f3e91fc5b97501cec5c076969df0878a5e6b2e69e1b",
+      "source_content_sha256": "c946289c8fc1ff74faf4fbc0206c58f2e1c9eebd37e18f595f5418e9b5e93a95",
+      "derivation": "FFmpeg frame-accurate bounded excerpt; H.264 CRF18 video and AAC128k audio; native 1920x1080; no speed change",
+      "provenance": "Supplementary source excerpts, separate from immutable AgentWatch package."
+    }
+  ]
+}

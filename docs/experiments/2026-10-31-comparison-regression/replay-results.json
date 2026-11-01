@@ -1,0 +1,101 @@
+{
+  "narrow_changed_pixels": 2680,
+  "narrow_outside_scope_pixels": 30,
+  "narrow_uncovered_changes": {
+    "count": 30,
+    "examples_xy": [
+      [
+        161,
+        0
+      ],
+      [
+        162,
+        0
+      ],
+      [
+        161,
+        1
+      ],
+      [
+        162,
+        1
+      ],
+      [
+        168,
+        150
+      ],
+      [
+        169,
+        150
+      ],
+      [
+        180,
+        150
+      ],
+      [
+        181,
+        150
+      ],
+      [
+        182,
+        150
+      ],
+      [
+        168,
+        151
+      ],
+      [
+        169,
+        151
+      ],
+      [
+        181,
+        151
+      ],
+      [
+        182,
+        151
+      ],
+      [
+        168,
+        152
+      ],
+      [
+        169,
+        152
+      ],
+      [
+        181,
+        152
+      ],
+      [
+        182,
+        152
+      ],
+      [
+        168,
+        153
+      ],
+      [
+        169,
+        153
+      ],
+      [
+        170,
+        153
+      ]
+    ],
+    "bbox_half_open": [
+      161,
+      0,
+      184,
+      157
+    ]
+  },
+  "complete_mechanical_passed": true,
+  "visual_acceptance": "pending",
+  "historical_user_disposition": "rejected grip; known label, not automatic discovery",
+  "unregistered_pair_refusal": "Unregistered canvas mismatch: use a labeled reference comparison instead.",
+  "complete_packet_sha256": "0f80c5b51fc5062fd24e28f10dc61a023c99fcf62e208bfd23772d9d9b6e8f90",
+  "limits": "Retrospective diagnostic scopes; F9 only, not whole-animation clearance. Native and source art unchanged. New-RGB allowed in this diagnostic; not a production palette decision."
+}

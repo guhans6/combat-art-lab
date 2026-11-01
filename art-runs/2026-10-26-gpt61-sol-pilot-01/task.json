@@ -1,0 +1,77 @@
+{
+  "schema": 1,
+  "task_id": "combat-art-lab-v03-head-likeness",
+  "mode": "local-correction",
+  "canvas": [
+    128,
+    192
+  ],
+  "baseline_source": "assets/source/standing-v03/standing.aseprite",
+  "baseline_png": "assets/export/standing-v03/standing.png",
+  "references": [
+    {
+      "role": "primary-face",
+      "path": "assets/references/approved-2026-10-26/character-closeup.png"
+    },
+    {
+      "role": "primary-design-and-style",
+      "path": "assets/references/approved-2026-10-26/character-scene.png"
+    },
+    {
+      "role": "supporting-only-cutout",
+      "path": "assets/references/approved-2026-10-26/character-cutout.png"
+    }
+  ],
+  "editable_layers": [
+    "01-hair-back",
+    "05-skin-face",
+    "10-hair-front",
+    "11-face-features"
+  ],
+  "editable_region": {
+    "coordinates": "zero-based, half-open rectangles",
+    "include_rects": [
+      [
+        34,
+        2,
+        80,
+        31
+      ]
+    ],
+    "exclude_rects": [
+      [
+        57,
+        29,
+        66,
+        31
+      ]
+    ]
+  },
+  "review_crop": [
+    32,
+    0,
+    82,
+    34
+  ],
+  "palette_rule": "Use only baseline visible RGB colors; measure the current baseline, do not assume 45 colors.",
+  "alpha_rule": "binary-transparent; no background or shadow",
+  "locks": [
+    "canvas",
+    "neck",
+    "body",
+    "clothes",
+    "bag",
+    "shoes",
+    "pose",
+    "non-head layers",
+    "frame count",
+    "layer structure",
+    "lighting"
+  ],
+  "budget": {
+    "max_visual_revision_passes": 3,
+    "max_tool_calls": 80
+  },
+  "approval": "Candidate only; human likeness review required.",
+  "provenance": "Profile derived from inspected standing-v03/edit-head.lua and docs/art/style-guide.md on 2026-10-26. Re-verify named files and mask before every run. Screenshot panel labels are not source-version identifiers."
+}

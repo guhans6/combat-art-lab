@@ -1,0 +1,45 @@
+--- docs/experiments/2026-10-27-resolution-feasibility/draw.lua	2026-10-27 11:20:49
++++ docs/experiments/2026-10-27-resolution-feasibility/draw-pass02.lua	2026-10-27 11:22:16
+@@ -5,6 +5,24 @@
+ local function build(name,w,h,parts)
+  local s=Sprite(w,h,ColorMode.RGB); s:deleteLayer(s.layers[1])
+  for _,part in ipairs(parts) do
++  -- Recompose head shapes around the neck junction, at native coordinates.
++  -- This is a structural pass on the independently authored first pass, not an image resize.
++  local ishead=part[1]=='Back hair' or part[1]=='Neck and face' or part[1]=='Features' or part[1]=='Front hair'
++  if ishead then
++   local cx,cy,scale = w==120 and 62 or 83, w==120 and 70 or 94, .76
++   for i=2,#part do for _,pt in ipairs(part[i][2]) do pt[1]=math.floor(cx+(pt[1]-cx)*scale+.5);pt[2]=math.floor(cy+(pt[2]-cy)*scale+.5) end end
++  end
++  if part[1]=='Back hair' then
++   if w==120 then
++    table.insert(part,{'hair',{{26,49},{30,44},{34,42},{33,49},{29,54},{25,55}}})
++    table.insert(part,{'hlight',{{26,44},{30,40},{33,39},{31,42},{28,45}}})
++    table.insert(part,{'dark',{{24,51},{26,54},{31,55},{29,58},{25,57},{22,53}}})
++   else
++    table.insert(part,{'hair',{{35,66},{39,59},{45,55},{44,64},{39,70},{33,72}}})
++    table.insert(part,{'hlight',{{34,59},{39,53},{43,52},{41,56},{36,61}}})
++    table.insert(part,{'dark',{{32,69},{35,73},{41,74},{38,77},{33,76},{30,71}}})
++   end
++  end
+   local layer=s:newLayer();layer.name=part[1];local im=Image(w,h,ColorMode.RGB)
+   local function pixel(x,y,col) if x>=0 and y>=0 and x<w and y<h then im:drawPixel(x,y,c[col]) end end
+   local function segment(a,b,col) local x,y=a[1],a[2];local dx,dy=math.abs(b[1]-x),-math.abs(b[2]-y);local sx=x<b[1] and 1 or -1;local sy=y<b[2] and 1 or -1;local e=dx+dy while true do pixel(x,y,col);if x==b[1] and y==b[2] then break end; local z=2*e;if z>=dy then e=e+dy;x=x+sx end;if z<=dx then e=e+dx;y=y+sy end end end
+@@ -17,7 +35,7 @@
+  s:saveAs(out..'/'..name..'.aseprite');s:saveCopyAs(out..'/'..name..'.png');s:close()
+ end
+ -- 120x132: equivalent to crop of an imagined 192x288 full canvas.
+-build('study-192',120,132,{
++build('study-192-pass02',120,132,{
+  {'Back hair',{'dark',{{17,25},{19,14},{29,9},{40,11},{49,6},{69,7},{81,14},{89,26},{87,47},{78,58},{50,62},{39,54},{29,58},{19,52},{13,44},{12,33}},'ink'},{'hair',{{17,32},{22,22},{32,20},{38,25},{37,39},{31,50},{23,51},{17,44}}},{'hlight',{{18,28},{24,19},{34,17},{35,20},{27,21},{21,28}}},{'tie',{{34,20},{37,19},{40,21},{39,25},{36,25}}}},
+  {'Jacket',{'olive',{{31,61},{42,55},{52,58},{68,57},{80,56},{91,64},{101,85},{106,112},{102,131},{17,131},{14,110},{19,85}},'oliveink'},{'olivesh',{{20,90},{28,80},{26,104},{31,117},{27,131},{14,131},{16,112}}},{'olivelt',{{84,64},{94,70},{99,87},{96,95},{91,83}}},{'olivesh',{{80,84},{88,101},{101,110},{102,118},{87,111},{78,98}}}},
+  {'Shirt',{'tee',{{46,63},{53,68},{64,70},{75,65},{80,72},{76,111},{79,131},{39,131},{42,101}},'teesh'},{'teesh',{{44,106},{55,116},{66,119},{58,119},{47,113}}}},
+@@ -27,7 +45,7 @@
+  {'Tote strap',{'bagsh',{{85,66},{90,64},{87,76},{86,94},{90,113},{86,115},{82,96},{82,78}},'bagsh'},{'bag',{{86,67},{89,66},{86,78},{85,95},{88,111},{86,112},{83,95},{83,78}}}}
+ })
+ -- 160x176: separately placed contours/features and additional native clusters.
+-build('study-256',160,176,{
++build('study-256-pass02',160,176,{
+  {'Back hair',{'dark',{{22,34},{24,20},{36,12},{50,15},{60,8},{88,9},{105,17},{116,33},{118,52},{112,68},{101,77},{72,80},{52,72},{39,78},{27,73},{19,62},{16,48}},'ink'},{'hair',{{22,43},{29,28},{41,25},{48,29},{49,42},{43,59},{34,67},{26,61},{22,52}}},{'hlight',{{23,37},{29,27},{40,23},{45,24},{43,27},{33,30},{27,39}}},{'hair',{{31,51},{37,44},{42,33},{44,36},{41,48},{35,57},{34,64},{30,61}}},{'tie',{{44,26},{48,25},{52,28},{51,33},{47,34},{44,31}}}},
+  {'Jacket',{'olive',{{40,82},{56,73},{66,78},{87,77},{105,76},{122,87},{135,113},{141,150},{136,175},{20,175},{19,148},{25,112}},'oliveink'},{'olivesh',{{26,119},{37,105},{34,136},{42,156},{37,175},{20,175},{20,150}}},{'olivelt',{{112,85},{124,92},{131,112},{128,125},{121,111}}},{'olivesh',{{107,112},{118,134},{136,146},{138,158},{119,150},{104,133}}},{'olivesh',{{35,146},{44,153},{47,163},{39,160}}}},
+  {'Shirt',{'tee',{{60,84},{70,91},{84,92},{99,85},{106,96},{100,147},{104,175},{51,175},{56,133}},'teesh'},{'teesh',{{59,143},{72,155},{89,160},{80,161},{65,153}}},{'teesh',{{62,102},{72,108},{81,109},{75,112},{66,108}}}},

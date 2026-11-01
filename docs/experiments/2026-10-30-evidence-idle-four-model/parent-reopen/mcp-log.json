@@ -1,0 +1,1337 @@
+{
+  "calls": [
+    {
+      "artist": "luna56-max",
+      "native": "luna56-max/technical-repair/luna56-idle-repaired.aseprite",
+      "source_sha256": "f7aa4235209d78823d7fe769e4ba53035692bc014d1af2e5fda11af93ed655d9",
+      "opened": {
+        "op": "open",
+        "sprite": "luna56-idle-repaired.aseprite",
+        "width": 128,
+        "height": 192,
+        "id": 3
+      },
+      "info": {
+        "id": 3,
+        "colorMode": "rgb",
+        "name": "luna56-idle-repaired.aseprite",
+        "layers": [
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opacity": 255,
+            "name": "guide-source-seed (hidden)",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": false,
+            "index": 1,
+            "blendMode": "3",
+            "visible": false
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opacity": 255,
+            "name": "00-shoes",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 2,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opacity": 255,
+            "name": "01-denim",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 3,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opacity": 255,
+            "name": "02a-jacket-left",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 4,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opacity": 255,
+            "name": "02b-jacket-right",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 5,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opacity": 255,
+            "name": "03-shirt",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 6,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opacity": 255,
+            "name": "04-tote",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 7,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opacity": 255,
+            "name": "05-tote-strap",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 8,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opacity": 255,
+            "name": "06a-left-hand",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 9,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opacity": 255,
+            "name": "06b-right-hand",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 10,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opacity": 255,
+            "name": "07-face-and-neck",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 11,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opacity": 255,
+            "name": "08-hair-tie-and-hair",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 12,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              2,
+              3,
+              4,
+              5
+            ],
+            "opacity": 255,
+            "name": "09-anim-overlap-repair",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 13,
+            "blendMode": "3",
+            "visible": true
+          }
+        ],
+        "frames": [
+          {
+            "durationMs": 420,
+            "number": 1
+          },
+          {
+            "durationMs": 140,
+            "number": 2
+          },
+          {
+            "durationMs": 180,
+            "number": 3
+          },
+          {
+            "durationMs": 220,
+            "number": 4
+          },
+          {
+            "durationMs": 180,
+            "number": 5
+          },
+          {
+            "durationMs": 560,
+            "number": 6
+          }
+        ],
+        "modified": false,
+        "activeFrame": 1,
+        "tags": [
+          {
+            "name": "idle-breathe",
+            "repeats": 0,
+            "from": 1,
+            "to": 6,
+            "direction": "0"
+          }
+        ],
+        "frameCount": 6,
+        "activeLayer": "guide-source-seed (hidden)",
+        "width": 128,
+        "filename": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/luna56-max/technical-repair/luna56-idle-repaired.aseprite",
+        "height": 192
+      },
+      "export": {
+        "sprite": "luna56-idle-repaired.aseprite",
+        "op": "spritesheet",
+        "atlas": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/parent-reopen/luna56-max.json",
+        "frameCount": 6,
+        "files": [
+          "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/parent-reopen/luna56-max.json",
+          "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/parent-reopen/luna56-max.png"
+        ],
+        "height": 192,
+        "width": 128
+      },
+      "close": {
+        "op": "close",
+        "sprite": "luna56-idle-repaired.aseprite",
+        "id": 3
+      }
+    },
+    {
+      "artist": "luna6-max",
+      "native": "luna6-max/idle-candidate-corrected.aseprite",
+      "source_sha256": "57d27225db3b800816bf8399fbd0443188cca4ed1fab41b641c2194de953bbe4",
+      "opened": {
+        "op": "open",
+        "sprite": "idle-candidate-corrected.aseprite",
+        "width": 128,
+        "height": 192,
+        "id": 94
+      },
+      "info": {
+        "id": 94,
+        "colorMode": "rgb",
+        "name": "idle-candidate-corrected.aseprite",
+        "layers": [
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "opacity": 255,
+            "name": "guide-source-seed (hidden)",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": false,
+            "index": 1,
+            "blendMode": "3",
+            "visible": false
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "opacity": 255,
+            "name": "00-shoes",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 2,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "opacity": 255,
+            "name": "01-denim",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 3,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "opacity": 255,
+            "name": "02a-jacket-left",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 4,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "opacity": 255,
+            "name": "02b-jacket-right",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 5,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "opacity": 255,
+            "name": "03-shirt",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 6,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "opacity": 255,
+            "name": "04-tote",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 7,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "opacity": 255,
+            "name": "05-tote-strap",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 8,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "opacity": 255,
+            "name": "06a-left-hand",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 9,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "opacity": 255,
+            "name": "06b-right-hand",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 10,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "opacity": 255,
+            "name": "07-face-and-neck",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 11,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "opacity": 255,
+            "name": "08-hair-tie-and-hair",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 12,
+            "blendMode": "3",
+            "visible": true
+          }
+        ],
+        "frames": [
+          {
+            "durationMs": 600,
+            "number": 1
+          },
+          {
+            "durationMs": 180,
+            "number": 2
+          },
+          {
+            "durationMs": 180,
+            "number": 3
+          },
+          {
+            "durationMs": 360,
+            "number": 4
+          },
+          {
+            "durationMs": 220,
+            "number": 5
+          },
+          {
+            "durationMs": 220,
+            "number": 6
+          },
+          {
+            "durationMs": 450,
+            "number": 7
+          },
+          {
+            "durationMs": 50,
+            "number": 8
+          },
+          {
+            "durationMs": 80,
+            "number": 9
+          },
+          {
+            "durationMs": 50,
+            "number": 10
+          }
+        ],
+        "modified": false,
+        "activeFrame": 1,
+        "tags": [
+          {
+            "name": "idle",
+            "repeats": 0,
+            "from": 1,
+            "to": 10,
+            "direction": "0"
+          }
+        ],
+        "frameCount": 10,
+        "activeLayer": "guide-source-seed (hidden)",
+        "width": 128,
+        "filename": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/luna6-max/idle-candidate-corrected.aseprite",
+        "height": 192
+      },
+      "export": {
+        "sprite": "idle-candidate-corrected.aseprite",
+        "op": "spritesheet",
+        "atlas": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/parent-reopen/luna6-max.json",
+        "frameCount": 10,
+        "files": [
+          "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/parent-reopen/luna6-max.json",
+          "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/parent-reopen/luna6-max.png"
+        ],
+        "height": 192,
+        "width": 128
+      },
+      "close": {
+        "op": "close",
+        "sprite": "idle-candidate-corrected.aseprite",
+        "id": 94
+      }
+    },
+    {
+      "artist": "terra56",
+      "native": "terra56/native/terra56-breathe-seam-repair.aseprite",
+      "source_sha256": "9db6aa3cce3210376b6b6ce9b3f013f8798dd59b70fecf13adff7453ce7d5df8",
+      "opened": {
+        "op": "open",
+        "sprite": "terra56-breathe-seam-repair.aseprite",
+        "width": 128,
+        "height": 192,
+        "id": 228
+      },
+      "info": {
+        "id": 228,
+        "colorMode": "rgb",
+        "name": "terra56-breathe-seam-repair.aseprite",
+        "layers": [
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "guide-source-seed (hidden)",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": false,
+            "index": 1,
+            "blendMode": "3",
+            "visible": false
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "00-shoes",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 2,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "01-denim",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 3,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "02a-jacket-left",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 4,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "02b-jacket-right",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 5,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "03-shirt",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 6,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "04-tote",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 7,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "05-tote-strap",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 8,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "06a-left-hand",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 9,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "06b-right-hand",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 10,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "07-face-and-neck",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 11,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              3,
+              4,
+              5,
+              6
+            ],
+            "opacity": 255,
+            "name": "09-breath-seam-backing",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 12,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "08-hair-tie-and-hair",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 13,
+            "blendMode": "3",
+            "visible": true
+          }
+        ],
+        "frames": [
+          {
+            "durationMs": 110,
+            "number": 1
+          },
+          {
+            "durationMs": 90,
+            "number": 2
+          },
+          {
+            "durationMs": 80,
+            "number": 3
+          },
+          {
+            "durationMs": 90,
+            "number": 4
+          },
+          {
+            "durationMs": 110,
+            "number": 5
+          },
+          {
+            "durationMs": 90,
+            "number": 6
+          },
+          {
+            "durationMs": 80,
+            "number": 7
+          },
+          {
+            "durationMs": 90,
+            "number": 8
+          }
+        ],
+        "modified": false,
+        "activeFrame": 1,
+        "tags": [
+          {
+            "name": "Breathe",
+            "repeats": 0,
+            "from": 1,
+            "to": 8,
+            "direction": "0"
+          }
+        ],
+        "frameCount": 8,
+        "activeLayer": "guide-source-seed (hidden)",
+        "width": 128,
+        "filename": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/terra56/native/terra56-breathe-seam-repair.aseprite",
+        "height": 192
+      },
+      "export": {
+        "sprite": "terra56-breathe-seam-repair.aseprite",
+        "op": "spritesheet",
+        "atlas": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/parent-reopen/terra56.json",
+        "frameCount": 8,
+        "files": [
+          "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/parent-reopen/terra56.json",
+          "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/parent-reopen/terra56.png"
+        ],
+        "height": 192,
+        "width": 128
+      },
+      "close": {
+        "op": "close",
+        "sprite": "terra56-breathe-seam-repair.aseprite",
+        "id": 228
+      }
+    },
+    {
+      "artist": "sol61",
+      "native": "sol61/pass01.aseprite",
+      "source_sha256": "e93d058a373ef5329ee862523a966e6db225ee0f5ba6fafd294a574b34b6c6c5",
+      "opened": {
+        "op": "open",
+        "sprite": "pass01.aseprite",
+        "width": 128,
+        "height": 192,
+        "id": 343
+      },
+      "info": {
+        "id": 343,
+        "colorMode": "rgb",
+        "name": "pass01.aseprite",
+        "layers": [
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "guide-source-seed (hidden)",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": false,
+            "index": 1,
+            "blendMode": "3",
+            "visible": false
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "00-shoes",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 2,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "01-denim",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 3,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "02a-jacket-left",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 4,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "02b-jacket-right",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 5,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "03-shirt",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 6,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "04-tote",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 7,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "05-tote-strap",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 8,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "06a-left-hand",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 9,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "06b-right-hand",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 10,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "07-face-and-neck",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 11,
+            "blendMode": "3",
+            "visible": true
+          },
+          {
+            "cels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "opacity": 255,
+            "name": "08-hair-tie-and-hair",
+            "isGroup": false,
+            "isTilemap": false,
+            "editable": true,
+            "index": 12,
+            "blendMode": "3",
+            "visible": true
+          }
+        ],
+        "frames": [
+          {
+            "durationMs": 1100,
+            "number": 1
+          },
+          {
+            "durationMs": 180,
+            "number": 2
+          },
+          {
+            "durationMs": 120,
+            "number": 3
+          },
+          {
+            "durationMs": 360,
+            "number": 4
+          },
+          {
+            "durationMs": 220,
+            "number": 5
+          },
+          {
+            "durationMs": 160,
+            "number": 6
+          },
+          {
+            "durationMs": 240,
+            "number": 7
+          },
+          {
+            "durationMs": 1000,
+            "number": 8
+          }
+        ],
+        "modified": false,
+        "activeFrame": 1,
+        "tags": [],
+        "frameCount": 8,
+        "activeLayer": "guide-source-seed (hidden)",
+        "width": 128,
+        "filename": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/sol61/pass01.aseprite",
+        "height": 192
+      },
+      "export": {
+        "sprite": "pass01.aseprite",
+        "op": "spritesheet",
+        "atlas": "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/parent-reopen/sol61.json",
+        "frameCount": 8,
+        "files": [
+          "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/parent-reopen/sol61.json",
+          "/Users/guhan/Guhan/Projects/combat-art-lab/docs/experiments/2026-10-30-evidence-idle-four-model/parent-reopen/sol61.png"
+        ],
+        "height": 192,
+        "width": 128
+      },
+      "close": {
+        "op": "close",
+        "sprite": "pass01.aseprite",
+        "id": 343
+      }
+    }
+  ],
+  "final_sprite_list": {
+    "op": "list",
+    "sprites": []
+  },
+  "boundary": "Coordinator opened saved native sources, inspected metadata, exported spritesheets and closed. No draw, recolor, native save or resave."
+}

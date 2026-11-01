@@ -1,0 +1,70 @@
+{
+  "id": "047",
+  "time": "2026-10-26T10:32:13.879Z",
+  "call": {
+    "name": "look",
+    "arguments": {
+      "op": "ascii",
+      "layer": "01-hair-back",
+      "region": {
+        "x": 34,
+        "y": 10,
+        "width": 24,
+        "height": 21
+      },
+      "rulers": true
+    }
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "24×21 at (34,10)\n\n         4         5\n   456789012345678901234567\n10 ............FDDDKKKMD...\n11 ..........FDDFFDKKKKD...\n12 .......FDKKvvvFFDKKD....\n13 .....FDDMMMMvvFFDDDD....\n14 ....FDMMMMMMKvvFFFFD....\n15 ....DMMMMKKDKvvKFFFFD...\n16 ...DMMMKKKKDKKKKFFFFD...\n17 ..FDMMKKGGDGKKDKFFFFFD..\n18 .FDKMKKGGGDGGKDGGGFFFD..\n19 .DFKKKKKGDGGGDGGGGGFFD..\n20 .DDFKMKKGDGGGDGGKGGFFFD.\n21 .DDFKMKGGGGGDGGKKKGFFFD.\n22 .DFKDMKGGGGFDGKKKKGFFFD.\n23 .DFKDMKGGGFDGGKMKGGFF.D.\n24 ..FKKDMKGFFGGGMKGGFFFD..\n25 ...FKDMMFFFFGKMKGFFFFD..\n26 ...FFKDDMKFFDMKGGFFFD...\n27 ....FFKKDKKFDGGGFFF.D...\n28 .....FFKKKDDGGGKFFDD....\n29 .....DFFFDFFDGFFKD......\n30 .......DD.DD.DFFKK......\n\nLegend: F=#49322d  D=#402b29  K=#6b4435  M=#7d503a  v=#e8d8b9  G=#57382e\n'.' = transparent"
+      }
+    ],
+    "structuredContent": {
+      "op": "ascii",
+      "sprite": "pass-01.aseprite",
+      "width": 24,
+      "height": 21,
+      "text": "         4         5\n   456789012345678901234567\n10 ............FDDDKKKMD...\n11 ..........FDDFFDKKKKD...\n12 .......FDKKvvvFFDKKD....\n13 .....FDDMMMMvvFFDDDD....\n14 ....FDMMMMMMKvvFFFFD....\n15 ....DMMMMKKDKvvKFFFFD...\n16 ...DMMMKKKKDKKKKFFFFD...\n17 ..FDMMKKGGDGKKDKFFFFFD..\n18 .FDKMKKGGGDGGKDGGGFFFD..\n19 .DFKKKKKGDGGGDGGGGGFFD..\n20 .DDFKMKKGDGGGDGGKGGFFFD.\n21 .DDFKMKGGGGGDGGKKKGFFFD.\n22 .DFKDMKGGGGFDGKKKKGFFFD.\n23 .DFKDMKGGGFDGGKMKGGFF.D.\n24 ..FKKDMKGFFGGGMKGGFFFD..\n25 ...FKDMMFFFFGKMKGFFFFD..\n26 ...FFKDDMKFFDMKGGFFFD...\n27 ....FFKKDKKFDGGGFFF.D...\n28 .....FFKKKDDGGGKFFDD....\n29 .....DFFFDFFDGFFKD......\n30 .......DD.DD.DFFKK......",
+      "legend": {
+        "F": "#49322d",
+        "D": "#402b29",
+        "K": "#6b4435",
+        "M": "#7d503a",
+        "v": "#e8d8b9",
+        "G": "#57382e"
+      },
+      "offPalette": [],
+      "gridRows": [
+        "............FDDDKKKMD...",
+        "..........FDDFFDKKKKD...",
+        ".......FDKKvvvFFDKKD....",
+        ".....FDDMMMMvvFFDDDD....",
+        "....FDMMMMMMKvvFFFFD....",
+        "....DMMMMKKDKvvKFFFFD...",
+        "...DMMMKKKKDKKKKFFFFD...",
+        "..FDMMKKGGDGKKDKFFFFFD..",
+        ".FDKMKKGGGDGGKDGGGFFFD..",
+        ".DFKKKKKGDGGGDGGGGGFFD..",
+        ".DDFKMKKGDGGGDGGKGGFFFD.",
+        ".DDFKMKGGGGGDGGKKKGFFFD.",
+        ".DFKDMKGGGGFDGKKKKGFFFD.",
+        ".DFKDMKGGGFDGGKMKGGFF.D.",
+        "..FKKDMKGFFGGGMKGGFFFD..",
+        "...FKDMMFFFFGKMKGFFFFD..",
+        "...FFKDDMKFFDMKGGFFFD...",
+        "....FFKKDKKFDGGGFFF.D...",
+        ".....FFKKKDDGGGKFFDD....",
+        ".....DFFFDFFDGFFKD......",
+        ".......DD.DD.DFFKK......"
+      ],
+      "origin": {
+        "x": 34,
+        "y": 10
+      }
+    }
+  },
+  "images": []
+}

@@ -1,0 +1,29 @@
+ M CONTEXT.md
+ M docs/art/asset-contract.md
+ M docs/art/motion-guide.md
+ M docs/art/reference-log.md
+ M docs/art/style-guide.md
+ M docs/handoff.md
+ M docs/workflow/art-production.md
+?? .agents/
+?? .art-tools/
+?? .codex/
+?? art-runs/
+?? assets/
+?? docs/experiments/2026-10-25-reference-study/
+?? docs/experiments/2026-10-26-drawn-background/
+?? docs/experiments/2026-10-26-head-v03/
+?? docs/experiments/2026-10-26-headless-startup-fix/
+?? docs/experiments/2026-10-26-pixel-art-pilot/
+?? docs/experiments/2026-10-26-shoe-detail/
+?? docs/experiments/2026-10-26-standing-reconstruction/
+?? docs/experiments/2026-10-26-standing-refinement/
+?? docs/experiments/2026-10-26-street-preview/
+?? docs/experiments/2026-10-27-assisted-head-comparison/
+?? docs/experiments/2026-10-27-original-guided-head-v02/
+?? docs/experiments/2026-10-27-reference-drift-audit/
+?? docs/experiments/2026-10-27-resolution-feasibility/
+?? docs/research/aseprite-reconstruction-principles.md
+?? docs/research/concept-to-native-pixel-art.md
+?? docs/research/until-then-art-direction.md
+?? tools/

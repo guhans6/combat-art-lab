@@ -1,0 +1,117 @@
+{
+  "purpose": "visual preparation only; extracted from re-encoded source excerpts",
+  "samples": [
+    {
+      "evidence_id": "clip-01-core-poses",
+      "source_clip": "inputs/video-evidence/pixel-idle-evidence-pack/motion-evidence/01-core-poses.mp4",
+      "clip_relative_seconds": 1.0,
+      "source_video_seconds": 305.0,
+      "still": "luna6-max/prep/video-frames/clip-01-core-poses-local-001.0s.jpg",
+      "sha256": "7d81e437c5ed26dfd63bc8757f3482a164c93596686f114c6a1983d22e407591"
+    },
+    {
+      "evidence_id": "clip-01-core-poses",
+      "source_clip": "inputs/video-evidence/pixel-idle-evidence-pack/motion-evidence/01-core-poses.mp4",
+      "clip_relative_seconds": 5.0,
+      "source_video_seconds": 309.0,
+      "still": "luna6-max/prep/video-frames/clip-01-core-poses-local-005.0s.jpg",
+      "sha256": "1c33f14bba73e6d138c84a1b33e4458242aa544ccefa8833814ee6581b940f9b"
+    },
+    {
+      "evidence_id": "clip-01-core-poses",
+      "source_clip": "inputs/video-evidence/pixel-idle-evidence-pack/motion-evidence/01-core-poses.mp4",
+      "clip_relative_seconds": 10.0,
+      "source_video_seconds": 314.0,
+      "still": "luna6-max/prep/video-frames/clip-01-core-poses-local-010.0s.jpg",
+      "sha256": "72746f13a191824475b919c5f87942342992939ec429fb7b23efd8fb88ed5776"
+    },
+    {
+      "evidence_id": "clip-02-chest-subpixel",
+      "source_clip": "inputs/video-evidence/pixel-idle-evidence-pack/motion-evidence/02-chest-subpixel.mp4",
+      "clip_relative_seconds": 3.0,
+      "source_video_seconds": 417.0,
+      "still": "luna6-max/prep/video-frames/clip-02-chest-subpixel-local-003.0s.jpg",
+      "sha256": "c90659e91f23c9f37494de7c768954ff783bb01e191a5256e69bfb4390a3f5e8"
+    },
+    {
+      "evidence_id": "clip-02-chest-subpixel",
+      "source_clip": "inputs/video-evidence/pixel-idle-evidence-pack/motion-evidence/02-chest-subpixel.mp4",
+      "clip_relative_seconds": 11.0,
+      "source_video_seconds": 425.0,
+      "still": "luna6-max/prep/video-frames/clip-02-chest-subpixel-local-011.0s.jpg",
+      "sha256": "d5c92705c51470e98746d88a7b987594da54f245717649621d24bb66b34a3793"
+    },
+    {
+      "evidence_id": "clip-02-chest-subpixel",
+      "source_clip": "inputs/video-evidence/pixel-idle-evidence-pack/motion-evidence/02-chest-subpixel.mp4",
+      "clip_relative_seconds": 20.0,
+      "source_video_seconds": 434.0,
+      "still": "luna6-max/prep/video-frames/clip-02-chest-subpixel-local-020.0s.jpg",
+      "sha256": "8336ec471a246374eb73dc9d02daab77fd37e20420a48079e33ada27488cdb9b"
+    },
+    {
+      "evidence_id": "clip-03-arms-delay",
+      "source_clip": "inputs/video-evidence/pixel-idle-evidence-pack/motion-evidence/03-arms-delay.mp4",
+      "clip_relative_seconds": 4.0,
+      "source_video_seconds": 618.0,
+      "still": "luna6-max/prep/video-frames/clip-03-arms-delay-local-004.0s.jpg",
+      "sha256": "00997993c88b74b476b9acd2ff46dccf9cc87a077dc7d9be57e32ba6d28a0deb"
+    },
+    {
+      "evidence_id": "clip-03-arms-delay",
+      "source_clip": "inputs/video-evidence/pixel-idle-evidence-pack/motion-evidence/03-arms-delay.mp4",
+      "clip_relative_seconds": 12.0,
+      "source_video_seconds": 626.0,
+      "still": "luna6-max/prep/video-frames/clip-03-arms-delay-local-012.0s.jpg",
+      "sha256": "571d48e1d90fa7fbc566f173330d9e3318f5ab0bd330b9cdad86a92f3f6d444d"
+    },
+    {
+      "evidence_id": "clip-04-hair-settle",
+      "source_clip": "inputs/video-evidence/pixel-idle-evidence-pack/motion-evidence/04-hair-settle.mp4",
+      "clip_relative_seconds": 5.0,
+      "source_video_seconds": 732.0,
+      "still": "luna6-max/prep/video-frames/clip-04-hair-settle-local-005.0s.jpg",
+      "sha256": "78844fc1d4a4282c121fe5f0354ca3a788f029a4b7db2f59aad444324bcbfaa6"
+    },
+    {
+      "evidence_id": "clip-04-hair-settle",
+      "source_clip": "inputs/video-evidence/pixel-idle-evidence-pack/motion-evidence/04-hair-settle.mp4",
+      "clip_relative_seconds": 15.0,
+      "source_video_seconds": 742.0,
+      "still": "luna6-max/prep/video-frames/clip-04-hair-settle-local-015.0s.jpg",
+      "sha256": "c947e5b0af9c9b798ca97aeb4880e45eaa0abb06facb6e49a726af342970a9be"
+    },
+    {
+      "evidence_id": "clip-05-leg-shading",
+      "source_clip": "inputs/video-evidence/pixel-idle-evidence-pack/motion-evidence/05-leg-shading.mp4",
+      "clip_relative_seconds": 4.0,
+      "source_video_seconds": 870.0,
+      "still": "luna6-max/prep/video-frames/clip-05-leg-shading-local-004.0s.jpg",
+      "sha256": "036dd98a00c5b0fc5d2edcfe56be4f6c10d6c7ddb0639c1582bcc585367169f4"
+    },
+    {
+      "evidence_id": "clip-05-leg-shading",
+      "source_clip": "inputs/video-evidence/pixel-idle-evidence-pack/motion-evidence/05-leg-shading.mp4",
+      "clip_relative_seconds": 14.0,
+      "source_video_seconds": 880.0,
+      "still": "luna6-max/prep/video-frames/clip-05-leg-shading-local-014.0s.jpg",
+      "sha256": "d5e3dfc2f0f20644364c58db543900d0fae2c1b5d9e79d14611760c759c6818c"
+    },
+    {
+      "evidence_id": "clip-06-breathe-tag",
+      "source_clip": "inputs/video-evidence/pixel-idle-evidence-pack/motion-evidence/06-breathe-tag.mp4",
+      "clip_relative_seconds": 4.0,
+      "source_video_seconds": 950.0,
+      "still": "luna6-max/prep/video-frames/clip-06-breathe-tag-local-004.0s.jpg",
+      "sha256": "8da97df3e2d00be57824a039962c4b56783eeaeb1039244ffa6a5e1d8b9fa594"
+    },
+    {
+      "evidence_id": "clip-06-breathe-tag",
+      "source_clip": "inputs/video-evidence/pixel-idle-evidence-pack/motion-evidence/06-breathe-tag.mp4",
+      "clip_relative_seconds": 18.0,
+      "source_video_seconds": 964.0,
+      "still": "luna6-max/prep/video-frames/clip-06-breathe-tag-local-018.0s.jpg",
+      "sha256": "e9f8d32a1d27f44eb2937fb9efc6b00f4b97bb62914cac8c5fe7d58d76324dc5"
+    }
+  ]
+}

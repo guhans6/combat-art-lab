@@ -1,0 +1,24 @@
+{
+  "durations_ms": [
+    1100,
+    180,
+    120,
+    360,
+    220,
+    160,
+    240,
+    1000
+  ],
+  "cycle_ms": 3380,
+  "loop": true,
+  "tag": "idle-coherent",
+  "root_offset": [
+    0,
+    0
+  ],
+  "ground_row": 185,
+  "frame_size": [
+    128,
+    192
+  ]
+}

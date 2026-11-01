@@ -1,0 +1,78 @@
+{
+  "canvas": [
+    120,
+    112
+  ],
+  "frame_count": 5,
+  "frame_slots": [
+    [
+      0,
+      0,
+      120,
+      112
+    ],
+    [
+      120,
+      0,
+      120,
+      112
+    ],
+    [
+      240,
+      0,
+      120,
+      112
+    ],
+    [
+      360,
+      0,
+      120,
+      112
+    ],
+    [
+      480,
+      0,
+      120,
+      112
+    ]
+  ],
+  "durations_ms": [
+    1600,
+    50,
+    90,
+    60,
+    600
+  ],
+  "root_offsets": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "anchor": [
+    64,
+    104
+  ],
+  "anchor_role": "fixed crop registration point, not ground contact",
+  "scale": "1:1 native; no per-frame fit",
+  "palette": "same source-derived palette as B02",
+  "generated_reference": "generated-blink-reference.png",
+  "generation_use": "eyelid closure guidance only; redraw on B02 native eye layer",
+  "status": "expression probe; not combat or Godot proof"
+}
