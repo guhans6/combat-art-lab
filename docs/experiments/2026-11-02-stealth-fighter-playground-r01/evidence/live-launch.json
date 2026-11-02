@@ -1,0 +1,10 @@
+{
+  "project": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/godot/stealth-fighter-playground-r01",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "status": "running and left open for user interaction at handoff",
+  "self_test_marker_absent": true,
+  "errors": [],
+  "main_script_sha256": "80bbc3ac405c0a9808e0726f03cc35dd11a04ceda9d36d441faea8131accfaab",
+  "stage_script_sha256": "9dde0ba680c473ac62ce7a82e147dd74a6fe1bb71cb02fd925ab828155827c49",
+  "validated_copy_identical_scripts": true
+}

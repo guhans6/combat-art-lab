@@ -1,0 +1,66 @@
+{
+  "crown": [
+    59,
+    13
+  ],
+  "chin": [
+    70,
+    41
+  ],
+  "ear": [
+    61,
+    29
+  ],
+  "neck-base": [
+    63,
+    46
+  ],
+  "near-shoulder": [
+    43,
+    59
+  ],
+  "far-shoulder": [
+    74,
+    60
+  ],
+  "near-elbow": [
+    37,
+    96
+  ],
+  "near-wrist": [
+    45,
+    130
+  ],
+  "near-hand": [
+    47,
+    144
+  ],
+  "pelvis": [
+    66,
+    124
+  ],
+  "near-knee": [
+    45,
+    179
+  ],
+  "far-knee": [
+    74,
+    177
+  ],
+  "near-ankle": [
+    36,
+    234
+  ],
+  "far-ankle": [
+    68,
+    233
+  ],
+  "sole-line": [
+    64,
+    252
+  ],
+  "sword-waist-root": [
+    79,
+    102
+  ]
+}

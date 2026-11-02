@@ -1,0 +1,42 @@
+# Current A: transfer of the accepted idle gesture
+
+Date: 2 November 2026. Workspace: combat-art-lab-learning, branch learning/aseprite-sprite-cleanup at c270286 plus existing local work.
+
+The user accepted the disposable traveler r04 motion and asked to apply it to the main character. This authorizes transferring its connected upper-body gesture to Current A. It does not select the traveler's appearance. Current A's original face, beard, tied long hair, indigo clothing, armor, sword and camera remain the appearance reference.
+
+Inputs: assets/concepts/stealth-fighter/game-specific-r01/silver-pines/corrected.png, SHA256 a3cc3ab1d658ac3d2d464ef4781ed966e815c7eedeefcf5801d81ca93924ab9c; REST from assets/source/stealth-fighter/idle-r01/idle.aseprite, SHA256 e839783e58f01e61b1839f18ee6208437ec9424c0403a148f331f32e9ad653fd. Earlier main idle motion was rejected as too subtle. Accepted motion reference: atmospheric-traveler/idle-r04/relaxed-idle.aseprite, SHA256 eeb6b36f9b18063529e0be50b2c74691e03fc8a4e3d743b24013cc1a46e75a8e.
+
+Acceptance for this increment: a separate editable main-character animation with the accepted small coordinated shoulder/head/arm gesture, quiet legs and equipment, consistent appearance, reusable exports and a scoped Godot playback check. Preserve all earlier candidates. The user judges the transferred motion after delivery; the agent does not preapprove it.
+
+Method: exact pixel-art-director skill and connected-form/animation/comparison/alpha procedures. Native production through dedicated Aseprite MCP only. Python prepares grids, masks, audits and presentation packaging. Dedicated Godot MCP runs the temporary scene. No direct native-file writer, editor CLI, computer use, Code-MCP, new integration, generation, purchase, commit or publication.
+
+The native 128x264 grid and 240px rest-body height are retained provisionally. Gesture amplitudes scale with the taller main character rather than copying sample pixel counts literally. The rigid guard and hand need a connected sleeve response. No eye/blink details or independent hair sway are added.
+
+Evidence and limitations will be filled from the actual final artifacts. Still pose inspection and recorded runtime events do not establish continuous temporal perception. The environment is a neutral fixed architecture/floor test, not approved world art or a complete gameplay integration.
+
+
+## Constructed result and review
+
+Native: assets/source/stealth-fighter/idle-r02/idle.aseprite. SHA256 f4cb8fff0a460cde6845fb15bc0c5e3271259d9d38d5f3efa051e4970b2e6127. Four timeline entries, three drawings, [700,260,500,340] milliseconds, total1800ms. Nine semantic layers and36cels. Shoulder apex approximately up4/back2 native pixels; rigid head, face, neck and long hair up2/back2; near elbow, guard and hand up2/back2. Sleeve joins the more mobile shoulder to the quieter distal arm. Torso contours lean toward an unchanged waist, retaining source row widths and material sequences. This transfers motion relationships and screen-space amplitude; it does not copy sample appearance or deform the rigid guard like a cloth forearm.
+
+The first key pass exposed inner-arm/body/hip and collar alpha seams. One named attachment repair supplies source-colored backing only at listed newly exposed sites; all attempts and point inventories are retained. Lead inspection of actual native owner/hide images then caught indigo split-hem cloth mixed into the old far-hand owner. The original Current A crop confirms this is a hanging coat panel in front of the partly occluded hand.89 indigo pixels plus one disconnected trim pixel were reassigned to far-hem-fixed, above the44 connected warm/dark arm pixels. REST composite stayed exact. The panel is fixed; the moving hand can be occluded by it. Hidden far elbow remains inferred from this single view, not proven anatomy.
+
+Lead received Current A original and source/native comparison, actual initial and repaired key images at1x/3x, magenta upper-body contrast at5x, marked apex anatomy, head/near sleeve/rigid guard/far hand owner-isolated and hidden views. Final four-entry contact at2x covers rest, both neighbors and transition-to-rest return. Proportions, attachments and still continuity support continuation after correction: collar meets the neck beneath rigid hair; shoulder overlaps upper sleeve, sleeve meets exposed elbow and guard; wrist and hand retain their rigid source shape; waist, sword, legs and feet stay quiet. No double skin branches or remaining open attachment seams observed. Material review retains broad indigo/charcoal/armor value roles, understated face and source rendering density. No new eye detail, relighting or chest-width puff. Temporal relaxed-versus-shrug reading remains for the user's GIF review.
+
+Native and exported checks: source REST exact; all36nativecels match cleared keys; lower-body-fixed and sword-belt exact native source pixels; far hem exact every frame; composite rows153+ exact; head registered exact at authored offsets; palette exact source, alpha binary, zero enclosed holes; sheet and all4fresh MCP-reopen exports exact. Duplicate-only3pixel buckle edit proves useful native revision while preserving all other native pixels, metadata and palette. Lead independently repeated native/PNG/rest/protection/head/timing checks. Callable backend validate is unavailable; these are observed focused checks, not an invented validate result. Producer used GPT-6.1SolHigh; lead reviewed independently. All owned Aseprite documents closed.
+
+Raw MCP GIF has known near-black palette encoding remaps on89/91/91/91 opaque pixels, despite correct timing/alpha. Raw file preserved for diagnosis. Delivered native-size and2xGIFs use an explicit palette from exact PNGs; decoded visibleRGBA and1800ms timing match. Preview packaging does not repaint the sprite. Full native work, scripts, operations, masks, failed passes, local edit and reopen evidence are archived here.
+
+Final comparison packet SHA2561205a85feec3872b84a397365675c95c5a12a8dc8c4796b5cbc9e8921442c374. Fresh mechanical verification passed; separate lead target/regression decisions bound to this packet and final native are in lead-review/manual-review.json. Historical temporary paths in packets map to identical files archived in native-work.
+
+## Runtime evidence
+
+Dedicated GodotMCP ran /private/tmp/fighter-r02-godot-preview on Godot4.7.2.stable.official.ed1daf0bf, OpenGLCompatibility, AppleM3Pro. Target: local macOS preview,640x360viewport/1280x720window, nearest filtering. Native actor at(130,47), root/feet row300; second actor at fixed128/240scale for128pxRESTbody projection. Fixed doorway/floor/contact shadow provides environmental registration. A first scene run exposed a sample-sized contact shadow extending past the smaller fighter; background geometry alone was corrected and the scene rerun. Earlier captures are preserved in lead-review/runtime-before-shadow-alignment. Final run recorded all4frames and at least3loops,18loops by stop, finalErrors[]. Engine stopped. All four opaque native-actor RGB captures match exact exports. Final delivery PNG pixels equal the tested engine textures.
+
+Environment GIFs reconstruct real Godot pose captures at authored durations; they are not continuous video. Native close scene crop[90,35,280,326] is shown at2x; gameplay crop[405,135,565,326] shows the128pxbody projection at2x. These are presentation scales, not production grid approval. The full real engine capture is godot-context.png. Lead inspected still frames, not continuously perceived playback; event timings and pixel checks establish runtime behavior, not naturalness or complete gameplay validation.
+
+## Outcome and remaining boundary
+
+Implementation, native editability, exports, protection and scoped runtime playback pass. The transferred Current A idle is a separate candidate for human review; the user's approval of sample motion does not preapprove this main-character application. Native grid/camera/face choices remain provisional as previously recorded. No attack, production replacement, public release, install, commit or push was performed. Next owner: user reviews the main-character motion; agent owns any feedback-driven native correction. Earlier concept, main idle-r01 and all disposable samples are retained unchanged.
+
+Packaged timings.json uses frames/idle-00.png through idle-03.png; these delivered paths resolve and match the exact tested engine textures. Final hash and path verification is recorded in final-verification.json.

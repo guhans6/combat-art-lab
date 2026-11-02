@@ -1,0 +1,237 @@
+{
+  "baseline_role": "Retained initial source-derived median-cut conversions, not user-approved sprites. Candidate repairs source fidelity and alpha; four supplied designs remain separate, no winning design selected.",
+  "registration": "Per-source same128x264grid/body240/root253, no pose fitting acrossrepair. Gameplay152isfixed152/240scale. Source03/05shareexactregistration/palette.",
+  "required_frame_ids": [
+    "Look1",
+    "Look3",
+    "Look4",
+    "Look5"
+  ],
+  "allow_new_colors": true,
+  "allow_partial_alpha": false,
+  "evidence": [
+    {
+      "role": "Look1 finalnative",
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-01/static.aseprite"
+    },
+    {
+      "role": "Look1 suppliedoriginal",
+      "path": "/private/tmp/fighter-user-variants-r01/inputs/user-01.png"
+    },
+    {
+      "role": "Look1 extractionandpalette recipe",
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-01/recipe.json"
+    },
+    {
+      "role": "Look1 source-mask reference review",
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-01/source-mask-review-3x.png"
+    },
+    {
+      "role": "Look3 finalnative",
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-03/static.aseprite"
+    },
+    {
+      "role": "Look3 suppliedoriginal",
+      "path": "/private/tmp/fighter-user-variants-r01/inputs/user-03.png"
+    },
+    {
+      "role": "Look3 extractionandpalette recipe",
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-03/recipe.json"
+    },
+    {
+      "role": "Look3 source-mask reference review",
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-03/source-mask-review-3x.png"
+    },
+    {
+      "role": "Look4 finalnative",
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-04/static.aseprite"
+    },
+    {
+      "role": "Look4 suppliedoriginal",
+      "path": "/private/tmp/fighter-user-variants-r01/inputs/user-04.png"
+    },
+    {
+      "role": "Look4 extractionandpalette recipe",
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-04/recipe.json"
+    },
+    {
+      "role": "Look4 source-mask reference review",
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-04/source-mask-review-3x.png"
+    },
+    {
+      "role": "Look5 finalnative",
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-05/static.aseprite"
+    },
+    {
+      "role": "Look5 suppliedoriginal",
+      "path": "/private/tmp/fighter-user-variants-r01/inputs/user-05.png"
+    },
+    {
+      "role": "Look5 extractionandpalette recipe",
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-05/recipe.json"
+    },
+    {
+      "role": "Look5 source-mask reference review",
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-05/source-mask-review-3x.png"
+    },
+    {
+      "role": "native technical proofs",
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/checks.json"
+    },
+    {
+      "role": "independent visual/source/context review",
+      "path": "/private/tmp/fighter-user-variants-r01/review/final-static-review.md"
+    },
+    {
+      "role": "actualenginepixelcheck",
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/render-audit.json"
+    },
+    {
+      "role": "actualengine152comparisons",
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/five-looks-152.png"
+    }
+  ],
+  "frames": [
+    {
+      "id": "Look1",
+      "before": "/private/tmp/fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/raw-seed.png",
+      "after": "/private/tmp/fighter-user-variants-r01/native-work/variant-01/static.png",
+      "mask": "/private/tmp/fighter-user-variants-r01/lead-review/allowed-variant-01.png",
+      "regions": [
+        {
+          "name": "head-hair-face-armor",
+          "crop": [
+            24,
+            9,
+            100,
+            78
+          ]
+        },
+        {
+          "name": "arm-vest-waist-sword",
+          "crop": [
+            24,
+            67,
+            103,
+            155
+          ]
+        },
+        {
+          "name": "lowerbody-sash-boots",
+          "crop": [
+            24,
+            144,
+            103,
+            254
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Look3",
+      "before": "/private/tmp/fighter-user-variants-r01/native-work/variant-03/pass00-mediancut/raw-seed.png",
+      "after": "/private/tmp/fighter-user-variants-r01/native-work/variant-03/static.png",
+      "mask": "/private/tmp/fighter-user-variants-r01/lead-review/allowed-variant-03.png",
+      "regions": [
+        {
+          "name": "head-hair-face-armor",
+          "crop": [
+            24,
+            9,
+            100,
+            78
+          ]
+        },
+        {
+          "name": "arm-vest-waist-sword",
+          "crop": [
+            24,
+            67,
+            103,
+            155
+          ]
+        },
+        {
+          "name": "lowerbody-sash-boots",
+          "crop": [
+            24,
+            144,
+            103,
+            254
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Look4",
+      "before": "/private/tmp/fighter-user-variants-r01/native-work/variant-04/pass00-mediancut/raw-seed.png",
+      "after": "/private/tmp/fighter-user-variants-r01/native-work/variant-04/static.png",
+      "mask": "/private/tmp/fighter-user-variants-r01/lead-review/allowed-variant-04.png",
+      "regions": [
+        {
+          "name": "head-hair-face-armor",
+          "crop": [
+            24,
+            9,
+            100,
+            78
+          ]
+        },
+        {
+          "name": "arm-vest-waist-sword",
+          "crop": [
+            24,
+            67,
+            103,
+            155
+          ]
+        },
+        {
+          "name": "lowerbody-sash-boots",
+          "crop": [
+            24,
+            144,
+            103,
+            254
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Look5",
+      "before": "/private/tmp/fighter-user-variants-r01/native-work/variant-05/pass00-mediancut/raw-seed.png",
+      "after": "/private/tmp/fighter-user-variants-r01/native-work/variant-05/static.png",
+      "mask": "/private/tmp/fighter-user-variants-r01/lead-review/allowed-variant-05.png",
+      "regions": [
+        {
+          "name": "head-hair-face-armor",
+          "crop": [
+            24,
+            9,
+            100,
+            78
+          ]
+        },
+        {
+          "name": "arm-vest-waist-sword",
+          "crop": [
+            24,
+            67,
+            103,
+            155
+          ]
+        },
+        {
+          "name": "lowerbody-sash-boots",
+          "crop": [
+            24,
+            144,
+            103,
+            254
+          ]
+        }
+      ]
+    }
+  ],
+  "zoom": 3
+}

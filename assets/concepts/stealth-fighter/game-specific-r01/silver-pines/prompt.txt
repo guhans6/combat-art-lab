@@ -1,0 +1,17 @@
+Use case: stylized-concept.
+Generate ONE original full-body character study, a game character rendered with the specific authored shadow/value hierarchy of the supplied Silver Pines DRAWN animation references.
+
+REFERENCE ROLES STRICTLY:
+Image 1 simplified-01.png = IDENTITY AND COSTUME ONLY. Preserve its young adult lean athletic male, naturally proportioned adult body, medium-fair/brown skin, visible face with implied light stubble, long nearblack half-tied hair, muted indigo split-hem tunic, charcoal light shoulder armor, worn steel forearm guard, brown waist wrap with small rust buckle, compact one-handed sword. South Indian inspired ancient/future craftsmanship, restrained and practical. Its frontal pose, detailed face, strand lines, outlined armor, folds and orange rim lighting are explicitly NOT rendering targets.
+Image 2 silver-pines-drawn-frame.png = RENDERING ONLY.
+Image 3 silver-pines-motion-samples.png = RENDERING ONLY, specifically the two central hand-DRAWN figures. Ignore photographed man at right, gameplay scenery at left, transparency checkerboard and action poses. Never copy the reference man's hair, glasses, jacket, face, body identity or costume.
+
+PRIMARY VISUAL CHANGE: redraw the fighter in the unusually economical drawn Silver Pines treatment. Large almost-black connected shadow masses occupy most of the body; only a few flat muted light planes describe head, shoulder, forearm, tunic side and leg. Sparse selective shapes, little interior linework, quiet value contrast. Keep indigo/charcoal/steel/brown material identities visible in restrained light planes without increasing detail. Hair reads as one or two solid masses with tiny tied shape, no strand rendering. Face is small with a simple profile plane and minimal eye/nose indication, no portrait detailing, individual beard marks or explicit lip lines. Armor is a quiet block with no segmented outlines; cloth has at most a few broad value breaks, not repeated fold stripes. Crisp authored shape boundaries rather than blur, noise or pixel-filtered portrait. Naturally proportioned adult silhouette, not chibi or anime.
+
+MATCHED COMPARISON CAMERA AND POSE:
+Single full-body neutral alert standing figure facing RIGHT in TRUE SIDE PROFILE. Eye-level orthographic camera: one side of face, chest viewed edge-on, both boots point right and no tops of boots visible. Relaxed arms hang with slight silhouette gap; far limbs may be subtly offset for readability while body remains strict profile. Sword sheathed at hip, compact scabbard visible in silhouette. No action crouch, no three-quarter torso.
+
+COMPOSITION:
+Portrait 1024x1536 requested. One enlarged whole figure, fully visible head to sole, approximately 80% image height, feet baseline at 90% image height. Plain flat matte muted slate background #24282d, simple thin ground line. Soft restrained ambient light sufficient to separate silhouette, no luminous contour, no glow or orange halo. No scene objects, textures, vignette, text, montage, labels or checkerboard. The later intended comparison is a static 128px body in 640x360; this enlarged concept does not select a native pixel grid.
+
+Deliver one image only. Favor the supplied drawn Silver Pines broad nearblack massing and drastic economy over the identity anchor's crisp explicit detail. No influences from other games, magic or cyberpunk.

@@ -1,0 +1,5 @@
+# LUNARK corrected study — review pending
+
+Output is 1024 × 1536. Visual estimate: figure spans y≈152–1402 (≈81% canvas height); feet at ≈91%. A faceless right-facing head, dark tied hair, indigo cloth, charcoal legs, steel guard, rust waist and hip sword are visible. Face detail was successfully omitted and the result uses larger shapes than the first study.
+
+The requested extreme 24–32 logical-pixel economy is not established: blocks vary in size, the body uses many more distinct clusters than the gameplay figure, and hair, clothing, armor and legs remain more elaborate. It is not a coherent demonstrable native grid. Both legs remain clearly separated, the torso shows apparent frontal area and boot tops are visible; strict profile is not met. Red-brown edge accents remain, and the background appears subtly textured rather than verified flat #24282d. Sword is largely obscured. No gameplay-size test was performed. This is a generated concept, not an editable native sprite; no animation, Godot playback or human visual approval is claimed.

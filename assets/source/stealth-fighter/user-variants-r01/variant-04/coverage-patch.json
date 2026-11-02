@@ -1,0 +1,24 @@
+{
+  "source_supported_points": [
+    {
+      "layer": "head-hair-face",
+      "x": 50,
+      "y": 25,
+      "color": "#131117"
+    },
+    {
+      "layer": "head-hair-face",
+      "x": 36,
+      "y": 50,
+      "color": "#322829"
+    },
+    {
+      "layer": "lowerbody-boots",
+      "x": 63,
+      "y": 183,
+      "color": null
+    }
+  ],
+  "reason": "reviewed source hair restorations50,25/36,50; source background63,183 opens existing diagonal leggap to4connectivity without removing trouser64,184",
+  "reviewer": "independent Terra seed/final critic"
+}

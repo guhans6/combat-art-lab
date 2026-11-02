@@ -1,0 +1,23 @@
+{
+  "artifact": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/atmosphere-r01/A/raw.png",
+  "sha256": "e9c64145390d0ffe2f6eda09701c58572a91f5931fd6dfb7c73b6cb1a205c61c",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "built_in_image_calls": 2,
+  "raw_preservation": "Both raw.png and simplified-01.png are copied unchanged from their respective built-in outputs; original retained.",
+  "review": "Parent visually inspected full1024x1536 output against verified drawn SP character and Last Night mood references. Adult silhouette/half-tied hair/face visibility/light armor/hip sword/material roles readable. Face/hair/armor remain more detailed and granular than intended.",
+  "approval": "User visual feedback pending; no canonical identity or final rendering approval.",
+  "native_runtime": "No native sprite/editability, animation, game scale or Godot validation performed.",
+  "selected_working_candidate": {
+    "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/atmosphere-r01/A/simplified-01.png",
+    "sha256": "e1dcf18e72ce22b8b6c6031d0f00da91259dcbf4c2bfbb0e0c12c8d1c56b6e1e",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "prompt_record": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/atmosphere-r01/A/simplified-01.json"
+  },
+  "parent_post_edit_review": "Parent inspected actual simplified output at1024x1536. Quiet cloth/armor/background value masses improved, natural silhouette and props/hair remain legible; face/hair edge fragments and tactical waist/shoulder styling remain unresolved. Retained for human direction feedback, not final style approval."
+}

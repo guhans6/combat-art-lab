@@ -1,0 +1,38 @@
+{
+  "animation": "idle",
+  "canvas": [
+    128,
+    264
+  ],
+  "body_rest": 240,
+  "root": [
+    64,
+    253
+  ],
+  "frames": [
+    {
+      "file": "frames/idle-00.png",
+      "duration_ms": 700,
+      "key": 0
+    },
+    {
+      "file": "frames/idle-01.png",
+      "duration_ms": 260,
+      "key": 1
+    },
+    {
+      "file": "frames/idle-02.png",
+      "duration_ms": 500,
+      "key": 2
+    },
+    {
+      "file": "frames/idle-03.png",
+      "duration_ms": 340,
+      "key": 1
+    }
+  ],
+  "loop": true,
+  "filter": "nearest",
+  "duration_ms": 1800,
+  "motion_reference": "approved disposable traveler idle-r04 timings unchanged"
+}

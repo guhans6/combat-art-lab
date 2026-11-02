@@ -1,0 +1,18 @@
+[
+  {
+    "source_id": 1,
+    "native_export_equals_tested_seed_pixels": true
+  },
+  {
+    "source_id": 3,
+    "native_export_equals_tested_seed_pixels": true
+  },
+  {
+    "source_id": 4,
+    "native_export_equals_tested_seed_pixels": true
+  },
+  {
+    "source_id": 5,
+    "native_export_equals_tested_seed_pixels": true
+  }
+]

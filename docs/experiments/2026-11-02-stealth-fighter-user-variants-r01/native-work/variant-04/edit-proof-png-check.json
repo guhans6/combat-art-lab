@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "failures": [],
+  "canvas": [
+    128,
+    264
+  ],
+  "changed_pixels": 24,
+  "outside_mask_changed_pixels": 0,
+  "outside_mask_examples_xy": [],
+  "changed_bbox_half_open": [
+    40,
+    111,
+    43,
+    123
+  ],
+  "visible_colors_before": 64,
+  "visible_colors_after": 64,
+  "new_visible_rgb_colors": [],
+  "partial_alpha_pixels": 0,
+  "visible_pixels": 10060,
+  "silhouette_changed_pixels": 0,
+  "alpha_changed_pixels": 0,
+  "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+  "sha256": {
+    "before": "341b01e5bdbfb77bd796eb2e022dc49c7636442c3b7d9a144d77afb110e1266b",
+    "after": "c494097683d2fa517b1791a297afa22cc10ad577aa4e2f79eb62b765dc5b852b",
+    "mask": "1c88b1b6a2cb202de261d2fec7e872134b057c58b82d6da0b343e3fbd24e11fc"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "passed": true,
+  "native": "/private/tmp/stealth-fighter-idle-r02/delivery/idle-r02.aseprite",
+  "sha256": "f4cb8fff0a460cde6845fb15bc0c5e3271259d9d38d5f3efa051e4970b2e6127",
+  "canvas": [
+    128,
+    264
+  ],
+  "layers": [
+    "body-occlusion-backing",
+    "lower-body-fixed",
+    "upper-torso",
+    "sword-belt",
+    "far-hand",
+    "near-guard-hand",
+    "near-upper-sleeve",
+    "far-hem-fixed",
+    "head-hair-neck"
+  ],
+  "durations_ms": [
+    700,
+    260,
+    500,
+    340
+  ],
+  "rest_composite_exact": true,
+  "return_transition_exact": true,
+  "frames": [
+    {
+      "frame": 0,
+      "native_matches_png": true,
+      "lower_body_and_sword_native_exact": true,
+      "lower_composite_y153_fixed": true,
+      "head_registered_exact": true,
+      "binary_alpha": true,
+      "source_palette_only": true
+    },
+    {
+      "frame": 1,
+      "native_matches_png": true,
+      "lower_body_and_sword_native_exact": true,
+      "lower_composite_y153_fixed": true,
+      "head_registered_exact": true,
+      "binary_alpha": true,
+      "source_palette_only": true
+    },
+    {
+      "frame": 2,
+      "native_matches_png": true,
+      "lower_body_and_sword_native_exact": true,
+      "lower_composite_y153_fixed": true,
+      "head_registered_exact": true,
+      "binary_alpha": true,
+      "source_palette_only": true
+    },
+    {
+      "frame": 3,
+      "native_matches_png": true,
+      "lower_body_and_sword_native_exact": true,
+      "lower_composite_y153_fixed": true,
+      "head_registered_exact": true,
+      "binary_alpha": true,
+      "source_palette_only": true
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "passed": true,
+  "native_sha256": "a34a66c188f0f3f63fd0bb06e1ccdf1ed68c82b2f8fe0b617e42489be1313417",
+  "source_sha256": "a3cc3ab1d658ac3d2d464ef4781ed966e815c7eedeefcf5801d81ca93924ab9c",
+  "canvas": [
+    96,
+    160
+  ],
+  "native_layers": 10,
+  "native_cels": 120,
+  "frames": 12,
+  "unique_pose_drawings": 7,
+  "durations_ms": [
+    200,
+    180,
+    180,
+    200,
+    220,
+    300,
+    200,
+    220,
+    260,
+    280,
+    300,
+    260
+  ],
+  "total_ms": 2800,
+  "native_composites_match_all_MCP_PNGs": true,
+  "reopened_sheet_exact": true,
+  "palette_entries": 14,
+  "binary_alpha_frames": [
+    {
+      "frame": 0,
+      "enclosed_holes": 0,
+      "alpha_binary": true
+    },
+    {
+      "frame": 1,
+      "enclosed_holes": 0,
+      "alpha_binary": true
+    },
+    {
+      "frame": 2,
+      "enclosed_holes": 0,
+      "alpha_binary": true
+    },
+    {
+      "frame": 3,
+      "enclosed_holes": 0,
+      "alpha_binary": true
+    },
+    {
+      "frame": 4,
+      "enclosed_holes": 0,
+      "alpha_binary": true
+    },
+    {
+      "frame": 5,
+      "enclosed_holes": 0,
+      "alpha_binary": true
+    },
+    {
+      "frame": 6,
+      "enclosed_holes": 0,
+      "alpha_binary": true
+    },
+    {
+      "frame": 7,
+      "enclosed_holes": 0,
+      "alpha_binary": true
+    },
+    {
+      "frame": 8,
+      "enclosed_holes": 0,
+      "alpha_binary": true
+    },
+    {
+      "frame": 9,
+      "enclosed_holes": 0,
+      "alpha_binary": true
+    },
+    {
+      "frame": 10,
+      "enclosed_holes": 0,
+      "alpha_binary": true
+    },
+    {
+      "frame": 11,
+      "enclosed_holes": 0,
+      "alpha_binary": true
+    }
+  ],
+  "fixed_native_owners": {
+    "far-leg-boot": true,
+    "near-leg-boot": true,
+    "pelvis-root": true,
+    "coat-back-skirt": true
+  },
+  "fixed_composite_y102plus": true,
+  "rigid_head_face_arms_collar_exact_registered": true,
+  "solid_core_chest_all_frames": true,
+  "hidden_backing_overlap_pixels": {
+    "neck-collar": [
+      35,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35
+    ],
+    "thorax-coat": [
+      535,
+      536,
+      545,
+      547,
+      572,
+      580,
+      572,
+      572,
+      547,
+      545,
+      536,
+      535
+    ],
+    "near-upper-sleeve": [
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45
+    ],
+    "far-sleeve-hand": [
+      261,
+      275,
+      281,
+      295,
+      300,
+      309,
+      304,
+      300,
+      295,
+      281,
+      275,
+      261
+    ]
+  },
+  "local_edit": {
+    "changed": [
+      {
+        "frame": 1,
+        "layer": "thorax-coat",
+        "pixels": [
+          [
+            47,
+            75
+          ],
+          [
+            47,
+            76
+          ],
+          [
+            47,
+            77
+          ]
+        ]
+      }
+    ],
+    "all_other_native_pixels_metadata_geometry_palette_timing_exact": true,
+    "alpha_unchanged": true,
+    "reopened_export_exact": true
+  },
+  "raw_mcp_gif": {
+    "durations_and_alpha_exact": true,
+    "opaque_rgb_differences_per_frame": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "exact_RGB": true,
+    "retained_as_raw": true
+  },
+  "limits": [
+    "Producer inspected stillfilmstrip only, continuous naturalness not established",
+    "Lead owns Godot and exactpalette GIF packaging",
+    "User artistic approval pending",
+    "Original proxy not final fighter identity or design direction",
+    "No callable validate tool despite advertised capability; independent native and PNG checks substitute honestly",
+    "No repository/Git edits or installation/publication"
+  ]
+}

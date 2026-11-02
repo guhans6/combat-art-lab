@@ -1,0 +1,22 @@
+{
+  "candidate": "C",
+  "tool": "built-in image_gen",
+  "use_case": "identity-preserve",
+  "output": {
+    "path": "assets/concepts/stealth-fighter/hair-r02/C/raw.png",
+    "source_path": "/Users/guhan/.codex/generated_images/01a1976a-5729-71e0-9a79-a3ef7255a0fa/exec-35e06d18-bf6d-42ef-906e-123f670ecaff.png",
+    "sha256": "748e085c986b1df8d8ca70d6c8013fe9a6962f5050ea166b0ba66232fd4d8022",
+    "dimensions_px": [1024, 1536],
+    "transparent_background_requested": false,
+    "raw_copy": "Unmodified byte-for-byte copy of the built-in tool output."
+  },
+  "inputs": [
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/hair-r02/A/raw.png",
+      "role": "sole edit target / provisional pixel-style hair baseline",
+      "sha256": "f185e74a4b76b0e823d98a6ea2f315506acc898d62e929bdf657ece511f341bc",
+      "usage": "Hair-only edit; do not use A/repair-01.png."
+    }
+  ],
+  "prompt": "Use case: identity-preserve\\nAsset type: gameplay-sprite hair comparison candidate C\\nInput image: the supplied PNG is the sole edit target and the accepted provisional pixel-art baseline.\\nPrimary request: Edit ONLY the character's hair. Convert the existing low nape ponytail into fully loose, long near-black hair swept back off the face and falling to the upper back. No tied section, no bun, and no ponytail. Preserve the same near-black hair color family, long-hair length family, existing exposed hairline, and fully visible face.\\nStyle/medium: Maintain EXACTLY the source image's coarse uniform square pixel grid and its small 2D beat-em-up gameplay-sprite construction. Use only 4–6 simple broad graphic locks, large consistent square pixel steps, and broad flat shadow/highlight clusters. Absolutely no fine individual hair strands, painterly texture, realistic rendering, smoothing, or pixel-filter effect.\\nComposition/framing: Preserve the exact 1024x1536 portrait canvas, centered full body framing, standing pose, and visible feet.\\nConstraints: Change hair only. Preserve every other pixel-level design choice from the target: actual body proportions, stance, indigo/charcoal/steel/rust outfit, chest plate, bracer, sheathed sword, boots, face expression, skin, lighting, opaque light-neutral background, and canvas framing. Keep the existing base-image vignette exactly unchanged. Do not introduce alpha/transparency. Do not redraw or restyle any non-hair area.\\nAvoid: ponytail, tied hair, bun, fine strands, hair over the face, altered facial features, altered clothing, altered weapon, altered pose, altered background, new objects, text, UI, additional figures."
+}

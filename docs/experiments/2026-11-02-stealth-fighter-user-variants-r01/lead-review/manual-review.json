@@ -1,0 +1,30 @@
+{
+  "packet_sha256": "3de21da5170e735e8fc70d4720472dc2a33ffdad18faca499f094772054c4b9e",
+  "native_sha256": {
+    "1": "6edf22ccca5e5ecc53caaa55f577b201d829153ff8430e391a9be13d44b7c002",
+    "3": "7cf57a3fe73afc2b9531c6c8ec3ead8ae030b664a4dd0f078ef9ba7e03879a26",
+    "4": "bbbffc7131e79e7e129375fea984a59f41fb666be42e00e4bd36b7547f6ebf29",
+    "5": "4a361b5f7b994b5a8c58a0df0aa70441bf331a3b27c2d08d4c4dc7a5449343b6"
+  },
+  "reviewer": "Lead, separate from native producer; critical evidence by fresh-context GPT-6.1TerraMAX",
+  "critical_review_sha256": "6a1da4a0d455f9de27456946e4b22b32e83a5e7723b4a751f87f0b7e99e40ebb",
+  "ownership_audit_sha256": "d59f18b26f0d2da18204566ab7a6b972cd9013dccdd88db06b33230e95c81bc6",
+  "target_improvement": {
+    "decision": "continue as four supplied-source static comparison candidates",
+    "observations": "Source medoid palette retains armor/skin/cloth distinctions more faithfully than the initial median-cut trial. Source-backed mask repair restores hair/collar pixels and removes dark matte bands. Source-specific face marks, folds, belt, sword and pauldron extents remain visible at the fixed152px display. CurrentA baseline preserved; no final look selected."
+  },
+  "regressions": {
+    "decision": "continue after source-backed alpha and native-ownership corrections",
+    "observations": "All four static exports match repaired seeds and reopened native composites; no conspicuous source-background rectangles in actualGodotmattes/context. Terra compared ownsource/fullface/native/owner and actualgameimages; U04 final3coveragepixels sourcechecked. U03/U05 preserve all nonshoulder pixels, sharedpalette and154finalshoulderdifferences exclusivelyon torsoarmorowner. Head/arm/waist/sword/sash/boots remain attached in the static pose, all sources grounded equally. Native parts represent visible surfaces only; future animation/hidden surfaces unproved."
+  },
+  "viewed": [
+    "initial4source/seed1x152and3xboards",
+    "actual final5lookGodotcropboard",
+    "actual armor-pair Godotfullscene",
+    "packet Look3head/shoulder source-repairdiff",
+    "packet Look4lowerbody source-repairdiff",
+    "independent finalsource/native/ownership/Godot review"
+  ],
+  "runtime": "Godot4.7.2 actual14input/statechecks pass; all5native1xopaqueRGBexact, all152unambiguoussamplesexact; commonheight152/bottom557. No continuousmodelmotionclaim; allstatic.",
+  "user_approval": "Pending choice between supplied variants; request authorizes comparison only."
+}

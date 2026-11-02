@@ -1,0 +1,17 @@
+{
+  "face_sheet": {
+    "source_images": [
+      "face-soft-corrected/raw.png",
+      "face-firm-corrected/raw.png"
+    ],
+    "framing": "entire source image fitted same488x456 box; small hair/head framing drift"
+  },
+  "views_sheet": {
+    "source_images": [
+      "side-corrected/cutout.png",
+      "shallow-corrected/cutout.png"
+    ],
+    "framing": "same full image fit488x740; not alpha normalized"
+  },
+  "operation": "SVG comparison layout embedding unchanged source bitmaps; Quick Look render then centered padding crop; no art pixel corrections"
+}

@@ -1,0 +1,15 @@
+{
+  "source": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/game-specific-r01/silver-pines/corrected.png",
+  "sha256": "a3cc3ab1d658ac3d2d464ef4781ed966e815c7eedeefcf5801d81ca93924ab9c",
+  "crop_xyxy": [
+    330,
+    75,
+    650,
+    395
+  ],
+  "crop_size": [
+    320,
+    320
+  ],
+  "role": "same chosen A identity and rendering; head/shoulders crop only; not new native grid"
+}

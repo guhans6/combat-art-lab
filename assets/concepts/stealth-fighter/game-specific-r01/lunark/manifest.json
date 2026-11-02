@@ -1,0 +1,47 @@
+{
+  "prompt": "Use case: stylized-concept\nAsset type: one original character rendering study for a later side-view game.\nInput image 1 is identity reference ONLY: preserve the original stealth fighter's broad silhouette, long half-tied dark hair, outfit and material color roles. Input image 2 is LUNARK gameplay, rendering reference ONLY: observe the extraordinarily sparse coarse pixel clusters and simple slabs of shadow and color in the small humanoid figure. Do not copy its character, red clothing, short hair, setting or scenery.\nCreate a single full-body upright neutral-alert original male fighter in his twenties, lean athletic naturally proportioned, facing RIGHT in a TRUE side profile. Eye-level orthographic view: no frontal chest, no visible tops of boots. Arms relaxed with a small silhouette gap; compact one-handed sword sheathed at hip.\nHis medium-fair to brown skin and visible face are indicated by only a few broad pixels; eye and stubble may be omitted. Long dark half-tied hair is one simple mass. Keep the identity reference's muted indigo split-hem cloth, charcoal light shoulder armor, steel forearm guard, brown waist wrap with small rust buckle, and dark trousers. Subtle South Indian ancient/medieval influence with restrained futurecraft; no magic or cyberpunk.\nRendering: severe LUNARK gameplay-like economy in the figure, not detailed illustration: a few large, crisp deliberate pixel clusters and simple shadow/color slabs, long limbs, few skin pixels, NO interior outlines. Omit hair strands, fold lines, armor seams and facial linework. Do not invent hidden armor or elaborate costume parts. Concept should be coarse enough to support a later omission/readability test at 128-pixel body height in a 640x360 viewport; this is not a native pixel grid.\nComposition: one figure, portrait 1024x1536 requested, body about 80% of image height, feet at 90% baseline. Plain matte slate #24282d background with a simple ground line. No objects except the sheathed sword, no glow or rim halo, checkerboard, text, montage, environment, or border.",
+  "tool": "built-in image_gen",
+  "original_generated_path": "/Users/guhan/.codex/generated_images/01a19862-ead8-79c3-bcd3-9e25b8db94b3/exec-94bc83d9-8673-4f6e-9c61-f4cb941ee0a7.png",
+  "raw_output": {
+    "path": "/private/tmp/game-specific-lunark/raw.png",
+    "sha256": "e0496a62d15b00ea444039d04f355ed180f17060c3045503fe604952d3ff7005",
+    "dimensions": [
+      1024,
+      1536
+    ]
+  },
+  "requested_dimensions": [
+    1024,
+    1536
+  ],
+  "references": [
+    {
+      "role": "identity only",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/atmosphere-r01/A/simplified-01.png",
+      "sha256": "e1dcf18e72ce22b8b6c6031d0f00da91259dcbf4c2bfbb0e0c12c8d1c56b6e1e",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "role": "rendering only; nearest-neighbor 6x crop of (830,510,945,715)",
+      "path": "/private/tmp/game-specific-lunark/lunark-gameplay-crop.png",
+      "sha256": "8feb03330ff4d3668e8d2d7abae09afaf9db6358776afa1682576ca1c160acbc",
+      "dimensions": [
+        690,
+        1230
+      ],
+      "source_screenshot": {
+        "path": "/private/tmp/game-specific-research/lunark.png",
+        "sha256": "e6430df5148cd19b05221a0e8a8605dc64dc1066db35fb8dfe6bacd41a4f167c",
+        "dimensions": [
+          1920,
+          1080
+        ]
+      },
+      "publisher_page": "https://wayforward.com/games/lunark",
+      "source_url": "https://a.storyblok.com/f/235455/3840x2160/18b6d5a8b1/screenshots_lunark-lvl01_01.png/m/fit-in/1920x1600/filters:quality(100)"
+    }
+  ]
+}

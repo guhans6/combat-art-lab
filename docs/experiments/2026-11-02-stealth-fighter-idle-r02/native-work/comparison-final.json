@@ -1,0 +1,227 @@
+{
+  "baseline_role": "main r01 REST retained appearance; r01 transition/apex diagnostic rejected as too subtle, no approval inherited",
+  "registration": "same128x264 grid/root; source240px body; no fitting. Native REST exact. Traveler r04 motion-only transfer scaled by body ratio240/137, rigid main equipment adapted.",
+  "required_frame_ids": [
+    "F0",
+    "F1",
+    "F2",
+    "F3"
+  ],
+  "zoom": 4,
+  "evidence": [
+    {
+      "role": "native/export protection readback",
+      "path": "keys/native-checks.json"
+    },
+    {
+      "role": "alpha and actual landmarks",
+      "path": "keys/checks.json"
+    },
+    {
+      "role": "CurrentA original identity",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/game-specific-r01/silver-pines/corrected.png"
+    },
+    {
+      "role": "approved traveler motion only",
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/keys-3x.png"
+    },
+    {
+      "role": "contrasting native poses",
+      "path": "keys/upper-contrast-5x.png"
+    },
+    {
+      "role": "actual native owner-hide head-hair-neck",
+      "path": "keys/ownership-head-hair-neck-5x.png"
+    },
+    {
+      "role": "actual native owner-hide upper-torso",
+      "path": "keys/ownership-upper-torso-5x.png"
+    },
+    {
+      "role": "actual native owner-hide near-upper-sleeve",
+      "path": "keys/ownership-near-upper-sleeve-5x.png"
+    },
+    {
+      "role": "actual native owner-hide near-guard-hand",
+      "path": "keys/ownership-near-guard-hand-5x.png"
+    },
+    {
+      "role": "actual native owner-hide far-hand",
+      "path": "keys/ownership-far-hand-5x.png"
+    },
+    {
+      "role": "fixed hem owner K0",
+      "path": "keys/f0-owner-far-hem-fixed.png"
+    },
+    {
+      "role": "fixed hem owner K1",
+      "path": "keys/f1-owner-far-hem-fixed.png"
+    },
+    {
+      "role": "fixed hem owner K2",
+      "path": "keys/f2-owner-far-hem-fixed.png"
+    },
+    {
+      "role": "final candidate native",
+      "path": "delivery/idle-r02.aseprite"
+    },
+    {
+      "role": "final native/export/reopen/edit protection readback",
+      "path": "delivery/checks.json"
+    },
+    {
+      "role": "actual final cycle and timing",
+      "path": "delivery/contact-3x.png"
+    },
+    {
+      "role": "actual final return neighbors",
+      "path": "delivery/loop-seam-3x.png"
+    },
+    {
+      "role": "useful duplicate-only local edit",
+      "path": "delivery/edit-proof/comparison-12x.png"
+    }
+  ],
+  "frames": [
+    {
+      "id": "F0",
+      "before": "inputs/before-0.png",
+      "after": "delivery/idle-0.png",
+      "mask": "editable-upper-frozen.png",
+      "regions": [
+        {
+          "name": "head-hair-neck",
+          "crop": [
+            24,
+            9,
+            80,
+            58
+          ]
+        },
+        {
+          "name": "shoulder-collar-sleeve-elbow",
+          "crop": [
+            24,
+            40,
+            81,
+            110
+          ]
+        },
+        {
+          "name": "guard-hand-waist-fararm-hem",
+          "crop": [
+            24,
+            90,
+            92,
+            153
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F1",
+      "before": "inputs/before-1.png",
+      "after": "delivery/idle-1.png",
+      "mask": "editable-upper-frozen.png",
+      "regions": [
+        {
+          "name": "head-hair-neck",
+          "crop": [
+            24,
+            9,
+            80,
+            58
+          ]
+        },
+        {
+          "name": "shoulder-collar-sleeve-elbow",
+          "crop": [
+            24,
+            40,
+            81,
+            110
+          ]
+        },
+        {
+          "name": "guard-hand-waist-fararm-hem",
+          "crop": [
+            24,
+            90,
+            92,
+            153
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F2",
+      "before": "inputs/before-2.png",
+      "after": "delivery/idle-2.png",
+      "mask": "editable-upper-frozen.png",
+      "regions": [
+        {
+          "name": "head-hair-neck",
+          "crop": [
+            24,
+            9,
+            80,
+            58
+          ]
+        },
+        {
+          "name": "shoulder-collar-sleeve-elbow",
+          "crop": [
+            24,
+            40,
+            81,
+            110
+          ]
+        },
+        {
+          "name": "guard-hand-waist-fararm-hem",
+          "crop": [
+            24,
+            90,
+            92,
+            153
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F3",
+      "before": "inputs/before-1.png",
+      "after": "delivery/idle-3.png",
+      "mask": "editable-upper-frozen.png",
+      "regions": [
+        {
+          "name": "head-hair-neck",
+          "crop": [
+            24,
+            9,
+            80,
+            58
+          ]
+        },
+        {
+          "name": "shoulder-collar-sleeve-elbow",
+          "crop": [
+            24,
+            40,
+            81,
+            110
+          ]
+        },
+        {
+          "name": "guard-hand-waist-fararm-hem",
+          "crop": [
+            24,
+            90,
+            92,
+            153
+          ]
+        }
+      ]
+    }
+  ]
+}

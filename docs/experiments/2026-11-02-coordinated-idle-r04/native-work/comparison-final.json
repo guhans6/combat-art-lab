@@ -1,0 +1,735 @@
+{
+  "baseline_role": "retained exact r03REST appearance; rejected r03movingpants not an appearance baseline; disposable test identity",
+  "registration": "same96x160 grid/root, fixedREST lowerowners; no per-frame fitting",
+  "required_frame_ids": [
+    "F0",
+    "F1",
+    "F2",
+    "F3"
+  ],
+  "evidence": [
+    {
+      "role": "candidate native",
+      "path": "delivery/relaxed-idle-r04.aseprite"
+    },
+    {
+      "role": "original native unchanged",
+      "path": "baseline-r03.aseprite"
+    },
+    {
+      "role": "reviewed structural key native",
+      "path": "keys/connected-keys.aseprite"
+    },
+    {
+      "role": "native/export/protection/reopen/localedit checks",
+      "path": "delivery/checks.json"
+    },
+    {
+      "role": "allframe alpha",
+      "path": "delivery/alpha-checks.json"
+    },
+    {
+      "role": "timing",
+      "path": "delivery/timings.json"
+    },
+    {
+      "role": "body sites",
+      "path": "delivery/body-joints.json"
+    },
+    {
+      "role": "wrist/forearm exact correspondence",
+      "path": "keys/wrist-registered-proof.json"
+    },
+    {
+      "role": "frozen drawing inputs",
+      "path": "key-ops.json"
+    },
+    {
+      "role": "native operations provenance",
+      "path": "native-operations.json"
+    },
+    {
+      "role": "scope and final evidence boundary",
+      "path": "final-observations.md"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/hide-coat-back-skirt-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/hide-far-boot-cuff-fixed-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/hide-far-leg-pants-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/hide-far-sleeve-hand-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/hide-head-hair-face-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/hide-near-boot-cuff-fixed-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/hide-near-forearm-hand-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/hide-near-leg-pants-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/hide-near-upper-sleeve-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/hide-neck-collar-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/hide-pelvis-root-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/hide-thorax-coat-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/loop-seam-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/neighbor-keys-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/owner-coat-back-skirt-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/owner-far-boot-cuff-fixed-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/owner-far-leg-pants-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/owner-far-sleeve-hand-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/owner-head-hair-face-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/owner-near-boot-cuff-fixed-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/owner-near-forearm-hand-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/owner-near-leg-pants-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/owner-near-upper-sleeve-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/owner-neck-collar-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/owner-pelvis-root-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "delivery/structure/owner-thorax-coat-3x.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "reference-evidence/hero-2-contact.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "reference-evidence/hero2-1-contact.png"
+    },
+    {
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "path": "reference-evidence/saint11-contact.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-hide-coat-back-skirt.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-hide-far-boot-cuff-fixed.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-hide-far-leg-pants.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-hide-far-sleeve-hand.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-hide-head-hair-face.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-hide-near-boot-cuff-fixed.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-hide-near-forearm-hand.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-hide-near-leg-pants.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-hide-near-upper-sleeve.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-hide-neck-collar.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-hide-pelvis-root.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-hide-thorax-coat.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-landmarks.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-owner-coat-back-skirt.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-owner-far-boot-cuff-fixed.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-owner-far-leg-pants.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-owner-far-sleeve-hand.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-owner-head-hair-face.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-owner-near-boot-cuff-fixed.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-owner-near-forearm-hand.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-owner-near-leg-pants.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-owner-near-upper-sleeve.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-owner-neck-collar.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-owner-pelvis-root.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f0-owner-thorax-coat.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-hide-coat-back-skirt.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-hide-far-boot-cuff-fixed.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-hide-far-leg-pants.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-hide-far-sleeve-hand.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-hide-head-hair-face.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-hide-near-boot-cuff-fixed.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-hide-near-forearm-hand.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-hide-near-leg-pants.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-hide-near-upper-sleeve.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-hide-neck-collar.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-hide-pelvis-root.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-hide-thorax-coat.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-landmarks.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-owner-coat-back-skirt.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-owner-far-boot-cuff-fixed.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-owner-far-leg-pants.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-owner-far-sleeve-hand.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-owner-head-hair-face.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-owner-near-boot-cuff-fixed.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-owner-near-forearm-hand.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-owner-near-leg-pants.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-owner-near-upper-sleeve.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-owner-neck-collar.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-owner-pelvis-root.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f1-owner-thorax-coat.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-hide-coat-back-skirt.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-hide-far-boot-cuff-fixed.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-hide-far-leg-pants.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-hide-far-sleeve-hand.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-hide-head-hair-face.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-hide-near-boot-cuff-fixed.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-hide-near-forearm-hand.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-hide-near-leg-pants.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-hide-near-upper-sleeve.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-hide-neck-collar.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-hide-pelvis-root.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-hide-thorax-coat.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-landmarks.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-owner-coat-back-skirt.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-owner-far-boot-cuff-fixed.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-owner-far-leg-pants.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-owner-far-sleeve-hand.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-owner-head-hair-face.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-owner-near-boot-cuff-fixed.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-owner-near-forearm-hand.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-owner-near-leg-pants.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-owner-near-upper-sleeve.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-owner-neck-collar.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-owner-pelvis-root.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/f2-owner-thorax-coat.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/hide-far-sleeve-hand-3x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/hide-head-hair-face-3x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/hide-near-forearm-hand-3x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/hide-near-upper-sleeve-3x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/hide-neck-collar-3x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/hide-thorax-coat-3x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/key-0.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/key-1.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/key-2.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/keys-1x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/keys-3x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/landmarks-3x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/lower-owners-3x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/upper-owners-3x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/wrist-K0-clean-10x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/wrist-K0-owner-10x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/wrist-K0-skin-10x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/wrist-K1-clean-10x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/wrist-K1-owner-10x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/wrist-K1-skin-10x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/wrist-K2-clean-10x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/wrist-K2-owner-10x.png"
+    },
+    {
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "path": "keys/wrist-K2-skin-10x.png"
+    },
+    {
+      "role": "actual delivered frame/reopen/editproof evidence",
+      "path": "delivery/contact-1x.png"
+    },
+    {
+      "role": "actual delivered frame/reopen/editproof evidence",
+      "path": "delivery/contact-3x.png"
+    },
+    {
+      "role": "actual delivered frame/reopen/editproof evidence",
+      "path": "delivery/edit-proof.png"
+    },
+    {
+      "role": "actual delivered frame/reopen/editproof evidence",
+      "path": "delivery/edit-proof-reopened.png"
+    },
+    {
+      "role": "actual delivered frame/reopen/editproof evidence",
+      "path": "delivery/edit-proof-comparison-8x.png"
+    },
+    {
+      "role": "actual delivered frame/reopen/editproof evidence",
+      "path": "delivery/idle-sheet.png"
+    },
+    {
+      "role": "actual delivered frame/reopen/editproof evidence",
+      "path": "delivery/reopened-sheet.png"
+    }
+  ],
+  "frames": [
+    {
+      "id": "F0",
+      "before": "source-rest.png",
+      "after": "delivery/idle-0.png",
+      "mask": "editable-upper-frozen.png",
+      "regions": [
+        {
+          "name": "skull-collar-shoulder",
+          "crop": [
+            28,
+            6,
+            66,
+            49
+          ]
+        },
+        {
+          "name": "torso-sleeve-elbow",
+          "crop": [
+            28,
+            35,
+            66,
+            70
+          ]
+        },
+        {
+          "name": "forearm-wrist-waist-skirt",
+          "crop": [
+            28,
+            58,
+            66,
+            97
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F1",
+      "before": "source-rest.png",
+      "after": "delivery/idle-1.png",
+      "mask": "editable-upper-frozen.png",
+      "regions": [
+        {
+          "name": "skull-collar-shoulder",
+          "crop": [
+            28,
+            6,
+            66,
+            49
+          ]
+        },
+        {
+          "name": "torso-sleeve-elbow",
+          "crop": [
+            28,
+            35,
+            66,
+            70
+          ]
+        },
+        {
+          "name": "forearm-wrist-waist-skirt",
+          "crop": [
+            28,
+            58,
+            66,
+            97
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F2",
+      "before": "source-rest.png",
+      "after": "delivery/idle-2.png",
+      "mask": "editable-upper-frozen.png",
+      "regions": [
+        {
+          "name": "skull-collar-shoulder",
+          "crop": [
+            28,
+            6,
+            66,
+            49
+          ]
+        },
+        {
+          "name": "torso-sleeve-elbow",
+          "crop": [
+            28,
+            35,
+            66,
+            70
+          ]
+        },
+        {
+          "name": "forearm-wrist-waist-skirt",
+          "crop": [
+            28,
+            58,
+            66,
+            97
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F3",
+      "before": "source-rest.png",
+      "after": "delivery/idle-3.png",
+      "mask": "editable-upper-frozen.png",
+      "regions": [
+        {
+          "name": "skull-collar-shoulder",
+          "crop": [
+            28,
+            6,
+            66,
+            49
+          ]
+        },
+        {
+          "name": "torso-sleeve-elbow",
+          "crop": [
+            28,
+            35,
+            66,
+            70
+          ]
+        },
+        {
+          "name": "forearm-wrist-waist-skirt",
+          "crop": [
+            28,
+            58,
+            66,
+            97
+          ]
+        }
+      ]
+    }
+  ],
+  "zoom": 4
+}

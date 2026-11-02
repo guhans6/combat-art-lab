@@ -1,0 +1,28 @@
+{
+  "prompt": "Create ONE isolated head and upper-neck concept study of the SAME character in the attached reference. Reference role: identity, hair, collar, palette, lighting, original right-facing shallow three-quarter face angle, and pixel-cluster style. The single controlled exploration is a SOFTER JAW: a calm, observant, neutral young brown-skinned man in his early to mid twenties, lean cheeks, slightly softer jaw tip, relaxed straight brow, light stubble. Preserve his long dark HALF-TIED hair, loose fringe, dark navy collar and colors; no new accessories, hair design, costume, expression or smile. Frame the head and upper neck only, facing RIGHT at the same shallow three-quarter angle as the original. Render deliberately MUCH LOWER facial detail than a portrait: visually equivalent to a face about 45 pixels tall, enlarged as clear, substantial pixel clusters; simple broad shadow planes and sparse eye, nose and mouth marks. No realistic or anime beauty portrait, no pores, eyelashes or high-resolution hair strands. Preserve restrained warm edge light only ON the character and cool shadows. Transparent background, with absolutely no halo, glow, smoke, scenery, or stray pixels outside the character. One image, no text, no border.",
+  "reference": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/atmosphere-r01/A/simplified-01.png",
+  "reference_role": "identity, hair, collar, palette, lighting, original angle, and pixel-cluster style",
+  "reference_sha256": "e1dcf18e72ce22b8b6c6031d0f00da91259dcbf4c2bfbb0e0c12c8d1c56b6e1e",
+  "transparent_background_requested": true,
+  "returned_output_path": "/Users/guhan/.codex/generated_images/01a197f6-3163-7a60-a1d9-4281a2368c4e/exec-58ec3390-d662-411b-91ee-c3853115d5d9.png",
+  "raw_sha256": "0bd01d5280d73e1bf344f785c800270a85d336ae4d04c3e802c822b0dd4735a4",
+  "dimensions": [
+    1312,
+    1199
+  ],
+  "mode": "RGBA",
+  "alpha": {
+    "min": 0,
+    "max": 255,
+    "transparent_pixels": 784206,
+    "partially_transparent_pixels": 787987,
+    "opaque_pixels": 895,
+    "nonzero_bbox": [
+      0,
+      33,
+      1272,
+      1181
+    ]
+  },
+  "review": "Retains right-facing brown-skinned character, dark half-tied hair and collar, with neutral expression. Jaw remains angular, and face, stubble and hair render substantially more detailed than the requested ~45-pixel visual simplicity. Warm edge is very strong along hair, and the result reads as a portrait; it is not a validated gameplay asset. User visual selection pending."
+}

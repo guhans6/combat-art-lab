@@ -1,0 +1,38 @@
+{
+  "frames": 5,
+  "canvas": [
+    128,
+    264
+  ],
+  "period_ms": 3000,
+  "first_equals_last": true,
+  "lower_y153_exact": true,
+  "native_exact_gif": [
+    {
+      "frame": 0,
+      "visible_rgb_alpha_mismatches": 0,
+      "duration_ms": 850
+    },
+    {
+      "frame": 1,
+      "visible_rgb_alpha_mismatches": 0,
+      "duration_ms": 450
+    },
+    {
+      "frame": 2,
+      "visible_rgb_alpha_mismatches": 0,
+      "duration_ms": 500
+    },
+    {
+      "frame": 3,
+      "visible_rgb_alpha_mismatches": 0,
+      "duration_ms": 650
+    },
+    {
+      "frame": 4,
+      "visible_rgb_alpha_mismatches": 0,
+      "duration_ms": 550
+    }
+  ],
+  "presentation": "2x nearest, opaque slate matte, explicit palette, no art edits; raw MCP GIFs retain recorded tiny RGB remap"
+}

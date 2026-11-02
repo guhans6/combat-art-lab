@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "failures": [],
+  "canvas": [
+    128,
+    264
+  ],
+  "region_half_open": [
+    0,
+    0,
+    128,
+    264
+  ],
+  "hole_components_xy": [],
+  "hole_pixels_xy": [],
+  "missing_solid_pixels_xy": [],
+  "boundary": "Alpha coverage only; intentional gaps require visual review."
+}

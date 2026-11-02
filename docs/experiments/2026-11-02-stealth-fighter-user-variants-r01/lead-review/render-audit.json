@@ -1,0 +1,63 @@
+{
+  "passed": true,
+  "ui_checks": 14,
+  "static": true,
+  "native_hashes": {
+    "1": "6edf22ccca5e5ecc53caaa55f577b201d829153ff8430e391a9be13d44b7c002",
+    "3": "7cf57a3fe73afc2b9531c6c8ec3ead8ae030b664a4dd0f078ef9ba7e03879a26",
+    "4": "bbbffc7131e79e7e129375fea984a59f41fb666be42e00e4bd36b7547f6ebf29",
+    "5": "4a361b5f7b994b5a8c58a0df0aa70441bf331a3b27c2d08d4c4dc7a5449343b6"
+  },
+  "frames": [
+    {
+      "source_id": 0,
+      "native_render_opaque_rgb_mismatches": 0,
+      "projection152_unambiguous_samples": 3575,
+      "projection152_mismatches": 0,
+      "drawn_height": 152,
+      "bottom_row": 557
+    },
+    {
+      "source_id": 1,
+      "native_render_opaque_rgb_mismatches": 0,
+      "projection152_unambiguous_samples": 3766,
+      "projection152_mismatches": 0,
+      "drawn_height": 152,
+      "bottom_row": 557
+    },
+    {
+      "source_id": 3,
+      "native_render_opaque_rgb_mismatches": 0,
+      "projection152_unambiguous_samples": 3622,
+      "projection152_mismatches": 0,
+      "drawn_height": 152,
+      "bottom_row": 557
+    },
+    {
+      "source_id": 4,
+      "native_render_opaque_rgb_mismatches": 0,
+      "projection152_unambiguous_samples": 3609,
+      "projection152_mismatches": 0,
+      "drawn_height": 152,
+      "bottom_row": 557
+    },
+    {
+      "source_id": 5,
+      "native_render_opaque_rgb_mismatches": 0,
+      "projection152_unambiguous_samples": 3622,
+      "projection152_mismatches": 0,
+      "drawn_height": 152,
+      "bottom_row": 557
+    }
+  ],
+  "shared03_05_changed_pixels": 154,
+  "shared03_05_changes_only_shoulder": true,
+  "projection_limit": "Exact texel-boundary ties excluded from fractional152/240 color oracle; native1xstrict.",
+  "preview_crop": [
+    540,
+    392,
+    740,
+    582
+  ],
+  "preview_pixel_edits": false
+}

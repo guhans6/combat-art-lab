@@ -1,0 +1,80 @@
+[
+  {
+    "file": "replaced-motion-1.gif",
+    "source_page": "https://store.steampowered.com/news/posts/?enddate=1695051066&feed=steam_community_announcements",
+    "image_url": "https://clan.fastly.steamstatic.com/images/40722845/10eaa89016e907dc9a8fe0bceeca1abc5b40220a.gif",
+    "role": "REPLACED official18Sep2023 animation blog; character combat in a wide dark room, not an isolated sprite.",
+    "dimensions": [
+      540,
+      304
+    ],
+    "sha256": "0d66d960030bc5c685d0702a728b6e50eb9f835accbb180f7a5ee84948245ae3",
+    "inspected": "2026-11-01",
+    "rights": "Published first-party reference media; not project production art."
+  },
+  {
+    "file": "replaced-motion-2.gif",
+    "source_page": "https://store.steampowered.com/news/posts/?enddate=1695051066&feed=steam_community_announcements",
+    "image_url": "https://clan.fastly.steamstatic.com/images/40722845/86ab1dd74603e43bd7111f33920f7624a516aac4.gif",
+    "role": "Second official combat example; wide presentation-scale view, no verified face detail.",
+    "dimensions": [
+      540,
+      304
+    ],
+    "sha256": "211cd2486efdfcfbcaed1c57a14f0df083d47aed88d6a65c52ac5019ba8510d8",
+    "inspected": "2026-11-01",
+    "rights": "Published first-party reference media; not project production art."
+  },
+  {
+    "file": "rain-world-animation-1.gif",
+    "source_page": "https://www.rainworldgame.com/",
+    "image_url": "https://www.rainworldgame.com/images/anims/1.gif",
+    "role": "Official Animation section; slugcat and predator body language in context, not a source sheet.",
+    "dimensions": [
+      600,
+      380
+    ],
+    "sha256": "b09126c53deff3eb38ab62f126932f5ddf37a799a83307c12234c09267b07c96",
+    "inspected": "2026-11-01",
+    "rights": "Published first-party reference media; not project production art."
+  },
+  {
+    "file": "rain-world-animation-3.gif",
+    "source_page": "https://www.rainworldgame.com/",
+    "image_url": "https://www.rainworldgame.com/images/anims/3.gif",
+    "role": "Official creature movement example; tiny simplified shapes and contrast, no humanoid anatomy recipe.",
+    "dimensions": [
+      600,
+      423
+    ],
+    "sha256": "aa6376f46fd00a0ad7464c309b92d366af260f7315145983f193b88b8a17ed3c",
+    "inspected": "2026-11-01",
+    "rights": "Published first-party reference media; not project production art."
+  },
+  {
+    "file": "last-night-basement.gif",
+    "source_page": "https://oddtales.net/thelastnight/",
+    "image_url": "https://oddtales.net/thelastnight/img/gifs/thelastnight_e32017_basement_t.gif",
+    "role": "Official2017 trailer scene loop; character not isolated, detailed character conclusions excluded.",
+    "dimensions": [
+      365,
+      205
+    ],
+    "sha256": "dcedaa81acbf90a0f6550ce2df0b1e5f18da816be9e3e9f86e8a9c2b51e7d015",
+    "inspected": "2026-11-01",
+    "rights": "Published first-party reference media; not project production art."
+  },
+  {
+    "file": "last-night-naburu.gif",
+    "source_page": "https://oddtales.net/thelastnight/",
+    "image_url": "https://oddtales.net/thelastnight/img/gifs/thelastnight_e32017_naburu_t.gif",
+    "role": "Official2017 scene loop; insufficient character close-up evidence.",
+    "dimensions": [
+      365,
+      205
+    ],
+    "sha256": "b05101bdad8d7b8c8fcc248835ae1373a0c0c965136502b21e5ac6614c086290",
+    "inspected": "2026-11-01",
+    "rights": "Published first-party reference media; not project production art."
+  }
+]

@@ -1,0 +1,135 @@
+{
+	"captured": [
+		0,
+		1,
+		2,
+		3
+	],
+	"display_server": "macOS",
+	"engine": "4.7.2-stable (official)",
+	"events": [
+		{
+			"frame": 0,
+			"ms": 703,
+			"root": [
+				130.0,
+				153.0
+			]
+		},
+		{
+			"frame": 1,
+			"ms": 1150,
+			"root": [
+				130.0,
+				153.0
+			]
+		},
+		{
+			"frame": 2,
+			"ms": 1331,
+			"root": [
+				130.0,
+				153.0
+			]
+		},
+		{
+			"frame": 3,
+			"ms": 1755,
+			"root": [
+				130.0,
+				153.0
+			]
+		},
+		{
+			"frame": 0,
+			"ms": 2056,
+			"root": [
+				130.0,
+				153.0
+			]
+		},
+		{
+			"frame": 1,
+			"ms": 2556,
+			"root": [
+				130.0,
+				153.0
+			]
+		},
+		{
+			"frame": 2,
+			"ms": 2733,
+			"root": [
+				130.0,
+				153.0
+			]
+		},
+		{
+			"frame": 3,
+			"ms": 3141,
+			"root": [
+				130.0,
+				153.0
+			]
+		},
+		{
+			"frame": 0,
+			"ms": 3442,
+			"root": [
+				130.0,
+				153.0
+			]
+		},
+		{
+			"frame": 1,
+			"ms": 3949,
+			"root": [
+				130.0,
+				153.0
+			]
+		},
+		{
+			"frame": 2,
+			"ms": 4131,
+			"root": [
+				130.0,
+				153.0
+			]
+		},
+		{
+			"frame": 3,
+			"ms": 4544,
+			"root": [
+				130.0,
+				153.0
+			]
+		}
+	],
+	"filter": "nearest",
+	"layout": {
+		"body_height": 137.0,
+		"durations_ms": [
+			500.0,
+			180.0,
+			420.0,
+			300.0
+		],
+		"feet_y": 147.0,
+		"files": [
+			"idle-0.png",
+			"idle-1.png",
+			"idle-2.png",
+			"idle-3.png"
+		],
+		"grid_status": "disposable sample; reference-led grounded motion; no fighter identity change",
+		"native_canvas": [
+			96.0,
+			160.0
+		]
+	},
+	"loops": 3,
+	"viewport": [
+		640,
+		360
+	]
+}

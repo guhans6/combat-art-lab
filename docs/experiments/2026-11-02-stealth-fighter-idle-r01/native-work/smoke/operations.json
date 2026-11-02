@@ -1,0 +1,136 @@
+{
+  "backend": "mcp__aseprite_ai_artist",
+  "mode": "headless",
+  "aseprite": "1.3.18.6-dev",
+  "extension": "0.8.2",
+  "calls_observed": [
+    {
+      "tool": "preflight",
+      "result": "READY"
+    },
+    {
+      "tool": "sprite_manage/new",
+      "canvas": [
+        16,
+        16
+      ],
+      "colorMode": "rgb"
+    },
+    {
+      "tool": "sprite_info",
+      "result": "1 layer,1 frame before edits"
+    },
+    {
+      "tool": "layer/batch",
+      "result": [
+        "protected",
+        "patch"
+      ]
+    },
+    {
+      "tool": "palette/set",
+      "colors": [
+        "#00000000",
+        "#e14b3b",
+        "#3c8dba",
+        "#e4bb4b"
+      ]
+    },
+    {
+      "tool": "draw/grid",
+      "owner": "protected",
+      "origin": [
+        2,
+        2
+      ],
+      "rows": [
+        "RRR",
+        "R..",
+        "RBB"
+      ],
+      "legend": {
+        "R": "#e14b3b",
+        "B": "#3c8dba"
+      }
+    },
+    {
+      "tool": "draw/grid",
+      "owner": "patch",
+      "origin": [
+        11,
+        9
+      ],
+      "rows": [
+        "Y"
+      ],
+      "legend": {
+        "Y": "#e4bb4b"
+      }
+    },
+    {
+      "tool": "look/preview",
+      "observed": "asymmetric red L, blue lower bar, isolated yellow lower-right"
+    },
+    {
+      "tool": "look/ascii",
+      "origin": [
+        10,
+        8
+      ],
+      "rows": [
+        "...",
+        ".D.",
+        "..."
+      ],
+      "legend": {
+        "D": "#e4bb4b"
+      }
+    },
+    {
+      "tool": "draw/grid",
+      "owner": "patch",
+      "origin": [
+        11,
+        9
+      ],
+      "rows": [
+        "B"
+      ],
+      "legend": {
+        "B": "#3c8dba"
+      },
+      "result": "one composite pixel changed; protected exact"
+    },
+    {
+      "tool": "draw/grid",
+      "owner": "patch",
+      "origin": [
+        11,
+        9
+      ],
+      "rows": [
+        "."
+      ],
+      "result": "erase confirmed by ASCII; then blue pixel restored"
+    },
+    {
+      "tool": "sprite_manage/save_as+close+open",
+      "path": "after.aseprite",
+      "result": "fresh export exact; both layers retained"
+    },
+    {
+      "tool": "draw/grid",
+      "owner": "patch",
+      "origin": [
+        13,
+        12
+      ],
+      "rows": [
+        "B"
+      ],
+      "result": "controlled out-of-mask change saved; independent checker rejected"
+    }
+  ],
+  "record_kind": "reconstructed factual tool-call summary from observed calls, not raw transport transcript",
+  "native_write_route": "MCP only"
+}

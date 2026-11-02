@@ -1,0 +1,55 @@
+{
+  "passed": true,
+  "ui_checks": 15,
+  "native_frames": [
+    {
+      "frame": 0,
+      "opaque_rgb_mismatches": 0
+    },
+    {
+      "frame": 1,
+      "opaque_rgb_mismatches": 0
+    },
+    {
+      "frame": 2,
+      "opaque_rgb_mismatches": 0
+    },
+    {
+      "frame": 3,
+      "opaque_rgb_mismatches": 0
+    }
+  ],
+  "scaled_compare": [
+    {
+      "height": 96,
+      "opaque_pixels_tested": 1584,
+      "opaque_rgb_mismatches": 0,
+      "drawn_height": 96,
+      "bottom_opaque_row": 557
+    },
+    {
+      "height": 128,
+      "opaque_pixels_tested": 2825,
+      "opaque_rgb_mismatches": 0,
+      "drawn_height": 128,
+      "bottom_opaque_row": 557
+    },
+    {
+      "height": 160,
+      "opaque_pixels_tested": 4419,
+      "opaque_rgb_mismatches": 0,
+      "drawn_height": 160,
+      "bottom_opaque_row": 557
+    }
+  ],
+  "viewport": [
+    1280,
+    800
+  ],
+  "stage": [
+    1200,
+    480
+  ],
+  "source_pixels_preserved": true,
+  "camera_world_fixed": true
+}

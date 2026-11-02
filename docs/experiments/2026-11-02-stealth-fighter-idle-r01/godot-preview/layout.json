@@ -1,0 +1,23 @@
+{
+  "files": [
+    "idle-00.png",
+    "idle-01.png",
+    "idle-02.png",
+    "idle-03.png",
+    "idle-04.png"
+  ],
+  "durations_ms": [
+    850,
+    450,
+    500,
+    650,
+    550
+  ],
+  "body_height": 240,
+  "feet_y": 253,
+  "native_canvas": [
+    128,
+    264
+  ],
+  "grid_status": "provisional idle study; no final game grid selected"
+}

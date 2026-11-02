@@ -1,0 +1,8 @@
+{
+  "fresh": true,
+  "stale_files": [],
+  "mechanical_passed": true,
+  "visual_acceptance": "pending",
+  "user_approval": "pending",
+  "limits": "Freshness is not inspection or artistic acceptance; bind manual review to packet SHA256."
+}

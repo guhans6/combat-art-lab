@@ -1,0 +1,21 @@
+{
+  "files": [
+    "idle-0.png",
+    "idle-1.png",
+    "idle-2.png",
+    "idle-3.png"
+  ],
+  "durations_ms": [
+    700,
+    260,
+    500,
+    340
+  ],
+  "body_height": 137,
+  "feet_y": 147,
+  "native_canvas": [
+    96,
+    160
+  ],
+  "grid_status": "disposable test only; quiet pants and coordinatedupperbody; fighter unchanged"
+}

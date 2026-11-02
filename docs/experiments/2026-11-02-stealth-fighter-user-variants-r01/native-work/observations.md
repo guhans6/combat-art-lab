@@ -1,0 +1,31 @@
+# User fighter variants: native static construction
+
+Date: 2026-11-02. Producer: Sol 6.1 High, explicitly assigned for normal art work. Scope: four source-led held-rest sprite studies from supplied images 01,03,04,05; image02 is provenance/support for03. All five actual originals were opened. Image03 is the exact307×1000 main-figure crop of image02 at143,30. Printed image02 notes are reference content only.
+
+Each supplied image is its own appearance target. Existing Current A was compare-only and never opened for native mutation. Its canonical native SHA256 remains f4cb8fff0a460cde6845fb15bc0c5e3271259d9d38d5f3efa051e4970b2e6127. No image generation, redesign, animation, added tool installation or palette expansion occurred.
+
+## Observed identity and source feasibility
+
+01 has the quiet largely unmarked face/profile, fine jaw marks, subdued rounded shoulder/bracer and indigo cloth.03/05 retain the darker brow/eye-area and stubble, buckle, layered shoulder/upper-arm metal, sleeve folds, crossed wrap and raised segmented hilt.05 changes only the shoulder cap.04 retains the chunkier/brighter warm planes, more pronounced brow/eye mark and angular nose/jaw. Source-transfer nearest-neighbor sampling simplifies tiny marks; no new exact eye/mouth interpretation or invented expression was added. Native faces were inspected against original cropped faces, source transfers, full bodies, light/dark mattes and152px previews. User selection remains pending.
+
+## Frozen construction and source-quality repair
+
+Candidate native grid128×264, visible y13..252 inclusive, body240px, exclusive baseline253. Runtime target152px uses the fixed152/240 ratio. Crop/resize/offset, original SHA256, palette order, spatial outline/overrides and final hashes are in each variant's recipe.json. Production source sampling is one NEAREST resize with no dither. Source backgrounds are removed with authored/reviewed spatial masks, never a global color-key. Interior material pixels remain opaque even if their RGB resembles the matte.
+
+Initial conversion used64-color median-cut. It wasted many entries on near-black microshades and reduced armor/skin nuance. Those initial preparations remain in pass00-mediancut/; only01 had an initial native created and preserved there. The one named source-quality repair used deterministic weighted medoids at the same64-color cap, retaining actual sampled source RGBs and more material distinctions.03/05 use the same source crop, registration, palette and spatial mask. Final outputs differ at154 pixels in[35,48,66,65), all in shoulder armor.
+
+Independent seed review found incorrectly erased rear-hair openings and a few broad exterior matte bands. The bounded repair restored source-backed hair, traced collar/chest/lower-trouser edges, and retained04's genuine hair curl. A focused alpha audit then identified exactly three further source-supported04 corrections: restore hair50,25 and36,50; clear background63,183 to connect the existing diagonal leg slit by4-neighbor connectivity while preserving actual trouser64,184. Prior04 native/proofs remain in pass01-precoverage/. Final recipe explicitly lists every local override and final mask hash. See coverage-patch.json and independent review.
+
+## Native structure and useful revision evidence
+
+All native creation, mutation, save and reopen operations used the dedicated Aseprite AI Artist MCP in headless mode. Preflight reported Aseprite1.3.18.6-dev/Pebbly0.8.2 READY. The16×16 two-layer scratch proved image delivery, exact pixel readback, one-pixel editing, dot-as-erase semantics, native save/reopen and an independently rejected protected-pixel negative control. Python/Pillow/NumPy only prepared source grids, masks, palette plans, PNG review artifacts and audits; no script wrote native files.
+
+Final six disjoint visible-part owners are lowerbody-cloth-boots, torso-cloth-armor, waist-wrap-sword, far-hand, near-arm-guard-hand, head-hair-face. Native ownership was separately repaired when the coarse initial head split crossed the cap and the far-hand region included blue cloth. All composites remain RGBA-identical after that repair. The head underside now follows a source-guided spatial trace, all15403/05 shoulder-difference pixels belong only to torso-cloth-armor, the far hand contains actual source skin, and the lowerbody name discloses the hanging cloth it contains. Pre-ownership masters/proofs remain in pass02-preownership/. These are editable visible owners, with no hidden anatomy reconstruction, rig or animation suitability claim.
+
+On a separate duplicate for every candidate,24 existing opaque pixels widen the bracer ridge highlight on near-arm-guard-hand only. Each edit uses an existing palette color; all other native layers, metadata, palette, frame duration, alpha silhouette and source masters stay exact. Fresh duplicate reopen/export also matches. The duplicate is proof of useful local editability, not an aesthetic replacement or an additional selected variant. Actual8× crops/full context of each proof were inspected.
+
+## Observed verification and boundaries
+
+checks.json freshly passes all4: independent strict native reader, exact semantic-owner PNG readback and disjoint reassembly, accepted seed/native/export/reopen RGBA equality,1 static100ms frame,128×264 canvas,64 visible RGBs/65 palette entries including transparent, binary alpha, no unexpected enclosed holes or missing reviewed coverage,24px duplicate edit scope, exact protected native layers/metadata/palette, unchanged masters and original source hashes. The actual runtime validate tool is not exposed; it was not called. No claim that tool validation ran is made.
+
+Independent final visual/native review is ../review/final-static-review.md from this folder. It separately reassembled actual natives, checked protected edits and inspected final owner sheets. No blocking source-backed defect remains in this bounded study. Artistic acceptance, preferred detail level and final design selection belong to the user. Godot runtime integration/captures and repository delivery are owned by root and recorded separately; this producer does not claim engine playback. All backend documents were saved and closed. No publication or production replacement occurred.

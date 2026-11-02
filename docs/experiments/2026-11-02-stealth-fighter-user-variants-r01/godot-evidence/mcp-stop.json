@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"message\": \"Godot project stopped\",\n  \"finalOutput\": [\n    \"Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\",\n    \"\",\n    \"OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro\",\n    \"\",\n    \"\",\n    \"\",\n    \"APPEARANCE_STUDY_READY variants=5 static=true default_height=152 source_ids=[0,1,3,4,5]\",\n    \"\",\n    \"APPEARANCE_CHECKS_COMPLETE [{\\\"name\\\":\\\"default Original / Look1 / Look3 at152\\\",\\\"passed\\\":true},{\\\"name\\\":\\\"mouse next set shows Looks4and5\\\",\\\"passed\\\":true},{\\\"name\\\":\\\"keyboard next set shows armor pair3and5\\\",\\\"passed\\\":true},{\\\"name\\\":\\\"mouse single view\\\",\\\"passed\\\":true},{\\\"name\\\":\\\"mouse panel C\\\",\\\"passed\\\":true},{\\\"name\\\":\\\"mouse previous appearance\\\",\\\"passed\\\":true},{\\\"name\\\":\\\"keyboard next appearance\\\",\\\"passed\\\":true},{\\\"name\\\":\\\"appearance popup selection signal\\\",\\\"passed\\\":true},{\\\"name\\\":\\\"mouse changes common height\\\",\\\"passed\\\":true},{\\\"name\\\":\\\"mouse dim-room lighting\\\",\\\"passed\\\":true},{\\\"name\\\":\\\"keyboard lamp-fill lighting\\\",\\\"passed\\\":true},{\\\"name\\\":\\\"mouse guides\\\",\\\"passed\\\":true},{\\\"name\\\":\\\"reset restores static152neutral comparison\\\",\\\"passed\\\":true},{\\\"name\\\":\\\"keyboard reset\\\",\\\"passed\\\":true}]\",\n    \"\"\n  ],\n  \"finalErrors\": []\n}"
+    }
+  ]
+}

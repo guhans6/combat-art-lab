@@ -1,0 +1,21 @@
+{
+  "ready": true,
+  "mode": "headless",
+  "aseprite": "1.3.18.6-dev",
+  "extension": "0.8.2",
+  "python": "/opt/homebrew/bin/python3.11",
+  "pillow": "12.0.0",
+  "image_delivery": "look preview actually inspected",
+  "readback": "10,9 and11,9 #7b8990 before edit",
+  "one_pixel_changes": [
+    [
+      11,
+      9
+    ]
+  ],
+  "reopen_exact": true,
+  "dot_semantics": "erase, not transparent skip",
+  "protected_outside_editable_point_unchanged": true,
+  "out_of_mask_negative_control": "dedicated MCP changed protected(0,0) on duplicate; independent checker rejects",
+  "validate_tool": "not exposed; not called"
+}

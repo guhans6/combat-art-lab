@@ -1,0 +1,152 @@
+{
+  "pngs": [
+    {
+      "path": "assets/concepts/stealth-fighter/gameplay-r01/extracted-original/cutout.png",
+      "width_height": [
+        1024,
+        1536
+      ],
+      "sha256": "a9bcfb49e2652658ef309e1dc465964728a5dd128e60ee25a5627945e51945a0"
+    },
+    {
+      "path": "assets/concepts/stealth-fighter/gameplay-r01/face-firm-corrected/raw.png",
+      "width_height": [
+        1314,
+        1197
+      ],
+      "sha256": "ef6731dc45fa7169dea6d026a5eb04cca8662268c5e019fae14a44acbc6db3e9"
+    },
+    {
+      "path": "assets/concepts/stealth-fighter/gameplay-r01/face-soft-corrected/raw.png",
+      "width_height": [
+        1312,
+        1199
+      ],
+      "sha256": "0bd01d5280d73e1bf344f785c800270a85d336ae4d04c3e802c822b0dd4735a4"
+    },
+    {
+      "path": "assets/concepts/stealth-fighter/gameplay-r01/faces/unassigned-01.png",
+      "width_height": [
+        1168,
+        1346
+      ],
+      "sha256": "1210ebcc27cfb5cfd78efe77bbf9bcf8939f69d77b2459d25a3f7c88aae2d0c9"
+    },
+    {
+      "path": "assets/concepts/stealth-fighter/gameplay-r01/faces/unassigned-02.png",
+      "width_height": [
+        1024,
+        1536
+      ],
+      "sha256": "5b07337d420c7d652f75999e22e846aacee7f9d4bc8b592da0df6a1f01f66e54"
+    },
+    {
+      "path": "assets/concepts/stealth-fighter/gameplay-r01/faces-comparison.png",
+      "width_height": [
+        1024,
+        560
+      ],
+      "sha256": "6dc9f857591f0d85fdc176ebd9fb5aa7219ccfddd928afec6aa5d69611e52558"
+    },
+    {
+      "path": "assets/concepts/stealth-fighter/gameplay-r01/faces-comparison.svg.png",
+      "width_height": [
+        1024,
+        1024
+      ],
+      "sha256": "ff19564cc479b01b4b442a1c0cec7a153764b43ea08b1db67aa6add0ff3939cc"
+    },
+    {
+      "path": "assets/concepts/stealth-fighter/gameplay-r01/scenarios/arena.png",
+      "width_height": [
+        1672,
+        941
+      ],
+      "sha256": "6baf2e01c8d436cb2c3be2224835d21360ffaa7271a78791573e20af427ff67b"
+    },
+    {
+      "path": "assets/concepts/stealth-fighter/gameplay-r01/scenarios/comparison.png",
+      "width_height": [
+        640,
+        1080
+      ],
+      "sha256": "8d624b9674ca46f0f2cdd8c9d59a66bec73a940e8f7a0f13452daa6158b7e765"
+    },
+    {
+      "path": "assets/concepts/stealth-fighter/gameplay-r01/scenarios/scenario-a.png",
+      "width_height": [
+        640,
+        360
+      ],
+      "sha256": "3311ae380837da122d160ad0e54342a2347596e0d361a4538f38d60799d4b283"
+    },
+    {
+      "path": "assets/concepts/stealth-fighter/gameplay-r01/scenarios/scenario-b.png",
+      "width_height": [
+        640,
+        360
+      ],
+      "sha256": "e630f2c18c7da80d9523618a1e27d5028fb762cf0fb3408db57a6b2b057ecfc5"
+    },
+    {
+      "path": "assets/concepts/stealth-fighter/gameplay-r01/scenarios/scenario-c.png",
+      "width_height": [
+        640,
+        360
+      ],
+      "sha256": "4950cc68ce22048a9d55404a3a19a68ac7e695749323efbc63c94241a6555b5f"
+    },
+    {
+      "path": "assets/concepts/stealth-fighter/gameplay-r01/shallow-corrected/cutout.png",
+      "width_height": [
+        1024,
+        1536
+      ],
+      "sha256": "3cd3407ebfb2a0ff0917d7b992f869fe7c1684e58eb578df35ce427cd326a868"
+    },
+    {
+      "path": "assets/concepts/stealth-fighter/gameplay-r01/side-corrected/cutout.png",
+      "width_height": [
+        1024,
+        1536
+      ],
+      "sha256": "20906495d146e9d6aea48962fa652d250aeddc3a5700e28a358c8ed48e5cb5c4"
+    },
+    {
+      "path": "assets/concepts/stealth-fighter/gameplay-r01/views/quarter.png",
+      "width_height": [
+        1024,
+        1536
+      ],
+      "sha256": "c57a91c1fa592d7f752e98978dff7297a238ec4a57b30294a1477856ce17e2e4"
+    },
+    {
+      "path": "assets/concepts/stealth-fighter/gameplay-r01/views/side.png",
+      "width_height": [
+        1024,
+        1536
+      ],
+      "sha256": "4a4ab8abf0cdd252cb7923cdd0e034e274a508969b422bed1cecf648d5346368"
+    },
+    {
+      "path": "assets/concepts/stealth-fighter/gameplay-r01/views-comparison.png",
+      "width_height": [
+        1024,
+        840
+      ],
+      "sha256": "a3060079e494399f3502de21b93e87b333eb114b603891fc845785382860e0c7"
+    },
+    {
+      "path": "assets/concepts/stealth-fighter/gameplay-r01/views-comparison.svg.png",
+      "width_height": [
+        1024,
+        1024
+      ],
+      "sha256": "d7878ee727a2277dcf12c049dd59d319881155dd9dd9cc47da7a2eaff3a2d2e0"
+    }
+  ],
+  "json_files_decoded": 5,
+  "art_review": "root visual inspection; see review.md",
+  "clean_cutout": "failed: residual halo",
+  "runtime": "not run"
+}

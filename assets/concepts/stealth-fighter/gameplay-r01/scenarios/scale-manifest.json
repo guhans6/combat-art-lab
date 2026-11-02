@@ -1,0 +1,53 @@
+{
+  "status": "provisional display mockup; visible residual halo retained; not clean sprite or runtime proof",
+  "arena": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/gameplay-r01/scenarios/arena.png",
+  "arena_sha256": "6baf2e01c8d436cb2c3be2224835d21360ffaa7271a78791573e20af427ff67b",
+  "figure": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/gameplay-r01/side-corrected/cutout.png",
+  "figure_sha256": "20906495d146e9d6aea48962fa652d250aeddc3a5700e28a358c8ed48e5cb5c4",
+  "figure_source_canvas": [
+    1024,
+    1536
+  ],
+  "anchor_measurement": "provided alpha > 128 bbox [330,49,692,1484), visible height 1435; bounding box used for placement only; no per-pixel validation",
+  "viewport": [
+    640,
+    360
+  ],
+  "arena_transform": "entire 1672x941 image mapped to 640x360; slight nonuniform scaling",
+  "anchor": "bbox midpoint x=511 mapped to x=200; bottom y=1484 mapped to y=273",
+  "image_transforms": [
+    {
+      "label": "A",
+      "target_visible_height": 96,
+      "viewport_fraction": 0.26666666666666666,
+      "scale": 0.06689895470383275,
+      "image_x": 165.81463414634146,
+      "image_y": 173.7219512195122,
+      "image_width": 68.50452961672474,
+      "image_height": 102.75679442508711
+    },
+    {
+      "label": "B",
+      "target_visible_height": 128,
+      "viewport_fraction": 0.35555555555555557,
+      "scale": 0.089198606271777,
+      "image_x": 154.41951219512197,
+      "image_y": 140.62926829268292,
+      "image_width": 91.33937282229965,
+      "image_height": 137.00905923344948
+    },
+    {
+      "label": "C",
+      "target_visible_height": 160,
+      "viewport_fraction": 0.4444444444444444,
+      "scale": 0.11149825783972125,
+      "image_x": 143.02439024390245,
+      "image_y": 107.53658536585365,
+      "image_width": 114.17421602787456,
+      "image_height": 171.26132404181186
+    }
+  ],
+  "layout": "Each panel rendered from 1280-square padded SVG in Quick Look and center-cropped to 640x360 by sips; comparison.png stacks the three 640x360 rendered PNGs with Pillow pixel-for-pixel paste, no resampling.",
+  "native_grid": "not selected",
+  "renderer": "macOS qlmanage -t -s 1280, then sips --cropToHeightWidth; display preview rendering only"
+}

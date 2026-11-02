@@ -1,0 +1,21 @@
+{
+  "study": "hair-r01",
+  "variant": "B",
+  "date": "2026-11-01",
+  "mode": "built-in image_gen edit",
+  "use_case": "identity-preserve",
+  "transparent_background": false,
+  "input": {
+    "role": "sole edit target and identity/layout anchor",
+    "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/hair-r01/A/raw.png",
+    "sha256": "623d0d475645917b3ec7dfb8f218032ca5b268c06643abf4d54e5a17fd49e75c",
+    "dimensions": "1024x1536"
+  },
+  "output": {
+    "built_in_original_path": "/Users/guhan/.codex/generated_images/01a19759-ebe1-7fe0-b744-9cc908756461/exec-910a3d8e-b189-48f0-8c11-1f1e8b43feab.png",
+    "copied_raw_path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/hair-r01/B/raw.png",
+    "sha256": "85f290a9462064b0b5ba30c3ae94e4ddea920ca9528f13b004e56bd980ece75a",
+    "dimensions": "1024x1536"
+  },
+  "prompt": "Use case: identity-preserve\\nAsset type: controlled hairstyle-comparison concept, B\\nInput image: Image 1 is the sole edit target and identity/layout anchor.\\nPrimary request: Perform a hair-only localized edit. Change the long near-black hair from the existing full low ponytail to a clearly distinct HALF-TIED hairstyle: gather only the upper section into one small tie at the rear/back of the head; leave the lower long hair LOOSE, falling naturally to the upper back. The face, hairline, and forehead remain fully visible exactly as in the input. Match the existing near-black hair color, pixel-cluster style, and shading.\\nConstraints: Preserve the input image otherwise byte-exact as far as possible. Absolutely do not redraw, rescale, recenter, or alter the face pixels/features/expression, skin, ear, eye, nose, stubble, adult body proportions, pose, armor, outfit straps, cloth folds, rust waist tie, high boots, sword, background, lighting, grounding shadow, scale, 1024x1536 canvas, or head and foot positions. Keep the actual input outfit and boot design exactly, including the extra torso straps. Change only the hair arrangement and the immediately revealed or occluded neck, shoulder, or background pixels necessary for the new hair silhouette.\\nAvoid: a full ponytail, a low ponytail, a bun, a new face, altered hairline, any clothing/accessory change, any pose/camera/framing/background/lighting change, labels, text, logo, border, other characters."
+}

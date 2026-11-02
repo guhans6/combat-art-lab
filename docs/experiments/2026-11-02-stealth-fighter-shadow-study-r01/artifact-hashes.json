@@ -1,0 +1,270 @@
+{
+  "godot/stealth-fighter-playground-r02/main.tscn": {
+    "sha256": "0ef96dab3b2c00a180e8bb3f554adad71396addb04e76ab71b355658496a5f4b",
+    "bytes": 226
+  },
+  "godot/stealth-fighter-playground-r02/stage.gd.uid": {
+    "sha256": "77751a60779ae5d4e3421aa36f4bf16731c5de28a0ebd31922f04a4a548f93e3",
+    "bytes": 20
+  },
+  "godot/stealth-fighter-playground-r02/CREDITS.md": {
+    "sha256": "d8e4b36efeebaf045c58e47be9229dc36f78a89282b02ec912a0f8c793f76e73",
+    "bytes": 1111
+  },
+  "godot/stealth-fighter-playground-r02/stage.gd": {
+    "sha256": "8488711d5d5c962b21e1731a299f98cc7c4158529ce2308d54664af7e2ed9f47",
+    "bytes": 2892
+  },
+  "godot/stealth-fighter-playground-r02/README.md": {
+    "sha256": "9cdf0a00c4871cce65491d2dd19161709d8a042a6be404f37d1835c516f1870a",
+    "bytes": 2158
+  },
+  "godot/stealth-fighter-playground-r02/playground.gd": {
+    "sha256": "af2323c3e214f503fe9038e6bd80bb55217c04a37e068079d26ad2137790c337",
+    "bytes": 12576
+  },
+  "godot/stealth-fighter-playground-r02/.gitignore": {
+    "sha256": "478aa2a3d73d5f2d7ef9b188776724ff468c9b90ae7a462859a5f0e53e213e30",
+    "bytes": 17
+  },
+  "godot/stealth-fighter-playground-r02/playground.gd.uid": {
+    "sha256": "5e563cbe5bd5bea856e9beb347d69f695d80bd6e5155cd1e1ea66de90b1e7004",
+    "bytes": 19
+  },
+  "godot/stealth-fighter-playground-r02/project.godot": {
+    "sha256": "0cc041ab1e01dabdc0a3000c6d1b732bf60d29f9aff356bf6b00f369edfd4fd7",
+    "bytes": 763
+  },
+  "godot/stealth-fighter-playground-r02/ART-LICENSE.txt": {
+    "sha256": "2415c7aaa3f7b45d7ed51cb2897470fcb87cd87b1da66d1678840b5fce328109",
+    "bytes": 454
+  },
+  "godot/stealth-fighter-playground-r02/textures/backgrounds.png": {
+    "sha256": "c044093de80c1cc6b064d4016d68fa034d039379db8ee6ee206d4d421148a10d",
+    "bytes": 16089
+  },
+  "godot/stealth-fighter-playground-r02/textures/idle-0.png": {
+    "sha256": "6718432fc934416f70a84a64ab72bc45b4740e68c820c2c31140beff8a8846d6",
+    "bytes": 12974
+  },
+  "godot/stealth-fighter-playground-r02/textures/idle-1.png": {
+    "sha256": "5893f7a41f9bc8b4b67f6e88857b90845ad087496549a6ffdc0989c101009ea3",
+    "bytes": 13065
+  },
+  "godot/stealth-fighter-playground-r02/textures/idle-3.png": {
+    "sha256": "5893f7a41f9bc8b4b67f6e88857b90845ad087496549a6ffdc0989c101009ea3",
+    "bytes": 13065
+  },
+  "godot/stealth-fighter-playground-r02/textures/idle-2.png": {
+    "sha256": "51fcca9d4010d57f57162ff8a0e39c8d662d72b30291c9a4f58da67c12cc6f14",
+    "bytes": 13085
+  },
+  "godot/stealth-fighter-playground-r02/textures/tileset.png": {
+    "sha256": "1a5d5684c21eaeca89f3f68ed8d0508c73f3aedc04f7b9cb425c3cd28e429958",
+    "bytes": 10241
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/package.py": {
+    "sha256": "9f72a8a1fc50dbf486a35a696b03b314965dafb4ab0bed2f92681a20f490f53f",
+    "bytes": 11080
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/record.md": {
+    "sha256": "0391156651664df7f768a721ac2b3fed32d873cee249a7d4b61aa4af990790ad",
+    "bytes": 7677
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/build_lighting.py": {
+    "sha256": "8e65cf53f24be321d93a30fb3efd8a62e6b43d3622a8678e70ee0c377b4cbe5d",
+    "bytes": 6557
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/preservation.json": {
+    "sha256": "3dae0841827d16d9c2fbe4f95e615efb84d57f148511015c0be8f4f91388d1c3",
+    "bytes": 82
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/lighting-comparison-2x.png": {
+    "sha256": "b2c1f1b37cb26c3431c2745a176576725e5a50bea663afec8efe90b7dd67ae07",
+    "bytes": 67933
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/audit_and_preview.py": {
+    "sha256": "829ef0014077d003328e8ff464dd49d23f58af68c3bad4cc9f638dff85dd83f6",
+    "bytes": 3416
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/protected-before.json": {
+    "sha256": "c9ec073b25eb16af27722729b3f965ec4d4d3e3bdac5cd627b56839bcf6e31fb",
+    "bytes": 29072
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/evidence/lamp-fill-152.png": {
+    "sha256": "f3118192168301e31ac8e997c07eed915542b4c37da5ba5cec75947e8e6f5fd1",
+    "bytes": 193326
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/evidence/sprite-colors-152.png": {
+    "sha256": "bb1e2b0d6b4355ac31123ed8ab7e35f93836c9e078d50666ef4909518397634a",
+    "bytes": 81755
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/evidence/mcp-stop.json": {
+    "sha256": "bf98412633e9a84410ed41c7d8887f4e080098837ad46f9090a04d4a0e2b3f23",
+    "bytes": 1795
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/evidence/render-audit.json": {
+    "sha256": "fc1a5287a156cec9088fdbd6c65b26ac311a8c804a4f02e75b7469dbf37ba6a5",
+    "bytes": 1559
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/evidence/mcp-debug.json": {
+    "sha256": "f183d45049a8aaed4d909ec43ee1e861700d72b3d74929af40eeb59fcb7ad483",
+    "bytes": 1742
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/evidence/native-frame-02.png": {
+    "sha256": "7c7fd7153663ec010efddf54486cbcedf508da470927dd764219b376491900f3",
+    "bytes": 91395
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/evidence/native-frame-03.png": {
+    "sha256": "75b1995e7a1769caec35bfe48dc2ea2b23593aa6013538aa404d9f4b23786819",
+    "bytes": 91214
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/evidence/native-frame-01.png": {
+    "sha256": "5dc6c3ba450f4925b57de8e6849895b512a03e5b8584b4db921a7c76b428e513",
+    "bytes": 91248
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/evidence/native-frame-00.png": {
+    "sha256": "c34926b7ccdef938b336fa5d9f5baa2c379bf80af5241d7f2114ceae3df9e939",
+    "bytes": 90903
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/evidence/dim-room-152.png": {
+    "sha256": "151fb17e646974e9039709d15e07656b7e0a64348f4d0df1fab98d492a20d9d1",
+    "bytes": 77033
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/evidence/source-152-frame-02.png": {
+    "sha256": "c2d57c8f92151e911054d82feece0618b4f70e09be2b1105124c3185b9f9ce5c",
+    "bytes": 82450
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/evidence/source-152-frame-03.png": {
+    "sha256": "d28ecc0e58c0aa14888d87e1eddaefbf1dfac3c0415379e2171172aa84e745b5",
+    "bytes": 82283
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/evidence/source-152-frame-01.png": {
+    "sha256": "7caa3b1b0f68e523bfafa3697da9326dedd471031d70d6272f8cf582ba328375",
+    "bytes": 82314
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/evidence/compare-128-152-160.png": {
+    "sha256": "773920c95760215ce194c7b068c324d75afb8e25d25c163a13bea3e1c812eb0f",
+    "bytes": 96795
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/evidence/source-152-frame-00.png": {
+    "sha256": "22e8a8fc65eaf556fa0cef2e8d70f00a5db441fa7dbbde9a5a62cb0348bd452f",
+    "bytes": 81901
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/evidence/runtime-checks.json": {
+    "sha256": "5d31fff1962081c7db4dcb25bdf599ae8633676fd394b426f85292951c07072d",
+    "bytes": 1695
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/tested-project/main.tscn": {
+    "sha256": "0ef96dab3b2c00a180e8bb3f554adad71396addb04e76ab71b355658496a5f4b",
+    "bytes": 226
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/tested-project/stage.gd.uid": {
+    "sha256": "77751a60779ae5d4e3421aa36f4bf16731c5de28a0ebd31922f04a4a548f93e3",
+    "bytes": 20
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/tested-project/CREDITS.md": {
+    "sha256": "d8e4b36efeebaf045c58e47be9229dc36f78a89282b02ec912a0f8c793f76e73",
+    "bytes": 1111
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/tested-project/stage.gd": {
+    "sha256": "8488711d5d5c962b21e1731a299f98cc7c4158529ce2308d54664af7e2ed9f47",
+    "bytes": 2892
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/tested-project/README.md": {
+    "sha256": "54f11808690529410c484118908dbd76af77f7c8f2cba6e18698d159a6cff688",
+    "bytes": 1835
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/tested-project/playground.gd": {
+    "sha256": "af2323c3e214f503fe9038e6bd80bb55217c04a37e068079d26ad2137790c337",
+    "bytes": 12576
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/tested-project/.gitignore": {
+    "sha256": "478aa2a3d73d5f2d7ef9b188776724ff468c9b90ae7a462859a5f0e53e213e30",
+    "bytes": 17
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/tested-project/playground.gd.uid": {
+    "sha256": "5e563cbe5bd5bea856e9beb347d69f695d80bd6e5155cd1e1ea66de90b1e7004",
+    "bytes": 19
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/tested-project/project.godot": {
+    "sha256": "0cc041ab1e01dabdc0a3000c6d1b732bf60d29f9aff356bf6b00f369edfd4fd7",
+    "bytes": 763
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/tested-project/RUN_CHECKS": {
+    "sha256": "fd34c11cc74b4794d8766d318e996adf5fe40207161da19e0f227067fa6e7cdf",
+    "bytes": 40
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/tested-project/ART-LICENSE.txt": {
+    "sha256": "2415c7aaa3f7b45d7ed51cb2897470fcb87cd87b1da66d1678840b5fce328109",
+    "bytes": 454
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/tested-project/textures/backgrounds.png": {
+    "sha256": "c044093de80c1cc6b064d4016d68fa034d039379db8ee6ee206d4d421148a10d",
+    "bytes": 16089
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/tested-project/textures/idle-0.png": {
+    "sha256": "6718432fc934416f70a84a64ab72bc45b4740e68c820c2c31140beff8a8846d6",
+    "bytes": 12974
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/tested-project/textures/idle-1.png": {
+    "sha256": "5893f7a41f9bc8b4b67f6e88857b90845ad087496549a6ffdc0989c101009ea3",
+    "bytes": 13065
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/tested-project/textures/idle-3.png": {
+    "sha256": "5893f7a41f9bc8b4b67f6e88857b90845ad087496549a6ffdc0989c101009ea3",
+    "bytes": 13065
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/tested-project/textures/idle-2.png": {
+    "sha256": "51fcca9d4010d57f57162ff8a0e39c8d662d72b30291c9a4f58da67c12cc6f14",
+    "bytes": 13085
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/tested-project/textures/tileset.png": {
+    "sha256": "1a5d5684c21eaeca89f3f68ed8d0508c73f3aedc04f7b9cb425c3cd28e429958",
+    "bytes": 10241
+  },
+  "docs/research/stealth-fighter-shadow-readability-2026-11-02/hyper-light-drifter-campfire-crop-1x.png": {
+    "sha256": "2dee00ab4a0b085b5d1e139ee9e2fe951a75921fb12b77fc6f29e9cbd7e5f556",
+    "bytes": 112785
+  },
+  "docs/research/stealth-fighter-shadow-readability-2026-11-02/provenance.json": {
+    "sha256": "aeeb94b6696cae9372d8a785e77e8cb103b71dc9198c660a2526d05d36e6ae7d",
+    "bytes": 4093
+  },
+  "docs/research/stealth-fighter-shadow-readability-2026-11-02/blasphemous-action-crop-1x.png": {
+    "sha256": "15dff70d5f6a2e14494655514bfbb3b5c0a13e3615b5cfdcbf4d0d2c701d801f",
+    "bytes": 203552
+  },
+  "docs/research/stealth-fighter-shadow-readability-2026-11-02/blasphemous-steam-02.jpg": {
+    "sha256": "22f9b8b6e9f4da2cea00a38066451a051f6deda339bb81022c63025cc3e1e637",
+    "bytes": 649782
+  },
+  "docs/research/stealth-fighter-shadow-readability-2026-11-02/current-a-152-study.png": {
+    "sha256": "40e70d7bbc10734a5a68bc8cf20de1285f0730073cedadb262f6612f9e2c8ff9",
+    "bytes": 52754
+  },
+  "docs/research/stealth-fighter-shadow-readability-2026-11-02/silver-pines-45-114-183.png": {
+    "sha256": "70913e21d2166aaccee0f58f9e3c12d129db8ddb65ec46ad915e681fbfa866ce",
+    "bytes": 810387
+  },
+  "docs/research/stealth-fighter-shadow-readability-2026-11-02/findings.md": {
+    "sha256": "9c0c9be0ad19dc8dd9ce01bdeb4b42c7a5029c38efd20ea3c967191cc4240ab0",
+    "bytes": 8632
+  },
+  "docs/research/stealth-fighter-shadow-readability-2026-11-02/hyper-light-drifter-steam-00.jpg": {
+    "sha256": "8da75724701faae1ebdc4ef3c1c9f537439125a1854f13fd928b23c7a80a6207",
+    "bytes": 240077
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/evidence/live-debug.json": {
+    "sha256": "9e22cfe10da67918218525de32abeba893a65993df770b6c7a562ffc4a022e23",
+    "bytes": 462
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/evidence/live-launch.json": {
+    "sha256": "16193af14195a5ddf1daaed1232feac58b34eaad4aa812c19cf5e45b3d579a5e",
+    "bytes": 377
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-shadow-study-r01/finalize.py": {
+    "sha256": "16a817496a9ee6233ce8857855ad957dd83fd45326286a847082091362af72be",
+    "bytes": 2344
+  }
+}

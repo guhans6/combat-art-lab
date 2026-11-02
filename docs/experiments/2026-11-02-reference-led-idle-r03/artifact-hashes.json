@@ -1,0 +1,858 @@
+{
+  "docs/experiments/2026-11-02-reference-led-idle-r03/record.md": {
+    "sha256": "9bf7d0fc9bd5b79bef551982a8ad74da1e0c4443c418d4ad836932517555652e",
+    "bytes": 6831
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/preservation.json": {
+    "sha256": "1622198f39f38c0534ddfc348ba21a0c2b4579fb04e270573b25e0728ea0eb84",
+    "bytes": 229
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/SHA256.json": {
+    "sha256": "a4562537677a6392d2cad022baee610f46eea197c6f235e110f8420d53074b55",
+    "bytes": 16953
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/key-draw-ops.json": {
+    "sha256": "ce830f85e197b4d56dde2cd79ce4e920cd774d618ba719ec342d9a8848383701",
+    "bytes": 36063
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/producer-review.md": {
+    "sha256": "74b9af2c96e154162f422626207836aa621be0723b45a51e662671992d6f6f81",
+    "bytes": 2848
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/audit_delivery.py": {
+    "sha256": "2369a3b4f39e9e288e811a4de546970e7105214706685476d269b46a00ae5583",
+    "bytes": 9913
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/comparison.json": {
+    "sha256": "9b7105a62c4739d9d635581cf6eed3e59a6f0c83c66dd4ea207b1245cedd6ce5",
+    "bytes": 2965
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/baseline-r02.aseprite": {
+    "sha256": "82e878fe5be2ebef488cd2465cc840280750eb2bc16636834212efca0ab1ebeb",
+    "bytes": 35051
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/protected-boots-frozen.png": {
+    "sha256": "6f32b34c54bd00828b52875400b6de8f86f6a4b134d624ea4127be0deb0790c5",
+    "bytes": 148
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-ops.json": {
+    "sha256": "3863cc19924534e21082369a41e86802a4b22a43fc54e3f4ab2eee369d84859e",
+    "bytes": 291489
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/editable-body-except-boots-frozen.png": {
+    "sha256": "ead8ce13bfd767683053494b947facae72699f60eef5e1523b2ef3acb4b58f10",
+    "bytes": 193
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/source-rest.png": {
+    "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+    "bytes": 1748
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/observations.md": {
+    "sha256": "b064ff2b4be530bb202c1d88e604acdbb029e703f42c94f0830536cf5c4ddad8",
+    "bytes": 3288
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/prepare.py": {
+    "sha256": "b6204de757d5e64856b67cdb0366b70f547124f11bf760452892e04f68d264cc",
+    "bytes": 6473
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/review_keys.py": {
+    "sha256": "fbb398477482d06cc19b639d7d18f06ed97f34825a223ddd2943df1bc6c0bc30",
+    "bytes": 4927
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/0/far-sleeve-hand.png": {
+    "sha256": "15e3285e2e6b3e94e984798e44f0b4a58bd23902a3c48eb60414c3c61b8742ab",
+    "bytes": 374
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/0/far-boot-cuff-fixed.png": {
+    "sha256": "659761546da16d99e3c038d4ecf88ba68cf2b2758125f7ddb2a6263e7ac653ed",
+    "bytes": 250
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/0/near-boot-cuff-fixed.png": {
+    "sha256": "a01c2a3c42a34da7b9e6fe13233c7d7eabd299dcec9b9b939b2756436c67c060",
+    "bytes": 281
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/0/neck-collar.png": {
+    "sha256": "49025ab6c2541cd452df64782ddf5953231e654dcc33a772faddfb0f29f67c70",
+    "bytes": 379
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/0/near-leg-pants.png": {
+    "sha256": "532c43288cf5a31207454bcafc58b9b289ebdd5f87e360ed4fd065f69e552cf8",
+    "bytes": 383
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/0/head-hair-face.png": {
+    "sha256": "959adc0af1fec9272b0d9968844b37bf7bdd740867915b612f8643eabc3a5011",
+    "bytes": 434
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/0/near-upper-sleeve.png": {
+    "sha256": "647d897d7d699d389b67e22275264cbc8b54921bb67bd291833232b73031f0a2",
+    "bytes": 372
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/0/far-leg-pants.png": {
+    "sha256": "0b739bc8363c8bff42ce2d8207031cf18a1171e1512ad06dc861ae781b5f1933",
+    "bytes": 360
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/0/thorax-coat.png": {
+    "sha256": "2402d54917bed79420daac5ec86bd72eab92935cb21153cbe8fb4bdb91e6782a",
+    "bytes": 563
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/0/near-forearm-hand.png": {
+    "sha256": "7cf384d97eec52bb6b411b6f6083bfb2fde4a091222b19bf9e02c43396b8981f",
+    "bytes": 428
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/0/composite-drawing-data.png": {
+    "sha256": "09f38dea43fc62679299bbb93297692843499ea1b743cfad8a034827694bff9a",
+    "bytes": 1617
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/0/coat-back-skirt.png": {
+    "sha256": "ce4b99688f4e0ab8f184c1a179306b06120fab1a568062650593fa6139ca5a47",
+    "bytes": 388
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/0/pelvis-root.png": {
+    "sha256": "afaf80ee525de1bf85f65e9deded3e79c78d24f6c46fa0da3f056d1ab0ce3f9d",
+    "bytes": 259
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/1/far-sleeve-hand.png": {
+    "sha256": "65b9dde5992720757f52d09367632a27e08e083d72670567e671e5ff789d9527",
+    "bytes": 374
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/1/far-boot-cuff-fixed.png": {
+    "sha256": "659761546da16d99e3c038d4ecf88ba68cf2b2758125f7ddb2a6263e7ac653ed",
+    "bytes": 250
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/1/near-boot-cuff-fixed.png": {
+    "sha256": "a01c2a3c42a34da7b9e6fe13233c7d7eabd299dcec9b9b939b2756436c67c060",
+    "bytes": 281
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/1/neck-collar.png": {
+    "sha256": "0ef17ceacc5a690a881dbadad65e210b133e4b56b6e3a4bf4f6d9196ce2738f9",
+    "bytes": 378
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/1/near-leg-pants.png": {
+    "sha256": "f0465c46f4dbc8e6b0444cbd2314db6712a8e4903fd199b61e0769a17aaf9676",
+    "bytes": 380
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/1/head-hair-face.png": {
+    "sha256": "10018c27cd20b3531f59ad803006d98b5826f5d24ff3c113e18b64d866b15fe8",
+    "bytes": 434
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/1/near-upper-sleeve.png": {
+    "sha256": "0db1d2a1ce8e4416eb040d13e44aa7772bf8dd0d84bd62cdea649ebeedc9a0df",
+    "bytes": 372
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/1/far-leg-pants.png": {
+    "sha256": "edc3e971d37cdfd2cc2cb89ef7aabb1501084c0b42ba6b92ecd7ac4ec45a038d",
+    "bytes": 356
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/1/thorax-coat.png": {
+    "sha256": "899bd85561b4e92069d8490ea691aa036dfc530698a8c959805b5420c6b138b1",
+    "bytes": 564
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/1/near-forearm-hand.png": {
+    "sha256": "0d7a752e7537e1121c93c48239b883e06ae1cad7579b7bdf9410da05c5475c9c",
+    "bytes": 429
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/1/composite-drawing-data.png": {
+    "sha256": "945313bae64e3150eae1583b74df8cc61bb92954ba6dd83f22b66118578a0fe7",
+    "bytes": 1608
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/1/coat-back-skirt.png": {
+    "sha256": "40329df42a548e35165ff4bc6d6d4763ffcdd8b8ed27270458a37bb9ca28ef0e",
+    "bytes": 389
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/1/pelvis-root.png": {
+    "sha256": "1d6a56de7626fe15566fb62ab1d5684db9d104ae4d1bdf3a23c01da3fcbe2382",
+    "bytes": 259
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/2/far-sleeve-hand.png": {
+    "sha256": "9be7b81a3cd9377a1feb7940dec67b4f17954ed95843e52611145ead65ecc0ad",
+    "bytes": 375
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/2/far-boot-cuff-fixed.png": {
+    "sha256": "659761546da16d99e3c038d4ecf88ba68cf2b2758125f7ddb2a6263e7ac653ed",
+    "bytes": 250
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/2/near-boot-cuff-fixed.png": {
+    "sha256": "a01c2a3c42a34da7b9e6fe13233c7d7eabd299dcec9b9b939b2756436c67c060",
+    "bytes": 281
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/2/neck-collar.png": {
+    "sha256": "a60ee2fb13463f80281a65d6a8ef20fcfb3e956e57c3ad3c1d1ac968dac41753",
+    "bytes": 379
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/2/near-leg-pants.png": {
+    "sha256": "e7f4b1a3ab0ed270085328c0fe0b485714d777489bb3a4b57c039a470943fff5",
+    "bytes": 387
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/2/head-hair-face.png": {
+    "sha256": "49c0fbead7294dade43c070b12dce7d836f2b445e8874aabe51e192133ec0766",
+    "bytes": 434
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/2/near-upper-sleeve.png": {
+    "sha256": "0f13f15f0c84c240faf4c460ac4d200729e68b0aba4f24ea782f7e9117118b6b",
+    "bytes": 372
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/2/far-leg-pants.png": {
+    "sha256": "e02c5747d8d10397b8e1393affb10920bf34e0672ec4cdee097b6624e00538b1",
+    "bytes": 352
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/2/thorax-coat.png": {
+    "sha256": "7554e3d43e97685afbc1b5f0f2baa2ae5fbdb4bb02a332b5665bb90cb6a0a227",
+    "bytes": 563
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/2/near-forearm-hand.png": {
+    "sha256": "8beb66a69ae4c20c595de15d1d038349ddf27417620e2387f02deafd6326f014",
+    "bytes": 428
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/2/composite-drawing-data.png": {
+    "sha256": "79e74b298d0798410f096893c98dfec40ccf66ec75b4542f7dafa30fb0d76de1",
+    "bytes": 1599
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/2/coat-back-skirt.png": {
+    "sha256": "9af072227d8a8dcdfb29a84e9c4d5c25c6ca289d47c7e556f08564f8fd593f12",
+    "bytes": 388
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/drawing-data/2/pelvis-root.png": {
+    "sha256": "1c1577579e85e7f9150ec71baf195971c3b3d2dfd22311876ea1fb009851cd00",
+    "bytes": 259
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/comparison-packet/frame-002-region-00.png": {
+    "sha256": "6c852e5d8931ea98db79309ecb019f1a2f44c226836f50b445768fe1af233af4",
+    "bytes": 14628
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/comparison-packet/packet.json": {
+    "sha256": "96b6c04fd7dd371eb72e9361175a76f6bd7b786831fb6b38e519a4b34bc6b6ee",
+    "bytes": 12834
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/comparison-packet/frame-001-region-00.png": {
+    "sha256": "6092e3b31ba1c3e49c086733d6132d030886c10e2174320ba0c9a0b48eb3b79a",
+    "bytes": 14492
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/comparison-packet/frame-000-region-00.png": {
+    "sha256": "883e5bfd2766241cf809ab763322e30be71dd11b402d3740b0910ba81041c99e",
+    "bytes": 11763
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/comparison-packet/frame-003-region-00.png": {
+    "sha256": "6092e3b31ba1c3e49c086733d6132d030886c10e2174320ba0c9a0b48eb3b79a",
+    "bytes": 14492
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/reference-evidence/hero-2-contact.png": {
+    "sha256": "1bd12187718009e2d570f23dde175be0ef012366b32b18ca352dd17dbb5ebd1f",
+    "bytes": 33304
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/reference-evidence/saint11-contact.png": {
+    "sha256": "77f610e63c36fa00a0ee4b9c8d0d03342db3117e70bf72e2e802c3e29b67b920",
+    "bytes": 39572
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/reference-evidence/hero2-1-contact.png": {
+    "sha256": "7b485b024b1a52d54e84ae144adaabf05fd2dd8c1a741b4db957870ead35c425",
+    "bytes": 12987
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/reference-evidence/findings.md": {
+    "sha256": "4e3da0c897f4b054f46771b5a5b431f4c278cdbd277b73e9be239a710070d30c",
+    "bytes": 3336
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/timings.json": {
+    "sha256": "5345ec8c716a82e362c6b88447a3036ad1898067f3f6bfcd89ad4d9c435f4040",
+    "bytes": 1177
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/edit-proof-reopened.png": {
+    "sha256": "6d60584cd4d36dd11c1862967bcbc83e6efa89e9f5df89f53f93bd0028657622",
+    "bytes": 1749
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/contact-2x.png": {
+    "sha256": "44ad0035228ce5ea55f52e4a205f1913253d8972f0d8f1d81572d168de73822e",
+    "bytes": 6377
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/contact-3x.png": {
+    "sha256": "64a5c9a41bb2881db1012060c1f2700619f2f445a089f45feabe2f706f491cab",
+    "bytes": 7996
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/idle-0.png": {
+    "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+    "bytes": 1748
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/idle-1.png": {
+    "sha256": "6cdb9c1b26f42c77844badec32b5b65c02e9a366c178f89ef1684e4d2c04f0d2",
+    "bytes": 1738
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/idle-3.png": {
+    "sha256": "6cdb9c1b26f42c77844badec32b5b65c02e9a366c178f89ef1684e4d2c04f0d2",
+    "bytes": 1738
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/idle-2.png": {
+    "sha256": "fd4bb6259c667a3a01db8949c0dde86db3b3286ac49755ace5e0ea6e4af6fd90",
+    "bytes": 1733
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/edit-proof.aseprite": {
+    "sha256": "e0629a7db14324c4a33be0fd1b96f95a5986040432c1b73b4c26cf9c8d601be9",
+    "bytes": 13303
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/checks.json": {
+    "sha256": "d0ccc9110a7a629cfd773ceb298dc4fdf9f67b858afaffef61bd0cbc0ffc10e5",
+    "bytes": 3929
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/README.md": {
+    "sha256": "f216a09009b28822641ea6748040061711312f262e291e0b792af368c55d19ba",
+    "bytes": 5368
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/idle-sheet.png": {
+    "sha256": "3cf320cd3fa9d4247ace760e18225993b56a69af47d05b6000d6528ba975927e",
+    "bytes": 3533
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/edit-proof.png": {
+    "sha256": "6d60584cd4d36dd11c1862967bcbc83e6efa89e9f5df89f53f93bd0028657622",
+    "bytes": 1749
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/reopened-sheet.png": {
+    "sha256": "3cf320cd3fa9d4247ace760e18225993b56a69af47d05b6000d6528ba975927e",
+    "bytes": 3533
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/edit-proof-comparison-8x.png": {
+    "sha256": "0f416d8c9596cec7faed24d83a6b36ae09168d1be4b502849b50833334b26180",
+    "bytes": 2764
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/reopened-sheet.json": {
+    "sha256": "205899c544fe14448bf8f9f0446e408d4cb8549ec49bb7ebdf338b6efaa76d0a",
+    "bytes": 2356
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/raw-mcp-idle.gif": {
+    "sha256": "ea4b669eef678bf252291e45500d89a7270fa2c5f2501951624c542643aebc5e",
+    "bytes": 4141
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/contact-fixed128rest.png": {
+    "sha256": "11cb7f3996f9d868f573b449c12db504245618a7b576dfe40ee2f7c3cd0c3bc1",
+    "bytes": 4931
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/grounded-idle-r03.aseprite": {
+    "sha256": "afbb2f8b9d947890b1eedc53be03f3950e234ad53d81559a7537b25b44622665",
+    "bytes": 13304
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/contact-1x.png": {
+    "sha256": "595305d72dd257c4e6b45e5e94bcefb15c56de762bb688f4de9223351bf383e6",
+    "bytes": 5008
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/idle-sheet.json": {
+    "sha256": "326901ce59ddd8c10c1c9f72c4132d69231eab6fad6fb6d3054a35102a1ee414",
+    "bytes": 2352
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f1-far-sleeve-hand.png": {
+    "sha256": "9158b1a2a4dfdb3faaa965eb2cb24bc700ad97ef6e9c6843f14938acea3b4565",
+    "bytes": 194
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f0-far-sleeve-hand.png": {
+    "sha256": "2b98726cb798321db834131a18d3e7e1e78ec6844c310f1654893f2641776688",
+    "bytes": 194
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f2-far-leg-pants.png": {
+    "sha256": "fa78998a54812f46d2047dd9e931a54cf2cfe78c223190467a42753263c316bb",
+    "bytes": 164
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f2-head-hair-face.png": {
+    "sha256": "9b154f23f3bc6dfec4d35ee4ab310ff0173daf3d542a52ca5eaf9ef425d345e9",
+    "bytes": 185
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f1-near-upper-sleeve.png": {
+    "sha256": "b011f5b29997666c14849c2996f1f167f6f47cfcc9dc428dcbf4b37e489540d1",
+    "bytes": 172
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f3-far-sleeve-hand.png": {
+    "sha256": "9158b1a2a4dfdb3faaa965eb2cb24bc700ad97ef6e9c6843f14938acea3b4565",
+    "bytes": 194
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f1-near-leg-pants.png": {
+    "sha256": "47ea89d08174ba4563ea9a4cc9b07ebc3def1f0a496178909b84071e2275ecb0",
+    "bytes": 180
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f2-far-sleeve-hand.png": {
+    "sha256": "1c2a965f6fc6ba862b2cc1aecca75df423f66d3498282fdce28922a361749c3d",
+    "bytes": 194
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f1-thorax-coat.png": {
+    "sha256": "209c0a3833a46d9ba5eed900b66adbaee5e4c8042e0142a3c2c0db103b999dca",
+    "bytes": 219
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f1-near-boot-cuff-fixed.png": {
+    "sha256": "d940b525b57029a0a48ed920ce3b1beeb937e1412c4bfa62dc35eea243031d40",
+    "bytes": 128
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f0-pelvis-root.png": {
+    "sha256": "ff8beb1142b0aa2087603235537a5f9013ba9f0708a857d95bd936e7370042b5",
+    "bytes": 170
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f1-far-boot-cuff-fixed.png": {
+    "sha256": "5d9877cb32e6e2feb4b75ea05c9a604af3f43c413bd7732da69e7c7c47718232",
+    "bytes": 139
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f3-neck-collar.png": {
+    "sha256": "3b37917fb7638e812c55d28e2ef49c1887457016c19547436633326b62cd5954",
+    "bytes": 178
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f2-near-leg-pants.png": {
+    "sha256": "f4fc6cdebea9a151b4b49a5d44676106bc52291eeb3c25d293fe43ec15f1600f",
+    "bytes": 179
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f1-head-hair-face.png": {
+    "sha256": "74baedf93ccde4610a7dbd4389e0f96795844964b16be1af6628d6aac22b2799",
+    "bytes": 184
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f3-far-leg-pants.png": {
+    "sha256": "e1f1b9e90f6383984422bb18ceeafb6acba52176f237cea67f2fb8c04e7966c0",
+    "bytes": 173
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f3-near-upper-sleeve.png": {
+    "sha256": "b011f5b29997666c14849c2996f1f167f6f47cfcc9dc428dcbf4b37e489540d1",
+    "bytes": 172
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f2-neck-collar.png": {
+    "sha256": "a2db2f4424201dce9c1b54125d5f4b726f455ae2d23a2688fadc69d4f0157924",
+    "bytes": 178
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f1-pelvis-root.png": {
+    "sha256": "0fa46b8b61ae4a6d7371ad583c2d5007a141679d44001cf2bfa1970e3d5daa57",
+    "bytes": 172
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f0-near-forearm-hand.png": {
+    "sha256": "82a1ff440a36ac0cb5b56a372eba75c413729ce5dd23a368dc7217d039c94294",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f0-far-leg-pants.png": {
+    "sha256": "e92aac1c106fe7fe4dbf33025c83ba9bb020380da7cf76038a001ab593d307d2",
+    "bytes": 177
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f2-far-boot-cuff-fixed.png": {
+    "sha256": "5d9877cb32e6e2feb4b75ea05c9a604af3f43c413bd7732da69e7c7c47718232",
+    "bytes": 139
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f2-near-forearm-hand.png": {
+    "sha256": "9d3f31db1fb65655fc912dc1b8755c13b4892d3981d5443df96f9cd965be838b",
+    "bytes": 198
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f1-far-leg-pants.png": {
+    "sha256": "e1f1b9e90f6383984422bb18ceeafb6acba52176f237cea67f2fb8c04e7966c0",
+    "bytes": 173
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f0-near-boot-cuff-fixed.png": {
+    "sha256": "d940b525b57029a0a48ed920ce3b1beeb937e1412c4bfa62dc35eea243031d40",
+    "bytes": 128
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f0-thorax-coat.png": {
+    "sha256": "c4d66430bc1db10e74c726213329e5b85355750649a8966798b7be6ff10c1e77",
+    "bytes": 218
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f2-coat-back-skirt.png": {
+    "sha256": "01eb51433ffd6f2679ff30137a4c264701dafc245f13ee71b99a6bab02be168f",
+    "bytes": 208
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f0-near-upper-sleeve.png": {
+    "sha256": "21266eee56c12f546131d39ee70ffee3f95933c4d70389e874d33a934925ade1",
+    "bytes": 174
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f3-coat-back-skirt.png": {
+    "sha256": "4148a16b47c630182e9de6ebe80399d8fdcbd6e863c4a35f172e9acfbbbb3115",
+    "bytes": 209
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f0-neck-collar.png": {
+    "sha256": "a4891ef9402e17b474bf992cb0a21920aecf1a2d2e3efceae02c3d778fecba0e",
+    "bytes": 177
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f3-pelvis-root.png": {
+    "sha256": "0fa46b8b61ae4a6d7371ad583c2d5007a141679d44001cf2bfa1970e3d5daa57",
+    "bytes": 172
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f0-coat-back-skirt.png": {
+    "sha256": "a4122e51286ad8a5437eadf391a29bb0cc9c6670658b55a5a8ff4d31345e0098",
+    "bytes": 208
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f0-far-boot-cuff-fixed.png": {
+    "sha256": "5d9877cb32e6e2feb4b75ea05c9a604af3f43c413bd7732da69e7c7c47718232",
+    "bytes": 139
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f1-coat-back-skirt.png": {
+    "sha256": "4148a16b47c630182e9de6ebe80399d8fdcbd6e863c4a35f172e9acfbbbb3115",
+    "bytes": 209
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f2-near-upper-sleeve.png": {
+    "sha256": "edc190b7129f48b885a47c1313db2e72a8c41143a6606617bdeb7ba6a774d210",
+    "bytes": 174
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f2-near-boot-cuff-fixed.png": {
+    "sha256": "d940b525b57029a0a48ed920ce3b1beeb937e1412c4bfa62dc35eea243031d40",
+    "bytes": 128
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f2-thorax-coat.png": {
+    "sha256": "b5da9604a19b7edff6e0c2cc3f6b869ee76d04c799f1654d8c40d7787f8685ab",
+    "bytes": 217
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f3-near-leg-pants.png": {
+    "sha256": "47ea89d08174ba4563ea9a4cc9b07ebc3def1f0a496178909b84071e2275ecb0",
+    "bytes": 180
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f0-head-hair-face.png": {
+    "sha256": "9dab3a44a08a843b0497e1c0deec320be5e74457fbdf585200917ec67cccf003",
+    "bytes": 185
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f3-near-boot-cuff-fixed.png": {
+    "sha256": "d940b525b57029a0a48ed920ce3b1beeb937e1412c4bfa62dc35eea243031d40",
+    "bytes": 128
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f3-thorax-coat.png": {
+    "sha256": "209c0a3833a46d9ba5eed900b66adbaee5e4c8042e0142a3c2c0db103b999dca",
+    "bytes": 219
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f1-near-forearm-hand.png": {
+    "sha256": "3df0b148863f1a6da1ea193b4da49e6d8de63082856f12dedf5d5e7e71c75d36",
+    "bytes": 200
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f3-far-boot-cuff-fixed.png": {
+    "sha256": "5d9877cb32e6e2feb4b75ea05c9a604af3f43c413bd7732da69e7c7c47718232",
+    "bytes": 139
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f2-pelvis-root.png": {
+    "sha256": "b3dc0aa125e5445aa8e2b0131fec88799c47345abb30b2c5ad9c9130e2fcefb2",
+    "bytes": 170
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f1-neck-collar.png": {
+    "sha256": "3b37917fb7638e812c55d28e2ef49c1887457016c19547436633326b62cd5954",
+    "bytes": 178
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f3-near-forearm-hand.png": {
+    "sha256": "3df0b148863f1a6da1ea193b4da49e6d8de63082856f12dedf5d5e7e71c75d36",
+    "bytes": 200
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f3-head-hair-face.png": {
+    "sha256": "74baedf93ccde4610a7dbd4389e0f96795844964b16be1af6628d6aac22b2799",
+    "bytes": 184
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/delivery/masks/f0-near-leg-pants.png": {
+    "sha256": "8382014554c51a12945743b19b3afd7a0494b9b3eb7fdbc9741ae6c06d5d0234",
+    "bytes": 186
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/knees-ankles-contrast-3x.png": {
+    "sha256": "8634976278a45a11a1358cc8d4a76f0f4cd18b2e2e18c20ad66d603077bdfbb3",
+    "bytes": 4383
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/sink-hide-far-leg-pants.png": {
+    "sha256": "5f90ed1df11c372744c724bc045404dcf4164c9c969dfa28d02c0197dd1da9ff",
+    "bytes": 1566
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/sink-hide-near-boot-cuff-fixed.png": {
+    "sha256": "4923b8cf25e5c12535fd2156b4d4bfa2f5cc3b959e1f15153b3de764f1f61be6",
+    "bytes": 1555
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/sink-hide-near-leg-pants.png": {
+    "sha256": "70291a51afcd635a68001025e9b0f58694f12ea4bbaa816379928c235782f0b8",
+    "bytes": 1548
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/rest-hide-near-leg-pants.png": {
+    "sha256": "2b67fb1f42cc319cefb6fdb7be23df79017bedc808ce3d7e90954885824d2123",
+    "bytes": 1572
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/transition-hide-near-boot-cuff-fixed.png": {
+    "sha256": "5805c27f195802d2df3cb4a8ef46e20e9ca05d49c6a753ea49e4d88cc5f63282",
+    "bytes": 1564
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/rest-lower-ownership.png": {
+    "sha256": "a2565e16b7165aeb613f7cff819447a8ca2975dafe52f70be9cc85f70eedfc25",
+    "bytes": 10604
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/transition-hide-pelvis-root.png": {
+    "sha256": "7bcc8c1382b8eeb2983c46f555ffbe2e8ed1ff29e20aa25a45a4d1536ad48424",
+    "bytes": 1611
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/rest-hide-far-leg-pants.png": {
+    "sha256": "5b4d51f81093cffe848419cc0dcf7d4e9579ed177d334e51641fee2a1e0734ea",
+    "bytes": 1558
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/grounded-keys.aseprite": {
+    "sha256": "3817c6d8781815eab8342a771dd6e9295cca0c8d6c848076ebde21aa4b258af1",
+    "bytes": 10115
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/rest-hide-far-boot-cuff-fixed.png": {
+    "sha256": "55c2c8fa497ff7b4068e68e7f20744265cba396ae0afd81bee2bc006c66e2964",
+    "bytes": 1575
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/keys-3x.png": {
+    "sha256": "15dd76df6d4c89ebb55af37a4139e75e20716a88c132c84a2f861af14175ca89",
+    "bytes": 6446
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/transition-lower-ownership.png": {
+    "sha256": "bdef773f206ac6f47d5b82e960ba15872ca2176ddd6615ecc055d3b672c32c2a",
+    "bytes": 10617
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/sink-landmarks-3x.png": {
+    "sha256": "93aba8b2a9ba94f5137c33215317e1fd7c40dd899e5e0e9ba2923841db0bcf54",
+    "bytes": 5100
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/cuff-contact-readback.json": {
+    "sha256": "111a6b6f58da6330aba820a92cac2df2138c44f3c11c8c62e58868bc1be8cbb9",
+    "bytes": 1523
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/rest-hide-pelvis-root.png": {
+    "sha256": "3c54e73b0afe39352fb19bcaebd7d01a389ee73dc6374f01d85d504d9caaac14",
+    "bytes": 1617
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/checks.json": {
+    "sha256": "e54908aeb3d2e1c854a1a548c7a94a92f082f65810800bc3ff7982f7d8d10619",
+    "bytes": 2427
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/transition-hide-near-leg-pants.png": {
+    "sha256": "82d7a54bc342a5b5a326e46a41f621504986a5cc5d43ef33196bbc22492446a6",
+    "bytes": 1557
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/sink-hide-pelvis-root.png": {
+    "sha256": "44cac0f65a6d362d1d4d350bc87f9284989d2ea04e1eb31720544abfc9f083eb",
+    "bytes": 1603
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/transition-hide-far-boot-cuff-fixed.png": {
+    "sha256": "b82ed280380ee74630b0122bf2a2614dde30a4d434fac5c3af2e0569e6e3dbcf",
+    "bytes": 1569
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/keys-1x.png": {
+    "sha256": "a53fe7df9889f32d4a58ea416a4ad4122ce3c0f099e43d4241dd3060ad1c0606",
+    "bytes": 4023
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/transition-hide-far-leg-pants.png": {
+    "sha256": "10486f28857c9abbb51d14e160b2e2f20b663c473b977e21283672f5dc313f6c",
+    "bytes": 1561
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/transition.png": {
+    "sha256": "6cdb9c1b26f42c77844badec32b5b65c02e9a366c178f89ef1684e4d2c04f0d2",
+    "bytes": 1738
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/rest.png": {
+    "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+    "bytes": 1748
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/transition-landmarks-3x.png": {
+    "sha256": "da3e050582bfdbd42ad483c584e82b8ac3cc53b5fe89e11bab064bd2b899251c",
+    "bytes": 5143
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/sink-lower-ownership.png": {
+    "sha256": "b26864b13c937baf5719fe6321ba7be240cc2c8611eef77c60e7fd33c1afb39c",
+    "bytes": 10631
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/rest-landmarks-3x.png": {
+    "sha256": "7e343b7d62268a9a8dec59f9029a7dfc411d3d8565884cff81e7e8f9d1ec3499",
+    "bytes": 5140
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/keys-fixed128rest.png": {
+    "sha256": "3c2346ac34fbc818b6d347de8244d1900801be0219a5b6b1bccd945b764c2090",
+    "bytes": 4677
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/sink-hide-far-boot-cuff-fixed.png": {
+    "sha256": "0f5678d8cb3d6b9e07a72d52b597d94b85465121251a3d5f3b581c317ece4c3d",
+    "bytes": 1561
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/rest-hide-near-boot-cuff-fixed.png": {
+    "sha256": "23200604ba8f2c7812734d0e8fb0cabb5f403d9a94212e1e078087dc3ae28009",
+    "bytes": 1571
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/native-work/keys/sink.png": {
+    "sha256": "fd4bb6259c667a3a01db8949c0dde86db3b3286ac49755ace5e0ea6e4af6fd90",
+    "bytes": 1733
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/godot-preview/main.tscn": {
+    "sha256": "8d06a5de93ecbebc3b6311cc56d2fa69d933b56c74a04baf3a8cdeb6f10d3e74",
+    "bytes": 164
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/godot-preview/layout.json": {
+    "sha256": "0e4f5fb97318cfa6e2068c71c7b8c37d7eddcbe3275f37095cd58072bb2fb53f",
+    "bytes": 329
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/godot-preview/preview.gd": {
+    "sha256": "a0ddfd785dd1b0f01f1bd422f1ed8d60751214eac6ce3948f7430f4cb7c6ac9d",
+    "bytes": 3714
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/godot-preview/project.godot": {
+    "sha256": "b1a55c7ceb48b60308c3f2dc204bc99931eb4366659b0828042d784831d0cbde",
+    "bytes": 527
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/godot-preview/textures/idle-0.png": {
+    "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+    "bytes": 1748
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/godot-preview/textures/idle-1.png": {
+    "sha256": "6cdb9c1b26f42c77844badec32b5b65c02e9a366c178f89ef1684e4d2c04f0d2",
+    "bytes": 1738
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/godot-preview/textures/idle-3.png": {
+    "sha256": "6cdb9c1b26f42c77844badec32b5b65c02e9a366c178f89ef1684e4d2c04f0d2",
+    "bytes": 1738
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/godot-preview/textures/idle-2.png": {
+    "sha256": "fd4bb6259c667a3a01db8949c0dde86db3b3286ac49755ace5e0ea6e4af6fd90",
+    "bytes": 1733
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/godot-preview/evidence/runtime.json": {
+    "sha256": "1ed58b7573a7011251c76e33a8f8675fb05661f5f2ba5ee44682297279fcaf2a",
+    "bytes": 1473
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/godot-preview/evidence/mcp-stop.json": {
+    "sha256": "69fe7b6c40b3e89d6b3f207ea7ec191f37193f87c7e3419916f71bdcec6e73c8",
+    "bytes": 1925
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/godot-preview/evidence/mcp-debug.json": {
+    "sha256": "292aab9702e566742a0fa96208efe8d5ea619a0714a2410929bf8cec81a0f1b4",
+    "bytes": 1227
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/godot-preview/evidence/pixel-checks.json": {
+    "sha256": "4764d4bde62d213a9d4fb06ebc2f5a7f4075bf651fb55ecec8a8e0ec029c2ddb",
+    "bytes": 226
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/godot-preview/evidence/runtime-frame-01.png": {
+    "sha256": "74f6e2599eda970fd3429a66e3255d7998b8671453989623939ebeb2cd88f783",
+    "bytes": 14849
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/godot-preview/evidence/runtime-frame-00.png": {
+    "sha256": "1afd89e59cb0f264402641fae2f70fe9b7a17e98bb887be7c66e3d79c09acb7f",
+    "bytes": 14778
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/godot-preview/evidence/runtime-frame-02.png": {
+    "sha256": "5fe17e7486e389694b7e9e84335dbe105710d2a3cc30c557d92b07587726ea34",
+    "bytes": 14836
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/godot-preview/evidence/runtime-frame-03.png": {
+    "sha256": "74f6e2599eda970fd3429a66e3255d7998b8671453989623939ebeb2cd88f783",
+    "bytes": 14849
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/lead-review/grounded-3x.gif": {
+    "sha256": "dbdbee375f81b8b1a53fb742764ea2cae13eea2f57ab51972880fb1b26674252",
+    "bytes": 16389
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/lead-review/grounded-environment-2x.gif": {
+    "sha256": "a286ba36e6605a6e76b066c6acb244f80f063108d03f5696bac232df9b9c75a8",
+    "bytes": 17386
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/lead-review/research-summary.md": {
+    "sha256": "68ba1ebdd2214bec0442c047f2cad8e57d45f652c19fa82a18faf1b49658edc7",
+    "bytes": 2926
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/lead-review/cycle-2x.png": {
+    "sha256": "552cd11019a5b24376f0cf515fc88226693185bb11794737bd35afdbd0e1c817",
+    "bytes": 4998
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/lead-review/manual-review.json": {
+    "sha256": "f1bd2352c68752bdd61fb3014ad24ab934ca559c78dfff7f7689480327d347fe",
+    "bytes": 2026
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/lead-review/key-plans-3x.png": {
+    "sha256": "85ab21cb1d0e8585155ebe7273b6a85fec64d558f998436238c1049d308da27b",
+    "bytes": 6233
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/lead-review/preview-checks.json": {
+    "sha256": "c9a91a022b054553a052dd43edeb987ed7376844126d5f83b2218e623ac3b211",
+    "bytes": 753
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/lead-review/grounded-exact-native.gif": {
+    "sha256": "6ef8025a4225dcfe8b9a201ac5b2d24948fb4a22a30aad902815cff39f9a11cf",
+    "bytes": 7232
+  },
+  "docs/experiments/2026-11-02-reference-led-idle-r03/lead-review/native-keys-3x.png": {
+    "sha256": "af121c19a0de905d7a7abaf3509113e73b5baad82700979dcc5e21c4c975b76a",
+    "bytes": 6345
+  },
+  "assets/source/atmospheric-traveler/idle-r03/README.md": {
+    "sha256": "f216a09009b28822641ea6748040061711312f262e291e0b792af368c55d19ba",
+    "bytes": 5368
+  },
+  "assets/source/atmospheric-traveler/idle-r03/grounded-idle.aseprite": {
+    "sha256": "afbb2f8b9d947890b1eedc53be03f3950e234ad53d81559a7537b25b44622665",
+    "bytes": 13304
+  },
+  "assets/source/atmospheric-traveler/idle-r03/protected-boots.png": {
+    "sha256": "6f32b34c54bd00828b52875400b6de8f86f6a4b134d624ea4127be0deb0790c5",
+    "bytes": 148
+  },
+  "assets/source/atmospheric-traveler/idle-r03/editable-mask.png": {
+    "sha256": "ead8ce13bfd767683053494b947facae72699f60eef5e1523b2ef3acb4b58f10",
+    "bytes": 193
+  },
+  "assets/source/atmospheric-traveler/idle-r03/drawing-ops.json": {
+    "sha256": "3863cc19924534e21082369a41e86802a4b22a43fc54e3f4ab2eee369d84859e",
+    "bytes": 291489
+  },
+  "assets/export/atmospheric-traveler/idle-r03/timings.json": {
+    "sha256": "5345ec8c716a82e362c6b88447a3036ad1898067f3f6bfcd89ad4d9c435f4040",
+    "bytes": 1177
+  },
+  "assets/export/atmospheric-traveler/idle-r03/idle-sheet.png": {
+    "sha256": "3cf320cd3fa9d4247ace760e18225993b56a69af47d05b6000d6528ba975927e",
+    "bytes": 3533
+  },
+  "assets/export/atmospheric-traveler/idle-r03/idle.gif": {
+    "sha256": "6ef8025a4225dcfe8b9a201ac5b2d24948fb4a22a30aad902815cff39f9a11cf",
+    "bytes": 7232
+  },
+  "assets/export/atmospheric-traveler/idle-r03/idle-sheet.json": {
+    "sha256": "326901ce59ddd8c10c1c9f72c4132d69231eab6fad6fb6d3054a35102a1ee414",
+    "bytes": 2352
+  },
+  "assets/export/atmospheric-traveler/idle-r03/frames/idle-03.png": {
+    "sha256": "6cdb9c1b26f42c77844badec32b5b65c02e9a366c178f89ef1684e4d2c04f0d2",
+    "bytes": 1738
+  },
+  "assets/export/atmospheric-traveler/idle-r03/frames/idle-02.png": {
+    "sha256": "fd4bb6259c667a3a01db8949c0dde86db3b3286ac49755ace5e0ea6e4af6fd90",
+    "bytes": 1733
+  },
+  "assets/export/atmospheric-traveler/idle-r03/frames/idle-00.png": {
+    "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+    "bytes": 1748
+  },
+  "assets/export/atmospheric-traveler/idle-r03/frames/idle-01.png": {
+    "sha256": "6cdb9c1b26f42c77844badec32b5b65c02e9a366c178f89ef1684e4d2c04f0d2",
+    "bytes": 1738
+  },
+  "assets/previews/atmospheric-traveler/idle-r03/contact-2x.png": {
+    "sha256": "552cd11019a5b24376f0cf515fc88226693185bb11794737bd35afdbd0e1c817",
+    "bytes": 4998
+  },
+  "assets/previews/atmospheric-traveler/idle-r03/idle-environment-2x.gif": {
+    "sha256": "a286ba36e6605a6e76b066c6acb244f80f063108d03f5696bac232df9b9c75a8",
+    "bytes": 17386
+  },
+  "assets/previews/atmospheric-traveler/idle-r03/idle-3x.gif": {
+    "sha256": "dbdbee375f81b8b1a53fb742764ea2cae13eea2f57ab51972880fb1b26674252",
+    "bytes": 16389
+  },
+  "assets/previews/atmospheric-traveler/idle-r03/godot-context.png": {
+    "sha256": "5fe17e7486e389694b7e9e84335dbe105710d2a3cc30c557d92b07587726ea34",
+    "bytes": 14836
+  },
+  "docs/research/idle-animation-references-2026-11-02/hero.html": {
+    "sha256": "e9a8617a4562dcc9a5da2c9ec30118c506f7452bb31455409997d2f0575b9f40",
+    "bytes": 89190
+  },
+  "docs/research/idle-animation-references-2026-11-02/hero-2.gif": {
+    "sha256": "fd82fc4d1c0384cc8a34fb7a24fc11d0ac880f6333fb65c10fbb5d02686669b8",
+    "bytes": 54673
+  },
+  "docs/research/idle-animation-references-2026-11-02/hero2.html": {
+    "sha256": "d1f74235a8137b1033d6c10e5a23c651b87fdd7972639fdfcf4745e00edfc254",
+    "bytes": 80638
+  },
+  "docs/research/idle-animation-references-2026-11-02/hero-2-contact.png": {
+    "sha256": "1bd12187718009e2d570f23dde175be0ef012366b32b18ca352dd17dbb5ebd1f",
+    "bytes": 33304
+  },
+  "docs/research/idle-animation-references-2026-11-02/hero2-1-contact.png": {
+    "sha256": "7b485b024b1a52d54e84ae144adaabf05fd2dd8c1a741b4db957870ead35c425",
+    "bytes": 12987
+  },
+  "docs/research/idle-animation-references-2026-11-02/hero2-1.gif": {
+    "sha256": "a6cce04f5a0e6ec1b7040a17b3d51a7ae1b654a26848be056a8b60ab51544405",
+    "bytes": 21469
+  },
+  "docs/research/idle-animation-references-2026-11-02/findings.md": {
+    "sha256": "68ba1ebdd2214bec0442c047f2cad8e57d45f652c19fa82a18faf1b49658edc7",
+    "bytes": 2926
+  },
+  "docs/research/idle-animation-references-2026-11-02/media-provenance.json": {
+    "sha256": "5cad65a314e8540fbd0fb464d1e20f6597e0d4a2998804bb304178c7e649b2d8",
+    "bytes": 656
+  },
+  "docs/research/idle-animation-references-2026-11-02/artist-idles.md": {
+    "sha256": "4e3da0c897f4b054f46771b5a5b431f4c278cdbd277b73e9be239a710070d30c",
+    "bytes": 3336
+  }
+}

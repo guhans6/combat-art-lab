@@ -19,3 +19,7 @@
 | Pipeline proof | A small observed construction, playback, and revision experiment used to assess a method. |
 | Visual approval | The user's acceptance of a specific result; agents must not fabricate it. |
 | Checkpoint | A verified increment. It is not automatically another human permission gate. |
+| Look development (lookdev) | Evaluating and refining an asset's appearance in controlled environments and lighting; here, using comparable 2D game views. |
+| Review session | A named comparison question, candidates, scene settings, evidence and human decisions that can be revisited together. |
+| Variant | A separately identified alternative to an asset or look, with its intended differences recorded. |
+| Contact sheet | A static labeled grid of candidate images for comparison. |

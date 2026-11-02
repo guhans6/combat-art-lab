@@ -1,0 +1,1118 @@
+{
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/record.md": {
+    "sha256": "2a52cdc0d9aa90ae0038867076ef4c2b17bcb155ddda42d1613a12bdee254f29",
+    "bytes": 5521
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/preservation.json": {
+    "sha256": "a99541c66f9b50e9eb0034448beaa34cfdbbc87aab37dba587b451ffc17853ff",
+    "bytes": 229
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/baseline.aseprite": {
+    "sha256": "a34a66c188f0f3f63fd0bb06e1ccdf1ed68c82b2f8fe0b617e42489be1313417",
+    "bytes": 35107
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/SHA256.json": {
+    "sha256": "921701dc4b6187dc6349c9779e2b06c08b0cee8df73ac2439f3c962ac5f6e4e7",
+    "bytes": 22528
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/editable-upperbody-frozen.png": {
+    "sha256": "351a99c474baa74f2dd26c1043519ea4472253e8b37452c66d3f266b15b0119c",
+    "bytes": 306
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/producer-review.md": {
+    "sha256": "4a372202d57c571f66826b1c705fcab0619999af466b6a1cdb4adbf83cd2a98a",
+    "bytes": 2138
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/audit_delivery.py": {
+    "sha256": "81d4768c64cd41409718eeb8169b4dd98e32ec8bf2e9f9c5463490b428f5d798",
+    "bytes": 9794
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/comparison.json": {
+    "sha256": "c3991ecf99c133b9ae73e83bd489867835920082141aa2f7deb5b1f73e5d61ca",
+    "bytes": 5839
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/correction-ops.json": {
+    "sha256": "85a1bbc241c203b6e78aef921f72c67d717fe95963bf9839f623d4c83bb24397",
+    "bytes": 46274
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/observations.md": {
+    "sha256": "73dac77813aae9699964a6758a584254a7c013bc0fb8f85a51df3f8b948f9519",
+    "bytes": 3137
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/prepare.py": {
+    "sha256": "6deeab5ba1b7c27b67b8bab20ece9364b5236af94ad3d6a6c55150f7e5f3a8c9",
+    "bytes": 4652
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/review_keys.py": {
+    "sha256": "8e3f5ad8af45ffcbf1820277632301c25938224b2df88db7d5deed9df2d2fe7a",
+    "bytes": 3489
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/comparison-packet/frame-008-region-00.png": {
+    "sha256": "45d1f546147858ef156e4ccac34a4be06290919c1c21ec69ed0b533ec44f1df4",
+    "bytes": 12434
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/comparison-packet/frame-006-region-00.png": {
+    "sha256": "b727cadaa8fd528100b949003890db241499a573eae25de5c5841516424dfafa",
+    "bytes": 12438
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/comparison-packet/frame-011-region-00.png": {
+    "sha256": "38831cd211f9a137079333de0fb05815bfd91bd6ebecea3d321b87ae61cfcfcd",
+    "bytes": 10473
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/comparison-packet/frame-002-region-00.png": {
+    "sha256": "e269e3518d612f53a68f7e8b180261871674add54ca85282acde5208e6f565b5",
+    "bytes": 12347
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/comparison-packet/packet.json": {
+    "sha256": "dccf55d1111aabd0535d3386713f65428951b8f52dee26a502442dfce911aa77",
+    "bytes": 31163
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/comparison-packet/frame-005-region-00.png": {
+    "sha256": "43ebc4b24cbc217a2a7bfeaf0634d6ad32832728fb14f6953736914e0053de7a",
+    "bytes": 12642
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/comparison-packet/frame-001-region-00.png": {
+    "sha256": "a26da5c0449e98298f6372302ebd84763048fac02dd1d19d5a2e3d14fbdde80b",
+    "bytes": 10472
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/comparison-packet/frame-000-region-00.png": {
+    "sha256": "38831cd211f9a137079333de0fb05815bfd91bd6ebecea3d321b87ae61cfcfcd",
+    "bytes": 10473
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/comparison-packet/frame-004-region-00.png": {
+    "sha256": "57e65094e2fd8684bf142ebdf79f3f2525173f521410f12221f4fccd62bfd90a",
+    "bytes": 12435
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/comparison-packet/frame-003-region-00.png": {
+    "sha256": "45d1f546147858ef156e4ccac34a4be06290919c1c21ec69ed0b533ec44f1df4",
+    "bytes": 12434
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/comparison-packet/frame-010-region-00.png": {
+    "sha256": "a26da5c0449e98298f6372302ebd84763048fac02dd1d19d5a2e3d14fbdde80b",
+    "bytes": 10472
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/comparison-packet/frame-007-region-00.png": {
+    "sha256": "57e65094e2fd8684bf142ebdf79f3f2525173f521410f12221f4fccd62bfd90a",
+    "bytes": 12435
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/comparison-packet/frame-009-region-00.png": {
+    "sha256": "e269e3518d612f53a68f7e8b180261871674add54ca85282acde5208e6f565b5",
+    "bytes": 12347
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/before/breath-10.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/before/breath-04.png": {
+    "sha256": "ead54eac3f165a8730060c05273c913e4c23de527f691e1001a7b334a7d088ad",
+    "bytes": 1743
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/before/breath-05.png": {
+    "sha256": "d39bfb0797353b69bb39de48360a507463fea7a18278130fcba02ab82287d3f4",
+    "bytes": 1754
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/before/breath-11.png": {
+    "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+    "bytes": 1748
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/before/breath-07.png": {
+    "sha256": "ead54eac3f165a8730060c05273c913e4c23de527f691e1001a7b334a7d088ad",
+    "bytes": 1743
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/before/breath-06.png": {
+    "sha256": "9643dba77cbfd1355dc41585c09e930887672b7e39a957f6aba93d4a74be8531",
+    "bytes": 1732
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/before/breath-02.png": {
+    "sha256": "1c52f3028b70890b6978d359d33389c6a83f996e5524f8b40bfd890c041fb39f",
+    "bytes": 1762
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/before/breath-03.png": {
+    "sha256": "e272321157ebe43958d9f0ac2c522c7433f78768f70b09ee48fe70324de1e922",
+    "bytes": 1769
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/before/breath-01.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/before/breath-00.png": {
+    "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+    "bytes": 1748
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/before/breath-08.png": {
+    "sha256": "e272321157ebe43958d9f0ac2c522c7433f78768f70b09ee48fe70324de1e922",
+    "bytes": 1769
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/before/breath-09.png": {
+    "sha256": "1c52f3028b70890b6978d359d33389c6a83f996e5524f8b40bfd890c041fb39f",
+    "bytes": 1762
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/before-after-fixed128rest.png": {
+    "sha256": "9c5b523e9e457a652d9ced3165893e16d07895b505afa29d55ab62aa52bb6b3f",
+    "bytes": 18323
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/timings.json": {
+    "sha256": "8360cdc5cc86274d4b11bd613cc0424fc583247f4874b06f49ab6f6f2713213a",
+    "bytes": 1941
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/edit-proof-reopened.png": {
+    "sha256": "6d60584cd4d36dd11c1862967bcbc83e6efa89e9f5df89f53f93bd0028657622",
+    "bytes": 1749
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/contact-2x.png": {
+    "sha256": "4327eaa10fb4237b67198755a388f86d1df5bcf02308b4ba763be420faaa07aa",
+    "bytes": 17789
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/contact-3x.png": {
+    "sha256": "ff2544bef2a6f051b9c803169ff6aaa6d3222be8d79c4786f8b6d70806d15bbd",
+    "bytes": 22672
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/raw-mcp-breath.gif": {
+    "sha256": "c2bc1adf3ee2d8980c55e402a1a50fdc533966692d639fd41a9fb32e5eafebb5",
+    "bytes": 12265
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/before-after-upper-all-2x.png": {
+    "sha256": "7eecb0c9100bbc733bc7d5bb5cf34026022e7d5af2e74bf14966c3a1f14bc74a",
+    "bytes": 16538
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/breath-3.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/breath-10.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/breath-11.png": {
+    "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+    "bytes": 1748
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/breath-2.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/breath-0.png": {
+    "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+    "bytes": 1748
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/breath-1.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/traveler-breathing-r02.aseprite": {
+    "sha256": "82e878fe5be2ebef488cd2465cc840280750eb2bc16636834212efca0ab1ebeb",
+    "bytes": 35051
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/breath-5.png": {
+    "sha256": "e272321157ebe43958d9f0ac2c522c7433f78768f70b09ee48fe70324de1e922",
+    "bytes": 1769
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/edit-proof.aseprite": {
+    "sha256": "fce8d49eb90331f0c578fc467a979c0948f91d77fc186fec050daf5ca5e5d0d0",
+    "bytes": 35050
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/breath-4.png": {
+    "sha256": "1c52f3028b70890b6978d359d33389c6a83f996e5524f8b40bfd890c041fb39f",
+    "bytes": 1762
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/breath-6.png": {
+    "sha256": "e272321157ebe43958d9f0ac2c522c7433f78768f70b09ee48fe70324de1e922",
+    "bytes": 1769
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/breath-sheet.json": {
+    "sha256": "f23840b7cbc3fb369d655a5532b1bf547251ae5467ae3e8af532028e2d94a29b",
+    "bytes": 4503
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/breath-7.png": {
+    "sha256": "1c52f3028b70890b6978d359d33389c6a83f996e5524f8b40bfd890c041fb39f",
+    "bytes": 1762
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/checks.json": {
+    "sha256": "695e695cca5041d4d77114de7e83ac8fd4dc771ba726b55c642f68fb29d3fdfe",
+    "bytes": 8450
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/README.md": {
+    "sha256": "ba741c26b26c20977871e356ffbc9a7579af85ded99b91501df144398baae46e",
+    "bytes": 4151
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/edit-proof.png": {
+    "sha256": "6d60584cd4d36dd11c1862967bcbc83e6efa89e9f5df89f53f93bd0028657622",
+    "bytes": 1749
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/reopened-sheet.png": {
+    "sha256": "6611c0f75fe3d186c14858abdb5850426ffb2d78bc25fbe5c2d67dbb6ed4d040",
+    "bytes": 5805
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/edit-proof-comparison-8x.png": {
+    "sha256": "0f416d8c9596cec7faed24d83a6b36ae09168d1be4b502849b50833334b26180",
+    "bytes": 2764
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/breath-9.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/breath-8.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/breath-sheet.png": {
+    "sha256": "6611c0f75fe3d186c14858abdb5850426ffb2d78bc25fbe5c2d67dbb6ed4d040",
+    "bytes": 5805
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/reopened-sheet.json": {
+    "sha256": "0f478ffd67a0e9f19e0597950a87229697bf3e802362d74bd6f84399a9f9895e",
+    "bytes": 4505
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/contact-1x.png": {
+    "sha256": "2aa37a722e4be1d350939ceddd6ebc71f529fcfafe023ac5a2a1c0fea987fc01",
+    "bytes": 12756
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f09-head-hair-face.png": {
+    "sha256": "9dab3a44a08a843b0497e1c0deec320be5e74457fbdf585200917ec67cccf003",
+    "bytes": 185
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f04-near-forearm-hand.png": {
+    "sha256": "cc425ff3acff8a969d80837f04cf7e9fee456b68d64eb2b289fa4cb54924012e",
+    "bytes": 200
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f04-head-hair-face.png": {
+    "sha256": "63c2837cf708730bcd07e2c128371142b2980dce04e89c6cfdc3349d8b5b12d4",
+    "bytes": 185
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f04-pelvis-root.png": {
+    "sha256": "ff8beb1142b0aa2087603235537a5f9013ba9f0708a857d95bd936e7370042b5",
+    "bytes": 170
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f07-neck-collar.png": {
+    "sha256": "91ca9c9831123e04dfd0db29af1f5f4385aced1d3c30c33e84c32b8f6f951e35",
+    "bytes": 178
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f01-near-upper-sleeve.png": {
+    "sha256": "21266eee56c12f546131d39ee70ffee3f95933c4d70389e874d33a934925ade1",
+    "bytes": 174
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f02-thorax-coat.png": {
+    "sha256": "25374d0ad341a843fbb15d8f9c9e58a94b43fc5dccc0abf0448401f827f12887",
+    "bytes": 225
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f08-coat-back-skirt.png": {
+    "sha256": "a4122e51286ad8a5437eadf391a29bb0cc9c6670658b55a5a8ff4d31345e0098",
+    "bytes": 208
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f11-coat-back-skirt.png": {
+    "sha256": "a4122e51286ad8a5437eadf391a29bb0cc9c6670658b55a5a8ff4d31345e0098",
+    "bytes": 208
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f08-neck-collar.png": {
+    "sha256": "a4891ef9402e17b474bf992cb0a21920aecf1a2d2e3efceae02c3d778fecba0e",
+    "bytes": 177
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f07-far-leg-boot.png": {
+    "sha256": "3242ebc451f1bab335faa7a658af23c3a19509bf1fbf4820e09c2f4cffd7ae4e",
+    "bytes": 202
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f11-neck-collar.png": {
+    "sha256": "a4891ef9402e17b474bf992cb0a21920aecf1a2d2e3efceae02c3d778fecba0e",
+    "bytes": 177
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f09-coat-back-skirt.png": {
+    "sha256": "a4122e51286ad8a5437eadf391a29bb0cc9c6670658b55a5a8ff4d31345e0098",
+    "bytes": 208
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f09-near-upper-sleeve.png": {
+    "sha256": "21266eee56c12f546131d39ee70ffee3f95933c4d70389e874d33a934925ade1",
+    "bytes": 174
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f10-coat-back-skirt.png": {
+    "sha256": "a4122e51286ad8a5437eadf391a29bb0cc9c6670658b55a5a8ff4d31345e0098",
+    "bytes": 208
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f03-near-upper-sleeve.png": {
+    "sha256": "21266eee56c12f546131d39ee70ffee3f95933c4d70389e874d33a934925ade1",
+    "bytes": 174
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f10-near-forearm-hand.png": {
+    "sha256": "82a1ff440a36ac0cb5b56a372eba75c413729ce5dd23a368dc7217d039c94294",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f03-far-leg-boot.png": {
+    "sha256": "3242ebc451f1bab335faa7a658af23c3a19509bf1fbf4820e09c2f4cffd7ae4e",
+    "bytes": 202
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f06-near-forearm-hand.png": {
+    "sha256": "cc425ff3acff8a969d80837f04cf7e9fee456b68d64eb2b289fa4cb54924012e",
+    "bytes": 200
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f05-thorax-coat.png": {
+    "sha256": "48b57742b7c0d801c637d6c66466ff2e4e6b3d35ba4eabcca4e577e4aa20830a",
+    "bytes": 227
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f00-neck-collar.png": {
+    "sha256": "a4891ef9402e17b474bf992cb0a21920aecf1a2d2e3efceae02c3d778fecba0e",
+    "bytes": 177
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f03-pelvis-root.png": {
+    "sha256": "ff8beb1142b0aa2087603235537a5f9013ba9f0708a857d95bd936e7370042b5",
+    "bytes": 170
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f08-far-leg-boot.png": {
+    "sha256": "3242ebc451f1bab335faa7a658af23c3a19509bf1fbf4820e09c2f4cffd7ae4e",
+    "bytes": 202
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f07-head-hair-face.png": {
+    "sha256": "63c2837cf708730bcd07e2c128371142b2980dce04e89c6cfdc3349d8b5b12d4",
+    "bytes": 185
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f01-coat-back-skirt.png": {
+    "sha256": "a4122e51286ad8a5437eadf391a29bb0cc9c6670658b55a5a8ff4d31345e0098",
+    "bytes": 208
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f08-near-forearm-hand.png": {
+    "sha256": "82a1ff440a36ac0cb5b56a372eba75c413729ce5dd23a368dc7217d039c94294",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f11-head-hair-face.png": {
+    "sha256": "9dab3a44a08a843b0497e1c0deec320be5e74457fbdf585200917ec67cccf003",
+    "bytes": 185
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f01-head-hair-face.png": {
+    "sha256": "9dab3a44a08a843b0497e1c0deec320be5e74457fbdf585200917ec67cccf003",
+    "bytes": 185
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f00-coat-back-skirt.png": {
+    "sha256": "a4122e51286ad8a5437eadf391a29bb0cc9c6670658b55a5a8ff4d31345e0098",
+    "bytes": 208
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f11-near-leg-boot.png": {
+    "sha256": "4e307d769e0513134abf56cc6b82e9fa4036ca154bd98cfadb9effdf0014fbb1",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f02-pelvis-root.png": {
+    "sha256": "ff8beb1142b0aa2087603235537a5f9013ba9f0708a857d95bd936e7370042b5",
+    "bytes": 170
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f00-near-forearm-hand.png": {
+    "sha256": "82a1ff440a36ac0cb5b56a372eba75c413729ce5dd23a368dc7217d039c94294",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f04-thorax-coat.png": {
+    "sha256": "0dfc161323946cf58d7a3bd1cdbeff91e83b9ba418d750e497e1b9bde84a5962",
+    "bytes": 226
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f01-neck-collar.png": {
+    "sha256": "a4891ef9402e17b474bf992cb0a21920aecf1a2d2e3efceae02c3d778fecba0e",
+    "bytes": 177
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f08-near-leg-boot.png": {
+    "sha256": "4e307d769e0513134abf56cc6b82e9fa4036ca154bd98cfadb9effdf0014fbb1",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f03-coat-back-skirt.png": {
+    "sha256": "a4122e51286ad8a5437eadf391a29bb0cc9c6670658b55a5a8ff4d31345e0098",
+    "bytes": 208
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f06-far-leg-boot.png": {
+    "sha256": "3242ebc451f1bab335faa7a658af23c3a19509bf1fbf4820e09c2f4cffd7ae4e",
+    "bytes": 202
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f02-coat-back-skirt.png": {
+    "sha256": "a4122e51286ad8a5437eadf391a29bb0cc9c6670658b55a5a8ff4d31345e0098",
+    "bytes": 208
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f05-near-upper-sleeve.png": {
+    "sha256": "606236f5cd6dad30600cb8673a216c5afbf42c68009dafa21384c8f12644a2b8",
+    "bytes": 173
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f02-far-leg-boot.png": {
+    "sha256": "3242ebc451f1bab335faa7a658af23c3a19509bf1fbf4820e09c2f4cffd7ae4e",
+    "bytes": 202
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f04-coat-back-skirt.png": {
+    "sha256": "a4122e51286ad8a5437eadf391a29bb0cc9c6670658b55a5a8ff4d31345e0098",
+    "bytes": 208
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f06-neck-collar.png": {
+    "sha256": "91ca9c9831123e04dfd0db29af1f5f4385aced1d3c30c33e84c32b8f6f951e35",
+    "bytes": 178
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f03-thorax-coat.png": {
+    "sha256": "25374d0ad341a843fbb15d8f9c9e58a94b43fc5dccc0abf0448401f827f12887",
+    "bytes": 225
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f10-near-leg-boot.png": {
+    "sha256": "4e307d769e0513134abf56cc6b82e9fa4036ca154bd98cfadb9effdf0014fbb1",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f05-coat-back-skirt.png": {
+    "sha256": "a4122e51286ad8a5437eadf391a29bb0cc9c6670658b55a5a8ff4d31345e0098",
+    "bytes": 208
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f05-pelvis-root.png": {
+    "sha256": "ff8beb1142b0aa2087603235537a5f9013ba9f0708a857d95bd936e7370042b5",
+    "bytes": 170
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f11-near-upper-sleeve.png": {
+    "sha256": "21266eee56c12f546131d39ee70ffee3f95933c4d70389e874d33a934925ade1",
+    "bytes": 174
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f06-coat-back-skirt.png": {
+    "sha256": "a4122e51286ad8a5437eadf391a29bb0cc9c6670658b55a5a8ff4d31345e0098",
+    "bytes": 208
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f02-head-hair-face.png": {
+    "sha256": "9dab3a44a08a843b0497e1c0deec320be5e74457fbdf585200917ec67cccf003",
+    "bytes": 185
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f09-neck-collar.png": {
+    "sha256": "a4891ef9402e17b474bf992cb0a21920aecf1a2d2e3efceae02c3d778fecba0e",
+    "bytes": 177
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f07-near-upper-sleeve.png": {
+    "sha256": "606236f5cd6dad30600cb8673a216c5afbf42c68009dafa21384c8f12644a2b8",
+    "bytes": 173
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f09-far-leg-boot.png": {
+    "sha256": "3242ebc451f1bab335faa7a658af23c3a19509bf1fbf4820e09c2f4cffd7ae4e",
+    "bytes": 202
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f09-near-leg-boot.png": {
+    "sha256": "4e307d769e0513134abf56cc6b82e9fa4036ca154bd98cfadb9effdf0014fbb1",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f07-coat-back-skirt.png": {
+    "sha256": "a4122e51286ad8a5437eadf391a29bb0cc9c6670658b55a5a8ff4d31345e0098",
+    "bytes": 208
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f02-near-forearm-hand.png": {
+    "sha256": "82a1ff440a36ac0cb5b56a372eba75c413729ce5dd23a368dc7217d039c94294",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f10-neck-collar.png": {
+    "sha256": "a4891ef9402e17b474bf992cb0a21920aecf1a2d2e3efceae02c3d778fecba0e",
+    "bytes": 177
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f00-near-leg-boot.png": {
+    "sha256": "4e307d769e0513134abf56cc6b82e9fa4036ca154bd98cfadb9effdf0014fbb1",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f09-far-sleeve-hand.png": {
+    "sha256": "2b98726cb798321db834131a18d3e7e1e78ec6844c310f1654893f2641776688",
+    "bytes": 194
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f10-far-sleeve-hand.png": {
+    "sha256": "2b98726cb798321db834131a18d3e7e1e78ec6844c310f1654893f2641776688",
+    "bytes": 194
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f09-thorax-coat.png": {
+    "sha256": "25374d0ad341a843fbb15d8f9c9e58a94b43fc5dccc0abf0448401f827f12887",
+    "bytes": 225
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f08-far-sleeve-hand.png": {
+    "sha256": "2b98726cb798321db834131a18d3e7e1e78ec6844c310f1654893f2641776688",
+    "bytes": 194
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f10-thorax-coat.png": {
+    "sha256": "25374d0ad341a843fbb15d8f9c9e58a94b43fc5dccc0abf0448401f827f12887",
+    "bytes": 225
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f05-far-leg-boot.png": {
+    "sha256": "3242ebc451f1bab335faa7a658af23c3a19509bf1fbf4820e09c2f4cffd7ae4e",
+    "bytes": 202
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f08-near-upper-sleeve.png": {
+    "sha256": "21266eee56c12f546131d39ee70ffee3f95933c4d70389e874d33a934925ade1",
+    "bytes": 174
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f11-far-sleeve-hand.png": {
+    "sha256": "2b98726cb798321db834131a18d3e7e1e78ec6844c310f1654893f2641776688",
+    "bytes": 194
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f05-near-leg-boot.png": {
+    "sha256": "4e307d769e0513134abf56cc6b82e9fa4036ca154bd98cfadb9effdf0014fbb1",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f11-far-leg-boot.png": {
+    "sha256": "3242ebc451f1bab335faa7a658af23c3a19509bf1fbf4820e09c2f4cffd7ae4e",
+    "bytes": 202
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f05-near-forearm-hand.png": {
+    "sha256": "cc425ff3acff8a969d80837f04cf7e9fee456b68d64eb2b289fa4cb54924012e",
+    "bytes": 200
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f00-near-upper-sleeve.png": {
+    "sha256": "21266eee56c12f546131d39ee70ffee3f95933c4d70389e874d33a934925ade1",
+    "bytes": 174
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f03-head-hair-face.png": {
+    "sha256": "9dab3a44a08a843b0497e1c0deec320be5e74457fbdf585200917ec67cccf003",
+    "bytes": 185
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f00-pelvis-root.png": {
+    "sha256": "ff8beb1142b0aa2087603235537a5f9013ba9f0708a857d95bd936e7370042b5",
+    "bytes": 170
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f06-thorax-coat.png": {
+    "sha256": "48b57742b7c0d801c637d6c66466ff2e4e6b3d35ba4eabcca4e577e4aa20830a",
+    "bytes": 227
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f03-neck-collar.png": {
+    "sha256": "a4891ef9402e17b474bf992cb0a21920aecf1a2d2e3efceae02c3d778fecba0e",
+    "bytes": 177
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f04-neck-collar.png": {
+    "sha256": "91ca9c9831123e04dfd0db29af1f5f4385aced1d3c30c33e84c32b8f6f951e35",
+    "bytes": 178
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f00-head-hair-face.png": {
+    "sha256": "9dab3a44a08a843b0497e1c0deec320be5e74457fbdf585200917ec67cccf003",
+    "bytes": 185
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f01-near-leg-boot.png": {
+    "sha256": "4e307d769e0513134abf56cc6b82e9fa4036ca154bd98cfadb9effdf0014fbb1",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f01-thorax-coat.png": {
+    "sha256": "25374d0ad341a843fbb15d8f9c9e58a94b43fc5dccc0abf0448401f827f12887",
+    "bytes": 225
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f07-pelvis-root.png": {
+    "sha256": "ff8beb1142b0aa2087603235537a5f9013ba9f0708a857d95bd936e7370042b5",
+    "bytes": 170
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f10-head-hair-face.png": {
+    "sha256": "9dab3a44a08a843b0497e1c0deec320be5e74457fbdf585200917ec67cccf003",
+    "bytes": 185
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f04-near-leg-boot.png": {
+    "sha256": "4e307d769e0513134abf56cc6b82e9fa4036ca154bd98cfadb9effdf0014fbb1",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f01-far-leg-boot.png": {
+    "sha256": "3242ebc451f1bab335faa7a658af23c3a19509bf1fbf4820e09c2f4cffd7ae4e",
+    "bytes": 202
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f11-pelvis-root.png": {
+    "sha256": "ff8beb1142b0aa2087603235537a5f9013ba9f0708a857d95bd936e7370042b5",
+    "bytes": 170
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f02-near-upper-sleeve.png": {
+    "sha256": "21266eee56c12f546131d39ee70ffee3f95933c4d70389e874d33a934925ade1",
+    "bytes": 174
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f07-near-forearm-hand.png": {
+    "sha256": "cc425ff3acff8a969d80837f04cf7e9fee456b68d64eb2b289fa4cb54924012e",
+    "bytes": 200
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f11-near-forearm-hand.png": {
+    "sha256": "82a1ff440a36ac0cb5b56a372eba75c413729ce5dd23a368dc7217d039c94294",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f08-pelvis-root.png": {
+    "sha256": "ff8beb1142b0aa2087603235537a5f9013ba9f0708a857d95bd936e7370042b5",
+    "bytes": 170
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f06-pelvis-root.png": {
+    "sha256": "ff8beb1142b0aa2087603235537a5f9013ba9f0708a857d95bd936e7370042b5",
+    "bytes": 170
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f01-near-forearm-hand.png": {
+    "sha256": "82a1ff440a36ac0cb5b56a372eba75c413729ce5dd23a368dc7217d039c94294",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f02-near-leg-boot.png": {
+    "sha256": "4e307d769e0513134abf56cc6b82e9fa4036ca154bd98cfadb9effdf0014fbb1",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f04-far-leg-boot.png": {
+    "sha256": "3242ebc451f1bab335faa7a658af23c3a19509bf1fbf4820e09c2f4cffd7ae4e",
+    "bytes": 202
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f02-far-sleeve-hand.png": {
+    "sha256": "2b98726cb798321db834131a18d3e7e1e78ec6844c310f1654893f2641776688",
+    "bytes": 194
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f05-neck-collar.png": {
+    "sha256": "91ca9c9831123e04dfd0db29af1f5f4385aced1d3c30c33e84c32b8f6f951e35",
+    "bytes": 178
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f00-thorax-coat.png": {
+    "sha256": "c4d66430bc1db10e74c726213329e5b85355750649a8966798b7be6ff10c1e77",
+    "bytes": 218
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f04-near-upper-sleeve.png": {
+    "sha256": "606236f5cd6dad30600cb8673a216c5afbf42c68009dafa21384c8f12644a2b8",
+    "bytes": 173
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f03-far-sleeve-hand.png": {
+    "sha256": "2b98726cb798321db834131a18d3e7e1e78ec6844c310f1654893f2641776688",
+    "bytes": 194
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f07-near-leg-boot.png": {
+    "sha256": "4e307d769e0513134abf56cc6b82e9fa4036ca154bd98cfadb9effdf0014fbb1",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f00-far-sleeve-hand.png": {
+    "sha256": "2b98726cb798321db834131a18d3e7e1e78ec6844c310f1654893f2641776688",
+    "bytes": 194
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f06-head-hair-face.png": {
+    "sha256": "63c2837cf708730bcd07e2c128371142b2980dce04e89c6cfdc3349d8b5b12d4",
+    "bytes": 185
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f10-pelvis-root.png": {
+    "sha256": "ff8beb1142b0aa2087603235537a5f9013ba9f0708a857d95bd936e7370042b5",
+    "bytes": 170
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f09-near-forearm-hand.png": {
+    "sha256": "82a1ff440a36ac0cb5b56a372eba75c413729ce5dd23a368dc7217d039c94294",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f01-far-sleeve-hand.png": {
+    "sha256": "2b98726cb798321db834131a18d3e7e1e78ec6844c310f1654893f2641776688",
+    "bytes": 194
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f09-pelvis-root.png": {
+    "sha256": "ff8beb1142b0aa2087603235537a5f9013ba9f0708a857d95bd936e7370042b5",
+    "bytes": 170
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f10-far-leg-boot.png": {
+    "sha256": "3242ebc451f1bab335faa7a658af23c3a19509bf1fbf4820e09c2f4cffd7ae4e",
+    "bytes": 202
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f06-near-upper-sleeve.png": {
+    "sha256": "606236f5cd6dad30600cb8673a216c5afbf42c68009dafa21384c8f12644a2b8",
+    "bytes": 173
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f08-thorax-coat.png": {
+    "sha256": "25374d0ad341a843fbb15d8f9c9e58a94b43fc5dccc0abf0448401f827f12887",
+    "bytes": 225
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f03-near-leg-boot.png": {
+    "sha256": "4e307d769e0513134abf56cc6b82e9fa4036ca154bd98cfadb9effdf0014fbb1",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f07-far-sleeve-hand.png": {
+    "sha256": "db93450581eb822acd17265e28a867800349bb8278bd55fa998d103c3f633261",
+    "bytes": 195
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f10-near-upper-sleeve.png": {
+    "sha256": "21266eee56c12f546131d39ee70ffee3f95933c4d70389e874d33a934925ade1",
+    "bytes": 174
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f06-far-sleeve-hand.png": {
+    "sha256": "db93450581eb822acd17265e28a867800349bb8278bd55fa998d103c3f633261",
+    "bytes": 195
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f03-near-forearm-hand.png": {
+    "sha256": "82a1ff440a36ac0cb5b56a372eba75c413729ce5dd23a368dc7217d039c94294",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f08-head-hair-face.png": {
+    "sha256": "9dab3a44a08a843b0497e1c0deec320be5e74457fbdf585200917ec67cccf003",
+    "bytes": 185
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f11-thorax-coat.png": {
+    "sha256": "c4d66430bc1db10e74c726213329e5b85355750649a8966798b7be6ff10c1e77",
+    "bytes": 218
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f05-head-hair-face.png": {
+    "sha256": "63c2837cf708730bcd07e2c128371142b2980dce04e89c6cfdc3349d8b5b12d4",
+    "bytes": 185
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f06-near-leg-boot.png": {
+    "sha256": "4e307d769e0513134abf56cc6b82e9fa4036ca154bd98cfadb9effdf0014fbb1",
+    "bytes": 199
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f05-far-sleeve-hand.png": {
+    "sha256": "db93450581eb822acd17265e28a867800349bb8278bd55fa998d103c3f633261",
+    "bytes": 195
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f07-thorax-coat.png": {
+    "sha256": "0dfc161323946cf58d7a3bd1cdbeff91e83b9ba418d750e497e1b9bde84a5962",
+    "bytes": 226
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f02-neck-collar.png": {
+    "sha256": "a4891ef9402e17b474bf992cb0a21920aecf1a2d2e3efceae02c3d778fecba0e",
+    "bytes": 177
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f04-far-sleeve-hand.png": {
+    "sha256": "db93450581eb822acd17265e28a867800349bb8278bd55fa998d103c3f633261",
+    "bytes": 195
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f01-pelvis-root.png": {
+    "sha256": "ff8beb1142b0aa2087603235537a5f9013ba9f0708a857d95bd936e7370042b5",
+    "bytes": 170
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/delivery/masks/f00-far-leg-boot.png": {
+    "sha256": "3242ebc451f1bab335faa7a658af23c3a19509bf1fbf4820e09c2f4cffd7ae4e",
+    "bytes": 202
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/before-after-fixed128rest.png": {
+    "sha256": "ec9393302a803e8a1d01290adff1924708a15ffe08b914af55237eee2008663a",
+    "bytes": 5335
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/rest-hide-head-hair-face.png": {
+    "sha256": "edac5cf3788f735bcd2a8c9dea793472c09211a3ae8855aebef7fd35a4adb2ca",
+    "bytes": 1419
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/open-hide-thorax-coat.png": {
+    "sha256": "1b9ee252fe9e83efd79beaaaab58dac24a87e6f2ee83403ba746d7cca3db1a29",
+    "bytes": 1509
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/rest-hide-thorax-coat.png": {
+    "sha256": "1b9ee252fe9e83efd79beaaaab58dac24a87e6f2ee83403ba746d7cca3db1a29",
+    "bytes": 1509
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/before-after-2x.png": {
+    "sha256": "df41d8486e6678ffebe0112bd28fed5bb7f2e298357a9c8f2858458830a0575b",
+    "bytes": 7104
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/upper-before-after-3x.png": {
+    "sha256": "be5fafa87049b1ecb064ddc04d82fc455305e1ee16e56be51e8cca1154222ad0",
+    "bytes": 5929
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/apex-hide-thorax-coat.png": {
+    "sha256": "6c2799e4cf515c2ae72cc7499859920f02aab87a0a8ccd5d079b68c268001a16",
+    "bytes": 1515
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/apex-hide-near-upper-sleeve.png": {
+    "sha256": "db120b8a3b646a3299b56c610d4a4104852c95d2d81e78bf63c5966ea4913903",
+    "bytes": 1568
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/open-hide-head-hair-face.png": {
+    "sha256": "937b5d002229efa61298317c4abc75f28996488ad77a9880cf58d747c6268ca3",
+    "bytes": 1422
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/open-hide-near-upper-sleeve.png": {
+    "sha256": "6bd1c3456befefbc167c637f5f17491d1a7cac515febe25a8901b036a0881467",
+    "bytes": 1555
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/rest-hide-near-forearm-hand.png": {
+    "sha256": "9969b2287f863e3cea7fc26146b8343a29e707c1edde3fe197ee7ae28669594d",
+    "bytes": 1551
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/apex-hide-near-forearm-hand.png": {
+    "sha256": "6e96de072866f17e6073b757f7f44746dea504cad008f4e8068a8dd37924b0b9",
+    "bytes": 1563
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/checks.json": {
+    "sha256": "d20e674185fbbe0e20652536c4e122e5dd59ac13509bb988f6f501f62fb544d7",
+    "bytes": 792
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/rest-hide-near-upper-sleeve.png": {
+    "sha256": "744a0f564319f68c9b996f2d633dce4e01a9ec32dd276cceef76b2dea5b184b5",
+    "bytes": 1544
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/open-hide-near-forearm-hand.png": {
+    "sha256": "363a9fa0433af56db1e4dbeb7d73d668285d4f6e4ca21ba1974fc625e993b557",
+    "bytes": 1550
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/apex-hide-neck-collar.png": {
+    "sha256": "e4355dae3408a2b843934ce7beed33e6a3f84df8ae67c5b2fb0b4bf8b784e51b",
+    "bytes": 1545
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/open.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/apex-r02-ownership.png": {
+    "sha256": "47a277e3e99f316dd9675b8198a48b0f8ae24a54bdb5e604e6a4aac2b7c9d72a",
+    "bytes": 14375
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/before-apex.png": {
+    "sha256": "d39bfb0797353b69bb39de48360a507463fea7a18278130fcba02ab82287d3f4",
+    "bytes": 1754
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/rest.png": {
+    "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+    "bytes": 1748
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/apex-hide-head-hair-face.png": {
+    "sha256": "6c0252753c41afa9ba7c0ddacae24431c71b454efec619e863bf9869224b7863",
+    "bytes": 1439
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/rest-hide-neck-collar.png": {
+    "sha256": "52dc28fe08504fda5fe0a32d8f29f9655a833c16b20a101313d6f3cb5299bf85",
+    "bytes": 1542
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/before-rest.png": {
+    "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+    "bytes": 1748
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/before-open.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/amplitude-keys.aseprite": {
+    "sha256": "7c0398b2c9761ea7130cc13bd4daeecbc4cfc826817358b128e9bf797b535785",
+    "bytes": 35106
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/apex.png": {
+    "sha256": "e272321157ebe43958d9f0ac2c522c7433f78768f70b09ee48fe70324de1e922",
+    "bytes": 1769
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/open-hide-neck-collar.png": {
+    "sha256": "43cf6a9ddf12929520277bfce80101791e2f5446eed49d67cfcdf8d1c284f932",
+    "bytes": 1533
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/native-work/keys/apex-r01-ownership.png": {
+    "sha256": "29c874a5c03519ad87ae01b1cac20101dbe81eefb4fa9f24702460537db9941b",
+    "bytes": 14437
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/main.tscn": {
+    "sha256": "8d06a5de93ecbebc3b6311cc56d2fa69d933b56c74a04baf3a8cdeb6f10d3e74",
+    "bytes": 164
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/layout.json": {
+    "sha256": "5ed827a5ad1de9b6be0bd505084223b50f6e76d4720161e505d70d1641736566",
+    "bytes": 546
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/preview.gd": {
+    "sha256": "07a14da61b61b70b5910474e72483673af24b20372a560fa892105fa8c7cf766",
+    "bytes": 2778
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/project.godot": {
+    "sha256": "da238f2b3bb4eb7009c0ce4d42ee4a6b5c9e4669aa014f943fc11075182d319d",
+    "bytes": 516
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/textures/breath-3.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/textures/breath-10.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/textures/breath-11.png": {
+    "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+    "bytes": 1748
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/textures/breath-2.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/textures/breath-0.png": {
+    "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+    "bytes": 1748
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/textures/breath-1.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/textures/breath-5.png": {
+    "sha256": "e272321157ebe43958d9f0ac2c522c7433f78768f70b09ee48fe70324de1e922",
+    "bytes": 1769
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/textures/breath-4.png": {
+    "sha256": "1c52f3028b70890b6978d359d33389c6a83f996e5524f8b40bfd890c041fb39f",
+    "bytes": 1762
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/textures/breath-6.png": {
+    "sha256": "e272321157ebe43958d9f0ac2c522c7433f78768f70b09ee48fe70324de1e922",
+    "bytes": 1769
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/textures/breath-7.png": {
+    "sha256": "1c52f3028b70890b6978d359d33389c6a83f996e5524f8b40bfd890c041fb39f",
+    "bytes": 1762
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/textures/breath-9.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/textures/breath-8.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/evidence/runtime.json": {
+    "sha256": "c42b03a80dd351584660920db8c6a91172f4cfac231aa7e88f008b8807692599",
+    "bytes": 3609
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/evidence/runtime-frame-08.png": {
+    "sha256": "f6616c3c3ee57bea1b3e390c8baa46d2683ed3767359b3487f3a7983eb6db92c",
+    "bytes": 14407
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/evidence/mcp-stop.json": {
+    "sha256": "d60238f81da939d32861a227aa8a5f4d2ac8dd3ec0c79c97ab8eb2f329408704",
+    "bytes": 1810
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/evidence/runtime-frame-09.png": {
+    "sha256": "f6616c3c3ee57bea1b3e390c8baa46d2683ed3767359b3487f3a7983eb6db92c",
+    "bytes": 14407
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/evidence/mcp-debug.json": {
+    "sha256": "cd46dfe165677826d192e8bc6ffeb51155fb24b165a41dc84ffbd7bd8d77b0d8",
+    "bytes": 1327
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/evidence/pixel-checks.json": {
+    "sha256": "b961a0afcec978b8c1c2f3fd65fd3a70f2c030e0b68cfcbeb4301bd217af6a50",
+    "bytes": 676
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/evidence/runtime-frame-07.png": {
+    "sha256": "b566a9162ba4595b1f8abf147a5fd2f013433d39c21b87534f6401e248c8c201",
+    "bytes": 14491
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/evidence/runtime-frame-06.png": {
+    "sha256": "2ee7399e19a8391a3d35fa39324f18d5542a945bda3b42ad122b4f5d3ec30b90",
+    "bytes": 14515
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/evidence/runtime-frame-10.png": {
+    "sha256": "f6616c3c3ee57bea1b3e390c8baa46d2683ed3767359b3487f3a7983eb6db92c",
+    "bytes": 14407
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/evidence/runtime-frame-04.png": {
+    "sha256": "b566a9162ba4595b1f8abf147a5fd2f013433d39c21b87534f6401e248c8c201",
+    "bytes": 14491
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/evidence/runtime-frame-05.png": {
+    "sha256": "2ee7399e19a8391a3d35fa39324f18d5542a945bda3b42ad122b4f5d3ec30b90",
+    "bytes": 14515
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/evidence/runtime-frame-11.png": {
+    "sha256": "f4ad1613f67b29b60fe228411524dc68d404dab331dc3fe7e6658878574afe80",
+    "bytes": 14432
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/evidence/runtime-frame-01.png": {
+    "sha256": "f6616c3c3ee57bea1b3e390c8baa46d2683ed3767359b3487f3a7983eb6db92c",
+    "bytes": 14407
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/evidence/runtime-frame-00.png": {
+    "sha256": "f4ad1613f67b29b60fe228411524dc68d404dab331dc3fe7e6658878574afe80",
+    "bytes": 14432
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/evidence/runtime-frame-02.png": {
+    "sha256": "f6616c3c3ee57bea1b3e390c8baa46d2683ed3767359b3487f3a7983eb6db92c",
+    "bytes": 14407
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/godot-preview/evidence/runtime-frame-03.png": {
+    "sha256": "f6616c3c3ee57bea1b3e390c8baa46d2683ed3767359b3487f3a7983eb6db92c",
+    "bytes": 14407
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/lead-review/calmer-exact-native.gif": {
+    "sha256": "6ca3497e0609cfd2310de4072b5b287a906701a57c06879fe3675fbece10a54b",
+    "bytes": 12615
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/lead-review/cycle-2x.png": {
+    "sha256": "e8899327f4b1e8e1fea81d6d55ab79a0b53dd3dda3d95a4a2c348d29e20dd1bb",
+    "bytes": 12402
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/lead-review/calmer-3x.gif": {
+    "sha256": "025caf4c74da551e5ae38b0a2da592c031ff8a1b9cc909ef118e2cc3404a7072",
+    "bytes": 14374
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/lead-review/manual-review.json": {
+    "sha256": "01b364e36a9d4b27467143950841ac0e02881318bd3d3cdc8d6c37186462660f",
+    "bytes": 1757
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/lead-review/before-after-3x.gif": {
+    "sha256": "5f0794744198d469fe08783a13080e174b913a291bef72238fe9a471b4e93e0e",
+    "bytes": 39397
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/lead-review/preview-checks.json": {
+    "sha256": "5b0359ffa107a7eda0009bafc3e094e4e9e7b41ea3129774191754cf42d19408",
+    "bytes": 1027
+  },
+  "docs/experiments/2026-11-02-atmospheric-breathing-proxy-r02/lead-review/before-after-128px.gif": {
+    "sha256": "5d3fb9646200ba3b1cf6806ebc6729bd60a0ece647ab4738e86c2c6671d5b1dc",
+    "bytes": 18372
+  },
+  "assets/source/atmospheric-traveler/breathing-r02/editable-upperbody-frozen.png": {
+    "sha256": "351a99c474baa74f2dd26c1043519ea4472253e8b37452c66d3f266b15b0119c",
+    "bytes": 306
+  },
+  "assets/source/atmospheric-traveler/breathing-r02/README.md": {
+    "sha256": "ba741c26b26c20977871e356ffbc9a7579af85ded99b91501df144398baae46e",
+    "bytes": 4151
+  },
+  "assets/source/atmospheric-traveler/breathing-r02/correction-ops.json": {
+    "sha256": "85a1bbc241c203b6e78aef921f72c67d717fe95963bf9839f623d4c83bb24397",
+    "bytes": 46274
+  },
+  "assets/source/atmospheric-traveler/breathing-r02/traveler-breathing.aseprite": {
+    "sha256": "82e878fe5be2ebef488cd2465cc840280750eb2bc16636834212efca0ab1ebeb",
+    "bytes": 35051
+  },
+  "assets/export/atmospheric-traveler/breathing-r02/timings.json": {
+    "sha256": "8360cdc5cc86274d4b11bd613cc0424fc583247f4874b06f49ab6f6f2713213a",
+    "bytes": 1941
+  },
+  "assets/export/atmospheric-traveler/breathing-r02/breathing.gif": {
+    "sha256": "6ca3497e0609cfd2310de4072b5b287a906701a57c06879fe3675fbece10a54b",
+    "bytes": 12615
+  },
+  "assets/export/atmospheric-traveler/breathing-r02/breath-sheet.json": {
+    "sha256": "f23840b7cbc3fb369d655a5532b1bf547251ae5467ae3e8af532028e2d94a29b",
+    "bytes": 4503
+  },
+  "assets/export/atmospheric-traveler/breathing-r02/breath-sheet.png": {
+    "sha256": "6611c0f75fe3d186c14858abdb5850426ffb2d78bc25fbe5c2d67dbb6ed4d040",
+    "bytes": 5805
+  },
+  "assets/export/atmospheric-traveler/breathing-r02/frames/breath-10.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "assets/export/atmospheric-traveler/breathing-r02/frames/breath-04.png": {
+    "sha256": "1c52f3028b70890b6978d359d33389c6a83f996e5524f8b40bfd890c041fb39f",
+    "bytes": 1762
+  },
+  "assets/export/atmospheric-traveler/breathing-r02/frames/breath-05.png": {
+    "sha256": "e272321157ebe43958d9f0ac2c522c7433f78768f70b09ee48fe70324de1e922",
+    "bytes": 1769
+  },
+  "assets/export/atmospheric-traveler/breathing-r02/frames/breath-11.png": {
+    "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+    "bytes": 1748
+  },
+  "assets/export/atmospheric-traveler/breathing-r02/frames/breath-07.png": {
+    "sha256": "1c52f3028b70890b6978d359d33389c6a83f996e5524f8b40bfd890c041fb39f",
+    "bytes": 1762
+  },
+  "assets/export/atmospheric-traveler/breathing-r02/frames/breath-06.png": {
+    "sha256": "e272321157ebe43958d9f0ac2c522c7433f78768f70b09ee48fe70324de1e922",
+    "bytes": 1769
+  },
+  "assets/export/atmospheric-traveler/breathing-r02/frames/breath-02.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "assets/export/atmospheric-traveler/breathing-r02/frames/breath-03.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "assets/export/atmospheric-traveler/breathing-r02/frames/breath-01.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "assets/export/atmospheric-traveler/breathing-r02/frames/breath-00.png": {
+    "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+    "bytes": 1748
+  },
+  "assets/export/atmospheric-traveler/breathing-r02/frames/breath-08.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "assets/export/atmospheric-traveler/breathing-r02/frames/breath-09.png": {
+    "sha256": "b8f451ebe4490bf1109bf9dce9d1039f5e5fe34c3ac62540615e30fa3d33e6c3",
+    "bytes": 1747
+  },
+  "assets/previews/atmospheric-traveler/breathing-r02/contact-2x.png": {
+    "sha256": "e8899327f4b1e8e1fea81d6d55ab79a0b53dd3dda3d95a4a2c348d29e20dd1bb",
+    "bytes": 12402
+  },
+  "assets/previews/atmospheric-traveler/breathing-r02/breathing-3x.gif": {
+    "sha256": "025caf4c74da551e5ae38b0a2da592c031ff8a1b9cc909ef118e2cc3404a7072",
+    "bytes": 14374
+  },
+  "assets/previews/atmospheric-traveler/breathing-r02/before-after-3x.gif": {
+    "sha256": "5f0794744198d469fe08783a13080e174b913a291bef72238fe9a471b4e93e0e",
+    "bytes": 39397
+  },
+  "assets/previews/atmospheric-traveler/breathing-r02/godot-apex.png": {
+    "sha256": "2ee7399e19a8391a3d35fa39324f18d5542a945bda3b42ad122b4f5d3ec30b90",
+    "bytes": 14515
+  },
+  "assets/previews/atmospheric-traveler/breathing-r02/before-after-128px.gif": {
+    "sha256": "5d3fb9646200ba3b1cf6806ebc6729bd60a0ece647ab4738e86c2c6671d5b1dc",
+    "bytes": 18372
+  }
+}

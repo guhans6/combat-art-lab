@@ -1,0 +1,16 @@
+# Original traveler breathing proxy r01
+
+Agent-provisional original tone-only study, not the selected fighter identity, new fighter direction, or user-approved production art. Plain shorthaired traveler with bluegrey coat, warm two-plane profile face, charcoal trousers/boots. No downloaded asset, copied costume, weapon, imagegen, installation, repository/Git mutation or publication.
+
+- `traveler-breathing-r01.aseprite`: RGB native master,96x160,10 semantic layers,120 editable cels,12 frames,7 distinct phase poses,2800ms loop tagged `breath`.
+- `breath-0.png` through `breath-11.png`: exact MCP frames; `breath-sheet.png`/JSON exact horizontal atlas. Padded00..09 duplicates also retain explicit per-frame MCP exports. Use `timings.json` as canonical order/durations.
+- Restbody137px(y10..146inclusive), soles146, fixedroot(44,85). 128px preview uses fixed128/137 ratio for allposes; no perposefitting. Inhale supports3px chestforward expansion and3px shoulder/headlift. Fixedpelvis/legs, meaningful contour/plane redraw; face/skull/arms rigidly registered to supported lift.
+- `raw-mcp-breath.gif`: this run independently decodes to exact opaqueRGB/alpha and12frame durations. It is retained raw; no assumed palette correctness. Lead owns additional GIF presentation/engine packaging.
+- `reopened-sheet.png`: fresh native reopen exported with MCP, exact allframes. `checks.json` records scoped native/PNG/alpha/ownership/palette/timing proof. Callablevalidate tool absent despite advertised capability; no false validate claim.
+- `edit-proof.aseprite`/PNGs: duplicate-only useful localizedcoatfold edit. Three visible pixels(47,75),(47,76),(47,77) on firstframe thorax owner changed from highlight tobase. Other119cels, allother nativepixels, geometry, metadata, palette, timing and alpha exact; freshreopen exact. Animationmaster unchanged. Prior erased-dot and occludedfold proof attempts retained in `proof-attempt-rejected`, excluded from production.
+- `contact-1x/2x/3x.png`, `contact-projected128.png`, `upperbody-all-3x.png`: actual native-derived completecycle review, source scale explicit. Producer inspected stills; continuous naturalness/userart approval remain separate. Lead owns actual Godot evidence.
+- `masks/`: actual120 nativepart alpha masks, fixed lowerbody mask, solidchest coverage and duplicateedit mask.
+
+Construction: `../construct.py` authored polygons/planes; `../drawing-ops.json` static fourlevels; `../cycle-draw-ops.json` exact12frame drawing grids; `../build_cycle_data.py` phase plan; `../audit_delivery.py` deterministic checks; `../review_keys.py` structural views; `../keys/` retained keys/nativeownerhide, repairedfootspacing and prior native. All actual native creation/edit/save/export through dedicated Aseprite MCP1.3.18.6-dev/Pebbly0.8.2 headless. Pillow handles drawingdata, masks, checks and review packaging only. All owned editor documents closed after finalproof; final list empty.
+
+Palette14entries=transparent+13 opaque authoredcolors,12 opaque actuallyused (skinlight unused). Palette counts are experimental, not a production rule. Style-only authority preserved at selected fighterA corrected.png; sourcehash in checks. `../SHA256.json` bounds every file in this run. User owns artistic acceptance; lead owns final selectedrepo archival/runtime integration.

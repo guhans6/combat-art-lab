@@ -1,0 +1,30 @@
+{
+  "anchor": {
+    "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/hair-r02/B/raw.png",
+    "sha256": "97e0c17e79227e43b39f5abd510d1f09ba25ab1a808cffe4629523956c53febb",
+    "status": "User-selected B as INITIAL SETUP ONLY, not canonical character or final style"
+  },
+  "style_references": [
+    {
+      "id": "dead-cells",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/style-r01/references/dead-cells.jpg",
+      "source": "https://motiontwin.com/presskit/81",
+      "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/588650/ss_ac28000ade40cc2fe5c128f32ac98ba33c008a7a.1920x1080.jpg?t=1779086887",
+      "role": "Rendering/shape-language/vibe reference only, no copied identities, costume, pose, palette or source pixels.",
+      "sha256": "d4ef9dd9c62f448dc9d18f2485f58584b15c29b542792b1733745e8819172cde",
+      "status": "User-stated stylistic influence; precise treatment remains an experiment.",
+      "rights": "Published game screenshot, respective rights holders; no production reuse license asserted."
+    },
+    {
+      "id": "moonscars",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/style-r01/references/moonscars.jpg",
+      "source": "https://store.steampowered.com/app/1374970/Moonscars/",
+      "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1374970/ss_258448a7d16a9f43aafb2b7cd408c63d0a8c11d6.1920x1080.jpg?t=1787759258",
+      "role": "Rendering/shape-language/vibe reference only, no copied identities, costume, pose, palette or source pixels.",
+      "sha256": "254ad3ac970434f96927d2c3464b8af44fa4268872351b734ac741bcc5060026",
+      "status": "User-stated stylistic influence; precise treatment remains an experiment.",
+      "rights": "Published game screenshot, respective rights holders; no production reuse license asserted."
+    }
+  ],
+  "date": "2026-11-01"
+}

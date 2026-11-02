@@ -1,0 +1,39 @@
+{
+  "packet_sha256": "dccf55d1111aabd0535d3386713f65428951b8f52dee26a502442dfce911aa77",
+  "candidate_native_sha256": "82e878fe5be2ebef488cd2465cc840280750eb2bc16636834212efca0ab1ebeb",
+  "baseline_native_sha256": "a34a66c188f0f3f63fd0bb06e1ccdf1ed68c82b2f8fe0b617e42489be1313417",
+  "reviewer": "lead Sol6.1, independent of native editor",
+  "reviewed": [
+    "keys/before-after-2x.png",
+    "keys/upper-before-after-3x.png",
+    "keys/apex-r02-ownership.png",
+    "delivery/before-after-upper-all-2x.png",
+    "delivery/before-after-fixed128rest.png",
+    "lead cycle-2x.png",
+    "Godot all12 pixel capture checks"
+  ],
+  "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "target_improvement": {
+    "decision": "continue as revised candidate",
+    "observations": "Apex head/shoulder2pxlower thanr01, chestfront1px narrower; max1pxlift/2pxexpansion instead3/3. Rest/open retained. Same2.8s timing andgrid, same sampledesign; no perpose fitting."
+  },
+  "regressions_and_connections": {
+    "decision": "continue as revised candidate",
+    "observations": "Skull/neck/collar/shouldercap andsleeve-elbow-forearm occlusion routes retained, no loose skin/brokencontours found inall12stillviews. Palette/fixedhiddenowners/geometry/timing exact undernativeaudit; exactrestentry/return. Reducedrange gives4posesratherthan7 andlongerperceivedholds despite unchangedframe durations; may stillfeelstepped/subtle, needsuser temporaljudgment."
+  },
+  "playback": "Godot4.7.2 actualrun >=3loops/all12opaque actor captures exact; engine stopped. Lead reviewed stillposes notcontinuousperceivedmotion. ExactGIF supplied for user.",
+  "user_approval": "pending; sampleappearance only, no fighterdesignapplication"
+}

@@ -1,0 +1,28 @@
+{
+  "study": "atmosphere-r01/A/simplified-01",
+  "status": "generated; pending parent selection and user visual approval",
+  "tool": {
+    "mode": "built-in image_gen edit",
+    "tool_path": "image_gen.imagegen",
+    "transparent_background": false,
+    "call_count_for_this_simplification": 1
+  },
+  "output": {
+    "original_output_path": "/Users/guhan/.codex/generated_images/01a197da-e9ed-7d10-9532-3151423af442/exec-9daf2a26-c8ad-4036-8ee6-172489bba4db.png",
+    "project_output_path": "assets/concepts/stealth-fighter/atmosphere-r01/A/simplified-01.png",
+    "sha256": "e1dcf18e72ce22b8b6c6031d0f00da91259dcbf4c2bfbb0e0c12c8d1c56b6e1e",
+    "dimensions_px": [1024, 1536],
+    "saved_unchanged": true
+  },
+  "inputs": [
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/atmosphere-r01/A/raw.png",
+      "role": "edit target and strict geometry, identity, scene, proportions, pose, costume silhouette, sword, hands, feet, base material roles, and warm/cool lighting reference"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/atmosphere-r01/references/silver-pines-drawn-frame.png",
+      "role": "broad shadow/value grouping and sparse stepped pixel clusters only; not character, clothing, pose, or source pixels"
+    }
+  ],
+  "prompt": "Use case: style-transfer\\nAsset type: one targeted simplification edit of a 1024 x 1536 atmospheric pixel-character study.\\nInput images: Image 1 is the edit target and strict geometry, identity, scene, proportions, pose, costume silhouette, sword, hands, feet, base material roles, and warm/cool lighting reference. Preserve these visible elements and their placement. Image 2 is a broad shadow/value-grouping and sparse stepped-pixel-cluster reference ONLY; ignore its checkerboard and label remnant; do not copy its person, clothing, pose, or pixels.\\nPrimary request: Change ONLY the rendering/detail hierarchy of Image 1. Aggressively replace many tiny marks with LARGE quiet MATTE pixel-color masses while preserving its adult figure and staging.\\nHair: preserve Image 1's half-tied long-hair arrangement, length, and silhouette, but reduce it to 4–5 coherent dark locks/masses; no fine filaments, scratchy edge fragments, or individual strands.\\nFace: preserve the same visible adult face, orientation, and expression but simplify it to 3–4 clear skin/shadow clusters, tiny restrained eyes, simple jaw, and one stubble hint. No modeled nose, pores, facial micro-texture, or outline fragments.\\nArmor: preserve the existing light cloth-first costume silhouette and one tapered forearm guard, but use only 2–3 flat planes per armor part with one ridge accent; no engraving, grain, speckles, tiny damage marks, or dense construction detail.\\nCloth: broad folds only; remove noisy stipple and fussy small folds. Do not add contour outlines everywhere.\\nStyle/medium: coherent intentional stepped pixel edges and purposeful clustered shapes, sparse interior information, large value grouping before detail. This must remain actual pixel art, not a downsample/pixel-filter effect, not a smooth vector illustration, and not realistic illustration.\\nConstraints: Keep Image 1's adult body/head proportions, upright relaxed-alert pose, hair arrangement/length, original costume silhouette, sheathed sword continuity, empty hands, feet, base material roles, stage geometry, and restrained warm/cool light intact. No alpha change, black halo, neon, glow, bloom, new setting, props, characters, labels, UI, text, or logos. Do not add a tactical cuirass, more straps, armor bulk, muscular modeling, huge anime eyes, hair spikes, or new environmental detail."
+}

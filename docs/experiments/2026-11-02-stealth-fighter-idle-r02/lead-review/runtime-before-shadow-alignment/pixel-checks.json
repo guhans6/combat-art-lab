@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "frames": [
+    {
+      "frame": 0,
+      "opaque_rgb_mismatches": 0
+    },
+    {
+      "frame": 1,
+      "opaque_rgb_mismatches": 0
+    },
+    {
+      "frame": 2,
+      "opaque_rgb_mismatches": 0
+    },
+    {
+      "frame": 3,
+      "opaque_rgb_mismatches": 0
+    }
+  ],
+  "runtime_loops": 3,
+  "engine": "4.7.2-stable (official)",
+  "source_rect": [
+    130,
+    47,
+    258,
+    311
+  ]
+}

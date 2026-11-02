@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-02",
+  "roles": "motion principle reference only, no source pixels copied; still contacts inspected; GIF-tempo not authority",
+  "sources": [
+    {
+      "image": "hero2-1-contact.png",
+      "primary_url": "https://luizmelo.itch.io/martial-hero-2"
+    },
+    {
+      "image": "hero-2-contact.png",
+      "primary_url": "https://luizmelo.itch.io/martial-hero"
+    },
+    {
+      "image": "saint11-contact.png",
+      "primary_url": "https://saint11.art/img/pixel-tutorials/characterIdle.gif"
+    }
+  ]
+}

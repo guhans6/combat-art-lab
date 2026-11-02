@@ -1,0 +1,43 @@
+{
+  "native": {
+    "decoded_frames": 4,
+    "durations_ms": [
+      700,
+      260,
+      500,
+      340
+    ],
+    "period_ms": 1800,
+    "visible_rgba_mismatches": 0
+  },
+  "preview3x": {
+    "decoded_frames": 4,
+    "durations_ms": [
+      700,
+      260,
+      500,
+      340
+    ],
+    "period_ms": 1800,
+    "visible_rgba_mismatches": 0
+  },
+  "environment2x": {
+    "decoded_frames": 4,
+    "durations_ms": [
+      700,
+      260,
+      500,
+      340
+    ],
+    "period_ms": 1800,
+    "visible_rgba_mismatches": 0
+  },
+  "art_pixel_edits": false,
+  "environment_crop": [
+    75,
+    106,
+    260,
+    326
+  ],
+  "caption": "realGodotposecaptures reconstructed at authoredtiming, notcontinuousvideo"
+}

@@ -1,0 +1,219 @@
+{
+  "passed": true,
+  "baseline_sha256": "82e878fe5be2ebef488cd2465cc840280750eb2bc16636834212efca0ab1ebeb",
+  "native_sha256": "afbb2f8b9d947890b1eedc53be03f3950e234ad53d81559a7537b25b44622665",
+  "canvas": [
+    96,
+    160
+  ],
+  "palette_native_chunks_exact": true,
+  "native_layers": 12,
+  "native_cels": 48,
+  "frames": 4,
+  "unique_height_poses": 3,
+  "durations_ms": [
+    500,
+    180,
+    420,
+    300
+  ],
+  "total_ms": 1400,
+  "semantic_split": "source twolegboot owners split into two pants+two immutable boot/cuff owners",
+  "all_source_rest_upper_pelvis_skirt_owners_exact_registered_translation": true,
+  "chest_expansion_px_allframes": 0,
+  "pelvis_down_px": [
+    0,
+    1,
+    2,
+    1
+  ],
+  "head_shoulder_arm_same_primary_downphase": true,
+  "both_boot_owner_pixels_exact_source_rest_allframes": true,
+  "all_composite_bootmask_pixels_protected": true,
+  "all_y137plus_exact_source_rest": true,
+  "rest_composite_exact_source": true,
+  "authored_leg_redraw_native_exact_to_inputdata": true,
+  "cuff_contact_x_perframe": [
+    {
+      "near": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "far": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "near": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "far": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "near": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "far": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "near": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "far": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ]
+    }
+  ],
+  "alpha": [
+    {
+      "frame": 1,
+      "binary_alpha": true,
+      "enclosed_holes": 0
+    },
+    {
+      "frame": 2,
+      "binary_alpha": true,
+      "enclosed_holes": 0
+    },
+    {
+      "frame": 3,
+      "binary_alpha": true,
+      "enclosed_holes": 0
+    },
+    {
+      "frame": 4,
+      "binary_alpha": true,
+      "enclosed_holes": 0
+    }
+  ],
+  "changed_vs_source_rest_pixels": [
+    0,
+    525,
+    995,
+    525
+  ],
+  "changes_inside_frozenmask": true,
+  "native_PNG_sheet_freshreopened_sheet_exact": true,
+  "duplicate_edit": {
+    "changed": [
+      {
+        "frame": 1,
+        "owner": "thorax-coat",
+        "pixels": [
+          [
+            47,
+            75
+          ],
+          [
+            47,
+            76
+          ],
+          [
+            47,
+            77
+          ]
+        ]
+      }
+    ],
+    "visible_composite_changed_pixels": 3,
+    "all_other_native_pixels_cels_geometry_metadata_palette_timing_exact": true,
+    "alpha_unchanged": true,
+    "fresh_reopen_exact": true
+  },
+  "raw_mcp_gif": {
+    "frames": 4,
+    "durations_exact": true,
+    "alpha_exact": true,
+    "opaque_rgb_differences_perframe": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "limits": [
+    "Disposable sample only, no fighterdesign/application",
+    "Pants/boot cuff coverage abuts and is validated for these3poses only, not a complete hidden surface rig",
+    "Hip/knee routes under clothing inferred construction hypotheses",
+    "Producer inspected stills, not temporalnaturalness",
+    "Lead owns Godot environment/playback/artreview",
+    "No callable validate tool; independentnative/PNG checks",
+    "No r01/r02/repo/fighter writes"
+  ]
+}

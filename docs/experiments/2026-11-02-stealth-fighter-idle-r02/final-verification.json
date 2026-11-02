@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "native_sha256": "f4cb8fff0a460cde6845fb15bc0c5e3271259d9d38d5f3efa051e4970b2e6127",
+  "packet_manual_binding_exact": true,
+  "timing_ms": 1800,
+  "prior_assets_preserved": 272,
+  "export_frames": [
+    {
+      "frame": 0,
+      "path_resolves": true,
+      "tested_engine_pixels_exact": true
+    },
+    {
+      "frame": 1,
+      "path_resolves": true,
+      "tested_engine_pixels_exact": true
+    },
+    {
+      "frame": 2,
+      "path_resolves": true,
+      "tested_engine_pixels_exact": true
+    },
+    {
+      "frame": 3,
+      "path_resolves": true,
+      "tested_engine_pixels_exact": true
+    }
+  ],
+  "publication": "not performed"
+}

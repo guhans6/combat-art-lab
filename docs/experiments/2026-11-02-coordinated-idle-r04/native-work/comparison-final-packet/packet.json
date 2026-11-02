@@ -1,0 +1,1135 @@
+{
+  "schema_version": 1,
+  "baseline_role": "retained exact r03REST appearance; rejected r03movingpants not an appearance baseline; disposable test identity",
+  "registration_claim": "same96x160 grid/root, fixedREST lowerowners; no per-frame fitting",
+  "sources": [
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final.json",
+      "role": "spec",
+      "sha256": "008b808b41257a95fb40dd0e2e57998300e274cd5b92dedb90bb836d2aee2a1f"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/relaxed-idle-r04.aseprite",
+      "role": "candidate native",
+      "sha256": "eeb6b36f9b18063529e0be50b2c74691e03fc8a4e3d743b24013cc1a46e75a8e"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/baseline-r03.aseprite",
+      "role": "original native unchanged",
+      "sha256": "afbb2f8b9d947890b1eedc53be03f3950e234ad53d81559a7537b25b44622665"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/connected-keys.aseprite",
+      "role": "reviewed structural key native",
+      "sha256": "be8654055e525ab652599a54dd66a987fd2d53523c49da963aa45d2658ee5b19"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/checks.json",
+      "role": "native/export/protection/reopen/localedit checks",
+      "sha256": "f2e034e6b0bd68fe1e5f2a97c7b9d86da0781696eb717639a6621118a155d0f7"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/alpha-checks.json",
+      "role": "allframe alpha",
+      "sha256": "30315cd1595f6ed52c50705967fd2acf8191e0d5fb4e4ad53d92739bf04ddd2c"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/timings.json",
+      "role": "timing",
+      "sha256": "3bc80d25ad2b17aea38b6d5f10255fbd64886287ef2aaf383a54bc61a3df4d72"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/body-joints.json",
+      "role": "body sites",
+      "sha256": "439da37301285066079cdaf471640610e6968aa94248a9619ba34dd34a6794ac"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/wrist-registered-proof.json",
+      "role": "wrist/forearm exact correspondence",
+      "sha256": "187146d815fd0c0a7ae47b73f3b9280b826fecc12b5b93bc42bf7bc6e708432c"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/key-ops.json",
+      "role": "frozen drawing inputs",
+      "sha256": "fb16f5c67f18c6251f72cca2fc157fffb67037e8eaac29bcbbf51e8be607fc50"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/native-operations.json",
+      "role": "native operations provenance",
+      "sha256": "5684aee8eb68ee28c40e21010bb8651a252947f6d463d2989d7b51d49fe08dbe"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/final-observations.md",
+      "role": "scope and final evidence boundary",
+      "sha256": "d1246e9c83ec3750c236bb9eef291e0ef2c2f1d73fad44193158c3593997d88c"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/hide-coat-back-skirt-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "943d3a8f567acca416a9409f3a68211080904901454fc0278bc8ba7360cc17eb"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/hide-far-boot-cuff-fixed-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "579971b3f64ac11c227fc2ece3b3607fa5565cb2dd0e94577b505bba55f8d6bf"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/hide-far-leg-pants-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "901244dea432704827caea2d6ca64e6bba80df0eee8e14132b364efdce03707e"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/hide-far-sleeve-hand-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "055ca5f7abf4a253aa9b48f942f148e2aa2c784de952f31b9af37a5750552804"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/hide-head-hair-face-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "bd6010821c804bf528e911886f2bed3ba7a1de0fcd9bbc148924442d8309ae72"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/hide-near-boot-cuff-fixed-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "d3641fbffbe7b02acc855b09a79f41070bc7e8caaeef73ea8ee9efdd045c094d"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/hide-near-forearm-hand-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "72316fa7f940da9fd2882b6e7f476f21d543e5b44b2ed8544989f6a1a962cbd7"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/hide-near-leg-pants-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "101d0be6175b0592447e74890773761f4626848bf564bbbb4f2801eed43f3474"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/hide-near-upper-sleeve-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "45cf47ccecee0e7bfd2b2469d6a624d2796ddbd406be67e49828539106b94242"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/hide-neck-collar-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "989a6586448f9e18389304671d719653478fab5ff72a98c072252d712df466f1"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/hide-pelvis-root-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "c9b018ceb3d819996d87d0301f1bd81b59fdafd764dd6a80fe50211f40c86767"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/hide-thorax-coat-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "4acdc6629dee40e559e412276950cd8f121fa63b61a196735c04100edbeb2f91"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/loop-seam-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "538694d91e4d58f5744d39669d00e97f6390b457f777105ca7d6089ea2e96919"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/neighbor-keys-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "180a8fa1ff192e11e19b12e625ff218810078c5a026e1e5c57789d2824b8341c"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/owner-coat-back-skirt-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "a2648dac3858b85b69892f8bf45f4ae6dfe5386c61f2f1d14e67a888e1d05580"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/owner-far-boot-cuff-fixed-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "57169ba280c719100d10eec22cc479fb543443a0803a706a2e4cac276ebb29df"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/owner-far-leg-pants-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "ec4213b34b34988fee00096a1d8774ef7f702799054f7e479b8e47029bf63fe7"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/owner-far-sleeve-hand-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "1453464bf9210fdab1a846809cc9cb56ed71a89eec66945bea9a0425fc1e91d3"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/owner-head-hair-face-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "f22baf0499079e427f3312c71695decf7371973ff9682281bab83c5ed224dae6"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/owner-near-boot-cuff-fixed-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "502b67571213358206e727a63a959b77b562cfe7b4c5c66f27ec3a7d84cfa238"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/owner-near-forearm-hand-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "b886fe3bcc12cb701c077e417372a1224457137e87b175d752fcae0b1a662ce3"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/owner-near-leg-pants-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "8cc9471a17007ee97070340cc154360d58664e0741c43bff618d537ca000ac2a"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/owner-near-upper-sleeve-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "fe5ae716f29537159507d9e60a69d7393f097c8b97298170e802a73cbc6761ce"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/owner-neck-collar-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "c9d4767c4aef05560c8892b8df58cd20328f178d5ca65cddc0a0cfe412908ae1"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/owner-pelvis-root-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "d7529508f7a2f5203a700b18fd14ec686f18cb37242569b21cda1ee45fc27b6a"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/structure/owner-thorax-coat-3x.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "c0b22cf6550c840d68a9f3d2939cc58c13efdc87d205b54618442c441ff524c3"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/reference-evidence/hero-2-contact.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "1bd12187718009e2d570f23dde175be0ef012366b32b18ca352dd17dbb5ebd1f"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/reference-evidence/hero2-1-contact.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "7b485b024b1a52d54e84ae144adaabf05fd2dd8c1a741b4db957870ead35c425"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/reference-evidence/saint11-contact.png",
+      "role": "actual native-owner/neighbor or primary motion reference view",
+      "sha256": "77f610e63c36fa00a0ee4b9c8d0d03342db3117e70bf72e2e802c3e29b67b920"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-hide-coat-back-skirt.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "6976a8915b68f5381f4979a9dbcab299b19443ef71da68de5edc0ce8daa2ca23"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-hide-far-boot-cuff-fixed.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "55c2c8fa497ff7b4068e68e7f20744265cba396ae0afd81bee2bc006c66e2964"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-hide-far-leg-pants.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "5b4d51f81093cffe848419cc0dcf7d4e9579ed177d334e51641fee2a1e0734ea"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-hide-far-sleeve-hand.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "06e4de1c41748e4154e8e7e41cbd4eccf9250e9cb0a214bf7ddbcc001fa83616"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-hide-head-hair-face.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "edac5cf3788f735bcd2a8c9dea793472c09211a3ae8855aebef7fd35a4adb2ca"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-hide-near-boot-cuff-fixed.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "23200604ba8f2c7812734d0e8fb0cabb5f403d9a94212e1e078087dc3ae28009"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-hide-near-forearm-hand.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "9969b2287f863e3cea7fc26146b8343a29e707c1edde3fe197ee7ae28669594d"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-hide-near-leg-pants.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "2b67fb1f42cc319cefb6fdb7be23df79017bedc808ce3d7e90954885824d2123"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-hide-near-upper-sleeve.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "744a0f564319f68c9b996f2d633dce4e01a9ec32dd276cceef76b2dea5b184b5"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-hide-neck-collar.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "52dc28fe08504fda5fe0a32d8f29f9655a833c16b20a101313d6f3cb5299bf85"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-hide-pelvis-root.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "3c54e73b0afe39352fb19bcaebd7d01a389ee73dc6374f01d85d504d9caaac14"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-hide-thorax-coat.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "1b9ee252fe9e83efd79beaaaab58dac24a87e6f2ee83403ba746d7cca3db1a29"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-landmarks.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "227f4d48495cd904ce208d66bab5f7ce98971ae94928af489a95239ff07b85b4"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-owner-coat-back-skirt.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "ce4b99688f4e0ab8f184c1a179306b06120fab1a568062650593fa6139ca5a47"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-owner-far-boot-cuff-fixed.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "659761546da16d99e3c038d4ecf88ba68cf2b2758125f7ddb2a6263e7ac653ed"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-owner-far-leg-pants.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "0b739bc8363c8bff42ce2d8207031cf18a1171e1512ad06dc861ae781b5f1933"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-owner-far-sleeve-hand.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "15e3285e2e6b3e94e984798e44f0b4a58bd23902a3c48eb60414c3c61b8742ab"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-owner-head-hair-face.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "959adc0af1fec9272b0d9968844b37bf7bdd740867915b612f8643eabc3a5011"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-owner-near-boot-cuff-fixed.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "a01c2a3c42a34da7b9e6fe13233c7d7eabd299dcec9b9b939b2756436c67c060"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-owner-near-forearm-hand.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "7cf384d97eec52bb6b411b6f6083bfb2fde4a091222b19bf9e02c43396b8981f"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-owner-near-leg-pants.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "532c43288cf5a31207454bcafc58b9b289ebdd5f87e360ed4fd065f69e552cf8"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-owner-near-upper-sleeve.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "647d897d7d699d389b67e22275264cbc8b54921bb67bd291833232b73031f0a2"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-owner-neck-collar.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "49025ab6c2541cd452df64782ddf5953231e654dcc33a772faddfb0f29f67c70"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-owner-pelvis-root.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "afaf80ee525de1bf85f65e9deded3e79c78d24f6c46fa0da3f056d1ab0ce3f9d"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f0-owner-thorax-coat.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "2402d54917bed79420daac5ec86bd72eab92935cb21153cbe8fb4bdb91e6782a"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-hide-coat-back-skirt.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "dbfa4b370dd1c0a3bb2f9c38d60c3ab7861ed41420467f425ad6e6ca873bad39"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-hide-far-boot-cuff-fixed.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "3af38a59c814b17e12fdfd3eb622b93956e5ed2d79c9b6e7ca40a026f5a878b0"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-hide-far-leg-pants.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "721f4d1445871c0f8a24f5659638beb93b92450fff36bb33e3f0504012e364f0"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-hide-far-sleeve-hand.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "e64e941af02305bf5ba4488ebcbe9469d672f849d53b2c0ac22bf4a0331255da"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-hide-head-hair-face.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "c984388e1e8266c0f9725a889ad07ad512aa67fc826d01eb5d09fc47515dff6d"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-hide-near-boot-cuff-fixed.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "78cbad2448fd48b9cafb7ff561967dfe7e4939c1a2892276b4d2e03f3f2d9310"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-hide-near-forearm-hand.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "69bdcb621a0636283931d8da73ec5b7a23f8b1bf37b49fd1ebe7a4d31def8dc3"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-hide-near-leg-pants.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "25154b080b00627497bbd6ec8aedb5721c2e7ede744f08e56f45d11f48ca557c"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-hide-near-upper-sleeve.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "b893cbd01546696feacf0ebfc2b7ff0db8d25af6f304784636fcc92137e7100c"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-hide-neck-collar.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "0acbcbe5fd3b1c448600f8458cecdd8bd86da87e5420b975b610c34c6f3b2d8c"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-hide-pelvis-root.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "16fa649cb5c6ea27f7231c04783f602a4d6df56d2233a6d906b512bda2c7760f"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-hide-thorax-coat.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "6e1435a309d3eb940ca6bfb9f9f026df2a6ea8e8edd535ce0ecec65dee485481"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-landmarks.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "eff0713292bb53cea446826d6dcd40420a95d8a5eec268fa1072a5474072453e"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-owner-coat-back-skirt.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "ce4b99688f4e0ab8f184c1a179306b06120fab1a568062650593fa6139ca5a47"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-owner-far-boot-cuff-fixed.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "659761546da16d99e3c038d4ecf88ba68cf2b2758125f7ddb2a6263e7ac653ed"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-owner-far-leg-pants.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "0b739bc8363c8bff42ce2d8207031cf18a1171e1512ad06dc861ae781b5f1933"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-owner-far-sleeve-hand.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "c6c80f70dab9de95933408c624296c4933eb658d52ae108992ddae2123f5e155"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-owner-head-hair-face.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "b6588b7e7189de432a79f8d11c9a2ac2eea324f5172a81ee4bfe15021d926a7d"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-owner-near-boot-cuff-fixed.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "a01c2a3c42a34da7b9e6fe13233c7d7eabd299dcec9b9b939b2756436c67c060"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-owner-near-forearm-hand.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "da4cda21da16c87fe36ca506b6f515a8088ed262ea2bb15803e7a422bf7c101b"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-owner-near-leg-pants.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "532c43288cf5a31207454bcafc58b9b289ebdd5f87e360ed4fd065f69e552cf8"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-owner-near-upper-sleeve.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "367f9120ff6e058e44b0738875e7e4cd26c104919adc75f630b4899c0f51c381"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-owner-neck-collar.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "4638cbe5fb2edd3aacf7b9c64879beecfca662c9e4ec2479c58f3f20eda8048c"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-owner-pelvis-root.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "afaf80ee525de1bf85f65e9deded3e79c78d24f6c46fa0da3f056d1ab0ce3f9d"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f1-owner-thorax-coat.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "0e22b4d535da051ff204b1dbfd2dcfc37b7c2e51758bd19f5b06a9127953a946"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-hide-coat-back-skirt.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "65f07fbe7cd71da95a7953347c058e9edca66d35cb747307892d74f778835d7d"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-hide-far-boot-cuff-fixed.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "2f20f43bbd1475e3e5f31fe1b9b35fa083edf998374d74752c8ab4801d7a5b7b"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-hide-far-leg-pants.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "66314b151e7633e1bd4aaac92bfee20973ded974c201377ec5b30b5a341dd31e"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-hide-far-sleeve-hand.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "57635e2e21f28486daeea1fbfd8e265f43e554e12e1bd4885c77962f764b43c0"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-hide-head-hair-face.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "41c827ad95f31157e2bc9439b1fc9ac2b0a6fa86063a9f035471ba936a51bbc6"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-hide-near-boot-cuff-fixed.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "25c7ae632e0fdd04ea5ed18192b91a038ffef850814faabb7d501c33ff80a0bf"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-hide-near-forearm-hand.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "d4af04b65e2db5842f9718f7c3e259b221bba4ff364ef06f037700f75c823422"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-hide-near-leg-pants.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "cc5bbf1f9d79a3041bc76911b5f694c6e9ec98ac2c81377a2186af8ce5d20cfd"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-hide-near-upper-sleeve.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "63ead6fa68acf43b758dfc76d073619b22abe579f4f45a72e8c14694ee717e13"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-hide-neck-collar.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "1208377b7292705778602d4e69d53a3488d6c2452b94dc6f00f20c2f85c7e3a3"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-hide-pelvis-root.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "7d8b7a24fe6850b4264e4e4d83339a5d3dc5518d683de7244d291fd3cf6215da"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-hide-thorax-coat.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "aad80c31b577c238b7c0ce6fb2bab0f236d95c2887165c7eb3b3079dc1feeeca"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-landmarks.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "7555c7b05b337fdfcf731f4287aaf7866b0f3b2f84357092b970ded1fed7b193"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-owner-coat-back-skirt.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "ce4b99688f4e0ab8f184c1a179306b06120fab1a568062650593fa6139ca5a47"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-owner-far-boot-cuff-fixed.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "659761546da16d99e3c038d4ecf88ba68cf2b2758125f7ddb2a6263e7ac653ed"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-owner-far-leg-pants.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "0b739bc8363c8bff42ce2d8207031cf18a1171e1512ad06dc861ae781b5f1933"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-owner-far-sleeve-hand.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "4aabfbf2bcce0bf6216860c002c9ea2de9b6732888e2d2ff56a197d16d69b5f5"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-owner-head-hair-face.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "4e604914d7e873955e741b3517a449d3463cc110fbc7b8f65539e4c4cebaa1f8"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-owner-near-boot-cuff-fixed.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "a01c2a3c42a34da7b9e6fe13233c7d7eabd299dcec9b9b939b2756436c67c060"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-owner-near-forearm-hand.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "5892dfa57028154b866520974fcb44f5436fe17c2da296147e4ee71b5bb14739"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-owner-near-leg-pants.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "532c43288cf5a31207454bcafc58b9b289ebdd5f87e360ed4fd065f69e552cf8"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-owner-near-upper-sleeve.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "1fe836dee4317dead5678bfdd59acbdc50fe00e147ecedc551dc5df84af6e94e"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-owner-neck-collar.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "852981c62db77212582b85a935f7fec9582ad4c453f3b55ec83118ee224881cd"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-owner-pelvis-root.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "afaf80ee525de1bf85f65e9deded3e79c78d24f6c46fa0da3f056d1ab0ce3f9d"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/f2-owner-thorax-coat.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "7da3134fa84065834dfa710299c7f991133aa2b1aa7894d08c3be1ac7db9650e"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/hide-far-sleeve-hand-3x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "d0bc7f73967554a2e807390c3b89e2f67ffcad9f755db3dea275965d7c76ac2c"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/hide-head-hair-face-3x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "6d3abdead1e06f13d357f50e2613e3f1325f4749e83ff64391ccbf912c866774"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/hide-near-forearm-hand-3x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "995c60b2117b5b6b56be0f31d7d57e4d4e1b3792383a1205fa0e0b0b6330a819"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/hide-near-upper-sleeve-3x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "2f09d5050dd09cddcb5dda1f8d86aecb05520271a3826984426988a5eab1f08b"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/hide-neck-collar-3x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "19835ac86569295fe40cdbfc26d1867f78956ea1bdb1dd37b23892d254ae517e"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/hide-thorax-coat-3x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "b9a678871f914dc934b1b1493343ac904a648a7bb50ccbf58090019404772cf0"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/key-0.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/key-1.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "fc59cdd0158a23700f5a2bea203e0505d77487d20bcb58ebbe13440be1a26721"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/key-2.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "8e2a4edbdf8b6df10737278fb6c66661884f4c14560b989322c57afc6ca6d02b"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/keys-1x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "2a60434b60d583c2835528a2ca4ca8e74de338f06cddb1d5215c02d390607152"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/keys-3x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "089ed9cf6e6eb6384730c8674bc3cb43e75cf725e90e476027734242b47607b1"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/landmarks-3x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "e2c2487127981613d8f2d5fb04dd89752430dbf910802a2798f74bf8433d83c8"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/lower-owners-3x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "7e8843ffd39a900413a74082a3ddb8a26105a73cefbcaf85726bb7d0886295ed"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/upper-owners-3x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "e554543e51c1fc987d1f6264ae58f7a215dd09683cb718c66f695f386bd78ce9"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/wrist-K0-clean-10x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "21f39587ff0d904394046213ef9a2738902e0d50a24ebc0dd63cec85f99f43fd"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/wrist-K0-owner-10x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "4aca6054d3596c3579cf5dba5f54bfb774c259eb4938d0a297370a8ec194663b"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/wrist-K0-skin-10x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "f148fc0164f7a5d13204d497c63fb4589207ccdfdbdaa4a466a86c22cdcca334"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/wrist-K1-clean-10x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "b2b111e85cb340ef36ffe9159971a0e809b0d2264eebd84b6a6af7a8ba1626f1"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/wrist-K1-owner-10x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "f772f24630f4b8423646e606866274221127fed5e25149bc154b8d2817bb2e92"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/wrist-K1-skin-10x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "f148fc0164f7a5d13204d497c63fb4589207ccdfdbdaa4a466a86c22cdcca334"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/wrist-K2-clean-10x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "901755ab8ba644467d682c515c7086421702ac2e82a4058a60bb3a4b929c10c4"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/wrist-K2-owner-10x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "f1c1a1220f2fcca253e0d9714d28b903b7e84d83330b34ee39b51c27a237b682"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/keys/wrist-K2-skin-10x.png",
+      "role": "actual structural key ownership/hide/registeredlandmarks and wrist context",
+      "sha256": "fbd15bb3c55aad52c837b00292d49d803dfdb949af924a23c8cfc77290f5bf33"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/contact-1x.png",
+      "role": "actual delivered frame/reopen/editproof evidence",
+      "sha256": "ad08a0c58995f96d7d9749e5958f07fd124b296568b1ea5049f3a90470f389a3"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/contact-3x.png",
+      "role": "actual delivered frame/reopen/editproof evidence",
+      "sha256": "d002194e191645aefdde8aaed6f78097571fad52461ba1f327698109a8ac1f03"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/edit-proof.png",
+      "role": "actual delivered frame/reopen/editproof evidence",
+      "sha256": "145c5267434ed5afb0467177d3ba4f728a39ee48b99b35199086335524b4439b"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/edit-proof-reopened.png",
+      "role": "actual delivered frame/reopen/editproof evidence",
+      "sha256": "145c5267434ed5afb0467177d3ba4f728a39ee48b99b35199086335524b4439b"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/edit-proof-comparison-8x.png",
+      "role": "actual delivered frame/reopen/editproof evidence",
+      "sha256": "7de1f86a7bd29afcfbfc888ab54852f1adf1982f76958966b55cd15c5c16eeae"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/idle-sheet.png",
+      "role": "actual delivered frame/reopen/editproof evidence",
+      "sha256": "21873ad10671281d139075f764e511d8301a7dc208e18f5584e3369c95db5dab"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/reopened-sheet.png",
+      "role": "actual delivered frame/reopen/editproof evidence",
+      "sha256": "21873ad10671281d139075f764e511d8301a7dc208e18f5584e3369c95db5dab"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/source-rest.png",
+      "role": "F0 baseline",
+      "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/idle-0.png",
+      "role": "F0 candidate",
+      "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/editable-upper-frozen.png",
+      "role": "F0 allowed edit mask",
+      "sha256": "36e9770f3f775e2fe2ccbfca54199e65d6ac0c32dca1ddf8d7cc362dc95dd097"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/source-rest.png",
+      "role": "F1 baseline",
+      "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/idle-1.png",
+      "role": "F1 candidate",
+      "sha256": "fc59cdd0158a23700f5a2bea203e0505d77487d20bcb58ebbe13440be1a26721"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/editable-upper-frozen.png",
+      "role": "F1 allowed edit mask",
+      "sha256": "36e9770f3f775e2fe2ccbfca54199e65d6ac0c32dca1ddf8d7cc362dc95dd097"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/source-rest.png",
+      "role": "F2 baseline",
+      "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/idle-2.png",
+      "role": "F2 candidate",
+      "sha256": "8e2a4edbdf8b6df10737278fb6c66661884f4c14560b989322c57afc6ca6d02b"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/editable-upper-frozen.png",
+      "role": "F2 allowed edit mask",
+      "sha256": "36e9770f3f775e2fe2ccbfca54199e65d6ac0c32dca1ddf8d7cc362dc95dd097"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/source-rest.png",
+      "role": "F3 baseline",
+      "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/delivery/idle-3.png",
+      "role": "F3 candidate",
+      "sha256": "fc59cdd0158a23700f5a2bea203e0505d77487d20bcb58ebbe13440be1a26721"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/editable-upper-frozen.png",
+      "role": "F3 allowed edit mask",
+      "sha256": "36e9770f3f775e2fe2ccbfca54199e65d6ac0c32dca1ddf8d7cc362dc95dd097"
+    }
+  ],
+  "sheets": [
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-000-region-00.png",
+      "sha256": "6661f55b3b713c7ddab252aa4072d2de23dc6efa627b80f085497ddd5d733a39"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-000-region-01.png",
+      "sha256": "19a40314017decb603ddb66d4552834a33c0ebe888d81ddb8aa037e632216555"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-000-region-02.png",
+      "sha256": "aafee0b906444f107162a44700d6617f8dcab383bd367f6ded480c07b7052d96"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-001-region-00.png",
+      "sha256": "2c926dcf2994e0a71426782f0639be9f800de5448f06e048e59cbaf175992b94"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-001-region-01.png",
+      "sha256": "1a8268b569b6122077f7e6e0b3da5959767442b3e3557a859299b34815c9ef99"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-001-region-02.png",
+      "sha256": "96929ccc6fc2064b429932a741cf37d11d7f36e067991327ad4188de40510914"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-002-region-00.png",
+      "sha256": "e72923e829d41a5ef5c788148af15f2a1de6075b254968a10e697a6b1750b9f7"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-002-region-01.png",
+      "sha256": "0670d3164c47bf04852b7fd2e99c1aa8a9a15779b60bd4b9172428da1e851e23"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-002-region-02.png",
+      "sha256": "de17b3ac2310230063c3ace798bb8e6f3035e86fef9ee434a04b58012b5e5f15"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-003-region-00.png",
+      "sha256": "2c926dcf2994e0a71426782f0639be9f800de5448f06e048e59cbaf175992b94"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-003-region-01.png",
+      "sha256": "1a8268b569b6122077f7e6e0b3da5959767442b3e3557a859299b34815c9ef99"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-003-region-02.png",
+      "sha256": "96929ccc6fc2064b429932a741cf37d11d7f36e067991327ad4188de40510914"
+    }
+  ],
+  "frames": [
+    {
+      "id": "F0",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          96,
+          160
+        ],
+        "changed_pixels": 0,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": null,
+        "visible_colors_before": 12,
+        "visible_colors_after": 12,
+        "new_visible_rgb_colors": [],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 3212,
+        "silhouette_changed_pixels": 0,
+        "alpha_changed_pixels": 0,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+          "after": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+          "mask": "36e9770f3f775e2fe2ccbfca54199e65d6ac0c32dca1ddf8d7cc362dc95dd097"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "skull-collar-shoulder",
+          "crop_xyxy_half_open": [
+            28,
+            6,
+            66,
+            49
+          ],
+          "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-000-region-00.png"
+        },
+        {
+          "name": "torso-sleeve-elbow",
+          "crop_xyxy_half_open": [
+            28,
+            35,
+            66,
+            70
+          ],
+          "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-000-region-01.png"
+        },
+        {
+          "name": "forearm-wrist-waist-skirt",
+          "crop_xyxy_half_open": [
+            28,
+            58,
+            66,
+            97
+          ],
+          "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-000-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F1",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          96,
+          160
+        ],
+        "changed_pixels": 269,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          31,
+          9,
+          62,
+          72
+        ],
+        "visible_colors_before": 12,
+        "visible_colors_after": 12,
+        "new_visible_rgb_colors": [],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 3252,
+        "silhouette_changed_pixels": 66,
+        "alpha_changed_pixels": 66,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+          "after": "fc59cdd0158a23700f5a2bea203e0505d77487d20bcb58ebbe13440be1a26721",
+          "mask": "36e9770f3f775e2fe2ccbfca54199e65d6ac0c32dca1ddf8d7cc362dc95dd097"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "skull-collar-shoulder",
+          "crop_xyxy_half_open": [
+            28,
+            6,
+            66,
+            49
+          ],
+          "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-001-region-00.png"
+        },
+        {
+          "name": "torso-sleeve-elbow",
+          "crop_xyxy_half_open": [
+            28,
+            35,
+            66,
+            70
+          ],
+          "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-001-region-01.png"
+        },
+        {
+          "name": "forearm-wrist-waist-skirt",
+          "crop_xyxy_half_open": [
+            28,
+            58,
+            66,
+            97
+          ],
+          "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-001-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F2",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          96,
+          160
+        ],
+        "changed_pixels": 543,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          30,
+          9,
+          62,
+          92
+        ],
+        "visible_colors_before": 12,
+        "visible_colors_after": 12,
+        "new_visible_rgb_colors": [],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 3259,
+        "silhouette_changed_pixels": 171,
+        "alpha_changed_pixels": 171,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+          "after": "8e2a4edbdf8b6df10737278fb6c66661884f4c14560b989322c57afc6ca6d02b",
+          "mask": "36e9770f3f775e2fe2ccbfca54199e65d6ac0c32dca1ddf8d7cc362dc95dd097"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "skull-collar-shoulder",
+          "crop_xyxy_half_open": [
+            28,
+            6,
+            66,
+            49
+          ],
+          "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-002-region-00.png"
+        },
+        {
+          "name": "torso-sleeve-elbow",
+          "crop_xyxy_half_open": [
+            28,
+            35,
+            66,
+            70
+          ],
+          "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-002-region-01.png"
+        },
+        {
+          "name": "forearm-wrist-waist-skirt",
+          "crop_xyxy_half_open": [
+            28,
+            58,
+            66,
+            97
+          ],
+          "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-002-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F3",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          96,
+          160
+        ],
+        "changed_pixels": 269,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          31,
+          9,
+          62,
+          72
+        ],
+        "visible_colors_before": 12,
+        "visible_colors_after": 12,
+        "new_visible_rgb_colors": [],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 3252,
+        "silhouette_changed_pixels": 66,
+        "alpha_changed_pixels": 66,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+          "after": "fc59cdd0158a23700f5a2bea203e0505d77487d20bcb58ebbe13440be1a26721",
+          "mask": "36e9770f3f775e2fe2ccbfca54199e65d6ac0c32dca1ddf8d7cc362dc95dd097"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "skull-collar-shoulder",
+          "crop_xyxy_half_open": [
+            28,
+            6,
+            66,
+            49
+          ],
+          "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-003-region-00.png"
+        },
+        {
+          "name": "torso-sleeve-elbow",
+          "crop_xyxy_half_open": [
+            28,
+            35,
+            66,
+            70
+          ],
+          "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-003-region-01.png"
+        },
+        {
+          "name": "forearm-wrist-waist-skirt",
+          "crop_xyxy_half_open": [
+            28,
+            58,
+            66,
+            97
+          ],
+          "path": "/private/tmp/atmospheric-idle-sample-r04/comparison-final-packet/frame-003-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    }
+  ],
+  "zoom": 4,
+  "resampling": "integer nearest-neighbor",
+  "matte": "checkerboard RGB49,49,61 / 61,61,73",
+  "mechanical_passed": true,
+  "visual_acceptance": "pending",
+  "user_approval": "pending",
+  "limits": "Coverage means pixels are available for inspection. Scope/coverage cannot judge anatomy, occlusion, grip or improvement. Registration and affected-frame inventory are caller declarations. Bound native/report hashes do not prove export correspondence or hidden-layer integrity. Source or packet changes require fresh review."
+}

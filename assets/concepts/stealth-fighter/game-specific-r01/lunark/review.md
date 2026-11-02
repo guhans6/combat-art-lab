@@ -1,0 +1,7 @@
+# LUNARK rendering study — review pending
+
+Raw output is 1024 × 1536. The body extends approximately y=115–1413, about 85% of canvas height, and feet sit around 92% of image height; these are visual estimates, not segmentation measurements. One intact figure faces right on a dark background with ground line. Broad indigo, charcoal, steel, brown and rust roles, long hair, and sheathed sword appear.
+
+The result misses the severe simplicity of the gameplay reference: it contains many more color clusters, an explicit eye, complex hair, garment and boot detail, and dark internal divisions. It therefore cannot demonstrate the requested omission economy. Its torso, both separated arms and legs, and visible boot tops suggest a three-quarter view rather than a strict orthographic profile. Some reddish edges read as rim lighting, contrary to the request. Background is subtly textured instead of a precisely flat #24282d. Sword/sheath is partially obscured. The figure is larger and lower than the requested framing. No exact face or production design approval is implied.
+
+Reference is an actual publisher gameplay screenshot; only its small figure's sparse rendering was studied. No inference about how LUNARK gameplay sprites were made is asserted. This is a generated concept, not a native sprite or verified 128-pixel gameplay asset. No animation, Godot playback, or user visual approval has occurred.

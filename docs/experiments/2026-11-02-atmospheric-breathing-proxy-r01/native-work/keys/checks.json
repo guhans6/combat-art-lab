@@ -1,0 +1,202 @@
+{
+  "keys": [
+    {
+      "key": "rest",
+      "enclosed_holes": [],
+      "alpha_values": [
+        0,
+        255
+      ]
+    },
+    {
+      "key": "transition",
+      "enclosed_holes": [],
+      "alpha_values": [
+        0,
+        255
+      ]
+    },
+    {
+      "key": "apex",
+      "enclosed_holes": [],
+      "alpha_values": [
+        0,
+        255
+      ]
+    }
+  ],
+  "native_composites_exact": true,
+  "native_owners_exact_to_MCP_isolations": true,
+  "smoke": {
+    "orientation": "top-left hooked L with blue pixel(3,4), isolatedwarm(10,11)",
+    "exact_edit": [
+      [
+        10,
+        11
+      ]
+    ],
+    "protected_owner_unchanged": true,
+    "reopened_exact": true,
+    "grid_dot_erases": true,
+    "out_of_mask_negative_rejected": true
+  },
+  "landmarks": {
+    "0": {
+      "hair_top": [
+        47,
+        10
+      ],
+      "chin": [
+        56,
+        32
+      ],
+      "neck": [
+        51,
+        35
+      ],
+      "shoulder": [
+        38,
+        40
+      ],
+      "chest_front": [
+        57,
+        52
+      ],
+      "elbow": [
+        37,
+        62
+      ],
+      "wrist": [
+        43,
+        80
+      ],
+      "pelvis": [
+        44,
+        85
+      ],
+      "knee_near": [
+        37,
+        119
+      ],
+      "soles_y": 146
+    },
+    "1": {
+      "hair_top": [
+        47,
+        9
+      ],
+      "chin": [
+        56,
+        31
+      ],
+      "neck": [
+        51,
+        34
+      ],
+      "shoulder": [
+        38,
+        39
+      ],
+      "chest_front": [
+        58,
+        51
+      ],
+      "elbow": [
+        37,
+        61
+      ],
+      "wrist": [
+        43,
+        79
+      ],
+      "pelvis": [
+        44,
+        85
+      ],
+      "knee_near": [
+        37,
+        119
+      ],
+      "soles_y": 146
+    },
+    "2": {
+      "hair_top": [
+        47,
+        8
+      ],
+      "chin": [
+        56,
+        30
+      ],
+      "neck": [
+        51,
+        33
+      ],
+      "shoulder": [
+        38,
+        38
+      ],
+      "chest_front": [
+        59,
+        50
+      ],
+      "elbow": [
+        37,
+        60
+      ],
+      "wrist": [
+        43,
+        78
+      ],
+      "pelvis": [
+        44,
+        85
+      ],
+      "knee_near": [
+        37,
+        119
+      ],
+      "soles_y": 146
+    },
+    "3": {
+      "hair_top": [
+        47,
+        7
+      ],
+      "chin": [
+        56,
+        29
+      ],
+      "neck": [
+        51,
+        32
+      ],
+      "shoulder": [
+        38,
+        37
+      ],
+      "chest_front": [
+        60,
+        49
+      ],
+      "elbow": [
+        37,
+        59
+      ],
+      "wrist": [
+        43,
+        77
+      ],
+      "pelvis": [
+        44,
+        85
+      ],
+      "knee_near": [
+        37,
+        119
+      ],
+      "soles_y": 146
+    }
+  },
+  "native_sha256": "b751104a9b669aff34cb8b80f4652036f725f9d4a380858f0c1e0aedac74b759"
+}

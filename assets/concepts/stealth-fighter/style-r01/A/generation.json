@@ -1,0 +1,25 @@
+{
+  "variant": "A — Angular / kinetic",
+  "method": "built-in image_gen edit",
+  "generated_at": "2026-11-01T14:36:11.984Z",
+  "prompt": "Use case: style-transfer\nAsset type: full-body pixel-art concept comparison, render treatment A — Angular / Kinetic\nInput images: Image 1 is the mandatory identity, exact composition and layout edit target. Image 2 is rendering and shape-language inspiration only; do not copy its characters, scenery, flame, combat effects, or motifs.\nPrimary request: Re-render Image 1 into a distinctly contemporary angular / kinetic pixel-art language. Keep its exact full 1024x1536 portrait canvas, full-body framing, neutral plain backdrop, standing pose/facing, feet baseline, recognizable warm medium-fair brown face/profile/expression, half-tied long near-black hair silhouette, lean athletic proportions, same simple indigo cloth, charcoal light chest armor/trousers, single worn-steel forearm guard, compact hip sword, rust waist accent, boots, and the same material assignments. This is the same character and outfit, not a redesign.\nStyle/medium: intentional crisp pixel art with original contemporary game-art clusters. Create more directional diagonal cluster groupings and graphic material planes within the same silhouette: bold clean shadow masses; restrained punchy light/shadow pairs; selective indigo, charcoal, steel and rust colored contours instead of uniform black outline; sharp sparse edge accents. Make cloth planes, steel guard planes, hair masses, and face planes visibly more angular and kinetic even in the neutral stance. Coherent stepped edges at multiple useful cluster sizes; high readability.\nScene/backdrop: preserve Image 1's plain neutral background, no environment.\nConstraints: preserve identity, body/head proportion, pose, outfit/equipment, base palette and composition. Rendering treatment only must change substantially; do not merely recolor, sharpen, or downsample Image 1.\nAvoid: photorealism; a detailed fantasy/anime illustration under a pixel filter; blur; granular uniform noise; oil-paint texture; new pose/costume/equipment; neon; magic; cyberpunk; flaming or undead head; copied Dead Cells figure/effects/background; crop or zoom; new background; text or watermark.",
+  "inputs": [
+    {
+      "path": "../anchor.png",
+      "absolute_path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/style-r01/anchor.png",
+      "role": "identity/layout edit target (first input)"
+    },
+    {
+      "path": "../references/dead-cells.jpg",
+      "absolute_path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/style-r01/references/dead-cells.jpg",
+      "role": "rendering/shape-language inspiration only (second input)"
+    }
+  ],
+  "output": {
+    "source": "/Users/guhan/.codex/generated_images/01a19789-83aa-7ac3-aebf-6cfa930668ce/exec-67f0ed7b-4b36-4bc2-9355-2259498c5ced.png",
+    "saved_as": "raw.png",
+    "dimensions": { "width": 1024, "height": 1536 },
+    "sha256": "c3c8e08c9b73f9465c07beb8448923810f84d6f0bb7b9bcbf31bd0f8e308227f"
+  },
+  "notes": "Single authorized generation. Saved unmodified; no repair or follow-up generation performed."
+}

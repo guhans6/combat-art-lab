@@ -1,0 +1,113 @@
+{
+	"actor_native_rect": [
+		576,
+		305,
+		128,
+		264
+	],
+	"cast_shadow_occluders": false,
+	"checks": [
+		{
+			"name": "three authored loops",
+			"passed": true
+		},
+		{
+			"name": "default Single152",
+			"passed": true
+		},
+		{
+			"name": "mouse selects dim room",
+			"passed": true
+		},
+		{
+			"name": "keyboard selects lamp fill",
+			"passed": true
+		},
+		{
+			"name": "mouse returns exact sprite colors",
+			"passed": true
+		},
+		{
+			"name": "mouse comparison mode",
+			"passed": true
+		},
+		{
+			"name": "mouse single mode",
+			"passed": true
+		},
+		{
+			"name": "mouse select A",
+			"passed": true
+		},
+		{
+			"name": "mouse height slider",
+			"passed": true
+		},
+		{
+			"name": "keyboard selects B152",
+			"passed": true
+		},
+		{
+			"name": "pause holds timeline",
+			"passed": true
+		},
+		{
+			"name": "mouse frame step",
+			"passed": true
+		},
+		{
+			"name": "keyboard previous frame",
+			"passed": true
+		},
+		{
+			"name": "keyboard resume",
+			"passed": true
+		},
+		{
+			"name": "resume advances timeline",
+			"passed": true
+		},
+		{
+			"name": "mouse2x speed",
+			"passed": true
+		},
+		{
+			"name": "mouse guides",
+			"passed": true
+		},
+		{
+			"name": "reset restores Single152 and neutral light",
+			"passed": true
+		},
+		{
+			"name": "keyboard reset152",
+			"passed": true
+		}
+	],
+	"durations_ms": [
+		700.0,
+		260.0,
+		500.0,
+		340.0
+	],
+	"engine": "4.7.2-stable (official)",
+	"lighting_modes": [
+		"source colors exact",
+		"ambient0.35",
+		"ambient0.35 plus warm PointLight2D1.8"
+	],
+	"loops_before_checks": 3,
+	"normal_maps": false,
+	"source_body": 240,
+	"stage": [
+		1200,
+		480
+	],
+	"ui_layer": 0,
+	"viewport": [
+		1280,
+		800
+	],
+	"working_height": 152,
+	"world_layer": -1
+}

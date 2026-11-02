@@ -1,0 +1,54 @@
+{
+  "prompt": "Use case: style-transfer. Create one original pixel-art character rendering study for a game comparison.\n\nImage 1 is the PRIMARY rendering authority: a crop of a standing person in The Drifter. Study that person's very sparse, sharply stepped angular color clusters, quiet deep shadows and large simple planes. Treat it only as evidence of rendering hierarchy: do not copy the person, short hair, jacket, setting or lighting. Image 2 is the design reference ONLY: retain that original fighter's long dark half-tied hair, indigo split-hem cloth, light charcoal shoulder armor, steel forearm guard, brown waist wrap with rust buckle and compact sheathed sword at the hip. Do not inherit its detail density or three-quarter pose.\n\nRedraw the original fighter with the sparse hierarchy of Image 1, suggesting approximately 60\u201380 logical pixels in full-body height as a visual study only, not a final native grid. Face: a few warm blocks against a dark hair mass, with a minimal eye/nose. Clothing: one or two broad blue planes. Legs: near-black masses with only a few angular color patches. Remove almost all fold lines, finger lines, boot lines and armor contour lines. Use selective large color planes, not stroked outlines. No orange rim light, no glow and no texture noise. Coarse, intentional, angular stepped clusters; preserve a lean adult human silhouette.\n\nSingle full-body fighter upright in a neutral alert stance facing RIGHT, strict TRUE RIGHT SIDE PROFILE, eye-level orthographic. Torso in side profile; overlap far arm and leg behind the near ones rather than show a frontal chest or two widely separated limbs. Arms relaxed. Sword sheathed at hip. Plain matte slate #24282d background and simple groundline, no scene objects, checkerboard, text or montage. Portrait 1024 \u00d7 1536 composition; figure approximately 80% of image height, feet baseline at 90%. Full head and feet visible with margins.\n",
+  "tool": "built-in image_gen; one correction call",
+  "original_generated_path": "/Users/guhan/.codex/generated_images/01a19862-a871-7c11-b5b5-1fee212fc7e8/exec-c3a0aa0f-52ab-4e4b-b1ba-1cb026c5f7f4.png",
+  "output": {
+    "path": "/private/tmp/game-specific-drifter/corrected.png",
+    "role": "unaltered generated output",
+    "sha256": "61e39803085b8411347aee0032fa8275e6c53f542ca496b7424249ae06698d12",
+    "dimensions": [
+      1024,
+      1536
+    ]
+  },
+  "references": [
+    {
+      "path": "/private/tmp/game-specific-drifter/drifter-standing-crop.png",
+      "role": "first: rendering authority",
+      "sha256": "822194d60ea9dcb0fe81cd169b3cd447315fa4c137c5ce35044afe61f633aa30",
+      "dimensions": [
+        690,
+        2010
+      ]
+    },
+    {
+      "path": "/private/tmp/game-specific-drifter/raw.png",
+      "role": "second: design only",
+      "sha256": "ff5d43d8302e724c7473bbaeb0f7d811199d36052120e1d1ed8b4fa3c49d5a7f",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "crop_source": {
+    "path": "/private/tmp/game-specific-research/drifter-official-5.jpg",
+    "source_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/ss_17d458d733b62c65d46632841208dd54051f973a.1920x1080.jpg?t=1781750377",
+    "game_page": "https://store.steampowered.com/app/1170570/The_Drifter/",
+    "developer": "Powerhoof",
+    "crop_box_xyxy": [
+      595,
+      325,
+      710,
+      660
+    ],
+    "enlargement": "6x nearest neighbor for reference visibility"
+  },
+  "requested_dimensions": [
+    1024,
+    1536
+  ],
+  "approximate_figure_top_y": 118,
+  "approximate_foot_baseline_y": 1385,
+  "framing_measurement_method": "visual estimate, excluding groundline"
+}

@@ -1,0 +1,152 @@
+{
+  "keys": [
+    {
+      "key": "rest",
+      "changed_vsrest": 0,
+      "enclosed_holes": [],
+      "boots_exact": true,
+      "registered_rigid_chest_head_arms_pelvis_skirt_exact": true
+    },
+    {
+      "key": "transition",
+      "changed_vsrest": 525,
+      "enclosed_holes": [],
+      "boots_exact": true,
+      "registered_rigid_chest_head_arms_pelvis_skirt_exact": true
+    },
+    {
+      "key": "sink",
+      "changed_vsrest": 995,
+      "enclosed_holes": [],
+      "boots_exact": true,
+      "registered_rigid_chest_head_arms_pelvis_skirt_exact": true
+    }
+  ],
+  "rest_exact": true,
+  "canvas": [
+    96,
+    160
+  ],
+  "native_layers": 12,
+  "native_cels": 36,
+  "native_sha256": "3817c6d8781815eab8342a771dd6e9295cca0c8d6c848076ebde21aa4b258af1",
+  "landmarks": {
+    "0": {
+      "hair_top": [
+        47,
+        10
+      ],
+      "shoulder": [
+        38,
+        40
+      ],
+      "pelvis": [
+        44,
+        85
+      ],
+      "near_hip_inferred": [
+        40,
+        94
+      ],
+      "near_knee_inferred": [
+        38,
+        120
+      ],
+      "near_ankle": [
+        36,
+        136
+      ],
+      "far_hip_inferred": [
+        52,
+        94
+      ],
+      "far_knee_inferred": [
+        50,
+        121
+      ],
+      "far_ankle": [
+        51,
+        137
+      ],
+      "soles_y": 146
+    },
+    "1": {
+      "hair_top": [
+        47,
+        11
+      ],
+      "shoulder": [
+        38,
+        41
+      ],
+      "pelvis": [
+        44,
+        86
+      ],
+      "near_hip_inferred": [
+        40,
+        95
+      ],
+      "near_knee_inferred": [
+        39,
+        120
+      ],
+      "near_ankle": [
+        36,
+        136
+      ],
+      "far_hip_inferred": [
+        52,
+        95
+      ],
+      "far_knee_inferred": [
+        51,
+        121
+      ],
+      "far_ankle": [
+        51,
+        137
+      ],
+      "soles_y": 146
+    },
+    "2": {
+      "hair_top": [
+        47,
+        12
+      ],
+      "shoulder": [
+        38,
+        42
+      ],
+      "pelvis": [
+        44,
+        87
+      ],
+      "near_hip_inferred": [
+        40,
+        96
+      ],
+      "near_knee_inferred": [
+        40,
+        120
+      ],
+      "near_ankle": [
+        36,
+        136
+      ],
+      "far_hip_inferred": [
+        52,
+        96
+      ],
+      "far_knee_inferred": [
+        52,
+        121
+      ],
+      "far_ankle": [
+        51,
+        137
+      ],
+      "soles_y": 146
+    }
+  }
+}

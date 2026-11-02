@@ -1,0 +1,42 @@
+{
+  "animation": "idle",
+  "canvas": [
+    128,
+    264
+  ],
+  "body_height_rest_px": 240,
+  "root": [
+    64,
+    253
+  ],
+  "frames": [
+    {
+      "file": "frames/idle-00.png",
+      "duration_ms": 850,
+      "pose": "rest"
+    },
+    {
+      "file": "frames/idle-01.png",
+      "duration_ms": 450,
+      "pose": "transition"
+    },
+    {
+      "file": "frames/idle-02.png",
+      "duration_ms": 500,
+      "pose": "apex"
+    },
+    {
+      "file": "frames/idle-03.png",
+      "duration_ms": 650,
+      "pose": "transition"
+    },
+    {
+      "file": "frames/idle-04.png",
+      "duration_ms": 550,
+      "pose": "rest"
+    }
+  ],
+  "loop": true,
+  "filter": "nearest",
+  "grid": "provisional"
+}

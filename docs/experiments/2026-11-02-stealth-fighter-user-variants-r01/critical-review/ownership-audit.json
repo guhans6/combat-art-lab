@@ -1,0 +1,218 @@
+{
+  "method": "independent repository native reader; RGBA compositing, owner pixels and producer proof comparison; no Aseprite interaction",
+  "variants": {
+    "01": {
+      "native_sha256": "6edf22ccca5e5ecc53caaa55f577b201d829153ff8430e391a9be13d44b7c002",
+      "png_sha256": "f5ddce534af241fe3e60591ace51a404330a246b22e240a761c67d67d0cc78a5",
+      "prior_native_sha256": "0ecb34046ba8aa96096540840d7ed6188d7ed6b80327ba3a64b0d04a432b6399",
+      "proof_native_sha256": "4f215db57941f71b9ec486f3167d1225c9616ffbf9ede65d80e916bde505234d",
+      "previous_and_reopened_composites_exact": true,
+      "six_disjoint_visible_owners_recompose_exactly": true,
+      "per_owner_pixels": {
+        "lowerbody-cloth-boots": 4796,
+        "torso-cloth-armor": 2108,
+        "waist-wrap-sword": 985,
+        "far-hand": 34,
+        "near-arm-guard-hand": 1492,
+        "head-hair-face": 1047
+      },
+      "preownership_to_final_native_owner_changes": {
+        "lowerbody-cloth-boots": {
+          "changed": 0,
+          "gained": 0,
+          "lost": 0
+        },
+        "torso-cloth-armor": {
+          "changed": 250,
+          "gained": 250,
+          "lost": 0
+        },
+        "waist-wrap-sword": {
+          "changed": 2,
+          "gained": 2,
+          "lost": 0
+        },
+        "far-hand": {
+          "changed": 100,
+          "gained": 0,
+          "lost": 100
+        },
+        "near-arm-guard-hand": {
+          "changed": 0,
+          "gained": 0,
+          "lost": 0
+        },
+        "head-hair-face": {
+          "changed": 152,
+          "gained": 0,
+          "lost": 152
+        }
+      },
+      "proof_changed_composite_pixels": 24,
+      "proof_native_protection": true,
+      "proof_reopened_exact": true
+    },
+    "03": {
+      "native_sha256": "7cf57a3fe73afc2b9531c6c8ec3ead8ae030b664a4dd0f078ef9ba7e03879a26",
+      "png_sha256": "46ed03b35b3a2be0adff758eddedc8fd5f13b78c829bab86aaf43d6165d73df6",
+      "prior_native_sha256": "88c0a16a46d7c4e95fb1af01a5acd84cb018a0b4e2d2e30aa204edd06d52f5fd",
+      "proof_native_sha256": "62df286ddb0e0c5a118a2338b37d623a128d66cf357c08670e0598319599d317",
+      "previous_and_reopened_composites_exact": true,
+      "six_disjoint_visible_owners_recompose_exactly": true,
+      "per_owner_pixels": {
+        "lowerbody-cloth-boots": 4415,
+        "torso-cloth-armor": 2181,
+        "waist-wrap-sword": 995,
+        "far-hand": 40,
+        "near-arm-guard-hand": 1449,
+        "head-hair-face": 1094
+      },
+      "preownership_to_final_native_owner_changes": {
+        "lowerbody-cloth-boots": {
+          "changed": 0,
+          "gained": 0,
+          "lost": 0
+        },
+        "torso-cloth-armor": {
+          "changed": 267,
+          "gained": 267,
+          "lost": 0
+        },
+        "waist-wrap-sword": {
+          "changed": 2,
+          "gained": 2,
+          "lost": 0
+        },
+        "far-hand": {
+          "changed": 70,
+          "gained": 0,
+          "lost": 70
+        },
+        "near-arm-guard-hand": {
+          "changed": 4,
+          "gained": 0,
+          "lost": 4
+        },
+        "head-hair-face": {
+          "changed": 195,
+          "gained": 0,
+          "lost": 195
+        }
+      },
+      "proof_changed_composite_pixels": 24,
+      "proof_native_protection": true,
+      "proof_reopened_exact": true
+    },
+    "04": {
+      "native_sha256": "bbbffc7131e79e7e129375fea984a59f41fb666be42e00e4bd36b7547f6ebf29",
+      "png_sha256": "341b01e5bdbfb77bd796eb2e022dc49c7636442c3b7d9a144d77afb110e1266b",
+      "prior_native_sha256": "9ea53943404b207b860d1022c0b48ff7bce6e939ed4b591f66017a6001953089",
+      "proof_native_sha256": "97a8ddb9e9fd158f46498fd4ca9e17bca08f28f79ecc87751195344bd5ee5c5c",
+      "previous_and_reopened_composites_exact": true,
+      "six_disjoint_visible_owners_recompose_exactly": true,
+      "per_owner_pixels": {
+        "lowerbody-cloth-boots": 4367,
+        "torso-cloth-armor": 2119,
+        "waist-wrap-sword": 979,
+        "far-hand": 41,
+        "near-arm-guard-hand": 1464,
+        "head-hair-face": 1090
+      },
+      "preownership_to_final_native_owner_changes": {
+        "lowerbody-cloth-boots": {
+          "changed": 0,
+          "gained": 0,
+          "lost": 0
+        },
+        "torso-cloth-armor": {
+          "changed": 247,
+          "gained": 247,
+          "lost": 0
+        },
+        "waist-wrap-sword": {
+          "changed": 1,
+          "gained": 1,
+          "lost": 0
+        },
+        "far-hand": {
+          "changed": 68,
+          "gained": 0,
+          "lost": 68
+        },
+        "near-arm-guard-hand": {
+          "changed": 0,
+          "gained": 0,
+          "lost": 0
+        },
+        "head-hair-face": {
+          "changed": 180,
+          "gained": 0,
+          "lost": 180
+        }
+      },
+      "proof_changed_composite_pixels": 24,
+      "proof_native_protection": true,
+      "proof_reopened_exact": true
+    },
+    "05": {
+      "native_sha256": "4a361b5f7b994b5a8c58a0df0aa70441bf331a3b27c2d08d4c4dc7a5449343b6",
+      "png_sha256": "a7ca6984874b4ba667ece4d99da2e5c6fec54b4b2760f31ead7625273ed84c6e",
+      "prior_native_sha256": "76ba66c58d92481baf5239b82fc3c7637282e4f8647158f5910de465cefd53ef",
+      "proof_native_sha256": "a570c3d0ed2430cf85982c22d9ee9723f0467f27e9ba34fd127cdd04fa9c4cfe",
+      "previous_and_reopened_composites_exact": true,
+      "six_disjoint_visible_owners_recompose_exactly": true,
+      "per_owner_pixels": {
+        "lowerbody-cloth-boots": 4415,
+        "torso-cloth-armor": 2181,
+        "waist-wrap-sword": 995,
+        "far-hand": 40,
+        "near-arm-guard-hand": 1449,
+        "head-hair-face": 1094
+      },
+      "preownership_to_final_native_owner_changes": {
+        "lowerbody-cloth-boots": {
+          "changed": 0,
+          "gained": 0,
+          "lost": 0
+        },
+        "torso-cloth-armor": {
+          "changed": 267,
+          "gained": 267,
+          "lost": 0
+        },
+        "waist-wrap-sword": {
+          "changed": 2,
+          "gained": 2,
+          "lost": 0
+        },
+        "far-hand": {
+          "changed": 70,
+          "gained": 0,
+          "lost": 70
+        },
+        "near-arm-guard-hand": {
+          "changed": 4,
+          "gained": 0,
+          "lost": 4
+        },
+        "head-hair-face": {
+          "changed": 195,
+          "gained": 0,
+          "lost": 195
+        }
+      },
+      "proof_changed_composite_pixels": 24,
+      "proof_native_protection": true,
+      "proof_reopened_exact": true
+    }
+  },
+  "u03_u05_native_owner_difference": {
+    "lowerbody-cloth-boots": 0,
+    "torso-cloth-armor": 154,
+    "waist-wrap-sword": 0,
+    "far-hand": 0,
+    "near-arm-guard-hand": 0,
+    "head-hair-face": 0
+  },
+  "u03_u05_only_armor_diff": true
+}

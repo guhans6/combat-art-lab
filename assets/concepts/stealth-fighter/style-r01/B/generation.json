@@ -1,0 +1,30 @@
+{
+  "variant": "B — Carved / atmospheric",
+  "method": "built-in image_gen edit",
+  "generated_at": "2026-11-01",
+  "input_images": [
+    {
+      "path": "../anchor.png",
+      "absolute_path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/style-r01/anchor.png",
+      "role": "edit target and immutable identity/layout anchor",
+      "sha256": "97e0c17e79227e43b39f5abd510d1f09ba25ab1a808cffe4629523956c53febb",
+      "dimensions": [1024, 1536]
+    },
+    {
+      "path": "../references/moonscars.jpg",
+      "absolute_path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/style-r01/references/moonscars.jpg",
+      "role": "supporting rendering/texture reference only; not a character, setting, or composition source",
+      "sha256": "254ad3ac970434f96927d2c3464b8af44fa4268872351b734ac741bcc5060026",
+      "dimensions": [1920, 1080]
+    }
+  ],
+  "prompt": "Use case: style-transfer\nAsset type: controlled concept-rendering comparison, Variant B — Carved / atmospheric\nPrimary request: Edit Image 1 only: retain the exact same original full-body stealth fighter, then replace the rendering system with an original contemporary pixel-art treatment: sculptural chiseled pixel clusters, quiet broken contours, deep graphic shadow planes, carefully limited lighter edge accents, and sparse weathering only at material transitions and armor wear. Image 2 is supporting style reference ONLY: borrow general rendering principles of sculptural pixel cluster grouping, selective weathered texture, and deep graphic value masses; do not copy its characters, setting, motifs, composition, colors, or horror content.\nInput images: Image 1 is the edit target and immutable identity/layout anchor. Image 2 is a supporting rendering/texture reference only.\nScene/backdrop: preserve Image 1's same plain neutral light backdrop exactly; no scene, vignette, ambient setting, or dramatic background.\nSubject: preserve Image 1's same recognizable warm medium-fair brown face, profile, simple expression, skin range, half-tied long near-black hair and general hair silhouette, lean athletic slightly stylized proportions, standing pose, facing, camera, full-body framing, feet baseline, light armor/outfit, one forearm guard, waist cloth, trousers, boots, compact hip sword, and every equipment placement.\nStyle/medium: intentional crisp contemporary 2D pixel character art, with deliberate stepped multi-scale clusters and coherent shaped edges; original rendering, not an imitation of any named game.\nComposition/framing: preserve the exact 1024x1536 portrait canvas and the anchor's full-body position and displayed height; no crop, zoom, pose, anatomy, or costume alteration.\nLighting/mood: atmospheric through deeper controlled graphic shadows and restrained edge accents while keeping the neutral backdrop unchanged.\nColor palette: retain indigo main cloth, charcoal armor/trousers, worn steel guard/sword, small rust waist accent, near-black hair, and warm brown skin as the same material-color identities; do not replace the palette with grey.\nMaterials/textures: make matte cloth read as broad quiet planes; make steel read as chiseled planes with a few narrow worn-edge accents; use sparse transition-only weathering.\nConstraints: this must be visibly distinct from standard chunky sprite rendering, yet preserve all anchor identity/layout invariants. No photoreal anatomy or pores, no granular/noisy filter, no oil-paint blur, no pallid/ghost skin, blood, gothic costume, magic, neon, cyberpunk, new motifs, new equipment, or muddy unreadability.\nAvoid: character or costume copied from Image 2; Image 2's background/environment; generic fantasy portrait; darker recolor only; downsampled/filter-like pixels; text; watermark.",
+  "output": {
+    "path": "raw.png",
+    "source_path": "/Users/guhan/.codex/generated_images/01a19789-fa7c-7cb0-a9fc-cf0a4c4e7e10/exec-9e696ff9-25d3-432c-be6e-a1517c94d9d3.png",
+    "sha256": "75cb22d139fe08deea5ba954be12548d2510724a14bdfa95889ed7b3127004b1",
+    "dimensions": [1024, 1536],
+    "transparent_background": false
+  },
+  "call_budget": { "built_in_edits_authorized": 1, "built_in_edits_used": 1 }
+}

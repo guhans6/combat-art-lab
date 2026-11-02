@@ -1,0 +1,3 @@
+# Quiet stubble: visual review
+
+The dark pointed goatee is removed and the chin is rounded. A subtle low-contrast patch covers the jaw, though it is softly textured rather than a strictly flat plane. The right profile, absent eye and brow, tied dark hair, collar and general palette remain recognizable. The generated result subtly redraws the face and surrounding shapes, including a faint lip line despite the prompt; framing and proportions are similar, not pixel-identical. Output is 1254 × 1254 rather than requested 1024 × 1024. This is a concept variant pending human visual review, not an approved native sprite, animation, or Godot validation.

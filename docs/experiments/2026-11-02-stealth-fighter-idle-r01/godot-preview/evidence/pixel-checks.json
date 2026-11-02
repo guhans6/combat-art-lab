@@ -1,0 +1,42 @@
+{
+  "0": {
+    "opaque_source_mismatches": 0,
+    "runtime_capture_size": [
+      640,
+      360
+    ],
+    "texture_sha256": "6718432fc934416f70a84a64ab72bc45b4740e68c820c2c31140beff8a8846d6"
+  },
+  "1": {
+    "opaque_source_mismatches": 0,
+    "runtime_capture_size": [
+      640,
+      360
+    ],
+    "texture_sha256": "04c0311201527c3e670397bb3db8d23786c61ea2ceaa2a2471f5b94706c453e5"
+  },
+  "2": {
+    "opaque_source_mismatches": 0,
+    "runtime_capture_size": [
+      640,
+      360
+    ],
+    "texture_sha256": "2b96b157aac4864e4f4249ef39bf7facaf792a99eed6628bfd5aa33738c914f4"
+  },
+  "3": {
+    "opaque_source_mismatches": 0,
+    "runtime_capture_size": [
+      640,
+      360
+    ],
+    "texture_sha256": "04c0311201527c3e670397bb3db8d23786c61ea2ceaa2a2471f5b94706c453e5"
+  },
+  "4": {
+    "opaque_source_mismatches": 0,
+    "runtime_capture_size": [
+      640,
+      360
+    ],
+    "texture_sha256": "6718432fc934416f70a84a64ab72bc45b4740e68c820c2c31140beff8a8846d6"
+  }
+}

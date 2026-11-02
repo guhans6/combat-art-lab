@@ -1,0 +1,666 @@
+{
+  "01": {
+    "height": 264,
+    "palette": [
+      "#00000000",
+      "#030811",
+      "#0e0e12",
+      "#111217",
+      "#141317",
+      "#151518",
+      "#161f2d",
+      "#18171a",
+      "#1b191c",
+      "#1b1c21",
+      "#1e1f27",
+      "#211d1f",
+      "#22232b",
+      "#232630",
+      "#251c1c",
+      "#262934",
+      "#282223",
+      "#282b37",
+      "#29292f",
+      "#2b2f3b",
+      "#2d313d",
+      "#2e2626",
+      "#313239",
+      "#322a29",
+      "#342622",
+      "#353641",
+      "#362d2b",
+      "#38312f",
+      "#3a3c43",
+      "#3c2c27",
+      "#3c3532",
+      "#404048",
+      "#413936",
+      "#422f29",
+      "#442f26",
+      "#453c38",
+      "#45454a",
+      "#47322a",
+      "#48464e",
+      "#4a413c",
+      "#4c352a",
+      "#4e453f",
+      "#53392b",
+      "#533b30",
+      "#534842",
+      "#594d45",
+      "#5b4033",
+      "#5e524a",
+      "#604232",
+      "#624e42",
+      "#65584e",
+      "#674737",
+      "#6f4c37",
+      "#706054",
+      "#756559",
+      "#76503a",
+      "#7c543c",
+      "#7f6c5d",
+      "#81573d",
+      "#865a3f",
+      "#887566",
+      "#8b5e41",
+      "#916748",
+      "#966342",
+      "#996c4a"
+    ],
+    "colorMode": "rgb",
+    "id": 1011,
+    "activeLayer": "lowerbody-cloth-boots",
+    "layers": [
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 1,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "lowerbody-cloth-boots",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 2,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "torso-cloth-armor",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 3,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "waist-wrap-sword",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 4,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "far-hand",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 5,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "near-arm-guard-hand",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 6,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "head-hair-face",
+        "cels": [
+          1
+        ]
+      }
+    ],
+    "tags": [],
+    "frames": [
+      {
+        "number": 1,
+        "durationMs": 100
+      }
+    ],
+    "width": 128,
+    "modified": false,
+    "filename": "/private/tmp/fighter-user-variants-r01/native-work/variant-01/static.aseprite",
+    "frameCount": 1,
+    "name": "static.aseprite",
+    "activeFrame": 1
+  },
+  "03": {
+    "height": 264,
+    "palette": [
+      "#00000000",
+      "#0d0b0e",
+      "#0f1218",
+      "#131318",
+      "#14151b",
+      "#17161b",
+      "#18181d",
+      "#1a1b22",
+      "#1b191d",
+      "#1d1f27",
+      "#1e1b1e",
+      "#20222c",
+      "#211d1f",
+      "#232630",
+      "#262021",
+      "#262a35",
+      "#272325",
+      "#282b37",
+      "#2a2323",
+      "#2a2e3a",
+      "#2d3440",
+      "#2e2828",
+      "#2e3037",
+      "#2f2525",
+      "#2f3744",
+      "#322827",
+      "#332b2b",
+      "#333a46",
+      "#372b29",
+      "#3a312f",
+      "#3f2f2b",
+      "#403632",
+      "#45332b",
+      "#453a36",
+      "#4a352e",
+      "#4b403a",
+      "#4d3128",
+      "#50392f",
+      "#51453e",
+      "#52372d",
+      "#534135",
+      "#563a2f",
+      "#593d32",
+      "#594b40",
+      "#5d4f44",
+      "#5e4235",
+      "#615347",
+      "#634435",
+      "#645041",
+      "#655549",
+      "#674738",
+      "#6b5d4e",
+      "#6c4c3b",
+      "#6e4734",
+      "#704c39",
+      "#756655",
+      "#76503c",
+      "#7b533d",
+      "#7c5f48",
+      "#7f563e",
+      "#855a42",
+      "#855e46",
+      "#856d51",
+      "#8a603e",
+      "#8e6745"
+    ],
+    "colorMode": "rgb",
+    "id": 1097,
+    "activeLayer": "lowerbody-cloth-boots",
+    "layers": [
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 1,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "lowerbody-cloth-boots",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 2,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "torso-cloth-armor",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 3,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "waist-wrap-sword",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 4,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "far-hand",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 5,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "near-arm-guard-hand",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 6,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "head-hair-face",
+        "cels": [
+          1
+        ]
+      }
+    ],
+    "tags": [],
+    "frames": [
+      {
+        "number": 1,
+        "durationMs": 100
+      }
+    ],
+    "width": 128,
+    "modified": false,
+    "filename": "/private/tmp/fighter-user-variants-r01/native-work/variant-03/static.aseprite",
+    "frameCount": 1,
+    "name": "static.aseprite",
+    "activeFrame": 1
+  },
+  "04": {
+    "height": 264,
+    "palette": [
+      "#00000000",
+      "#02020b",
+      "#090911",
+      "#0d0d14",
+      "#131117",
+      "#161419",
+      "#1b171c",
+      "#1b1a23",
+      "#1f1a1e",
+      "#1f1f2a",
+      "#22232f",
+      "#231d21",
+      "#261f22",
+      "#262735",
+      "#292a39",
+      "#2a2d3d",
+      "#2c2325",
+      "#2d3041",
+      "#2f3346",
+      "#313649",
+      "#322829",
+      "#33394c",
+      "#342624",
+      "#392f2e",
+      "#3a2c2a",
+      "#3c3337",
+      "#3f302d",
+      "#423430",
+      "#433b42",
+      "#452f29",
+      "#493730",
+      "#493b36",
+      "#4b403a",
+      "#4f433c",
+      "#50352b",
+      "#544840",
+      "#563c30",
+      "#5c4e45",
+      "#603d30",
+      "#625349",
+      "#674233",
+      "#6a4432",
+      "#6c4738",
+      "#6c5b4e",
+      "#716053",
+      "#724937",
+      "#7a4e3a",
+      "#7b685a",
+      "#81553d",
+      "#847061",
+      "#85644d",
+      "#88583f",
+      "#8e5e42",
+      "#8f6654",
+      "#945f43",
+      "#96664b",
+      "#9c6646",
+      "#a26c4b",
+      "#a76f4c",
+      "#a8714e",
+      "#ac734e",
+      "#ac7854",
+      "#b07852",
+      "#b48154",
+      "#bc8459"
+    ],
+    "colorMode": "rgb",
+    "id": 1183,
+    "activeLayer": "lowerbody-cloth-boots",
+    "layers": [
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 1,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "lowerbody-cloth-boots",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 2,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "torso-cloth-armor",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 3,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "waist-wrap-sword",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 4,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "far-hand",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 5,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "near-arm-guard-hand",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 6,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "head-hair-face",
+        "cels": [
+          1
+        ]
+      }
+    ],
+    "tags": [],
+    "frames": [
+      {
+        "number": 1,
+        "durationMs": 100
+      }
+    ],
+    "width": 128,
+    "modified": false,
+    "filename": "/private/tmp/fighter-user-variants-r01/native-work/variant-04/static.aseprite",
+    "frameCount": 1,
+    "name": "static.aseprite",
+    "activeFrame": 1
+  },
+  "05": {
+    "height": 264,
+    "palette": [
+      "#00000000",
+      "#0d0b0e",
+      "#0f1218",
+      "#131318",
+      "#14151b",
+      "#17161b",
+      "#18181d",
+      "#1a1b22",
+      "#1b191d",
+      "#1d1f27",
+      "#1e1b1e",
+      "#20222c",
+      "#211d1f",
+      "#232630",
+      "#262021",
+      "#262a35",
+      "#272325",
+      "#282b37",
+      "#2a2323",
+      "#2a2e3a",
+      "#2d3440",
+      "#2e2828",
+      "#2e3037",
+      "#2f2525",
+      "#2f3744",
+      "#322827",
+      "#332b2b",
+      "#333a46",
+      "#372b29",
+      "#3a312f",
+      "#3f2f2b",
+      "#403632",
+      "#45332b",
+      "#453a36",
+      "#4a352e",
+      "#4b403a",
+      "#4d3128",
+      "#50392f",
+      "#51453e",
+      "#52372d",
+      "#534135",
+      "#563a2f",
+      "#593d32",
+      "#594b40",
+      "#5d4f44",
+      "#5e4235",
+      "#615347",
+      "#634435",
+      "#645041",
+      "#655549",
+      "#674738",
+      "#6b5d4e",
+      "#6c4c3b",
+      "#6e4734",
+      "#704c39",
+      "#756655",
+      "#76503c",
+      "#7b533d",
+      "#7c5f48",
+      "#7f563e",
+      "#855a42",
+      "#855e46",
+      "#856d51",
+      "#8a603e",
+      "#8e6745"
+    ],
+    "colorMode": "rgb",
+    "id": 1269,
+    "activeLayer": "lowerbody-cloth-boots",
+    "layers": [
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 1,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "lowerbody-cloth-boots",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 2,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "torso-cloth-armor",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 3,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "waist-wrap-sword",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 4,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "far-hand",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 5,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "near-arm-guard-hand",
+        "cels": [
+          1
+        ]
+      },
+      {
+        "visible": true,
+        "isTilemap": false,
+        "index": 6,
+        "opacity": 255,
+        "editable": true,
+        "isGroup": false,
+        "blendMode": "3",
+        "name": "head-hair-face",
+        "cels": [
+          1
+        ]
+      }
+    ],
+    "tags": [],
+    "frames": [
+      {
+        "number": 1,
+        "durationMs": 100
+      }
+    ],
+    "width": 128,
+    "modified": false,
+    "filename": "/private/tmp/fighter-user-variants-r01/native-work/variant-05/static.aseprite",
+    "frameCount": 1,
+    "name": "static.aseprite",
+    "activeFrame": 1
+  }
+}

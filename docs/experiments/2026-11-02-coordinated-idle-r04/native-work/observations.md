@@ -1,0 +1,13 @@
+# r04 frozen mechanism and key checkpoint
+
+Disposable traveler motion test only; no character proposal and no fighter edits. Baseline is exact r03 REST frame0, not its rejected moving pants. Exact native source frozen as baseline-r03.aseprite (SHA in key-ops.json). Canvas96x160, same14-entry palette including transparent. Soley146, fixed world registration. No palette/light/costume/face change.
+
+Inspected native r03 and actual r03-frame/diff/owner diagnosis images, hero2-1 four-pose contact, hero-2 eight-pose contact and Saint11 actual tutorial contact on2026-11-02. Visible principle: shoulder/upper-garment and arm relationships change over planted feet; reference loose clothes conceal knees. Saint11 exaggerated bounce is expressly not target tempo. No source pixels copied. Discrete reference frames inspected; continuous perception not claimed.
+
+One correction hypothesis: relaxed shoulder girdle rise and mild backward lean about a quiet waist, then return. Upper sleeves rise toward skull by2px at apex while skull moves up/back1px; near elbow retreats2px and rises1px, near hand follows back/up1px. Far elbow/hand follows same gesture with smaller lateral travel. Thorax top follows shoulders while lower waist retains exact registration; torso widths are source row widths, never chest expansion. This is an inferred modest pose mechanism, not an asserted anatomical truth. Critique keys before timing.
+
+Per-part method: rigid exact source reuse for head/hair/face and hand drawing; inverse discrete row mapping retains material planes on torso/sleeves and changes their contour path/arm angles. Pants, bothboots/cuffs, pelvis/root and lowercoat/skirt preserve source REST pixels exactly on every key. No need to expose/invent knee mechanics. Native ownership actually inspected: sleeve overlaps forearm at59–65; near hand belongs forearm77–91; neck/collar27–44 overlaps thorax35–44 and skull27–32; pelvis75–95 and skirt65–101 overlap thorax to85. Must inspect these joins in clean and owner-hidden exports.
+
+Budget one meaningful correction +one concrete qualityrepair. Keys REST/transition/raised-settled built first, no cycle propagation until lead and independent reviewer clear proportions/joins/material continuity. Intended later loop is one slow rise/settle with different holds, not independent clocks. Engine/perceived playback and user approval remain separate.
+
+Backend soleowner: dedicatedMCP headless preflight READY1.3.18.6-dev/Pebbly0.8.2; source sprite_info and composite/forearm ASCII read before edit. Native writes onlyMCP; Pillow used only data/mask/evidence/checks. Callable validate absent; will use independent native/PNG checks and report limitation.

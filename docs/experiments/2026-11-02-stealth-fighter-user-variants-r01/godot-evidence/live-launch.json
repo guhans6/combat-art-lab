@@ -1,0 +1,17 @@
+{
+  "project": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/godot/stealth-fighter-playground-r03",
+  "status": "running; left open for user comparison at handoff",
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "source_ids": [
+    0,
+    1,
+    3,
+    4,
+    5
+  ],
+  "default_height": 152,
+  "static": true,
+  "test_marker_absent": true,
+  "script_config_equal_tested_copy": true,
+  "errors": []
+}

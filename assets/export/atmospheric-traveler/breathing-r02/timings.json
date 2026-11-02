@@ -1,0 +1,102 @@
+{
+  "animation": "breath",
+  "canvas": [
+    96,
+    160
+  ],
+  "rest_body_height_px": 137,
+  "feet_baseline_y": 146,
+  "root": [
+    44,
+    85
+  ],
+  "loop": true,
+  "total_ms": 2800,
+  "projection": "fixed128/137 scale allframes, no perposefitting",
+  "frames": [
+    {
+      "file": "breath-0.png",
+      "duration_ms": 200,
+      "pose": "rest",
+      "lift_px": 0,
+      "chest_forward_px": 0
+    },
+    {
+      "file": "breath-1.png",
+      "duration_ms": 180,
+      "pose": "open",
+      "lift_px": 0,
+      "chest_forward_px": 1
+    },
+    {
+      "file": "breath-2.png",
+      "duration_ms": 180,
+      "pose": "open",
+      "lift_px": 0,
+      "chest_forward_px": 1
+    },
+    {
+      "file": "breath-3.png",
+      "duration_ms": 200,
+      "pose": "open",
+      "lift_px": 0,
+      "chest_forward_px": 1
+    },
+    {
+      "file": "breath-4.png",
+      "duration_ms": 220,
+      "pose": "rise",
+      "lift_px": 1,
+      "chest_forward_px": 1
+    },
+    {
+      "file": "breath-5.png",
+      "duration_ms": 300,
+      "pose": "apex",
+      "lift_px": 1,
+      "chest_forward_px": 2
+    },
+    {
+      "file": "breath-6.png",
+      "duration_ms": 200,
+      "pose": "apex",
+      "lift_px": 1,
+      "chest_forward_px": 2
+    },
+    {
+      "file": "breath-7.png",
+      "duration_ms": 220,
+      "pose": "rise",
+      "lift_px": 1,
+      "chest_forward_px": 1
+    },
+    {
+      "file": "breath-8.png",
+      "duration_ms": 260,
+      "pose": "open",
+      "lift_px": 0,
+      "chest_forward_px": 1
+    },
+    {
+      "file": "breath-9.png",
+      "duration_ms": 280,
+      "pose": "open",
+      "lift_px": 0,
+      "chest_forward_px": 1
+    },
+    {
+      "file": "breath-10.png",
+      "duration_ms": 300,
+      "pose": "open",
+      "lift_px": 0,
+      "chest_forward_px": 1
+    },
+    {
+      "file": "breath-11.png",
+      "duration_ms": 260,
+      "pose": "rest",
+      "lift_px": 0,
+      "chest_forward_px": 0
+    }
+  ]
+}

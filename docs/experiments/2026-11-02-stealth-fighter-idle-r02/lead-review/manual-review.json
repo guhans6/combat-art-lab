@@ -1,0 +1,38 @@
+{
+  "packet_sha256": "1205a85feec3872b84a397365675c95c5a12a8dc8c4796b5cbc9e8921442c374",
+  "native_sha256": "f4cb8fff0a460cde6845fb15bc0c5e3271259d9d38d5f3efa051e4970b2e6127",
+  "reviewer": "Lead, independent of native producer",
+  "reviewed": [
+    "Current A corrected.png original",
+    "prior source-to-native.png",
+    "keys/keys-1x.png",
+    "keys/keys-3x.png",
+    "keys/upper-contrast-5x.png",
+    "keys/f2-landmarks-3x.png",
+    "keys/ownership-head-hair-neck-5x.png",
+    "keys/ownership-near-upper-sleeve-5x.png",
+    "keys/ownership-near-guard-hand-5x.png",
+    "keys/ownership-far-hand-5x.png",
+    "keys/f2-owner-far-hem-fixed.png",
+    "delivery/loop-seam-3x.png",
+    "lead cycle-2x.png",
+    "Godot runtime-frame-02.png"
+  ],
+  "target_improvement": {
+    "decision": "continue as main-character motion candidate",
+    "observations": "Transfers accepted sample shoulder/head/arm relationships at a proportional main-body amplitude. Shoulder rises more than head/elbow while waist stays quiet. No chest-width puff or paired trouser/knee swap. Original Current A rest is exact, source identity retained. Final four entries and transition-to-rest return inspected."
+  },
+  "regressions": {
+    "decision": "continue after named seam and ownership corrections",
+    "observations": "Initial exposed inner-arm/collar seams repaired with source material backing. Lead caught indigo coat strip on far-hand owner; corrected fixed panel now occludes moving warm/dark hand as original source shows. Collar-neck-skull, shoulder-sleeve-elbow-guard-wrist-hand routes remain coherent in native owner-hide and contrast views. Marked pelvis/sword/soles quiet; skull/hair/face and guard/hand remain rigid. Broad indigo and armor value planes retained without relighting or detail additions. No remaining concrete still attachment/material defect observed. Hidden far elbow remains inferred; relaxed-versus-shrug timing perception unverified."
+  },
+  "technical": "Independent native/PNG/rest/registeredhead/fixedlower/sword/farhem/alpha/sourcepalette/timing checks pass. Producer freshreopen/editproof pass. Exactpalette GIF RGBA/timings pass. Dedicated Godot4.7.2 all4capturematches and >=3loops; finalErrors[] and stopped.",
+  "perception": "Still-only lead review. Authored GIF candidate delivered; no continuous video/model temporal perception claimed.",
+  "user_approval": "Disposable sample r04 motion approved; main Current A transfer pending user review.",
+  "structure_decisions": {
+    "proportions": "continue",
+    "attachment": "continue after correction",
+    "neighbor_continuity": "continue"
+  },
+  "publication": "not performed"
+}

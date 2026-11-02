@@ -1,0 +1,44 @@
+{
+  "native": {
+    "decoded_frames": 4,
+    "durations_ms": [
+      500,
+      180,
+      420,
+      300
+    ],
+    "period_ms": 1400,
+    "visible_rgba_mismatches": 0
+  },
+  "preview3x": {
+    "decoded_frames": 4,
+    "durations_ms": [
+      500,
+      180,
+      420,
+      300
+    ],
+    "period_ms": 1400,
+    "visible_rgba_mismatches": 0
+  },
+  "environment2x": {
+    "decoded_frames": 4,
+    "durations_ms": [
+      500,
+      180,
+      420,
+      300
+    ],
+    "period_ms": 1400,
+    "visible_rgba_mismatches": 0
+  },
+  "environment_crop": [
+    75,
+    106,
+    260,
+    326
+  ],
+  "resampling": "nearest",
+  "runtime_video": "one realcapture perpose reconstructed at authored timing, not continuousvideocapture",
+  "art_pixel_edits": false
+}

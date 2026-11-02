@@ -1,0 +1,31 @@
+{
+  "variant": "minimal short beard",
+  "tool": "built-in image_gen edit",
+  "tool_call_count": 1,
+  "requested_dimensions": [
+    1024,
+    1024
+  ],
+  "input": {
+    "path": "/private/tmp/stealth-face-r01/shared-face-input.png",
+    "sha256": "d1a8414b246c2327aaf75c8bdfea1343082746b7d0d0007aeac5b83a4f708b59",
+    "dimensions": [
+      320,
+      320
+    ],
+    "role": "sole identity, style, and edit target; crop (330,75,650,395) from selected Silver Pines A"
+  },
+  "selected_full_image": {
+    "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/game-specific-r01/silver-pines/corrected.png",
+    "sha256": "a3cc3ab1d658ac3d2d464ef4781ed966e815c7eedeefcf5801d81ca93924ab9c"
+  },
+  "original_generated_path": "/Users/guhan/.codex/generated_images/01a198a9-fa13-7ec2-be0d-4a6895a8544f/exec-5bbaa35e-ca94-45a9-9347-c19379251102.png",
+  "raw": {
+    "path": "/private/tmp/stealth-face-r01/short-beard/unchangedraw.png",
+    "sha256": "127339037b2ac37203dbf83a19d96f0b1bec6cc73c841f44f04d088ddab5f0d5",
+    "dimensions": [
+      1254,
+      1254
+    ]
+  }
+}

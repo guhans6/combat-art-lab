@@ -1,0 +1,21 @@
+{
+  "files": [
+    "idle-0.png",
+    "idle-1.png",
+    "idle-2.png",
+    "idle-3.png"
+  ],
+  "durations_ms": [
+    700,
+    260,
+    500,
+    340
+  ],
+  "body_height": 240,
+  "feet_y": 253,
+  "native_canvas": [
+    128,
+    264
+  ],
+  "grid_status": "main Current A provisional native study; fixed128pxrestprojection"
+}

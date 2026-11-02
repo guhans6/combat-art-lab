@@ -1,0 +1,62 @@
+[
+  {
+    "candidate": "silver-pines/corrected.png",
+    "visual_crop_xyxy": [
+      280,
+      100,
+      745,
+      1395
+    ],
+    "crop_method": "lead visual bounds, no alpha extraction; includes baked background",
+    "full_display_height": 700,
+    "projected_display_height": 128,
+    "resampling": "nearest",
+    "viewport": [
+      640,
+      360
+    ],
+    "feet_y": 273,
+    "small_x": 200,
+    "body_height_is_native_resolution": false
+  },
+  {
+    "candidate": "drifter/corrected.png",
+    "visual_crop_xyxy": [
+      310,
+      118,
+      720,
+      1385
+    ],
+    "crop_method": "lead visual bounds, no alpha extraction; includes baked background",
+    "full_display_height": 700,
+    "projected_display_height": 128,
+    "resampling": "nearest",
+    "viewport": [
+      640,
+      360
+    ],
+    "feet_y": 273,
+    "small_x": 200,
+    "body_height_is_native_resolution": false
+  },
+  {
+    "candidate": "lunark/corrected.png",
+    "visual_crop_xyxy": [
+      330,
+      152,
+      670,
+      1404
+    ],
+    "crop_method": "lead visual bounds, no alpha extraction; includes baked background",
+    "full_display_height": 700,
+    "projected_display_height": 128,
+    "resampling": "nearest",
+    "viewport": [
+      640,
+      360
+    ],
+    "feet_y": 273,
+    "small_x": 200,
+    "body_height_is_native_resolution": false
+  }
+]

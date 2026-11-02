@@ -1,0 +1,22 @@
+{
+  "hero2-1.gif": {
+    "sha256": "a6cce04f5a0e6ec1b7040a17b3d51a7ae1b654a26848be056a8b60ab51544405",
+    "bytes": 21469,
+    "retained_in_project": true
+  },
+  "hero-2.gif": {
+    "sha256": "fd82fc4d1c0384cc8a34fb7a24fc11d0ac880f6333fb65c10fbb5d02686669b8",
+    "bytes": 54673,
+    "retained_in_project": true
+  },
+  "saint11-character-idle.gif": {
+    "sha256": "f9c9cb05273ae16327d45f8ccd39d506c3e7dff52321b5bfae2558b15f9831d4",
+    "bytes": 1193691,
+    "retained_in_project": false
+  },
+  "adventurer-1.gif": {
+    "sha256": "af7b6d5a2505820011e18b1199930cf2a10e33e7cd38284a6a1e3efafff4f716",
+    "bytes": 5504,
+    "retained_in_project": false
+  }
+}

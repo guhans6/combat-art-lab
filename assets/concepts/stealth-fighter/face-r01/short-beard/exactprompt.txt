@@ -1,0 +1,5 @@
+Use case: precise-object-edit
+Asset type: game character concept comparison, single square head-and-shoulders image.
+Input image 1 is the sole identity, style, and edit target. Change only the facial hair: replace the awkward isolated pointed goatee with a close-cropped short jaw beard, expressed as ONE coherent flat muted charcoal-brown shadow shape following the lower cheek, jaw and chin. Keep the chin rounded and subtle, with no point or bulky beard. The lower-face beard should be visibly stronger than subtle stubble but understated and low contrast relative to the hair.
+
+Preserve the same square framing, head size and position, right-facing profile, young adult in his 20s, medium-brown skin, head silhouette and proportions, hair, armor collar, background and palette. Preserve the sparse, quiet Silver Pines-like planar rendering: broad skin plane and dark neck shadow, no eyebrow or eye. Do not age him or strengthen his jaw. No etched hair, dots, strand texture, outline, realistic portrait, moustache line, additional facial detail or eyes. No text or montage. Request a single 1024 × 1024 square output.

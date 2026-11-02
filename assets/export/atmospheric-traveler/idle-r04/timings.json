@@ -1,0 +1,19 @@
+{
+  "animation": "relaxed-idle-r04",
+  "canvas": [96,160],
+  "feet_baseline_y": 146,
+  "ground_root": [44,147],
+  "rest_body_height_px": 137,
+  "projection": "fixed128/137 scaling for all frames; no per-frame fitting",
+  "filter": "nearest",
+  "loop": true,
+  "duration_ms": 1800,
+  "unique_drawings": 3,
+  "timing_role": "agent-proposed relaxed sample; not copied reference tempo",
+  "frames": [
+    {"file":"idle-0.png","key":0,"duration_ms":700},
+    {"file":"idle-1.png","key":1,"duration_ms":260},
+    {"file":"idle-2.png","key":2,"duration_ms":500},
+    {"file":"idle-3.png","key":1,"duration_ms":340}
+  ]
+}

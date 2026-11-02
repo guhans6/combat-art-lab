@@ -1,0 +1,12 @@
+{
+  "one_pixel": [
+    [
+      11,
+      9
+    ]
+  ],
+  "reopen_exact": true,
+  "protected_export_exact": true,
+  "out_of_mask_rejected": true,
+  "grid_dot": "observed erase, not transparent skip; omit unaffected positions/regions"
+}

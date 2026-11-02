@@ -1,0 +1,53 @@
+{
+  "native": {
+    "decoded_frames": 4,
+    "durations_ms": [
+      700,
+      260,
+      500,
+      340
+    ],
+    "period_ms": 1800,
+    "visible_rgba_mismatches": 0
+  },
+  "preview2x": {
+    "decoded_frames": 4,
+    "durations_ms": [
+      700,
+      260,
+      500,
+      340
+    ],
+    "period_ms": 1800,
+    "visible_rgba_mismatches": 0
+  },
+  "environment2x": {
+    "decoded_frames": 4,
+    "durations_ms": [
+      700,
+      260,
+      500,
+      340
+    ],
+    "period_ms": 1800,
+    "visible_rgba_mismatches": 0
+  },
+  "gameplay128_2x": {
+    "decoded_frames": 4,
+    "durations_ms": [
+      700,
+      260,
+      500,
+      340
+    ],
+    "period_ms": 1800,
+    "visible_rgba_mismatches": 0
+  },
+  "environment_crop": [
+    90,
+    35,
+    280,
+    326
+  ],
+  "caption": "Exact Godot pose captures reconstructed at authored timing; not continuous video."
+}

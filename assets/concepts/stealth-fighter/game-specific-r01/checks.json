@@ -1,0 +1,322 @@
+{
+  "comparison-128px.png": {
+    "sha256": "b834da3916d44a423cf880655d92cc7ca7f3949ef45ebed680cbebea60ff87ea",
+    "bytes": 45396,
+    "dimensions": [
+      1920,
+      410
+    ],
+    "mode": "RGB"
+  },
+  "preservation.json": {
+    "sha256": "5903c9ccc79e3b115efd6a5f396ff5fad223f9655ed563d252ce4292184f9834",
+    "bytes": 288,
+    "json_valid": true
+  },
+  "source-board.png": {
+    "sha256": "952757691027a5aed3725887da44238ac68b500173c95392f6fb07a1aa4fdb31",
+    "bytes": 291349,
+    "dimensions": [
+      1260,
+      610
+    ],
+    "mode": "RGB"
+  },
+  "shared-spec.md": {
+    "sha256": "3ec09de224ed68ecf6929c20e384515d02c659c285af2d74b12545c602aef857",
+    "bytes": 2102
+  },
+  "presentation.json": {
+    "sha256": "042e5be3fc197e7b83a862aab64bd6bf9b6836f30938cb9e8bfb712f2eaf38dd",
+    "bytes": 1344,
+    "json_valid": true
+  },
+  "research.md": {
+    "sha256": "acbc74f5bd1744914990399eefe8a913edf36b7a0ae4fac01e13cdbc7c1fe407",
+    "bytes": 3261
+  },
+  "archive-map.md": {
+    "sha256": "b6dcd815f18eddc95bba3199f0ab5d870dfa5831ea08ffc264337336882b9aa2",
+    "bytes": 958
+  },
+  "comparison-full.png": {
+    "sha256": "524f969b23fe060f487491dd0c1b691fffbcdce5a5094c2978ba24895315b140",
+    "bytes": 431388,
+    "dimensions": [
+      1260,
+      865
+    ],
+    "mode": "RGB"
+  },
+  "research-scout-notes.md": {
+    "sha256": "c91a02d2794fccf49c5a585cf1db6c601985be6c463ee508aab70c5671c5d9ea",
+    "bytes": 3662
+  },
+  "review.md": {
+    "sha256": "04bd6834e963ca320f07e6737729502cf9eaf8b9683c0040a738baaafd00a600",
+    "bytes": 5813
+  },
+  "reference-hashes.json": {
+    "sha256": "7e410064a50950091b41e38bb4aab830053c07aedca8275675939162043172fd",
+    "bytes": 1107,
+    "json_valid": true
+  },
+  "references/lunark-character-view.png": {
+    "sha256": "82ba7cf67a2496fcf776764ff65eb61e404edefa8c0ed01946add78adcc673dc",
+    "bytes": 9487,
+    "dimensions": [
+      315,
+      540
+    ],
+    "mode": "RGB"
+  },
+  "references/lunark-gameplay.png": {
+    "sha256": "e6430df5148cd19b05221a0e8a8605dc64dc1066db35fb8dfe6bacd41a4f167c",
+    "bytes": 240917,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "mode": "RGB"
+  },
+  "references/drifter-character-view.png": {
+    "sha256": "a02dd13080cb238a6481ae39ea9c00fd23f4d4529d3251535c3511ab0f00f78b",
+    "bytes": 106558,
+    "dimensions": [
+      180,
+      395
+    ],
+    "mode": "RGB"
+  },
+  "references/silver-pines-5s.png": {
+    "sha256": "4e3c8eb2fb17195820ec99ad5d59fc0b272a5ae8eb411bee159db7f58f0e303b",
+    "bytes": 298749,
+    "dimensions": [
+      447,
+      512
+    ],
+    "mode": "RGBA"
+  },
+  "references/drifter-standing-crop.png": {
+    "sha256": "ab43e2e5df85d3a98d6afbfe3ed68fc39a5fd55a92c826d66d242145520150ce",
+    "bytes": 65425,
+    "dimensions": [
+      125,
+      335
+    ],
+    "mode": "RGB"
+  },
+  "references/silver-pines-motion-samples.png": {
+    "sha256": "40a7a32d1cbfcab6f7af240cc8fd97c0542c13802597750e7534ed2745c6823b",
+    "bytes": 1057021,
+    "dimensions": [
+      1788,
+      512
+    ],
+    "mode": "RGBA"
+  },
+  "references/drifter-action.jpg": {
+    "sha256": "da13b5d4d8c873ce105f8f91ff179d7e028e9a150683dc7ac7a6b3e3b11ebafb",
+    "bytes": 589935,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "mode": "RGB"
+  },
+  "references/drifter-gameplay.jpg": {
+    "sha256": "602bc58c39baec5215810b6f19520c94f7d6bca33ca411223b47d2b2bfefadad",
+    "bytes": 457242,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "mode": "RGB"
+  },
+  "references/silver-pines-drawn-frame.png": {
+    "sha256": "1b13bbac50c121c578030b5e9211918863557e28f3da633e81116feca80096e5",
+    "bytes": 147834,
+    "dimensions": [
+      318,
+      297
+    ],
+    "mode": "RGB"
+  },
+  "drifter/corrected-manifest.json": {
+    "sha256": "d059ddc04fc83a93880a3ea800c0365619673753bc4edcd36f71ca64cbce99c6",
+    "bytes": 3662,
+    "json_valid": true
+  },
+  "drifter/corrected-review.md": {
+    "sha256": "18127f6e7fe555f0dc7821499728371442619a355cf8eb66ac90c4be41a20661",
+    "bytes": 1285
+  },
+  "drifter/corrected.png": {
+    "sha256": "61e39803085b8411347aee0032fa8275e6c53f542ca496b7424249ae06698d12",
+    "bytes": 1145573,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "mode": "RGB"
+  },
+  "drifter/corrected-prompt.txt": {
+    "sha256": "a020642c9d44c01224cf068c1813fdf1cfb295f3235e9d5578381894bb889510",
+    "bytes": 1911
+  },
+  "drifter/raw.png": {
+    "sha256": "ff5d43d8302e724c7473bbaeb0f7d811199d36052120e1d1ed8b4fa3c49d5a7f",
+    "bytes": 1184421,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "mode": "RGB"
+  },
+  "drifter/prompt.txt": {
+    "sha256": "80e529a4ad8e950300744d2b9c0ca663f8a0c711994144caf5f8264493ca80eb",
+    "bytes": 2148
+  },
+  "drifter/projected-128px.png": {
+    "sha256": "64e0e7729ddca68c7b9d0625a51a8b2a1b4d7813e89b1b0e9b8a14fe61f1a400",
+    "bytes": 12380,
+    "dimensions": [
+      640,
+      360
+    ],
+    "mode": "RGB"
+  },
+  "drifter/drifter-standing-crop.png": {
+    "sha256": "822194d60ea9dcb0fe81cd169b3cd447315fa4c137c5ce35044afe61f633aa30",
+    "bytes": 112773,
+    "dimensions": [
+      690,
+      2010
+    ],
+    "mode": "RGB"
+  },
+  "drifter/manifest.json": {
+    "sha256": "bdc349ac89db0dd42656c478578675877c4425fc716ce7fdba0726e922147767",
+    "bytes": 4304,
+    "json_valid": true
+  },
+  "drifter/review.md": {
+    "sha256": "ce17716538f3e93d9323fdb0d01f57f49ab7c09b0dc6ace938e4e528fe5badd8",
+    "bytes": 1232
+  },
+  "silver-pines/corrected-manifest.json": {
+    "sha256": "41bc3e220b66de66e3b9e9a3c5dc58c997594a80052d8ae62f61f4d1ca4353eb",
+    "bytes": 5441,
+    "json_valid": true
+  },
+  "silver-pines/corrected-review.md": {
+    "sha256": "8f3e80a11872f481ead30f4a0fde3a347ae2aca619cbd60b21c8e04951116607",
+    "bytes": 2213
+  },
+  "silver-pines/corrected.png": {
+    "sha256": "a3cc3ab1d658ac3d2d464ef4781ed966e815c7eedeefcf5801d81ca93924ab9c",
+    "bytes": 1157220,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "mode": "RGB"
+  },
+  "silver-pines/corrected-prompt.txt": {
+    "sha256": "aec6ec2d0d52ca55b4bfc1b5a471f6338a7c66426e91ae7cbc6986c6b1b9208e",
+    "bytes": 3193
+  },
+  "silver-pines/raw.png": {
+    "sha256": "5c2de534e986d53c67c42222ef8e836c6e0a052522e63b185e039ce7b1dd7c23",
+    "bytes": 1195134,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "mode": "RGB"
+  },
+  "silver-pines/prompt.txt": {
+    "sha256": "c8e069690714e2ae2880cccd998e3dcd57f4d39a9fa590d176e5fa26e6bf3423",
+    "bytes": 3357
+  },
+  "silver-pines/projected-128px.png": {
+    "sha256": "172e1d9307ebc400bb5abc1a7328b367300a361c38214fb49bd705c98369ddff",
+    "bytes": 13066,
+    "dimensions": [
+      640,
+      360
+    ],
+    "mode": "RGB"
+  },
+  "silver-pines/manifest.json": {
+    "sha256": "087783e2f443a32a79979bd6fbda4cc82ad5679545b7c2cba7339a4274894e4e",
+    "bytes": 6035,
+    "json_valid": true
+  },
+  "silver-pines/review.md": {
+    "sha256": "8138f638de1a102b8f7e36036da22eba019cca89f35d57eca5398e7e819928f8",
+    "bytes": 2237
+  },
+  "lunark/corrected-manifest.json": {
+    "sha256": "1dfa2d42661cdc3d5ad6ce6beb174574701c574453fb2911c937e53cbc45b5fc",
+    "bytes": 3286,
+    "json_valid": true
+  },
+  "lunark/corrected-review.md": {
+    "sha256": "69ab8a8bcca86cbdaeb085f5e1bcc607014216fb11dcb49e992c4844979316fb",
+    "bytes": 1067
+  },
+  "lunark/corrected.png": {
+    "sha256": "09c8738333dca7f67bd97f8a28ba19d363188d661734285596a7f54c158b7149",
+    "bytes": 1139598,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "mode": "RGB"
+  },
+  "lunark/corrected-prompt.txt": {
+    "sha256": "57f175272ad91930dca7554c51caabb8f0e6150765ca678ef7d1376a34e87d7e",
+    "bytes": 1751
+  },
+  "lunark/raw.png": {
+    "sha256": "e0496a62d15b00ea444039d04f355ed180f17060c3045503fe604952d3ff7005",
+    "bytes": 1165546,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "mode": "RGB"
+  },
+  "lunark/prompt.txt": {
+    "sha256": "d4a9e4c5afbf120d6f8487ec6f17c5e1ee5e02f7d3f3855021a1b2b04f997260",
+    "bytes": 2056
+  },
+  "lunark/projected-128px.png": {
+    "sha256": "1f563d3af0f165636377ddc671596b3056b892120ce1bd91d29e76aecc37e955",
+    "bytes": 9735,
+    "dimensions": [
+      640,
+      360
+    ],
+    "mode": "RGB"
+  },
+  "lunark/manifest.json": {
+    "sha256": "1fb78bc0681c878efbe9189c9a9d609b349b358d2d0b8ae11f8330006b346dba",
+    "bytes": 3645,
+    "json_valid": true
+  },
+  "lunark/lunark-gameplay-crop.png": {
+    "sha256": "8feb03330ff4d3668e8d2d7abae09afaf9db6358776afa1682576ca1c160acbc",
+    "bytes": 15472,
+    "dimensions": [
+      690,
+      1230
+    ],
+    "mode": "RGB"
+  },
+  "lunark/review.md": {
+    "sha256": "025b945ff375342ff611093393a3364616f948a6e30c6a1e9e38cfba05ca9b67",
+    "bytes": 1414
+  }
+}

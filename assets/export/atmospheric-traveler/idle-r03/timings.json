@@ -1,0 +1,66 @@
+{
+  "animation": "grounded-idle",
+  "canvas": [
+    96,
+    160
+  ],
+  "rest_body_height_px": 137,
+  "feet_baseline_y": 146,
+  "ground_root": [
+    44,
+    147
+  ],
+  "rest_pelvis": [
+    44,
+    85
+  ],
+  "timeline_frames": 4,
+  "unique_height_poses": 3,
+  "duration_ms": 1400,
+  "loop": true,
+  "filter": "nearest",
+  "projection": "fixed128/137 scale allframes",
+  "frames": [
+    {
+      "file": "idle-0.png",
+      "duration_ms": 500,
+      "body_down_px": 0,
+      "pelvis": [
+        44,
+        85
+      ],
+      "chest_expansion_px": 0
+    },
+    {
+      "file": "idle-1.png",
+      "duration_ms": 180,
+      "body_down_px": 1,
+      "pelvis": [
+        44,
+        86
+      ],
+      "chest_expansion_px": 0
+    },
+    {
+      "file": "idle-2.png",
+      "duration_ms": 420,
+      "body_down_px": 2,
+      "pelvis": [
+        44,
+        87
+      ],
+      "chest_expansion_px": 0
+    },
+    {
+      "file": "idle-3.png",
+      "duration_ms": 300,
+      "body_down_px": 1,
+      "pelvis": [
+        44,
+        86
+      ],
+      "chest_expansion_px": 0
+    }
+  ],
+  "timing_role": "agentproposed slower than400/800ms referencepreviews, not artistnative source timing"
+}

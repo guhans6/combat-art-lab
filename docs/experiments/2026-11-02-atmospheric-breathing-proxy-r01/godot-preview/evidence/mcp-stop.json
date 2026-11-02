@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"message\": \"Godot project stopped\",\n  \"finalOutput\": [\n    \"Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\",\n    \"\",\n    \"OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro\",\n    \"\",\n    \"\",\n    \"\",\n    \"TRAVELER_BREATH_READY engine=4.7.2-stable (official) frames=12 period_ms=[200.0, 180.0, 180.0, 200.0, 220.0, 300.0, 200.0, 220.0, 260.0, 280.0, 300.0, 260.0]\",\n    \"\",\n    \"TRAVELER_BREATH_LOOP 1\",\n    \"\",\n    \"TRAVELER_BREATH_LOOP 2\",\n    \"\",\n    \"TRAVELER_BREATH_LOOP 3\",\n    \"\",\n    \"TRAVELER_BREATH_THREE_LOOPS_OK\",\n    \"\",\n    \"TRAVELER_BREATH_LOOP 4\",\n    \"\",\n    \"TRAVELER_BREATH_LOOP 5\",\n    \"\",\n    \"TRAVELER_BREATH_LOOP 6\",\n    \"\",\n    \"TRAVELER_BREATH_LOOP 7\",\n    \"\",\n    \"TRAVELER_BREATH_LOOP 8\",\n    \"\",\n    \"TRAVELER_BREATH_LOOP 9\",\n    \"\",\n    \"TRAVELER_BREATH_LOOP 10\",\n    \"\",\n    \"TRAVELER_BREATH_LOOP 11\",\n    \"\"\n  ],\n  \"finalErrors\": []\n}"
+    }
+  ]
+}

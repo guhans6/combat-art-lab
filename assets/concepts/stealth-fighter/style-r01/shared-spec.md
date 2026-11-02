@@ -1,0 +1,23 @@
+# Style-r01 — original modern pixel-art treatments of provisional B
+
+User picked hair-r02 B (half tied longhair) as INITIAL SETUP for now, but says the current rendering is too traditional and wants something unique, with Dead Cells and Moonscars style and character vibe as influences. User requested 3 subagents or perhaps more. Parent chose exactly3 artists for a bounded comparison; parent reviews alloutputs. This is authorized concept work, no new service/purchase, no canonical identity/style approval, no native production/animation/Godot.
+
+## Source hierarchy
+
+anchor.png is the exact copied B. EDIT THIS character; no independent character redraw. Inspect anchor and relevant references before built-in image_gen. Mainlocks: same recognizable face/profile/skinrange/expression, half-tied LONG nearblack hairstyle and general hair silhouette, lean athletic slightly stylized build, same body/head proportions, standingpose/facing/camera/framing/feetbaseline, simplecloth/light chestarmor/oneforearmguard/hip compact sword/waistcloth/trousers/boots. Indigo maincloth, charcoal secondaryarmor/trousers, wornsteelguard, smallrust waistaccent remain same material assignments; nearblackhair and warmmediumfairbrownskin remain. Keep same actual full1024x1536 canvas and fullbody displayedheight; no zoom/crop/pose/outfit variant. Basecolors should remain recognizable, though shadows/highlights/contour colors may vary because RENDERING is the comparison variable. Plain neutral backdrop shared with anchor, no scene or dramaticbackground. Subtle future/oldSouthIndianinfluence, no magic/neon/cyberpunk.
+
+## Hard direction
+
+PIXEL ART, contemporary game-art cluster language. Not photorealism, anatomical fantasy illustration with a pixel filter, or an anime illustration. The first hair-r01 realistic set was explicitly rejected. Current B is too traditional/standard chunky sprite rendering: do not deliver near-identical recolors or just sharpen/downsample B. Invent a noticeably different but controlled system for grouped shapes, contours, material shading and selective texture. Intentional crisp pixel clusters at multiple useful sizes, coherent stepped edges, no uniform noise/grain or oil-paint blur. Not a pixelated image filter. Preserve identity and proportions while varying how they are rendered. Concept presentation only: actual native sprite resolution remains open.
+
+## Three named styles (one output each)
+
+A — Angular / kinetic: inspiration from Dead Cells' readable angular action forms and graphic material planes. More directional diagonals and graphic shape grouping within SAME silhouette; punchy restrained light/shadow pairs, material-colored selective contours, clean bold shadow masses, sharp sparse edge accents. Fresh kinetic character-art feel even in the same neutral stance. No glow/flaming head/undeadidentity copied. Do not change pose or palette into neon.
+
+B — Carved / atmospheric: inspiration from Moonscars' sculptural forms and selective weathered texture. Chiseled/shaped pixel clusters, quiet broken outlines, deeper graphic shadows with carefully placed lighter edges; sparse texture only at material transitions and armor wear. Keep face simple and original warmbrownskin; no realistic pores, photoreal volume, ghostpaleskin, blood, horrorcostume, greyscale replacement, randomgrain or muddy unreadability. Mattecloth vs steel distinct. Keep same colors/facing/proportions/background.
+
+C — Original graphic hybrid: clean, flowing graphic cloth planes, carved pixel-metal/hair accents and deliberately selective lost/found contours; a specific coherent visual rule: broad two-tone cloth shadow shapes, angular silver ridge accents only on the single forearmguard, clustered low-contrast hair interiors framed by a clean half-tied silhouette, restrained warmrust focalaccent. Integrate principles of both references while retaining THIS light-armored SouthIndian-inspired swordsman's identity. It must have its own coherent pixel-art language, not a pasted splitstyle or generic fantasy portrait. No new motif/equipment.
+
+## Workflow and records
+
+Each artist owns its A/B/C directory only. ExactlyONE built-in image_gen edit each, anchor as first input, style screenshot(s) as supporting inputs only. No CLI/API/keys/install. Save unmodified output raw.png, exact prompt and input roles/paths/source output/hash/dimensions generation.json, and candid self-review.md. No repairs/other variants without parent instruction, no agents/commits. Three distinct render treatments count as ONE controlled rendering comparison; do not also change face, build, stance, costume or basepalette. Parent records drift honestly; visual consistency does not mean exact raster equality.

@@ -1,0 +1,986 @@
+{
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/record.md": {
+    "sha256": "252b9dc96fa41475dcbbb03083266c67aac151ab00028bb36dd374509d362061",
+    "bytes": 8526
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/preservation.json": {
+    "sha256": "562036b3cdead1ccd324a7d7e17f319b5859ae42b2beeb693e2d4152a90991c3",
+    "bytes": 243
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/final-verification.json": {
+    "sha256": "420b90c65dd9ddd79d2e495c568d26e5de149ff9ca26773884d45504719a11b5",
+    "bytes": 663
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/repair.py": {
+    "sha256": "a5f0d3a54cfd66e0bf9b8acb60b700b31b2e5f7311f0894735de8015eca00b70",
+    "bytes": 1934
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/repair-inventory.json": {
+    "sha256": "194fde312be385b253dd922de58f22cb5a5b5dcc68b3a4128177d71221304ba6",
+    "bytes": 14015
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/key-ops-repaired.json": {
+    "sha256": "1305baeaf039c922c450919ebfe3c040d847165458db3d5e34ad58cffdc11671",
+    "bytes": 111965
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/check_keys.py": {
+    "sha256": "f7542e7a17060aa1ca3b52efc690c07692831a1eef6a00ecf80e829c9775ff89",
+    "bytes": 5305
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/editable-upper-frozen.png": {
+    "sha256": "a896c870f4b5a236e79931e1e549e3f20ce6784ecf805c6808e343b45136aed0",
+    "bytes": 235
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/key-ops.json": {
+    "sha256": "73f3c27d1b213fb7151e258553b5273af6eca2624ce619ab787c92f21142484a",
+    "bytes": 100943
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/producer-final-review.md": {
+    "sha256": "469cd4c1e5dcf69e4e70c43ac6a6e969bc4394a1bcc5fe4cd756ca65de4ea5fc",
+    "bytes": 4749
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-final.json": {
+    "sha256": "faad56d2de410f4084d023d2eb7c7ffe725ed826652c8744de9212f5ae3eff5c",
+    "bytes": 5146
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/final-key-ops.json": {
+    "sha256": "223f154459b2ecbdaf6dde263eeb093c625d8a3778775fdc888dcc3774d0ace1",
+    "bytes": 112851
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/audit_final.py": {
+    "sha256": "f49006e62b53330fd621f294ba3915339c07cb4fffaf56eb11bbf1009345876c",
+    "bytes": 7192
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/observations.md": {
+    "sha256": "c7d3dcda9afba88d8b46339d48087a053bf1f5b43ffa6581a60ee766b9ca25a9",
+    "bytes": 7643
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/prepare.py": {
+    "sha256": "565bb8566708b2089134f7e6d47c74b58d7f805e713e989ef34bc3b8d40a4aaf",
+    "bytes": 3901
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-keys.json": {
+    "sha256": "110b686b3c606d36f3075d78ca373da0e33532d50fa541ed721db3ff215bc979",
+    "bytes": 4040
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/review_keys.py": {
+    "sha256": "98c694e7e922ee48846083259d43fff1dc7c1184568a0a17e21efaff39bb842d",
+    "bytes": 4416
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-keys/frame-002-region-01.png": {
+    "sha256": "3faf4388c3aef182b9aaa36365f08105ef8dc178dff7724991117fdda273e10b",
+    "bytes": 34579
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-keys/frame-002-region-00.png": {
+    "sha256": "8ea678b9d95054f545191332483a7ecb28b6cb5990f28db2e74e6680bf08d92c",
+    "bytes": 30744
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-keys/packet.json": {
+    "sha256": "5d6c60babd47ee8c4af1df114c1188a617ff483eedc403044f65ecaf9dfd220b",
+    "bytes": 13991
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-keys/frame-002-region-02.png": {
+    "sha256": "7bf6e93052075119b8aa34f87f70925a5d56ad8b971cf17b5bc18ab48b52d662",
+    "bytes": 34157
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-keys/frame-001-region-02.png": {
+    "sha256": "809d466727851452d6d0e4af96d5938ac5768a71ac10123032f352e7a1205c56",
+    "bytes": 34267
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-keys/frame-001-region-01.png": {
+    "sha256": "58e702aa200ad347229c8e9500e02e7a7fbae8a58d2bbd92897abf499bbd0628",
+    "bytes": 34551
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-keys/frame-001-region-00.png": {
+    "sha256": "9c744e7992ebb2544c6615ae303b11c4864c191bc6eee00c011743c38cdd4224",
+    "bytes": 30721
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-keys/frame-000-region-02.png": {
+    "sha256": "930ff321f288de96ac80dd200b8b3d27c2a17447da26d07c8950974365d0a7a3",
+    "bytes": 29064
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-keys/frame-000-region-00.png": {
+    "sha256": "427615726f9edbab0d2723e66bf4b8d0d484e57673e40dde983b4076969346a7",
+    "bytes": 25518
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-keys/frame-000-region-01.png": {
+    "sha256": "baed93389b560fb18a44252f0cf5f857f0d92fec0f2302f3145b2f5eb230ca18",
+    "bytes": 28766
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/timings.json": {
+    "sha256": "f7cb56ec5ef902d989fdf111a7a65e1f5d5105eacbce63f42f0cfa2f8b6da5dd",
+    "bytes": 603
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/idle-raw-mcp.gif": {
+    "sha256": "8f57b5ffcd7b5e0ae3dd3ea98bd2baf44b6e8b0ab153400dc14091c48385da44",
+    "bytes": 24555
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/contact-3x.png": {
+    "sha256": "19f442c99fb0eca3cc90ffa4339e6729025ccdc586c17d3461567e7781e603e6",
+    "bytes": 33040
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/idle-0.png": {
+    "sha256": "6718432fc934416f70a84a64ab72bc45b4740e68c820c2c31140beff8a8846d6",
+    "bytes": 12974
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/idle-1.png": {
+    "sha256": "5893f7a41f9bc8b4b67f6e88857b90845ad087496549a6ffdc0989c101009ea3",
+    "bytes": 13065
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/idle-3.png": {
+    "sha256": "5893f7a41f9bc8b4b67f6e88857b90845ad087496549a6ffdc0989c101009ea3",
+    "bytes": 13065
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/idle-2.png": {
+    "sha256": "51fcca9d4010d57f57162ff8a0e39c8d662d72b30291c9a4f58da67c12cc6f14",
+    "bytes": 13085
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/checks.json": {
+    "sha256": "1ceaa915bb27d9b1f351fd783ac4ee2bdd7a89543085af3e4d393b586b72a392",
+    "bytes": 4250
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/README.md": {
+    "sha256": "1e105cc6153891efef2bf17e990f420fa318affcb47797c9f3aca5ded6f14e25",
+    "bytes": 2031
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/idle-sheet.png": {
+    "sha256": "9e0c983d00b3c08df9a99f3a6e1881223e4b1a297a07bc7a9dc3d0d440ab54da",
+    "bytes": 20165
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/loop-seam-3x.png": {
+    "sha256": "800f44ecf5b6efcaf506f8690880d180c7868afcc86ca0df56b1e515d93345ca",
+    "bytes": 28049
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/idle-r02.aseprite": {
+    "sha256": "f4cb8fff0a460cde6845fb15bc0c5e3271259d9d38d5f3efa051e4970b2e6127",
+    "bytes": 49371
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/contact-1x.png": {
+    "sha256": "dbf0c62fe8b3e08f929708b0ce0665efdaaab6777895e33de566ef15b538a415",
+    "bytes": 19985
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/idle-sheet.json": {
+    "sha256": "7bf5131795be34cd743683c6905cfcb5b68f6b2016e5272d37a0e3962a805f6b",
+    "bytes": 2095
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/edit-proof/edited.png": {
+    "sha256": "ab714913a60b566765e655e407d974ef16fd8f32444e805077da55b6078a3393",
+    "bytes": 12981
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/edit-proof/comparison-12x.png": {
+    "sha256": "abca26ac9a686f871cc61bd93439910c9240fd1e45b3049383bc3318742456ab",
+    "bytes": 4494
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/edit-proof/buckle-revision.aseprite": {
+    "sha256": "7a49945923524d8c539828e410c04e71ac2872f94938d6122bbdce3225cffd53",
+    "bytes": 49382
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/edit-proof/reopened-edit.png": {
+    "sha256": "ab714913a60b566765e655e407d974ef16fd8f32444e805077da55b6078a3393",
+    "bytes": 12981
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/reopen/idle-0.png": {
+    "sha256": "6718432fc934416f70a84a64ab72bc45b4740e68c820c2c31140beff8a8846d6",
+    "bytes": 12974
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/reopen/idle-1.png": {
+    "sha256": "5893f7a41f9bc8b4b67f6e88857b90845ad087496549a6ffdc0989c101009ea3",
+    "bytes": 13065
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/reopen/idle-3.png": {
+    "sha256": "5893f7a41f9bc8b4b67f6e88857b90845ad087496549a6ffdc0989c101009ea3",
+    "bytes": 13065
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/delivery/reopen/idle-2.png": {
+    "sha256": "51fcca9d4010d57f57162ff8a0e39c8d662d72b30291c9a4f58da67c12cc6f14",
+    "bytes": 13085
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-owner-sword-belt.png": {
+    "sha256": "823ddb633fcf652dd605761b0887fc08c650f255d40d1797738ed547e8cff76e",
+    "bytes": 1567
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-1-far-hand.png": {
+    "sha256": "31763518ed95f764f4e7128fb14207b408540a61d1b44213a3678cdac81743ff",
+    "bytes": 378
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-owner-body-occlusion-backing.png": {
+    "sha256": "50c59fcf87f9e6d5c093cef2756ca62d2f77c213ed894c301f8550328d5ea111",
+    "bytes": 210
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/native-checks.json": {
+    "sha256": "500662d24d22cd844a9642596e6fc71a8d6cd4fdaeb4f77a01b8ef03a517ecae",
+    "bytes": 515
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-hide-near-upper-sleeve.png": {
+    "sha256": "f798b0510c603e9dc0832cc805a63ac82b864bbfd2f65af0b19fc8a174809994",
+    "bytes": 12102
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-2-sword-belt.png": {
+    "sha256": "823ddb633fcf652dd605761b0887fc08c650f255d40d1797738ed547e8cff76e",
+    "bytes": 1567
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-0-far-hem-fixed.png": {
+    "sha256": "1e0ff9f89afdab1f9c8591d56b7ed8394b5b817daaabf0c4bf0c28e289b24e1e",
+    "bytes": 476
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-hide-head-hair-neck.png": {
+    "sha256": "2dcd7d9fac329a200f90590dc3acb668b799c7bea1cb3eee33fda0834fcad52a",
+    "bytes": 11344
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-owner-upper-torso.png": {
+    "sha256": "19e0258931f0b2b5da58fd233aa203aebe64ed3f894923ab23151addc98ab4d2",
+    "bytes": 2039
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-owner-lower-body-fixed.png": {
+    "sha256": "3bd4a8b72b00b8959dc9844e902c359ea1a3b09e978b444675e18dd2d0ed766d",
+    "bytes": 7312
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-owner-head-hair-neck.png": {
+    "sha256": "23e84e19c4e897b81780d3e6ff757b8d19c036c218f1f0032cd5bc585893f603",
+    "bytes": 2101
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-owner-near-guard-hand.png": {
+    "sha256": "32a8015bf250f7bb96904b21be01552b8f00e9b42e3604352d3908248f27c55f",
+    "bytes": 1573
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-0-far-hand.png": {
+    "sha256": "dc75e939cb55548a94a55229a1723c08b486859f9d9075f08f42fb95ca79e168",
+    "bytes": 378
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/key-2.png": {
+    "sha256": "44af89b6d7a86f14d953238b3552c6d7c01c9a78ff3e43cc6cfd66d1b214bf66",
+    "bytes": 13190
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/keys-final.aseprite": {
+    "sha256": "d98707b48c96dce50eab2dd9534be7c9e37ce337adce788e9a0b40b608c33a63",
+    "bytes": 37093
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/key-0.png": {
+    "sha256": "6718432fc934416f70a84a64ab72bc45b4740e68c820c2c31140beff8a8846d6",
+    "bytes": 12974
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-owner-upper-torso.png": {
+    "sha256": "09d5663c84f00f0d43b188aa83a66d22139fd92feafe70a4a24ee509ed7b86bf",
+    "bytes": 2018
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-1-far-hem-fixed.png": {
+    "sha256": "1e0ff9f89afdab1f9c8591d56b7ed8394b5b817daaabf0c4bf0c28e289b24e1e",
+    "bytes": 476
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-0-lower-body-fixed.png": {
+    "sha256": "3bd4a8b72b00b8959dc9844e902c359ea1a3b09e978b444675e18dd2d0ed766d",
+    "bytes": 7312
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-hide-lower-body-fixed.png": {
+    "sha256": "9a2d1736781573d5e917c3b18a854c941097c33a5e717a7b04ed0ef0791db41f",
+    "bytes": 6577
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/ownership-near-upper-sleeve-5x.png": {
+    "sha256": "c3f7d4e40fa06ca324bbdf1a9b5eb1d431de2286386280c13a738d0c4b5b828a",
+    "bytes": 52190
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/key-1.png": {
+    "sha256": "5ab60314bd685937223aa4b0156845016b2ba93b37449d29cf5a792dfd60aa90",
+    "bytes": 13183
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-owner-far-hem-fixed.png": {
+    "sha256": "1e0ff9f89afdab1f9c8591d56b7ed8394b5b817daaabf0c4bf0c28e289b24e1e",
+    "bytes": 476
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/upper-contrast-5x.png": {
+    "sha256": "c6a93ba278f62e36d0744cdec6b73785da50b3a315ac6a1204fb084e4a03c49a",
+    "bytes": 18966
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/ownership-body-occlusion-backing-5x.png": {
+    "sha256": "243a347f1f3cc01f91c0c2874bc6065ed59f12ff5e8a6eeb3552cbc89f97ab44",
+    "bytes": 55079
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/repaired-key-1.png": {
+    "sha256": "5893f7a41f9bc8b4b67f6e88857b90845ad087496549a6ffdc0989c101009ea3",
+    "bytes": 13065
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-landmarks-3x.png": {
+    "sha256": "3255701261cc2ad190a24e1415b086e533422d471e068de544d412ac53ecfcce",
+    "bytes": 27217
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-hide-body-occlusion-backing.png": {
+    "sha256": "96267db9247c5e3b35359fea1ffb15b2a6d1d69cced832fab986983c2f373486",
+    "bytes": 12631
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/ownership-upper-torso-5x.png": {
+    "sha256": "3433d589e29276fe4c749ad89e1db506571ae44f696b2ee93a44ee29b7a6a3e2",
+    "bytes": 51122
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/keys-pass01.aseprite": {
+    "sha256": "d5f15adb9367535a194c958806e13c70e16afd3063eeba64eed678fd0aed293f",
+    "bytes": 36040
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-owner-head-hair-neck.png": {
+    "sha256": "d725e29c1496a0a98a1d9ce0af8c62431432d03731e584fc790147003d143c53",
+    "bytes": 2101
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-0-head-hair-neck.png": {
+    "sha256": "d725e29c1496a0a98a1d9ce0af8c62431432d03731e584fc790147003d143c53",
+    "bytes": 2101
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-owner-far-hem-fixed.png": {
+    "sha256": "1e0ff9f89afdab1f9c8591d56b7ed8394b5b817daaabf0c4bf0c28e289b24e1e",
+    "bytes": 476
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/repaired-key-0.png": {
+    "sha256": "6718432fc934416f70a84a64ab72bc45b4740e68c820c2c31140beff8a8846d6",
+    "bytes": 12974
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/repaired-key-2.png": {
+    "sha256": "51fcca9d4010d57f57162ff8a0e39c8d662d72b30291c9a4f58da67c12cc6f14",
+    "bytes": 13085
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-owner-far-hand.png": {
+    "sha256": "dc75e939cb55548a94a55229a1723c08b486859f9d9075f08f42fb95ca79e168",
+    "bytes": 378
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-2-far-hem-fixed.png": {
+    "sha256": "1e0ff9f89afdab1f9c8591d56b7ed8394b5b817daaabf0c4bf0c28e289b24e1e",
+    "bytes": 476
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-hide-near-guard-hand.png": {
+    "sha256": "8f9a70920bbb9267ce46dba6bbf6b913a3424ea72bb4552b00f1517196655489",
+    "bytes": 11963
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-1-sword-belt.png": {
+    "sha256": "823ddb633fcf652dd605761b0887fc08c650f255d40d1797738ed547e8cff76e",
+    "bytes": 1567
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-2-upper-torso.png": {
+    "sha256": "19e0258931f0b2b5da58fd233aa203aebe64ed3f894923ab23151addc98ab4d2",
+    "bytes": 2039
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/ownership-head-hair-neck-5x.png": {
+    "sha256": "d36517e22fe21d70cfb0b490b0f9d5e569505a06abcc867ae13ef485dc6b9c92",
+    "bytes": 50513
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-1-near-upper-sleeve.png": {
+    "sha256": "403e5d4bac764fa5e74cdb077439300c4472001647206bc8fc9f287d9ba89fa3",
+    "bytes": 1367
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/ownership-far-hand-5x.png": {
+    "sha256": "ebdd66acdd7ba2f7bfb5943b0c8bf3b89e5fce987c9317086df51262a1feda7d",
+    "bytes": 48203
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-1-lower-body-fixed.png": {
+    "sha256": "3bd4a8b72b00b8959dc9844e902c359ea1a3b09e978b444675e18dd2d0ed766d",
+    "bytes": 7312
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-0-sword-belt.png": {
+    "sha256": "823ddb633fcf652dd605761b0887fc08c650f255d40d1797738ed547e8cff76e",
+    "bytes": 1567
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-hide-head-hair-neck.png": {
+    "sha256": "552b07c3ee384b6378cd0165cb2fa7fb2af09a8ca99d76dbf919e1cb660b6030",
+    "bytes": 11396
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-owner-near-guard-hand.png": {
+    "sha256": "b6539a1e0cd1d38b198317bca6f9584f7c257b31733697b2bf89a925fb02f414",
+    "bytes": 1570
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/keys-3x.png": {
+    "sha256": "fc0a5d3b460314a78e1f3fcaed7d6d59fdd1dc8944f40b27b4a4a9977563f97b",
+    "bytes": 30074
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-owner-near-upper-sleeve.png": {
+    "sha256": "7854bb30eb44fb0a77af53d489b579525aa24622b4d1239738645e56ccda64ae",
+    "bytes": 1374
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-hide-upper-torso.png": {
+    "sha256": "ceb1511b00d392fffc66c30a740e6cb229d211309d6f245c75dc006af76b7cab",
+    "bytes": 11710
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-2-body-occlusion-backing.png": {
+    "sha256": "50c59fcf87f9e6d5c093cef2756ca62d2f77c213ed894c301f8550328d5ea111",
+    "bytes": 210
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-hide-lower-body-fixed.png": {
+    "sha256": "7369ebd023a097f8f73d17a381901b7185d39b097099222dd7041720a46dbd3b",
+    "bytes": 6597
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/checks.json": {
+    "sha256": "f17371ed991a4b57460eac0620ed58afa6655df592357c5868bd7ee57f1070d7",
+    "bytes": 2124
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-owner-far-hand.png": {
+    "sha256": "b1794b47be6eb9791732651ef44e675481be4e8cb356f417c0e7a15c81feb513",
+    "bytes": 377
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-hide-upper-torso.png": {
+    "sha256": "211fe6394e7d0835485064f51542cc1c60a4672be5bbd8e20de3b1d1b6b59d06",
+    "bytes": 11704
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-hide-near-guard-hand.png": {
+    "sha256": "29d6420cb2aa8f801f9ef39bf172a7e107f809ed7da6e9c7892014e9483e26de",
+    "bytes": 11939
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-owner-near-upper-sleeve.png": {
+    "sha256": "403e5d4bac764fa5e74cdb077439300c4472001647206bc8fc9f287d9ba89fa3",
+    "bytes": 1367
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-hide-far-hand.png": {
+    "sha256": "542749eb70ee8dd361554d5f728e30081632302f4798c9ed6e29390317c5dee1",
+    "bytes": 12588
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-owner-head-hair-neck.png": {
+    "sha256": "400f7954fbb7fba8049aaaff859e7875aed4f58ac965235e8222e72a3e212e9d",
+    "bytes": 2100
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/ownership-near-guard-hand-5x.png": {
+    "sha256": "1cc2ce08559d0b91ac5fb91e3eb6d2f6f3ce1956808907a1c6bdd8ae5e9d7235",
+    "bytes": 50861
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-landmarks-3x.png": {
+    "sha256": "722f51ae0efd3d7d03baf6d87312354d4833dcce593837caa2fc747ed6e5402b",
+    "bytes": 27148
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-hide-far-hem-fixed.png": {
+    "sha256": "53a07256b683bdd5a3719742569cfbcab0878fc09f70be5c39acd8efdcffdb20",
+    "bytes": 12696
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-0-upper-torso.png": {
+    "sha256": "09d5663c84f00f0d43b188aa83a66d22139fd92feafe70a4a24ee509ed7b86bf",
+    "bytes": 2018
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-2-lower-body-fixed.png": {
+    "sha256": "3bd4a8b72b00b8959dc9844e902c359ea1a3b09e978b444675e18dd2d0ed766d",
+    "bytes": 7312
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-owner-near-guard-hand.png": {
+    "sha256": "e49853b3c64f2ca00a33e938f05baf7899661057b70d2e35c7bf675e0cbb1e85",
+    "bytes": 1572
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-hide-body-occlusion-backing.png": {
+    "sha256": "07dc01376525cd657723798636fae9f66cffabaa606315ba9fb49fedfcb0dbd7",
+    "bytes": 12806
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-2-head-hair-neck.png": {
+    "sha256": "400f7954fbb7fba8049aaaff859e7875aed4f58ac965235e8222e72a3e212e9d",
+    "bytes": 2100
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-hide-near-upper-sleeve.png": {
+    "sha256": "3dec9a8318d6ba50de1209f3076b3aac3f52e7cba1c9faa612ce1444689cdd18",
+    "bytes": 12097
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-1-head-hair-neck.png": {
+    "sha256": "23e84e19c4e897b81780d3e6ff757b8d19c036c218f1f0032cd5bc585893f603",
+    "bytes": 2101
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-hide-far-hem-fixed.png": {
+    "sha256": "6e38b7fbcb258874b3230696fea40699dae871ce1a208738fec8225d8adaad90",
+    "bytes": 12710
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-owner-upper-torso.png": {
+    "sha256": "1dd98a20b8c363505d3f7d7cd859a859aa48db86e2b17547595ce2b9dd515e42",
+    "bytes": 2022
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-hide-head-hair-neck.png": {
+    "sha256": "51d8ae4e897b2f20aed24e151e5bae3a2382be4553c2a3efe450b2a7c0dcf555",
+    "bytes": 11246
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-hide-far-hand.png": {
+    "sha256": "6883a851dc92a3a7046157c5be2164dbe6a229ca2f63dc2b4974c5f0ee4722e4",
+    "bytes": 12693
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-2-near-guard-hand.png": {
+    "sha256": "32a8015bf250f7bb96904b21be01552b8f00e9b42e3604352d3908248f27c55f",
+    "bytes": 1573
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-owner-sword-belt.png": {
+    "sha256": "823ddb633fcf652dd605761b0887fc08c650f255d40d1797738ed547e8cff76e",
+    "bytes": 1567
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-1-near-guard-hand.png": {
+    "sha256": "e49853b3c64f2ca00a33e938f05baf7899661057b70d2e35c7bf675e0cbb1e85",
+    "bytes": 1572
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-owner-body-occlusion-backing.png": {
+    "sha256": "29c7962b7be86700be33a99f60ff00c91ac001bbbcf725f1cd7df05fb34a71a4",
+    "bytes": 451
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-0-body-occlusion-backing.png": {
+    "sha256": "50c59fcf87f9e6d5c093cef2756ca62d2f77c213ed894c301f8550328d5ea111",
+    "bytes": 210
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-owner-lower-body-fixed.png": {
+    "sha256": "3bd4a8b72b00b8959dc9844e902c359ea1a3b09e978b444675e18dd2d0ed766d",
+    "bytes": 7312
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-owner-far-hand.png": {
+    "sha256": "31763518ed95f764f4e7128fb14207b408540a61d1b44213a3678cdac81743ff",
+    "bytes": 378
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-0-near-guard-hand.png": {
+    "sha256": "b6539a1e0cd1d38b198317bca6f9584f7c257b31733697b2bf89a925fb02f414",
+    "bytes": 1570
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/keys-1x.png": {
+    "sha256": "12d024930b68a9cf1013a028674e6cbce72d5620527239d7214b29321a3d7195",
+    "bytes": 18726
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-hide-sword-belt.png": {
+    "sha256": "09f7c1c734bd27ba1083980f25e684f42ee7400927b1e2ae3daf9491da1342ab",
+    "bytes": 11974
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-hide-lower-body-fixed.png": {
+    "sha256": "ad16aeabc52b2ce5e45eebc425b3eb34beac8af76d9ceb31a300cc3a477b7159",
+    "bytes": 6524
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-hide-near-upper-sleeve.png": {
+    "sha256": "f89b8a83c72c619ff2c3aac59997464199a192a92bf603e0972aeb0ed04b7601",
+    "bytes": 12050
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-hide-sword-belt.png": {
+    "sha256": "dc1d89a534499ef70d2f9242f50479fe6c7a157e1d8cb742b3b0e7a927c5050d",
+    "bytes": 11932
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-0-near-upper-sleeve.png": {
+    "sha256": "feed637c306d351a385d9715dfe5c57f329e6856ed5a68248b9b060b4fdafc7d",
+    "bytes": 1359
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-hide-far-hand.png": {
+    "sha256": "ff460953ffb39de32b6965080b828c2dcd2602c1c918d3e4dae464f6dc5d572d",
+    "bytes": 12699
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-2-far-hand.png": {
+    "sha256": "b1794b47be6eb9791732651ef44e675481be4e8cb356f417c0e7a15c81feb513",
+    "bytes": 377
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-1-body-occlusion-backing.png": {
+    "sha256": "50c59fcf87f9e6d5c093cef2756ca62d2f77c213ed894c301f8550328d5ea111",
+    "bytes": 210
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-owner-lower-body-fixed.png": {
+    "sha256": "3bd4a8b72b00b8959dc9844e902c359ea1a3b09e978b444675e18dd2d0ed766d",
+    "bytes": 7312
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-hide-upper-torso.png": {
+    "sha256": "dbc1174689931d2c5753284348638fdf6b2281ff10f7b9c834032ee667fab864",
+    "bytes": 11605
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-owner-body-occlusion-backing.png": {
+    "sha256": "7698e1342dfb6ccd4836eeae874b832cbe858f8b89e7f721f027fcdecf3a45ca",
+    "bytes": 530
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-hide-far-hem-fixed.png": {
+    "sha256": "e09e9c4702d12bcaf7ca592e734d0c2d80b1ff41d9ea7dcbd3917f9fc688fb7f",
+    "bytes": 12576
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-owner-near-upper-sleeve.png": {
+    "sha256": "feed637c306d351a385d9715dfe5c57f329e6856ed5a68248b9b060b4fdafc7d",
+    "bytes": 1359
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-hide-sword-belt.png": {
+    "sha256": "7791badb6a0c3464ce7338a8b9b32289eeabefc0deb7187974442e8c0d9bf25e",
+    "bytes": 11973
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-landmarks-3x.png": {
+    "sha256": "38d4b1729aa52e5f2c1d35aec8314632825fcc47cedabbc8778c2ef6547958a9",
+    "bytes": 27025
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-2-near-upper-sleeve.png": {
+    "sha256": "7854bb30eb44fb0a77af53d489b579525aa24622b4d1239738645e56ccda64ae",
+    "bytes": 1374
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-hide-near-guard-hand.png": {
+    "sha256": "4f8f65cf8a00d4932e325d82b4392e15c31cfec146f5261ab7a4f48ff3f6b220",
+    "bytes": 11967
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-key-0.png": {
+    "sha256": "96267db9247c5e3b35359fea1ffb15b2a6d1d69cced832fab986983c2f373486",
+    "bytes": 12631
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-key-1.png": {
+    "sha256": "07dc01376525cd657723798636fae9f66cffabaa606315ba9fb49fedfcb0dbd7",
+    "bytes": 12806
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f0-owner-far-hem-fixed.png": {
+    "sha256": "1e0ff9f89afdab1f9c8591d56b7ed8394b5b817daaabf0c4bf0c28e289b24e1e",
+    "bytes": 476
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-1-upper-torso.png": {
+    "sha256": "1dd98a20b8c363505d3f7d7cd859a859aa48db86e2b17547595ce2b9dd515e42",
+    "bytes": 2022
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/keys-repaired.aseprite": {
+    "sha256": "e4d9923cf5d968c64e1dc1c3af937437f0636395190d279f9de0eb3e4c095a76",
+    "bytes": 36455
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f1-owner-sword-belt.png": {
+    "sha256": "823ddb633fcf652dd605761b0887fc08c650f255d40d1797738ed547e8cff76e",
+    "bytes": 1567
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/data-key-2.png": {
+    "sha256": "2fe7f843103bc48290f9d9a81aca085672d0b7e3d132194bdc5eb6d2aac16bc8",
+    "bytes": 12808
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/keys/f2-hide-body-occlusion-backing.png": {
+    "sha256": "2fe7f843103bc48290f9d9a81aca085672d0b7e3d132194bdc5eb6d2aac16bc8",
+    "bytes": 12808
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-final/frame-002-region-01.png": {
+    "sha256": "3faf4388c3aef182b9aaa36365f08105ef8dc178dff7724991117fdda273e10b",
+    "bytes": 34579
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-final/frame-002-region-00.png": {
+    "sha256": "8ea678b9d95054f545191332483a7ecb28b6cb5990f28db2e74e6680bf08d92c",
+    "bytes": 30744
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-final/packet.json": {
+    "sha256": "1205a85feec3872b84a397365675c95c5a12a8dc8c4796b5cbc9e8921442c374",
+    "bytes": 18161
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-final/frame-002-region-02.png": {
+    "sha256": "7bf6e93052075119b8aa34f87f70925a5d56ad8b971cf17b5bc18ab48b52d662",
+    "bytes": 34157
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-final/frame-001-region-02.png": {
+    "sha256": "809d466727851452d6d0e4af96d5938ac5768a71ac10123032f352e7a1205c56",
+    "bytes": 34267
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-final/frame-001-region-01.png": {
+    "sha256": "58e702aa200ad347229c8e9500e02e7a7fbae8a58d2bbd92897abf499bbd0628",
+    "bytes": 34551
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-final/frame-001-region-00.png": {
+    "sha256": "9c744e7992ebb2544c6615ae303b11c4864c191bc6eee00c011743c38cdd4224",
+    "bytes": 30721
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-final/frame-000-region-02.png": {
+    "sha256": "930ff321f288de96ac80dd200b8b3d27c2a17447da26d07c8950974365d0a7a3",
+    "bytes": 29064
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-final/frame-000-region-00.png": {
+    "sha256": "427615726f9edbab0d2723e66bf4b8d0d484e57673e40dde983b4076969346a7",
+    "bytes": 25518
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-final/frame-000-region-01.png": {
+    "sha256": "baed93389b560fb18a44252f0cf5f857f0d92fec0f2302f3145b2f5eb230ca18",
+    "bytes": 28766
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-final/frame-003-region-00.png": {
+    "sha256": "9c744e7992ebb2544c6615ae303b11c4864c191bc6eee00c011743c38cdd4224",
+    "bytes": 30721
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-final/frame-003-region-01.png": {
+    "sha256": "58e702aa200ad347229c8e9500e02e7a7fbae8a58d2bbd92897abf499bbd0628",
+    "bytes": 34551
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/comparison-final/frame-003-region-02.png": {
+    "sha256": "809d466727851452d6d0e4af96d5938ac5768a71ac10123032f352e7a1205c56",
+    "bytes": 34267
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/inputs/before-2.png": {
+    "sha256": "eec02ec52ebeb479c492681b2371537e6d740bc8e13749d05d155815214c92fb",
+    "bytes": 12583
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/inputs/source-native-rest-3x.png": {
+    "sha256": "6740b75ddaf0e3c1103bbccfc4c00c1e270be933697b0e86614bdb7b96ca0d44",
+    "bytes": 56510
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/inputs/rest-native-read.png": {
+    "sha256": "96267db9247c5e3b35359fea1ffb15b2a6d1d69cced832fab986983c2f373486",
+    "bytes": 12631
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/inputs/before-1.png": {
+    "sha256": "eb3adec97003435028074a85b6287106e88c6ed745c7c75f8baa714a0f73f9a9",
+    "bytes": 12581
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/inputs/rest-owner-head-hair-neck.png": {
+    "sha256": "d725e29c1496a0a98a1d9ce0af8c62431432d03731e584fc790147003d143c53",
+    "bytes": 2101
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/inputs/rest-native-mcp.png": {
+    "sha256": "6718432fc934416f70a84a64ab72bc45b4740e68c820c2c31140beff8a8846d6",
+    "bytes": 12974
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/inputs/before-0.png": {
+    "sha256": "96267db9247c5e3b35359fea1ffb15b2a6d1d69cced832fab986983c2f373486",
+    "bytes": 12631
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/inputs/rest-owner-far-hand.png": {
+    "sha256": "7fd705e870a5ab5e3a67e977bc73b6f5e6d0d776a63f891fa92b7d7dbcb94d4c",
+    "bytes": 572
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/inputs/idle-r01.aseprite": {
+    "sha256": "e839783e58f01e61b1839f18ee6208437ec9424c0403a148f331f32e9ad653fd",
+    "bytes": 57510
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/inputs/rest-owner-body-occlusion-backing.png": {
+    "sha256": "50c59fcf87f9e6d5c093cef2756ca62d2f77c213ed894c301f8550328d5ea111",
+    "bytes": 210
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/inputs/rest-owner-upper-torso.png": {
+    "sha256": "09d5663c84f00f0d43b188aa83a66d22139fd92feafe70a4a24ee509ed7b86bf",
+    "bytes": 2018
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/inputs/rest-owner-sword-belt.png": {
+    "sha256": "823ddb633fcf652dd605761b0887fc08c650f255d40d1797738ed547e8cff76e",
+    "bytes": 1567
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/inputs/rest-owner-lower-body-fixed.png": {
+    "sha256": "3bd4a8b72b00b8959dc9844e902c359ea1a3b09e978b444675e18dd2d0ed766d",
+    "bytes": 7312
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/native-work/inputs/rest-owner-near-arm.png": {
+    "sha256": "820df108e8ee51ebbca86cb64dc69272174e782705d3faa4c7cc572b4c6ec8cd",
+    "bytes": 2564
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/godot-preview/main.tscn": {
+    "sha256": "8d06a5de93ecbebc3b6311cc56d2fa69d933b56c74a04baf3a8cdeb6f10d3e74",
+    "bytes": 164
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/godot-preview/layout.json": {
+    "sha256": "f56528c5185a469b7bf7c9ef5e381f92e26ce3c77c8678fb8f7d36681d1cf8e4",
+    "bytes": 319
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/godot-preview/preview.gd": {
+    "sha256": "3ad95a6744c2b2f509b8854091a8a33d80198ec7cc1f6d00497ad2ffd164d0b5",
+    "bytes": 3871
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/godot-preview/project.godot": {
+    "sha256": "4df942912bd69e628eb5edd60cbce8104ad32fe873f635f75782fbca6b284c3a",
+    "bytes": 506
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/godot-preview/textures/idle-0.png": {
+    "sha256": "6718432fc934416f70a84a64ab72bc45b4740e68c820c2c31140beff8a8846d6",
+    "bytes": 12974
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/godot-preview/textures/idle-1.png": {
+    "sha256": "5893f7a41f9bc8b4b67f6e88857b90845ad087496549a6ffdc0989c101009ea3",
+    "bytes": 13065
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/godot-preview/textures/idle-3.png": {
+    "sha256": "5893f7a41f9bc8b4b67f6e88857b90845ad087496549a6ffdc0989c101009ea3",
+    "bytes": 13065
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/godot-preview/textures/idle-2.png": {
+    "sha256": "51fcca9d4010d57f57162ff8a0e39c8d662d72b30291c9a4f58da67c12cc6f14",
+    "bytes": 13085
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/godot-preview/evidence/runtime.json": {
+    "sha256": "7ea1ab2b8dbdefab2859f22fef46cf5f9827fc6b142c378ffb7c209146121b3d",
+    "bytes": 1451
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/godot-preview/evidence/mcp-stop.json": {
+    "sha256": "a4ecf5e77126f61a84c1b955cfdfe7abd184e17577f8be27e2240574eb2fe63d",
+    "bytes": 1302
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/godot-preview/evidence/mcp-debug.json": {
+    "sha256": "3a93205161359041aaba6fb767c9ce44033b6941d152d0a218317ff06d47c2c9",
+    "bytes": 1165
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/godot-preview/evidence/pixel-checks.json": {
+    "sha256": "227c6b333229f70831296e8318940baa42ddc428242ba97bad154c1f7be353d4",
+    "bytes": 413
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/godot-preview/evidence/final-export-equivalence.json": {
+    "sha256": "5d9277a7c0ea5a2bbe1f5c627252fe651a4a93acbffae8992e1a17fd4cdb6c08",
+    "bytes": 342
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/godot-preview/evidence/runtime-frame-01.png": {
+    "sha256": "bfd63fec1c30639420ed6bf9da19da295fa1f4552396318b777607443c8b4a54",
+    "bytes": 29868
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/godot-preview/evidence/runtime-frame-00.png": {
+    "sha256": "6e04f33f9c15463b12d9b6e94ea88cd8bf8f7e0b4636cb866d6515314f1a50ea",
+    "bytes": 29838
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/godot-preview/evidence/runtime-frame-02.png": {
+    "sha256": "a8314214a560fb73c43a5d6973d72809e4c200d6470797e1e9588e673a3a5a1d",
+    "bytes": 30118
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/godot-preview/evidence/runtime-frame-03.png": {
+    "sha256": "bfd63fec1c30639420ed6bf9da19da295fa1f4552396318b777607443c8b4a54",
+    "bytes": 29868
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/package.py": {
+    "sha256": "86cc4a6ab630d0054164811e8ae2c47fb79999b995c5bc655d57edc22eeb3f2c",
+    "bytes": 10492
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/preservation-before.json": {
+    "sha256": "45265e5d568c2b5295451f29a87d37171414cd85e45e9d07649ba509463746c0",
+    "bytes": 37768
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/idle-environment-2x.gif": {
+    "sha256": "bfd7f5eee0320fcf8d783c274e968e3f9ed197700743b3c4ed1ad6f82fb1eea1",
+    "bytes": 51601
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/idle-exact-native.gif": {
+    "sha256": "bc7bc66d761f2f28aae12ba5972eb7d76424b59d5d317a93eea8925d37f51d95",
+    "bytes": 28008
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/independent-native-checks.json": {
+    "sha256": "b8647d475ec9fd23c24f78e5d2260e7a9c1842e0ee2e06ea0cf3a33b28b96184",
+    "bytes": 1597
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/cycle-2x.png": {
+    "sha256": "9e36c4ad7e37347a8dde2843fdb8f80074d0a7953407b01fbcca89db9a5da10c",
+    "bytes": 25743
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/write_review.py": {
+    "sha256": "68fb05069be46a335fdb51484c4ca5d2fc9d30e9653bda4983ba84de582e05c8",
+    "bytes": 2724
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/keys-3x.png": {
+    "sha256": "b3e608e2a2903cebacd902b1c4b18e5a14f0f77d5c36e7f0bd116faebcf18d09",
+    "bytes": 29459
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/packet-verification.json": {
+    "sha256": "2a850b3dcd5c1f203829d9adcbf2c20edfa853cf13af29912cdecffd979e017c",
+    "bytes": 238
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/idle-2x.gif": {
+    "sha256": "f9f477fced9206ad32fe6bc607757a3941d41053dc04969d784529cc2dec0669",
+    "bytes": 44209
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/build_previews.py": {
+    "sha256": "e5b7bc2ce2b2827771983bf0226e337e22c57344366a8af10da415a4fbd34ef7",
+    "bytes": 2103
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/audit_native.py": {
+    "sha256": "676085c2d32c7bed677868e6a22d568df5b5e49c6493665decb7b167e1d761a9",
+    "bytes": 2445
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/manual-review.json": {
+    "sha256": "07db9ad0862d1a5fe516b8b052b8f30b5d55a9fb713984aecef6c40c14895051",
+    "bytes": 2648
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/preview-checks.json": {
+    "sha256": "6f67d21e9904c0803d23b0609b9d93d3181eb352425954a163cdbecc27ea5b7f",
+    "bytes": 868
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/record-draft.md": {
+    "sha256": "03784cdc0dc557e6bae0cb61917a02127d683e3525f6f2da3cece263db828e6b",
+    "bytes": 2386
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/finalize-export.py": {
+    "sha256": "24b508c8416ba414120e8311614cdf628eb252c856ea14a796dc1b3f87fc042c",
+    "bytes": 2337
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/audit_runtime.py": {
+    "sha256": "b3a363bec4db71fed9f5b361ccc495675359788aec0d9bb1f047addf47247d0d",
+    "bytes": 1003
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/idle-gameplay-128px-2x.gif": {
+    "sha256": "5d4825b2126d48eb117bd94834a56dcdc92cd6eeb15007645e3e0b4bc7dbb149",
+    "bytes": 21453
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/far-arm-source.png": {
+    "sha256": "6e138fd6595fef59ae5e11c4e67f1d8e28b6c27603032daab1926ee8b679990f",
+    "bytes": 99271
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/review_keys.py": {
+    "sha256": "36fd9d55870d177f4de4920d9132a92ea54bb5a6f304b03b2007c4a9de766508",
+    "bytes": 593
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/runtime-before-shadow-alignment/runtime.json": {
+    "sha256": "ac495dd295078df98770e54e6c9982a447a1c601c8537947d3667fe150227210",
+    "bytes": 1452
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/runtime-before-shadow-alignment/mcp-stop.json": {
+    "sha256": "4c8ca4cf3f3425b5eb999e3dd85d5e9ba3a46700453748d92360f98ed61c09e1",
+    "bytes": 1428
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/runtime-before-shadow-alignment/mcp-debug.json": {
+    "sha256": "d1a9a99e0b87db25d2f54ddd53ec8c81396da0ce29985906978206a6edc2a456",
+    "bytes": 1039
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/runtime-before-shadow-alignment/pixel-checks.json": {
+    "sha256": "227c6b333229f70831296e8318940baa42ddc428242ba97bad154c1f7be353d4",
+    "bytes": 413
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/runtime-before-shadow-alignment/final-export-equivalence.json": {
+    "sha256": "c056928dfed551ab4f5d71502b7b2b809aea14298ab34dcfc465aa8099ddfcb1",
+    "bytes": 350
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/runtime-before-shadow-alignment/runtime-frame-01.png": {
+    "sha256": "b77c027589d3c0b1d6dbeaae199ab264959ec44d4de1b28b578167638812af0f",
+    "bytes": 29860
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/runtime-before-shadow-alignment/runtime-frame-00.png": {
+    "sha256": "244e6d595e9675164f4f3b89a265e273a58c13b1ba8388a76557e67e69cba67d",
+    "bytes": 29830
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/runtime-before-shadow-alignment/runtime-frame-02.png": {
+    "sha256": "471e5d82454aa82eb98631c442604e933f005865dc590e9aa2b46b52dfd2cc1a",
+    "bytes": 30108
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-idle-r02/lead-review/runtime-before-shadow-alignment/runtime-frame-03.png": {
+    "sha256": "b77c027589d3c0b1d6dbeaae199ab264959ec44d4de1b28b578167638812af0f",
+    "bytes": 29860
+  },
+  "assets/source/stealth-fighter/idle-r02/idle.aseprite": {
+    "sha256": "f4cb8fff0a460cde6845fb15bc0c5e3271259d9d38d5f3efa051e4970b2e6127",
+    "bytes": 49371
+  },
+  "assets/source/stealth-fighter/idle-r02/key-ops.json": {
+    "sha256": "223f154459b2ecbdaf6dde263eeb093c625d8a3778775fdc888dcc3774d0ace1",
+    "bytes": 112851
+  },
+  "assets/source/stealth-fighter/idle-r02/editable-mask.png": {
+    "sha256": "a896c870f4b5a236e79931e1e549e3f20ce6784ecf805c6808e343b45136aed0",
+    "bytes": 235
+  },
+  "assets/source/stealth-fighter/idle-r02/construction-notes.md": {
+    "sha256": "c7d3dcda9afba88d8b46339d48087a053bf1f5b43ffa6581a60ee766b9ca25a9",
+    "bytes": 7643
+  },
+  "assets/export/stealth-fighter/idle-r02/timings.json": {
+    "sha256": "2255be956c072a167153239ae5e78521eb2f4120c71ff4c54e87dcb797227587",
+    "bytes": 635
+  },
+  "assets/export/stealth-fighter/idle-r02/idle-sheet.png": {
+    "sha256": "9e0c983d00b3c08df9a99f3a6e1881223e4b1a297a07bc7a9dc3d0d440ab54da",
+    "bytes": 20165
+  },
+  "assets/export/stealth-fighter/idle-r02/idle.gif": {
+    "sha256": "bc7bc66d761f2f28aae12ba5972eb7d76424b59d5d317a93eea8925d37f51d95",
+    "bytes": 28008
+  },
+  "assets/export/stealth-fighter/idle-r02/idle-sheet.json": {
+    "sha256": "7bf5131795be34cd743683c6905cfcb5b68f6b2016e5272d37a0e3962a805f6b",
+    "bytes": 2095
+  },
+  "assets/export/stealth-fighter/idle-r02/frames/idle-03.png": {
+    "sha256": "5893f7a41f9bc8b4b67f6e88857b90845ad087496549a6ffdc0989c101009ea3",
+    "bytes": 13065
+  },
+  "assets/export/stealth-fighter/idle-r02/frames/idle-02.png": {
+    "sha256": "51fcca9d4010d57f57162ff8a0e39c8d662d72b30291c9a4f58da67c12cc6f14",
+    "bytes": 13085
+  },
+  "assets/export/stealth-fighter/idle-r02/frames/idle-00.png": {
+    "sha256": "6718432fc934416f70a84a64ab72bc45b4740e68c820c2c31140beff8a8846d6",
+    "bytes": 12974
+  },
+  "assets/export/stealth-fighter/idle-r02/frames/idle-01.png": {
+    "sha256": "5893f7a41f9bc8b4b67f6e88857b90845ad087496549a6ffdc0989c101009ea3",
+    "bytes": 13065
+  },
+  "assets/previews/stealth-fighter/idle-r02/contact-2x.png": {
+    "sha256": "9e36c4ad7e37347a8dde2843fdb8f80074d0a7953407b01fbcca89db9a5da10c",
+    "bytes": 25743
+  },
+  "assets/previews/stealth-fighter/idle-r02/idle-environment-2x.gif": {
+    "sha256": "bfd7f5eee0320fcf8d783c274e968e3f9ed197700743b3c4ed1ad6f82fb1eea1",
+    "bytes": 51601
+  },
+  "assets/previews/stealth-fighter/idle-r02/idle-2x.gif": {
+    "sha256": "f9f477fced9206ad32fe6bc607757a3941d41053dc04969d784529cc2dec0669",
+    "bytes": 44209
+  },
+  "assets/previews/stealth-fighter/idle-r02/godot-context.png": {
+    "sha256": "a8314214a560fb73c43a5d6973d72809e4c200d6470797e1e9588e673a3a5a1d",
+    "bytes": 30118
+  },
+  "assets/previews/stealth-fighter/idle-r02/idle-gameplay-128px-2x.gif": {
+    "sha256": "5d4825b2126d48eb117bd94834a56dcdc92cd6eeb15007645e3e0b4bc7dbb149",
+    "bytes": 21453
+  }
+}

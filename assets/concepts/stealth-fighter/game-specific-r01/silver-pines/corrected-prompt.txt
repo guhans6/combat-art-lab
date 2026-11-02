@@ -1,0 +1,17 @@
+Use case: style-transfer. Produce ONE corrected original fighter study.
+
+INPUT ORDER AND AUTHORITY:
+Image 1 is the actual DRAWN Silver Pines game animation frame. It is the FIRST and overriding rendering authority. Borrow only its authored extremely broad nearblack shadow masses, few muted light planes and extraordinary economy. Never borrow its jacket, glasses, character identity, action pose or checkerboard.
+Image 2 is our generated original fighter. It is IDENTITY/DESIGN ONLY, NOT a rendering or camera authority. Keep the young lean naturally proportioned adult male, long half-tied nearblack hair, muted indigo split-hem cloth tunic, light charcoal shoulder armor, worn steel forearm guard, brown waist wrap, small rust buckle and sheathed compact sword. South Indian inspired ancient/future craftsmanship; no magic/cyberpunk.
+
+CORRECTION 1 — GENUINELY SPARSE DRAWN SHAPE LANGUAGE:
+Redraw the fighter with FAR FEWER interior boundaries, comparable to Image 1. Do not merely darken the existing picture. Let torso, shoulder armor and most legs flow into large continuous nearly black masses. Use a few deliberately placed muted indigo light planes to identify cloth, one quiet steel plane for guard, one muted brown waist plane and tiny rust buckle. Keep recognition through silhouette/material placement rather than individually outlined armor panels, seam stripes or repeated fold shapes.
+Hair virtually ONE solid nearblack mass with half-tie silhouette, no strand marks or internal scalloped highlighting.
+Face must become a SMALL muted skin side-plane with ONE connected shadow plane. Delete explicit eyebrow, eye drawing, ear interior, lip line, beard/goatee contour and sharp jaw decoration. Nose/chin silhouette alone communicates the profile. Implied stubble must not add a graphic line. Small anonymous restrained drawn face, not a detailed handsome portrait.
+Broad flat authored planes and selective edges. No gradients on body, texture, blur, noise, photographic detail, pixel filter or polished vector outlines. Shadow connectedness and sparse value hierarchy should visibly resemble the actual DRAWN reference.
+
+CORRECTION 2 — STRICT PROFILE CONTROL:
+Neutral alert standing, RIGHT-FACING TRUE SIDE PROFILE, eye-level ORTHOGRAPHIC. Rotate body from Image 2 into full side view: chest edge-on, narrow torso, shoulder and hip overlapping far side; far arm and far leg substantially hidden behind near limbs. Both boots point right with horizontal flat soles, NO visible boot tops or perspective. Arms relaxed, slight arm-to-body silhouette gap, compact sword sheathed at hip. No three-quarter chest, no action pose.
+
+MATCHED PRESENTATION:
+Portrait 1024x1536. One enlarged fullbody only, head and feet fully inside frame, ~80% body height with sole baseline 90% down frame. Plain EXACT flat matte muted slate #24282d backdrop with a simple thin ground line. No scene, objects, checkerboard, vignette, glow, rim halo, labels, text or montage. Keep subject readable through controlled few planes rather than uniformly darkening the whole image. No other game influence. This is a concept study for later static 128px body comparison in 640x360, not a selected native grid.

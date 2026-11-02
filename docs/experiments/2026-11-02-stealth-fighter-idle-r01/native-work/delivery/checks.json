@@ -1,0 +1,172 @@
+{
+  "passed": true,
+  "native": {
+    "canvas": [
+      128,
+      264
+    ],
+    "frames": 5,
+    "unique_drawings": 3,
+    "durations_ms": [
+      850,
+      450,
+      500,
+      650,
+      550
+    ],
+    "duration_ms": 3000,
+    "layers": [
+      {
+        "name": "body-occlusion-backing",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "lower-body-fixed",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "upper-torso",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "sword-belt",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "far-hand",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "near-arm",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "head-hair-neck",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      }
+    ],
+    "cels": 31,
+    "all_native_composites_match": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "reopened_exports_exact": true,
+    "palette_metadata_unchanged_in_edit": true
+  },
+  "anchors": {
+    "soles_y": 252,
+    "root": [
+      64,
+      253
+    ],
+    "composite_y153_plus_exact_all_frames": true,
+    "fixed_native_owners": {
+      "lower-body-fixed": true,
+      "sword-belt": true,
+      "far-hand": true
+    },
+    "head_face_hair_neck_exact_registered_rise_1px": true
+  },
+  "alpha": [
+    {
+      "enclosed_holes": 0,
+      "alpha_binary": true
+    },
+    {
+      "enclosed_holes": 0,
+      "alpha_binary": true
+    },
+    {
+      "enclosed_holes": 0,
+      "alpha_binary": true
+    },
+    {
+      "enclosed_holes": 0,
+      "alpha_binary": true
+    },
+    {
+      "enclosed_holes": 0,
+      "alpha_binary": true
+    }
+  ],
+  "raw_mcp_gif": {
+    "timing_exact": true,
+    "alpha_exact": true,
+    "opaque_rgb_differences_per_frame": [
+      89,
+      89,
+      86,
+      89,
+      89
+    ],
+    "status": "preview encoding remaps first near-black palette color; lead owns exact-palette preview re-encoding from PNGs"
+  },
+  "sheet_exact": true,
+  "local_edit": {
+    "changed": [
+      {
+        "frame": 1,
+        "layer": "sword-belt",
+        "pixels": [
+          [
+            75,
+            99
+          ],
+          [
+            75,
+            100
+          ],
+          [
+            75,
+            101
+          ]
+        ]
+      }
+    ],
+    "all_protected_native_unchanged": true,
+    "all_metadata_unchanged": true,
+    "reopen_export_exact": true
+  },
+  "owner_hide_near_arm_no_residual_skin": true,
+  "source_sha256": "a3cc3ab1d658ac3d2d464ef4781ed966e815c7eedeefcf5801d81ca93924ab9c",
+  "native_sha256": "e839783e58f01e61b1839f18ee6208437ec9424c0403a148f331f32e9ad653fd",
+  "limits": [
+    "continuous animation perception not observed by producer",
+    "user art approval pending",
+    "Godot playback lead-owned",
+    "grid provisional",
+    "single-view source-derived visible parts, not complete hidden-surface rig",
+    "no validate tool exposed; independent scoped PNG/native checks performed"
+  ]
+}

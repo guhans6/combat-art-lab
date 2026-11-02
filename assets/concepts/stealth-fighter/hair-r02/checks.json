@@ -1,0 +1,69 @@
+{
+  "round": "hair-r02",
+  "artifact_type": "generated pixel-art concept comparison; not native sprites",
+  "generation_route": "built-in image_gen",
+  "selected_files": [
+    {
+      "id": "A",
+      "label": "Low ponytail",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/hair-r02/A/raw.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "f185e74a4b76b0e823d98a6ea2f315506acc898d62e929bdf657ece511f341bc",
+      "provenance": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/hair-r02/A/generation.json"
+    },
+    {
+      "id": "B",
+      "label": "Half tied",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/hair-r02/B/raw.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "97e0c17e79227e43b39f5abd510d1f09ba25ab1a808cffe4629523956c53febb",
+      "provenance": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/hair-r02/B/generation.json"
+    },
+    {
+      "id": "C",
+      "label": "Loose",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/hair-r02/C/raw.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "748e085c986b1df8d8ca70d6c8013fe9a6962f5050ea166b0ba66232fd4d8022",
+      "provenance": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/hair-r02/C/generation.json"
+    }
+  ],
+  "same_canvas": true,
+  "normalization": "No individual figure rescaling, recentering, recoloring or art edits. SVG layout embeds original raw PNGs. Head views use the same viewport crop for every source.",
+  "visual_review": "Parent inspected all three; face identity, pose, proportions, costume and material-color roles match visually. Hair arrangements distinct. Pixel-exact equality outside hair is not claimed.",
+  "rejected": [
+    "../hair-r01/ (user rejected realism)",
+    "A/repair-01.png (failed background/halo repair, not used)"
+  ],
+  "approval": "User appearance/style/hair selection pending",
+  "previews": [
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/hair-r02/comparison-full.png",
+      "dimensions": [
+        3168,
+        1696
+      ],
+      "sha256": "94b58671cd68ab89d2aa18513b7d43b179e50fd609014b3f65b35660ffeeb3af"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/hair-r02/comparison-head.png",
+      "dimensions": [
+        1896,
+        680
+      ],
+      "sha256": "35b3a261a9f83141477df6daf51bbdb63ebcc5504e3029ae37837d4a2c1511a5"
+    }
+  ],
+  "preview_method": "SVG document layout of unaltered PNGs, rendered by Quick Look; crop removes only layout padding. Same source scale and same head viewport for all figures. Parent visually inspected both final PNG layouts.",
+  "observed_tool_calls_total": 7,
+  "tool_call_breakdown": "r01:3 rejected for realism; r02:1 selected A +1 rejected repair +2 selected hair edits."
+}

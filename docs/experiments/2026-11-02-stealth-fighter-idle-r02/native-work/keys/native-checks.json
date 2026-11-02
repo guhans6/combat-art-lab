@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "rest_exact": true,
+  "original_lower_body_native_exact": true,
+  "original_sword_belt_native_exact": true,
+  "split_near_arm_rest_exact": true,
+  "split_far_hand_cloth_rest_exact": true,
+  "far_hem_native_fixed_allkeys": true,
+  "head_face_hair_rigid_source": true,
+  "guard_hand_rigid_source": true,
+  "far_arm_rigid_source": true,
+  "palette_chunks_exact": true,
+  "native_png_allkeys_exact": true,
+  "key_native_sha256": "d98707b48c96dce50eab2dd9534be7c9e37ce337adce788e9a0b40b608c33a63"
+}

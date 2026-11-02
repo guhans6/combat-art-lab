@@ -1,0 +1,10 @@
+{
+  "protected_prior_assets": 272,
+  "unchanged": 272,
+  "unexpected_changes": [],
+  "intended_document_updates": [
+    "docs/handoff.md",
+    "docs/characters/stealth-fighter/brief.md",
+    "docs/characters/stealth-fighter/decisions.md"
+  ]
+}

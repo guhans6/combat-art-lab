@@ -1,0 +1,82 @@
+{
+  "static": true,
+  "filter": "nearest",
+  "variants": [
+    {
+      "source_id": 1,
+      "file": "variant-01.png",
+      "native": "assets/source/stealth-fighter/user-variants-r01/variant-01/static.aseprite",
+      "native_sha256": "6edf22ccca5e5ecc53caaa55f577b201d829153ff8430e391a9be13d44b7c002",
+      "png_sha256": "f5ddce534af241fe3e60591ace51a404330a246b22e240a761c67d67d0cc78a5",
+      "canvas": [
+        128,
+        264
+      ],
+      "rest_body_height": 240,
+      "preferred_display_height": 152,
+      "root": [
+        64,
+        253
+      ],
+      "frames": 1,
+      "static": true
+    },
+    {
+      "source_id": 3,
+      "file": "variant-03.png",
+      "native": "assets/source/stealth-fighter/user-variants-r01/variant-03/static.aseprite",
+      "native_sha256": "7cf57a3fe73afc2b9531c6c8ec3ead8ae030b664a4dd0f078ef9ba7e03879a26",
+      "png_sha256": "46ed03b35b3a2be0adff758eddedc8fd5f13b78c829bab86aaf43d6165d73df6",
+      "canvas": [
+        128,
+        264
+      ],
+      "rest_body_height": 240,
+      "preferred_display_height": 152,
+      "root": [
+        64,
+        253
+      ],
+      "frames": 1,
+      "static": true
+    },
+    {
+      "source_id": 4,
+      "file": "variant-04.png",
+      "native": "assets/source/stealth-fighter/user-variants-r01/variant-04/static.aseprite",
+      "native_sha256": "bbbffc7131e79e7e129375fea984a59f41fb666be42e00e4bd36b7547f6ebf29",
+      "png_sha256": "341b01e5bdbfb77bd796eb2e022dc49c7636442c3b7d9a144d77afb110e1266b",
+      "canvas": [
+        128,
+        264
+      ],
+      "rest_body_height": 240,
+      "preferred_display_height": 152,
+      "root": [
+        64,
+        253
+      ],
+      "frames": 1,
+      "static": true
+    },
+    {
+      "source_id": 5,
+      "file": "variant-05.png",
+      "native": "assets/source/stealth-fighter/user-variants-r01/variant-05/static.aseprite",
+      "native_sha256": "4a361b5f7b994b5a8c58a0df0aa70441bf331a3b27c2d08d4c4dc7a5449343b6",
+      "png_sha256": "a7ca6984874b4ba667ece4d99da2e5c6fec54b4b2760f31ead7625273ed84c6e",
+      "canvas": [
+        128,
+        264
+      ],
+      "rest_body_height": 240,
+      "preferred_display_height": 152,
+      "root": [
+        64,
+        253
+      ],
+      "frames": 1,
+      "static": true
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "files": [
+    "breath-0.png",
+    "breath-1.png",
+    "breath-2.png",
+    "breath-3.png",
+    "breath-4.png",
+    "breath-5.png",
+    "breath-6.png",
+    "breath-7.png",
+    "breath-8.png",
+    "breath-9.png",
+    "breath-10.png",
+    "breath-11.png"
+  ],
+  "durations_ms": [
+    200,
+    180,
+    180,
+    200,
+    220,
+    300,
+    200,
+    220,
+    260,
+    280,
+    300,
+    260
+  ],
+  "body_height": 137,
+  "feet_y": 147,
+  "native_canvas": [
+    96,
+    160
+  ],
+  "grid_status": "new original traveler proxy only; fighter grid unchanged"
+}

@@ -1,0 +1,472 @@
+{
+  "passed": true,
+  "baseline_sha256": "a34a66c188f0f3f63fd0bb06e1ccdf1ed68c82b2f8fe0b617e42489be1313417",
+  "native_sha256": "82e878fe5be2ebef488cd2465cc840280750eb2bc16636834212efca0ab1ebeb",
+  "canvas": [
+    96,
+    160
+  ],
+  "frames": 12,
+  "unique_pose_drawings": 4,
+  "durations_ms": [
+    200,
+    180,
+    180,
+    200,
+    220,
+    300,
+    200,
+    220,
+    260,
+    280,
+    300,
+    260
+  ],
+  "total_ms": 2800,
+  "native_layers": 10,
+  "native_cels": 120,
+  "palette_entries": 14,
+  "palette_header_metadata_layers_timing_allunchanged": true,
+  "allcel_geometry_opacity_z_unchanged": true,
+  "moving_cels_exact_validbaselineforms": true,
+  "fixedowners_hiddenpixels_exact": {
+    "far-leg-boot": true,
+    "near-leg-boot": true,
+    "pelvis-root": true,
+    "coat-back-skirt": true
+  },
+  "changed_native_inventory": [
+    {
+      "frame": 3,
+      "owner": "far-sleeve-hand",
+      "changed_pixels": 31
+    },
+    {
+      "frame": 3,
+      "owner": "thorax-coat",
+      "changed_pixels": 68
+    },
+    {
+      "frame": 3,
+      "owner": "neck-collar",
+      "changed_pixels": 58
+    },
+    {
+      "frame": 3,
+      "owner": "head-hair-face",
+      "changed_pixels": 96
+    },
+    {
+      "frame": 3,
+      "owner": "near-upper-sleeve",
+      "changed_pixels": 59
+    },
+    {
+      "frame": 3,
+      "owner": "near-forearm-hand",
+      "changed_pixels": 62
+    },
+    {
+      "frame": 4,
+      "owner": "far-sleeve-hand",
+      "changed_pixels": 31
+    },
+    {
+      "frame": 4,
+      "owner": "thorax-coat",
+      "changed_pixels": 115
+    },
+    {
+      "frame": 4,
+      "owner": "neck-collar",
+      "changed_pixels": 58
+    },
+    {
+      "frame": 4,
+      "owner": "head-hair-face",
+      "changed_pixels": 96
+    },
+    {
+      "frame": 4,
+      "owner": "near-upper-sleeve",
+      "changed_pixels": 59
+    },
+    {
+      "frame": 4,
+      "owner": "near-forearm-hand",
+      "changed_pixels": 62
+    },
+    {
+      "frame": 5,
+      "owner": "far-sleeve-hand",
+      "changed_pixels": 31
+    },
+    {
+      "frame": 5,
+      "owner": "thorax-coat",
+      "changed_pixels": 137
+    },
+    {
+      "frame": 5,
+      "owner": "neck-collar",
+      "changed_pixels": 58
+    },
+    {
+      "frame": 5,
+      "owner": "head-hair-face",
+      "changed_pixels": 96
+    },
+    {
+      "frame": 5,
+      "owner": "near-upper-sleeve",
+      "changed_pixels": 59
+    },
+    {
+      "frame": 5,
+      "owner": "near-forearm-hand",
+      "changed_pixels": 62
+    },
+    {
+      "frame": 6,
+      "owner": "far-sleeve-hand",
+      "changed_pixels": 62
+    },
+    {
+      "frame": 6,
+      "owner": "thorax-coat",
+      "changed_pixels": 198
+    },
+    {
+      "frame": 6,
+      "owner": "neck-collar",
+      "changed_pixels": 108
+    },
+    {
+      "frame": 6,
+      "owner": "head-hair-face",
+      "changed_pixels": 170
+    },
+    {
+      "frame": 6,
+      "owner": "near-upper-sleeve",
+      "changed_pixels": 111
+    },
+    {
+      "frame": 6,
+      "owner": "near-forearm-hand",
+      "changed_pixels": 122
+    },
+    {
+      "frame": 7,
+      "owner": "far-sleeve-hand",
+      "changed_pixels": 31
+    },
+    {
+      "frame": 7,
+      "owner": "thorax-coat",
+      "changed_pixels": 130
+    },
+    {
+      "frame": 7,
+      "owner": "neck-collar",
+      "changed_pixels": 58
+    },
+    {
+      "frame": 7,
+      "owner": "head-hair-face",
+      "changed_pixels": 96
+    },
+    {
+      "frame": 7,
+      "owner": "near-upper-sleeve",
+      "changed_pixels": 59
+    },
+    {
+      "frame": 7,
+      "owner": "near-forearm-hand",
+      "changed_pixels": 62
+    },
+    {
+      "frame": 8,
+      "owner": "far-sleeve-hand",
+      "changed_pixels": 31
+    },
+    {
+      "frame": 8,
+      "owner": "thorax-coat",
+      "changed_pixels": 137
+    },
+    {
+      "frame": 8,
+      "owner": "neck-collar",
+      "changed_pixels": 58
+    },
+    {
+      "frame": 8,
+      "owner": "head-hair-face",
+      "changed_pixels": 96
+    },
+    {
+      "frame": 8,
+      "owner": "near-upper-sleeve",
+      "changed_pixels": 59
+    },
+    {
+      "frame": 8,
+      "owner": "near-forearm-hand",
+      "changed_pixels": 62
+    },
+    {
+      "frame": 9,
+      "owner": "far-sleeve-hand",
+      "changed_pixels": 31
+    },
+    {
+      "frame": 9,
+      "owner": "thorax-coat",
+      "changed_pixels": 115
+    },
+    {
+      "frame": 9,
+      "owner": "neck-collar",
+      "changed_pixels": 58
+    },
+    {
+      "frame": 9,
+      "owner": "head-hair-face",
+      "changed_pixels": 96
+    },
+    {
+      "frame": 9,
+      "owner": "near-upper-sleeve",
+      "changed_pixels": 59
+    },
+    {
+      "frame": 9,
+      "owner": "near-forearm-hand",
+      "changed_pixels": 62
+    },
+    {
+      "frame": 10,
+      "owner": "far-sleeve-hand",
+      "changed_pixels": 31
+    },
+    {
+      "frame": 10,
+      "owner": "thorax-coat",
+      "changed_pixels": 68
+    },
+    {
+      "frame": 10,
+      "owner": "neck-collar",
+      "changed_pixels": 58
+    },
+    {
+      "frame": 10,
+      "owner": "head-hair-face",
+      "changed_pixels": 96
+    },
+    {
+      "frame": 10,
+      "owner": "near-upper-sleeve",
+      "changed_pixels": 59
+    },
+    {
+      "frame": 10,
+      "owner": "near-forearm-hand",
+      "changed_pixels": 62
+    }
+  ],
+  "changes_inside_prefrozenmask": true,
+  "mask_sha256": "351a99c474baa74f2dd26c1043519ea4472253e8b37452c66d3f266b15b0119c",
+  "lowerbody_y102plus_exact": true,
+  "firstlast_rest_exact": true,
+  "native_PNG_sheet_reopened_sheet_all_exact": true,
+  "alpha": [
+    {
+      "frame": 1,
+      "enclosed_holes": 0,
+      "binary_alpha": true
+    },
+    {
+      "frame": 2,
+      "enclosed_holes": 0,
+      "binary_alpha": true
+    },
+    {
+      "frame": 3,
+      "enclosed_holes": 0,
+      "binary_alpha": true
+    },
+    {
+      "frame": 4,
+      "enclosed_holes": 0,
+      "binary_alpha": true
+    },
+    {
+      "frame": 5,
+      "enclosed_holes": 0,
+      "binary_alpha": true
+    },
+    {
+      "frame": 6,
+      "enclosed_holes": 0,
+      "binary_alpha": true
+    },
+    {
+      "frame": 7,
+      "enclosed_holes": 0,
+      "binary_alpha": true
+    },
+    {
+      "frame": 8,
+      "enclosed_holes": 0,
+      "binary_alpha": true
+    },
+    {
+      "frame": 9,
+      "enclosed_holes": 0,
+      "binary_alpha": true
+    },
+    {
+      "frame": 10,
+      "enclosed_holes": 0,
+      "binary_alpha": true
+    },
+    {
+      "frame": 11,
+      "enclosed_holes": 0,
+      "binary_alpha": true
+    },
+    {
+      "frame": 12,
+      "enclosed_holes": 0,
+      "binary_alpha": true
+    }
+  ],
+  "hidden_backing_overlap_pixels": {
+    "neck-collar": [
+      35,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35
+    ],
+    "thorax-coat": [
+      535,
+      536,
+      536,
+      536,
+      545,
+      547,
+      547,
+      545,
+      536,
+      536,
+      536,
+      535
+    ],
+    "near-upper-sleeve": [
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45
+    ],
+    "far-sleeve-hand": [
+      261,
+      275,
+      275,
+      275,
+      281,
+      295,
+      295,
+      281,
+      275,
+      275,
+      275,
+      261
+    ]
+  },
+  "max_lift_px": 1,
+  "max_chest_forward_px": 2,
+  "duplicate_edit": {
+    "changed": [
+      {
+        "frame": 1,
+        "owner": "thorax-coat",
+        "pixels": [
+          [
+            47,
+            75
+          ],
+          [
+            47,
+            76
+          ],
+          [
+            47,
+            77
+          ]
+        ]
+      }
+    ],
+    "allotherpixels_cels_metadata_alpha_exact": true,
+    "visible_composite_changed_pixels": 3,
+    "fresh_reopen_exact": true
+  },
+  "raw_mcp_gif": {
+    "encoded_frames": 12,
+    "encoded_durations_ms": [
+      200,
+      180,
+      180,
+      200,
+      220,
+      300,
+      200,
+      220,
+      260,
+      280,
+      300,
+      260
+    ],
+    "total_timeline_exact": true,
+    "RGB_differences_at12authoredboundaries": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "alpha_exact": true
+  },
+  "limits": [
+    "Disposable motion sample only; no fighter application",
+    "Native producer inspected stills, no continuous motion naturalness claim",
+    "Lead owns Godot/GIF comparison and manual packet review",
+    "No callable validate tool; independent native and PNG audits only",
+    "No repo edits, source r01 untouched"
+  ]
+}

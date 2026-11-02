@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"output\": [\n    \"Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\",\n    \"\",\n    \"OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro\",\n    \"\",\n    \"\",\n    \"\",\n    \"PLAYGROUND_READY frames=4 durations_ms=[700,260,500,340] heights=[96,128,160] stage=1200x480 ground=400\",\n    \"\"\n  ],\n  \"errors\": []\n}"
+    }
+  ]
+}

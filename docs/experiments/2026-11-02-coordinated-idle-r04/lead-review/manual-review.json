@@ -1,0 +1,24 @@
+{
+  "packet_sha256": "c9845284909124cc6a712bfc2e7fa1978c81fbb5010bef3246d6e2c18b964eaa",
+  "native_sha256": "eeb6b36f9b18063529e0be50b2c74691e03fc8a4e3d743b24013cc1a46e75a8e",
+  "reviewer": "Lead, independent of native editor",
+  "reviewed": [
+    "keys/keys-3x.png",
+    "keys/upper-owners-3x.png",
+    "keys/hide-near-forearm-hand-3x.png",
+    "lead wrist-keys-10x.png",
+    "lead cycle-2x.png",
+    "actual Godot runtime-frame-02.png"
+  ],
+  "target_improvement": {
+    "decision": "continue as revised motion candidate",
+    "observations": "Source REST lower pants and shadow planes remain unchanged, eliminating the r03 paired knee contour/material swap. Shoulder/collar/head and elbow/wrist relationships vary subtly over the quiet waist. No chest-width inflation. All four poses and the return were reviewed; registered hand pixels show no new wrist edge."
+  },
+  "regressions": {
+    "decision": "continue as candidate; temporal acceptance pending",
+    "observations": "Skull-neck-collar and shoulder-elbow-wrist remain connected with recognizable material planes. The independent wrist concern was withdrawn after actual registration: the same 100 skin pixels and pre-existing horizontal edge are retained. No concrete still joint/material defect remains. Pelvis and skirt are fixed, so hip animation is not demonstrated. Whether the mild shoulder rise reads as relaxed or a shrug is a temporal/user question."
+  },
+  "perception": "Still poses and actual Godot capture inspected. Runtime exceeded three loops and all four opaque actor captures match source PNG RGB; engine stopped. No continuous model playback perception claimed.",
+  "user_approval": "Pending; disposable sample only; Current A unchanged",
+  "model_preference": "Any subsequent Terra use must be GPT-6.1 Terra MAX. Earlier Terra High diagnosis/key review preceded the preference; native worker remained Sol 6.1 High."
+}

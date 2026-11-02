@@ -1,0 +1,26 @@
+{
+  "candidate": "A repair-01",
+  "tool": "built-in image_gen",
+  "operation": "targeted edit",
+  "output": {
+    "path": "assets/concepts/stealth-fighter/hair-r02/A/repair-01.png",
+    "source_path": "/Users/guhan/.codex/generated_images/01a19763-3228-77b3-bcb9-9061c814ff1c/exec-9ea1d7be-f458-4c37-871f-4318591b6362.png",
+    "sha256": "f683a8737fa0c21235dfbd5d564d39987267fe2cfeaa8fbb6826c813e2793f74",
+    "dimensions_px": [1024, 1536],
+    "has_alpha": true,
+    "transparent_background_requested": true
+  },
+  "inputs": [
+    {
+      "path": "assets/concepts/stealth-fighter/hair-r02/A/raw.png",
+      "role": "edit target",
+      "usage": "Preserve identity direction, palette roles, outfit arrangement, hip sword, low ponytail, coarse pixel construction, pose, and full-body framing; apply only the stated proportion, build, face, hair, and alpha-background corrections."
+    },
+    {
+      "path": "assets/concepts/stealth-fighter/hair-r02/references/rcg2-gameplay.jpg",
+      "role": "style-only gameplay reference/support",
+      "usage": "Use only actual playfield sprites for compact gameplay-pixel construction cues; do not copy faces, clothing, poses, pixels, HUD, UI, or environment."
+    }
+  ],
+  "prompt": "Use case: style-transfer targeted edit.\\nAsset type: one full-body 2D beat-'em-up gameplay-sprite concept, enlarged for review, with a true alpha transparent background.\\nInput images: Image 1 is the EDIT TARGET. Preserve its single original adult fighter's identity direction, indigo/charcoal/worn-steel/small-rust palette roles, light-armor outfit arrangement, compact sheathed one-handed hip sword, low nape ponytail, coarse deliberate pixel construction, upright right-facing 3/4 relaxed-alert planted pose, and full-body framing. Image 2 is STYLE-ONLY actual gameplay reference/support. Use only its playfield sprites for compact gameplay-pixel construction cues. Never copy character faces, clothing, poses, pixels, HUD, UI, or environment.\\nPrimary request: Make ONLY the following targeted corrections to Image 1: a clearly compact 4-head-tall stylized ADULT male game character; notably narrow the shoulders, forearms, and thighs for a lean fighter rather than a big brawler; shorten both legs and torso relative to the head. Simplify the face to small neutral eye clusters, a modest nose hint, and compact jaw: no anatomical face planes and no huge white eye. Make a smooth hair cap swept AWAY from the face, with no spiky anime fringe, using only 3–5 simple broad chunk hair masses while retaining the long low ponytail.\\nStyle/medium: genuine coarse hand-constructed pixel art. Effective 128x192 logical grid enlarged 8x with uniform nearest-neighbor square pixels; broad clear 2–3 shade clusters per material; simple readable silhouette. No grain, texture, dithering, fine strands, tiny anti-aliased pixels, or soft rendering.\\nBackground: TRUE ALPHA TRANSPARENCY ONLY behind the character. Do not render a fake checkerboard. No flat backdrop, scene, vignette, glow, cast shadow, or soft shadow.\\nConstraints: exactly one original adult character, entire 1024x1536 portrait canvas, full body clear and centered, both feet visible. No tiny realistic inset, no costume variants, no extra characters, no text, no UI. Do not change the outfit arrangement, palette roles, sword/sheath placement, or low ponytail other than the specified simplification.\\nAvoid: muscular body; broad brawler shoulders; long legs; tall 5+ head proportions; chibi baby proportions; anime-spiky hair; anime portrait face; oversized white eyes; realistic anatomy, realistic muscle, facial modeling, realistic lighting, pores, pixel grain, dither, fine hair strands, painterly illustration, environment, UI, labels, copied faces/clothes/pixels."
+}

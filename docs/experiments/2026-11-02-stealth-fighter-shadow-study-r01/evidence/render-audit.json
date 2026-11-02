@@ -1,0 +1,63 @@
+{
+  "passed": true,
+  "ui_checks": 19,
+  "frames": [
+    {
+      "frame": 0,
+      "native_opaque_rgb_mismatches": 0,
+      "projection152_unambiguous_opaque_rgb_mismatches": 0
+    },
+    {
+      "frame": 1,
+      "native_opaque_rgb_mismatches": 0,
+      "projection152_unambiguous_opaque_rgb_mismatches": 0
+    },
+    {
+      "frame": 2,
+      "native_opaque_rgb_mismatches": 0,
+      "projection152_unambiguous_opaque_rgb_mismatches": 0
+    },
+    {
+      "frame": 3,
+      "native_opaque_rgb_mismatches": 0,
+      "projection152_unambiguous_opaque_rgb_mismatches": 0
+    }
+  ],
+  "projections": [
+    {
+      "height": 128,
+      "drawn_height": 128,
+      "opaque_mismatches": 0,
+      "bottom_row": 557
+    },
+    {
+      "height": 152,
+      "drawn_height": 152,
+      "opaque_mismatches": 0,
+      "bottom_row": 557
+    },
+    {
+      "height": 160,
+      "drawn_height": 160,
+      "opaque_mismatches": 0,
+      "bottom_row": 557
+    }
+  ],
+  "ui_unaffected_by_world_light": true,
+  "lighting_character_sample_mean_Y8": {
+    "sprite-colors-152": 38.14563776223758,
+    "dim-room-152": 12.967616727273073,
+    "lamp-fill-152": 65.35794058741412
+  },
+  "source_RGBA_unchanged": true,
+  "preview_crop": [
+    560,
+    350,
+    720,
+    582
+  ],
+  "preview_zoom": 2,
+  "projection_check_limit": "Exact mathematical texel-boundary samples excluded because GPU/CPU tie rounding differs at fractional scale19/30; all other opaque samples and native1x pixels exact. No color error tolerance added.",
+  "normal_maps": false,
+  "cast_shadow_occluders": false
+}

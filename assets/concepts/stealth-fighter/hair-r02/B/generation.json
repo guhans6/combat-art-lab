@@ -1,0 +1,19 @@
+{
+  "variant": "B",
+  "use_case": "precise-object-edit",
+  "tool": "built-in image_gen",
+  "call_count_for_variant": 1,
+  "input": {
+    "role": "edit target; accepted provisional pixel-style hair baseline A",
+    "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/hair-r02/A/raw.png",
+    "sha256": "f185e74a4b76b0e823d98a6ea2f315506acc898d62e929bdf657ece511f341bc"
+  },
+  "output": {
+    "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/hair-r02/B/raw.png",
+    "tool_output_source": "/Users/guhan/.codex/generated_images/01a1976a-24fe-7560-be56-a907aa73a2ea/exec-3b7b26a3-0089-4f08-926f-bbdb8650f840.png",
+    "sha256": "97e0c17e79227e43b39f5abd510d1f09ba25ab1a808cffe4629523956c53febb",
+    "dimensions": { "width": 1024, "height": 1536 },
+    "background": "opaque; flat light baseline background retained"
+  },
+  "prompt": "Use case: precise-object-edit\nAsset type: 2D beat-em-up gameplay sprite hair comparison, variant B.\nInput image: Image 1 is the edit target, accepted provisional pixel-style hair baseline A.\nPrimary request: Edit ONLY the character's hair to variant B: half tied. Tie back a small upper section at the upper-back/crown area, while the lower section remains long and loose to the upper back. Keep the face visible with exactly the same fringe, hairline, and face features.\nStyle/medium: Match Image 1 exactly: coarse, uniform, enlarged square-pixel grid; simple broad graphic locks; sharp stepped pixel edges; no fine hair strands, no realistic rendering, no smoothing, no pixel-filtered illustration.\nConstraints: Change hair only. Preserve Image 1's actual body, proportions, stance, outfit, chestplate, bracer, sword, boots, indigo/charcoal/steel/rust colors, face expression, skin, lighting, background, canvas framing and size (1024x1536), and visible feet exactly. Preserve the existing flat light background and its existing subtle vignette unchanged. Opaque background; do not introduce alpha. Do not redraw, restyle, crop, shift, or alter anything else.\nAvoid: black halos, new accessories, text, UI, extra figures, fine hair strands, realistic texture, anti-aliasing, gradients, soft shadows, or any changes outside the hair."
+}

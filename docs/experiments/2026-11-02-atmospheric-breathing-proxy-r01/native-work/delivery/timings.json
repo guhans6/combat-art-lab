@@ -1,0 +1,103 @@
+{
+  "animation": "breath",
+  "canvas": [
+    96,
+    160
+  ],
+  "rest_body_height_px": 137,
+  "rest_hair_top": 10,
+  "feet_baseline_y": 146,
+  "root": [
+    44,
+    85
+  ],
+  "loop": true,
+  "display_projection": "fixed128px restbody=scale128/137; no perposefitting",
+  "filter": "nearest",
+  "frames": [
+    {
+      "file": "breath-0.png",
+      "duration_ms": 200,
+      "lift_px": 0,
+      "chest_expansion_px": 0,
+      "phase": "rest"
+    },
+    {
+      "file": "breath-1.png",
+      "duration_ms": 180,
+      "lift_px": 0,
+      "chest_expansion_px": 1,
+      "phase": "inhale-open"
+    },
+    {
+      "file": "breath-2.png",
+      "duration_ms": 180,
+      "lift_px": 1,
+      "chest_expansion_px": 1,
+      "phase": "inhale"
+    },
+    {
+      "file": "breath-3.png",
+      "duration_ms": 200,
+      "lift_px": 1,
+      "chest_expansion_px": 2,
+      "phase": "inhale"
+    },
+    {
+      "file": "breath-4.png",
+      "duration_ms": 220,
+      "lift_px": 2,
+      "chest_expansion_px": 2,
+      "phase": "inhale"
+    },
+    {
+      "file": "breath-5.png",
+      "duration_ms": 300,
+      "lift_px": 3,
+      "chest_expansion_px": 3,
+      "phase": "apex"
+    },
+    {
+      "file": "breath-6.png",
+      "duration_ms": 200,
+      "lift_px": 2,
+      "chest_expansion_px": 3,
+      "phase": "exhale"
+    },
+    {
+      "file": "breath-7.png",
+      "duration_ms": 220,
+      "lift_px": 2,
+      "chest_expansion_px": 2,
+      "phase": "exhale"
+    },
+    {
+      "file": "breath-8.png",
+      "duration_ms": 260,
+      "lift_px": 1,
+      "chest_expansion_px": 2,
+      "phase": "exhale"
+    },
+    {
+      "file": "breath-9.png",
+      "duration_ms": 280,
+      "lift_px": 1,
+      "chest_expansion_px": 1,
+      "phase": "exhale"
+    },
+    {
+      "file": "breath-10.png",
+      "duration_ms": 300,
+      "lift_px": 0,
+      "chest_expansion_px": 1,
+      "phase": "settle"
+    },
+    {
+      "file": "breath-11.png",
+      "duration_ms": 260,
+      "lift_px": 0,
+      "chest_expansion_px": 0,
+      "phase": "rest"
+    }
+  ]
+}

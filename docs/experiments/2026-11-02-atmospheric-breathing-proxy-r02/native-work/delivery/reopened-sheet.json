@@ -1,0 +1,136 @@
+{ "frames": [
+   {
+    "filename": "traveler-breathing-r02 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 96, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 160 },
+    "sourceSize": { "w": 96, "h": 160 },
+    "duration": 200
+   },
+   {
+    "filename": "traveler-breathing-r02 1.aseprite",
+    "frame": { "x": 96, "y": 0, "w": 96, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 160 },
+    "sourceSize": { "w": 96, "h": 160 },
+    "duration": 180
+   },
+   {
+    "filename": "traveler-breathing-r02 2.aseprite",
+    "frame": { "x": 192, "y": 0, "w": 96, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 160 },
+    "sourceSize": { "w": 96, "h": 160 },
+    "duration": 180
+   },
+   {
+    "filename": "traveler-breathing-r02 3.aseprite",
+    "frame": { "x": 288, "y": 0, "w": 96, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 160 },
+    "sourceSize": { "w": 96, "h": 160 },
+    "duration": 200
+   },
+   {
+    "filename": "traveler-breathing-r02 4.aseprite",
+    "frame": { "x": 384, "y": 0, "w": 96, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 160 },
+    "sourceSize": { "w": 96, "h": 160 },
+    "duration": 220
+   },
+   {
+    "filename": "traveler-breathing-r02 5.aseprite",
+    "frame": { "x": 480, "y": 0, "w": 96, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 160 },
+    "sourceSize": { "w": 96, "h": 160 },
+    "duration": 300
+   },
+   {
+    "filename": "traveler-breathing-r02 6.aseprite",
+    "frame": { "x": 576, "y": 0, "w": 96, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 160 },
+    "sourceSize": { "w": 96, "h": 160 },
+    "duration": 200
+   },
+   {
+    "filename": "traveler-breathing-r02 7.aseprite",
+    "frame": { "x": 672, "y": 0, "w": 96, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 160 },
+    "sourceSize": { "w": 96, "h": 160 },
+    "duration": 220
+   },
+   {
+    "filename": "traveler-breathing-r02 8.aseprite",
+    "frame": { "x": 768, "y": 0, "w": 96, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 160 },
+    "sourceSize": { "w": 96, "h": 160 },
+    "duration": 260
+   },
+   {
+    "filename": "traveler-breathing-r02 9.aseprite",
+    "frame": { "x": 864, "y": 0, "w": 96, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 160 },
+    "sourceSize": { "w": 96, "h": 160 },
+    "duration": 280
+   },
+   {
+    "filename": "traveler-breathing-r02 10.aseprite",
+    "frame": { "x": 960, "y": 0, "w": 96, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 160 },
+    "sourceSize": { "w": 96, "h": 160 },
+    "duration": 300
+   },
+   {
+    "filename": "traveler-breathing-r02 11.aseprite",
+    "frame": { "x": 1056, "y": 0, "w": 96, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 160 },
+    "sourceSize": { "w": 96, "h": 160 },
+    "duration": 260
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.18.6-dev",
+  "image": "reopened-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 1152, "h": 160 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "breath", "from": 0, "to": 11, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "far-leg-boot", "opacity": 255, "blendMode": "normal" },
+   { "name": "near-leg-boot", "opacity": 255, "blendMode": "normal" },
+   { "name": "pelvis-root", "opacity": 255, "blendMode": "normal" },
+   { "name": "coat-back-skirt", "opacity": 255, "blendMode": "normal" },
+   { "name": "far-sleeve-hand", "opacity": 255, "blendMode": "normal" },
+   { "name": "thorax-coat", "opacity": 255, "blendMode": "normal" },
+   { "name": "neck-collar", "opacity": 255, "blendMode": "normal" },
+   { "name": "head-hair-face", "opacity": 255, "blendMode": "normal" },
+   { "name": "near-upper-sleeve", "opacity": 255, "blendMode": "normal" },
+   { "name": "near-forearm-hand", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

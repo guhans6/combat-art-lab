@@ -1,0 +1,47 @@
+{
+  "round": "style-r01",
+  "observed_builtin_image_calls": 3,
+  "generation_route": "built-in image_gen edits via three global_worker subagents",
+  "artifacts": [
+    {
+      "label": "Base B",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/style-r01/anchor.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "97e0c17e79227e43b39f5abd510d1f09ba25ab1a808cffe4629523956c53febb"
+    },
+    {
+      "label": "1 - Angular / kinetic",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/style-r01/A/raw.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "c3c8e08c9b73f9465c07beb8448923810f84d6f0bb7b9bcbf31bd0f8e308227f"
+    },
+    {
+      "label": "2 - Carved / atmospheric",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/style-r01/B/raw.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "75cb22d139fe08deea5ba954be12548d2510724a14bdfa95889ed7b3127004b1"
+    },
+    {
+      "label": "3 - Graphic hybrid",
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/style-r01/C/raw.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "e917f737cc01b614b1614ced66b56b1d7a669a3503dc0bd6cc32649caf2adea8"
+    }
+  ],
+  "comparison_variable": "Rendering: cluster grouping, contours, shadow shapes and selective material texture. Not a palette, pose or character redesign study.",
+  "normalization": "No independent figure rescaling, recoloring or repositioning; SVG layout embeds unchanged source PNGs. Detail board uses the same crop viewport for all four.",
+  "parent_visual_review": "All images viewed. Common character, half-tied long hair, pose, proportions, outfit and material-color roles recognizable. Small face/hair contours and equipment edges are reinterpreted; pixel-identical identity is not claimed.",
+  "approval": "B is provisional setup only. Three new styles await user choice; no final rendering/identity/native/gameplay approval."
+}

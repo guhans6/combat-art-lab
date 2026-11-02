@@ -1,0 +1,39 @@
+{
+  "backend": "dedicated Aseprite AI Artist MCP only",
+  "mode": "headless",
+  "aseprite": "1.3.18.6-dev",
+  "pebbly": "0.8.2",
+  "model": "GPT6.1 Sol high as assigned",
+  "native_mutations": [
+    {
+      "step": "open r03 + sprite_info, save_as keys; delete oldframe4",
+      "result": "original unchanged;3keycopy"
+    },
+    {
+      "step": "draw grid for12owners onK1,K2; inputs key-ops.json",
+      "result": "exact REST fixedowners restored;6upperowners posed"
+    },
+    {
+      "step": "save/export3keys; lead+independent structural review",
+      "result": "continue; wrist concern retracted after100skinpixel exact proof"
+    },
+    {
+      "step": "openkeys newdocument; save_as main; duplicateK1; reorderduplicate to4; setdurations; rename tag",
+      "result": "native4frames[0,1,2,1]700/260/500/340; verified actualPNG order"
+    },
+    {
+      "step": "save/close/reopen main; export freshsheet",
+      "result": "exactpixels verified"
+    },
+    {
+      "step": "save_as separateeditproof; grid3pixels on thorax-coatF0; save/close/reopen/export",
+      "result": "allothernativecontent protected; no main changes"
+    }
+  ],
+  "art_pass_budget": {
+    "one_meaningful_correction_used": 1,
+    "one_concrete_quality_repair_used": 0,
+    "remaining_repair": 1
+  },
+  "limitations": "validate advertised but no callable validate schema; independent native/PNG checks substitute; no CLI/nativefilewriter/UI/CodeMCP"
+}

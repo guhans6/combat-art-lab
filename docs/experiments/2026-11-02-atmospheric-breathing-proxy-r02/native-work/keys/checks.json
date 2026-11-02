@@ -1,0 +1,39 @@
+{
+  "changed_native": [
+    {
+      "frame": 6,
+      "owner": "far-sleeve-hand",
+      "pixels": 62
+    },
+    {
+      "frame": 6,
+      "owner": "thorax-coat",
+      "pixels": 198
+    },
+    {
+      "frame": 6,
+      "owner": "neck-collar",
+      "pixels": 108
+    },
+    {
+      "frame": 6,
+      "owner": "head-hair-face",
+      "pixels": 170
+    },
+    {
+      "frame": 6,
+      "owner": "near-upper-sleeve",
+      "pixels": 111
+    },
+    {
+      "frame": 6,
+      "owner": "near-forearm-hand",
+      "pixels": 122
+    }
+  ],
+  "allfixedowners_unchanged": true,
+  "actual_MCP_key_exports_exact": true,
+  "changed_pixels_inside_frozenmask": true,
+  "palette_timing_header_layers_unchanged": true,
+  "candidate_sha256": "7c0398b2c9761ea7130cc13bd4daeecbc4cfc826817358b128e9bf797b535785"
+}

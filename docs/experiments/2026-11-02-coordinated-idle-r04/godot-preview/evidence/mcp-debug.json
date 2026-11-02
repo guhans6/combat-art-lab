@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"output\": [\n    \"Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\",\n    \"\",\n    \"OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro\",\n    \"\",\n    \"\",\n    \"\",\n    \"COORDINATED_IDLE_READY engine=4.7.2-stable (official) frames=4 period_ms=[700.0, 260.0, 500.0, 340.0]\",\n    \"\",\n    \"COORDINATED_IDLE_LOOP 1\",\n    \"\",\n    \"COORDINATED_IDLE_LOOP 2\",\n    \"\",\n    \"COORDINATED_IDLE_LOOP 3\",\n    \"\",\n    \"COORDINATED_IDLE_THREE_LOOPS_OK\",\n    \"\",\n    \"COORDINATED_IDLE_LOOP 4\",\n    \"\",\n    \"COORDINATED_IDLE_LOOP 5\",\n    \"\",\n    \"COORDINATED_IDLE_LOOP 6\",\n    \"\",\n    \"COORDINATED_IDLE_LOOP 7\",\n    \"\",\n    \"COORDINATED_IDLE_LOOP 8\",\n    \"\",\n    \"COORDINATED_IDLE_LOOP 9\",\n    \"\",\n    \"COORDINATED_IDLE_LOOP 10\",\n    \"\",\n    \"COORDINATED_IDLE_LOOP 11\",\n    \"\",\n    \"COORDINATED_IDLE_LOOP 12\",\n    \"\",\n    \"COORDINATED_IDLE_LOOP 13\",\n    \"\"\n  ],\n  \"errors\": []\n}"
+    }
+  ]
+}

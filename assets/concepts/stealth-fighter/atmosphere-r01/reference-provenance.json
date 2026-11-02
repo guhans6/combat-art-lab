@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-01",
+  "silver_pines": {
+    "source_page": "https://steamcommunity.com/games/2333000/announcements/detail/690893589804220611",
+    "original": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/docs/research/atmospheric-character-references/silver-pines/c1ba084d6e35b5c980b0f6c96be8adcf94733d10.png",
+    "sha256": "7f258a54a0cda3cd8e438f5137cee9d8c06e21c452712c5c239ddf4ba29dd991",
+    "derived_character_view": "silver-pines-drawn-frame.png",
+    "crop_xywh": [
+      304,
+      50,
+      318,
+      297
+    ],
+    "role": "Actual drawn character frame: large simplified shadow/value shapes and human silhouette. Do not copy identity/costume/knockback pose. No details inferred from darkness."
+  },
+  "last_night": {
+    "source_page": "https://oddtales.net/thelastnight/",
+    "original": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/docs/research/atmospheric-character-references/comparators/last-night-basement.gif",
+    "sha256": "dcedaa81acbf90a0f6550ce2df0b1e5f18da816be9e3e9f86e8a9c2b51e7d015",
+    "derived_view": "last-night-mood-frame.png (first original GIF frame)",
+    "role": "Mood/light/depth only; no verified isolated character close-up or construction recipe."
+  },
+  "rights": "Published reference media, not project production assets; no source pixels included in the new original character."
+}

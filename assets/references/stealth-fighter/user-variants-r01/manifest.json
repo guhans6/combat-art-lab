@@ -1,0 +1,66 @@
+{
+  "origin": "user attachments; generation history not supplied; no new generation in this task",
+  "sources": [
+    {
+      "id": 1,
+      "original": "/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/codex-clipboard-5775cd43-a1f3-4638-8875-d058c74d2239.png",
+      "staged": "/private/tmp/fighter-user-variants-r01/inputs/user-01.png",
+      "size": [
+        995,
+        1581
+      ],
+      "mode": "RGBA",
+      "sha256": "2641cb307b2691943cf06efcff4c6c0738847a0123c0882b3bedc3f6f39aef71",
+      "durable_path": "assets/references/stealth-fighter/user-variants-r01/user-01.png"
+    },
+    {
+      "id": 2,
+      "original": "/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/codex-clipboard-d92f49e3-195b-4045-b6e4-ef682a8bd741.png",
+      "staged": "/private/tmp/fighter-user-variants-r01/inputs/user-02.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "sha256": "96a5753e673c4c38a063c820604d2427702b846a643d2e8a9f17bb6a85718816",
+      "durable_path": "assets/references/stealth-fighter/user-variants-r01/user-02.png"
+    },
+    {
+      "id": 3,
+      "original": "/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/codex-clipboard-191aa171-625f-45ba-b4f4-8ec6d5193783.png",
+      "staged": "/private/tmp/fighter-user-variants-r01/inputs/user-03.png",
+      "size": [
+        307,
+        1000
+      ],
+      "mode": "RGBA",
+      "sha256": "d0e3227a832751abe99ff0784b40f6c0db58d6dce04a30c9746f4581b80a8873",
+      "durable_path": "assets/references/stealth-fighter/user-variants-r01/user-03.png"
+    },
+    {
+      "id": 4,
+      "original": "/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/codex-clipboard-87994eef-ead0-4a89-ab65-539660d1f2de.png",
+      "staged": "/private/tmp/fighter-user-variants-r01/inputs/user-04.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "sha256": "1eb37a951a9014b344b8fdac88b4f51fdc47735f1475fea3883ce288a11ed0ef",
+      "durable_path": "assets/references/stealth-fighter/user-variants-r01/user-04.png"
+    },
+    {
+      "id": 5,
+      "original": "/var/folders/xs/q5lfg55937l7y6stbj9vqgkh0000gn/T/codex-clipboard-b0f65d43-3d92-4e4e-9077-0cadb0e40671.png",
+      "staged": "/private/tmp/fighter-user-variants-r01/inputs/user-05.png",
+      "size": [
+        307,
+        1000
+      ],
+      "mode": "RGBA",
+      "sha256": "9eb4144c4d60a60c920e6a1b255a0210d7fa699a16a630641665b8ee305729b3",
+      "durable_path": "assets/references/stealth-fighter/user-variants-r01/user-05.png"
+    }
+  ],
+  "grouping": "User03 is exactcrop ofUser02at(143,30)size307x1000;03/05 differ only shoulder; distinct01/03/04/05"
+}

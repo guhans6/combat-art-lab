@@ -1,0 +1,11 @@
+# Atmospheric traveler breathing proxy — 2 November 2026
+
+User rejects first fighteridle as too subtle; authorizes downloading similar-tone asset OR creating one and explicitly invokes /Users/guhan/Guhan/Projects/combat-art-lab/tools/pixel-art-director/SKILL.md, including splitting parts and animation. Chosen route: create original generic traveler native asset, no third-party download/purchase. Not a new fighter identity or final art direction.
+
+Read context/handoff/glossary, native asset contract, art workflow, validated checkpoints; selected clone learning/aseprite-sprite-cleanup c270286 with existing changes preserved. Invoked exactskill + animation/structure/comparison references; no pipeline edits. New proxy should use natural adult proportions, warm small face, dark hair, blue-grey broad cloth masses and charcoal lowerbody in quiet nearblack values. Fighter CurrentA is style-only; earlier too-subtle native is comparison evidence only.
+
+Controls: one nativegrid ~96x160/~136pxbody, no finalgamegrid selected; same root/size across allposes; single connected breathing phase, chest expands forward and shoulder/skull rise2–3px with fixedpelvis/feet; redraw contours/materialplanes and backing overlaps rather than translating wholefigure. ~8–12timelineframes and4+poselevels/~3seconds, no long rigid850ms rest. Stronger movement is an experimental proposal, not measured naturalness. Hair/face proportions/materials remain consistent through cycle.
+
+Budget: one originalproxy, one cycle, one concrete structural repair if observed. NativeMCP only, no directAsepriteCLI/CodeMCP/UI. ProducerSol6.1high freshcontext owns /private/tmp/atmospheric-breathing-proxy-r01 and editor. Lead reviews actualkeys before timeline, then allnativeframes and projected128pxreadability; lead independently runs Godotpreview. No imagegeneration or downloaded asset required. Need nativeeditablelayers/cels, localedit+reopenproof, alpha/bodyjoint/anchors/material checks, spritePNG/sheet/timings/GIF and actualenginecaptures. If only stillperception possible, state that limitation; user owns final motion judgment.
+
+Comparison caveat: oldfighter and newproxy differ in design/grid/rendering as well as motion. Matched128px display compares visible outcomes, does not isolate one causal variable or establish style superiority.

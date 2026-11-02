@@ -1,0 +1,28 @@
+{
+  "study": "atmosphere-r01/A",
+  "status": "generated; pending parent review and user visual approval",
+  "tool": {
+    "mode": "built-in image_gen",
+    "tool_path": "image_gen.imagegen",
+    "transparent_background": false,
+    "call_count_for_this_study": 1
+  },
+  "output": {
+    "original_output_path": "/Users/guhan/.codex/generated_images/01a197da-e9ed-7d10-9532-3151423af442/exec-2b231705-ba94-49d6-8181-791be951a280.png",
+    "project_raw_path": "assets/concepts/stealth-fighter/atmosphere-r01/A/raw.png",
+    "sha256": "e9c64145390d0ffe2f6eda09701c58572a91f5931fd6dfb7c73b6cb1a205c61c",
+    "dimensions_px": [1024, 1536],
+    "raw_saved_unchanged": true
+  },
+  "inputs": [
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/atmosphere-r01/references/silver-pines-drawn-frame.png",
+      "role": "broad quiet shadow/value masses, simple matte pixel planes, and economical stepped clusters only; not character, costume, pose, or source pixels"
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/atmosphere-r01/references/last-night-mood-frame.png",
+      "role": "cool-dark atmosphere, restrained warm side/top lighting, and sparse depth planes only; not world, characters, neon, or cyberpunk objects"
+    }
+  ],
+  "prompt": "Use case: stylized-concept\\nAsset type: one original atmospheric pixel-character direction study for a 2D combat game; requested portrait output 1024 x 1536.\\nInput images: Image 1 is a reference for broad quiet shadow/value masses, simple matte pixel planes, and economical stepped clusters only. Ignore its checkerboard and tiny label fragment; do not copy its person, clothing, pose, or source pixels. Image 2 is a reference for cool-dark atmosphere, restrained warm side/top lighting, and sparse depth planes only; do not copy its world, characters, neon, or cyberpunk objects.\\nPrimary request: Create exactly one original young male character, early-to-mid 20s, in clear full body, upright relaxed-alert weight shift, near-side 3/4 facing right. Central composition at 70–80% of frame height, with head and both feet fully visible and breathing room. Empty relaxed hands.\\nSubject: lean athletic adult with naturally proportioned mildly stylized silhouette: longer/slimmer torso and legs, modest head, no chibi proportions and no bulky superhero arms. Visible medium-fair warm brown face, restrained small pixel features, quiet observant expression, tiny stubble/value cue. Long near-black half-tied hair, remaining hair loose to upper back, swept clear of face, formed as a few quiet masses; no spikes.\\nCostume: original light cloth-first armor with discreet ancient/medieval South Indian-inspired craftsmanship and subtle future construction: dark muted indigo collarless tunic, a few integrated charcoal protective panels without forming a breastplate, short split waist panel, fitted charcoal trousers, simple ankle boots. One subtle tapered worn-steel forearm guard with a central ridge. Compact straight sword sheathed at hip with clear grip and sheath continuity. One small rust waist fastening. Minimal straps, buckles, folds, decoration.\\nScene/backdrop: minimal cool-dark stage: desaturated wall planes and a small ground strip, a few dark depth planes only. No elaborate setting.\\nStyle/medium: actual enlarged pixel-art game-character study. Large simple matte pixel shadow masses, economical restrained light planes and marks, intentional stepped pixel clusters, selective lost-and-found contours, compact face and hand marks. Broad value grouping before detail.\\nLighting/mood: restrained warm side/top light selectively catches face, near shoulder, and a small steel/sword edge; preserve clear body silhouette, dark-cloth separation, face, hair, feet, and hip sword. Atmospheric but readable—never hide form in blackness or fog.\\nColor palette: muted indigo, charcoal, worn steel, tiny rust accent, near-black hair, warm brown skin; cool-dark environmental values.\\nConstraints: One character only, no labels, text, logos, UI, watermark, or other figures. Keep all costume/face/body design original; do not borrow reference pixels or characters.\\nAvoid: large tactical cuirass, many straps, muscular modeled arms, huge white anime eyes, big compact head, clenched brawler fists, cape, hood, helmet, magic, neon, cybernetic arms, religious/royal motifs, extra weapons, city, signs, guns, rain spectacle, crowded scene, theatrical glow, halo, bloom, realistic portrait detail, pores, knuckle/muscle modeling, grain, procedural texture, pixelation filter, 3D render, smooth airbrush, whole-body even outline, spiky anime hair, or a darkened version of an old tactical portrait."
+}

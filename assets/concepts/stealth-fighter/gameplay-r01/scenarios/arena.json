@@ -1,0 +1,11 @@
+{
+  "prompt": "Create a simple EMPTY horizontal side-on arena pixel-art mood plate for a temporary gameplay scale mockup. Wide 16:9 composition or closest available. Broad indigo and charcoal architectural masses combine old stone with subtle futuristic structural design. One restrained warm practical lamp contrasts with cool shadow. One straight horizontal floor at about 82% of image height. EMPTY: no figures, creatures, text, UI, signage, logos or watermarks. No extreme depth, tilted camera, fine texture, or detailed level design. Quiet broad pixel-art shapes; atmosphere is more important than level detail.",
+  "returned_path": "/Users/guhan/.codex/generated_images/01a197f3-494e-7323-b6a9-b9970275d8c6/exec-5e82de70-ab69-4489-9e90-e073c6adb980.png",
+  "saved_path": "assets/concepts/stealth-fighter/gameplay-r01/scenarios/arena.png",
+  "size_px": [
+    1672,
+    941
+  ],
+  "sha256": "6baf2e01c8d436cb2c3be2224835d21360ffaa7271a78791573e20af427ff67b",
+  "role": "temporary mockup context; not a canonical level"
+}

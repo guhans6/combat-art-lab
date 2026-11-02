@@ -20,6 +20,10 @@ For a **brand-new character**, begin with [character-design-director](../../tool
 
 The user's inability to draw is a pipeline constraint. Do not make manual repainting of generated PNGs the default handoff. If an agent cannot produce or revise an acceptable result, document that limitation and propose a concrete alternative.
 
+## Compare existing variants in context
+
+Use [Art Review Lab](../../tools/art-review-lab/SKILL.md) when comparing an existing character's appearance, lighting, scale or authored motion in a shared environment. Its [session template](../../tools/art-review-lab/references/session-template.md) records controlled setup, provenance, observed checks and human decisions. Keep native construction and motion proof in the production gates below. The current static fixture and separate dynamic-UI task are described in [the continuation brief](art-review-lab-continuation.md).
+
 ## Multi-reference and assisted construction — 27 October clarification
 
 Preserve the approved character's identity, aesthetic, expression and vibe. Small

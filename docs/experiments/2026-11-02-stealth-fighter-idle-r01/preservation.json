@@ -1,0 +1,10 @@
+{
+  "baseline_files": 175,
+  "unchanged_files": 172,
+  "intended_document_updates": [
+    "docs/characters/stealth-fighter/brief.md",
+    "docs/characters/stealth-fighter/decisions.md",
+    "docs/handoff.md"
+  ],
+  "unexpected_changes": []
+}

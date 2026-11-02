@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"message\": \"Godot project stopped\",\n  \"finalOutput\": [\n    \"Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\",\n    \"\",\n    \"OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro\",\n    \"\",\n    \"\",\n    \"\",\n    \"FIGHTER_IDLE_READY engine=4.7.2-stable (official) frames=4 period_ms=[700.0, 260.0, 500.0, 340.0]\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 1\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 2\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 3\",\n    \"\",\n    \"FIGHTER_IDLE_THREE_LOOPS_OK\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 4\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 5\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 6\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 7\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 8\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 9\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 10\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 11\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 12\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 13\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 14\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 15\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 16\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 17\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 18\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 19\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 20\",\n    \"\",\n    \"FIGHTER_IDLE_LOOP 21\",\n    \"\"\n  ],\n  \"finalErrors\": []\n}"
+    }
+  ]
+}

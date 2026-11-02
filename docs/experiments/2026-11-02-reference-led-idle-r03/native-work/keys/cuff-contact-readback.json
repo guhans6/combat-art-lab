@@ -1,0 +1,105 @@
+{
+  "0": {
+    "near": {
+      "pants_above_fixedcuff_contact_x": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "contact_count": 12,
+      "boot_cutoff_y": 136
+    },
+    "far": {
+      "pants_above_fixedcuff_contact_x": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "contact_count": 9,
+      "boot_cutoff_y": 137
+    }
+  },
+  "1": {
+    "near": {
+      "pants_above_fixedcuff_contact_x": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "contact_count": 11,
+      "boot_cutoff_y": 136
+    },
+    "far": {
+      "pants_above_fixedcuff_contact_x": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "contact_count": 9,
+      "boot_cutoff_y": 137
+    }
+  },
+  "2": {
+    "near": {
+      "pants_above_fixedcuff_contact_x": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "contact_count": 11,
+      "boot_cutoff_y": 136
+    },
+    "far": {
+      "pants_above_fixedcuff_contact_x": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "contact_count": 9,
+      "boot_cutoff_y": 137
+    }
+  }
+}

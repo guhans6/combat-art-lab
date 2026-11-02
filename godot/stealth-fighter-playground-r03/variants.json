@@ -1,0 +1,62 @@
+[
+  {
+    "source_id": 0,
+    "label": "Current A",
+    "short": "Original",
+    "file": "current-rest.png",
+    "native_canvas": [
+      128,
+      264
+    ],
+    "body_height": 240,
+    "feet_y": 253
+  },
+  {
+    "source_id": 1,
+    "label": "1 \u00b7 Quiet face",
+    "short": "Look 1",
+    "file": "variant-01.png",
+    "native_canvas": [
+      128,
+      264
+    ],
+    "body_height": 240,
+    "feet_y": 253
+  },
+  {
+    "source_id": 3,
+    "label": "3 \u00b7 Broad cap",
+    "short": "Look 3",
+    "file": "variant-03.png",
+    "native_canvas": [
+      128,
+      264
+    ],
+    "body_height": 240,
+    "feet_y": 253
+  },
+  {
+    "source_id": 4,
+    "label": "4 \u00b7 Chunky planes",
+    "short": "Look 4",
+    "file": "variant-04.png",
+    "native_canvas": [
+      128,
+      264
+    ],
+    "body_height": 240,
+    "feet_y": 253
+  },
+  {
+    "source_id": 5,
+    "label": "5 \u00b7 Narrow cap",
+    "short": "Look 5",
+    "file": "variant-05.png",
+    "native_canvas": [
+      128,
+      264
+    ],
+    "body_height": 240,
+    "feet_y": 253
+  }
+]

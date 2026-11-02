@@ -1,0 +1,60 @@
+{
+  "prompt": "Use case: style-transfer. Create one original character rendering study for a game art comparison.\n\nImage 1 is the identity reference: retain the same character's long dark half-tied hair, lean athletic naturally proportioned adult male body, medium-fair to brown skin, muted indigo split-hem clothing, charcoal light shoulder armor, steel forearm guard, brown waist wrap with small rust buckle, and compact sheathed sword at the hip. Ancient/medieval South Indian inspired with subtle futurecraft; no magic or cyberpunk. Face visible, light stubble can be implied. Preserve his recognizable design, not the original image's detail density or pose.\n\nImages 2 and 3 are official The Drifter game screenshots, for rendering language ONLY. Study the small human figures' broad warm skin planes, dark hair mass, sharply angular stepped pixel clusters, long-limbed human proportions, color-separated clothing slabs, selective light patches against quiet deep shadow, and sparse eye/nose marks. Make a new original figure, not a copy of the game's characters, jacket, short hair, setting, or neon lights. Treat the scenes only as evidence of visible character planes; do not reproduce the scenes.\n\nReplace the reference's crisp explicit rendering with genuinely simpler broad dark planes and a few deliberate angular light patches. Simplify hair, face and folds to major masses, with sparse facial marks; avoid fine individual strands, detailed folds, heavy all-around outline, texture noise and surface decoration. Pixel-art character concept, clear stepped clusters, restrained atmospheric contrast.\n\nSingle full-body figure, upright neutral alert stance, facing RIGHT in TRUE RIGHT SIDE PROFILE, eye-level orthographic. Show side of torso and boots; no frontal chest, no visible boot tops. Arms relaxed with a slight silhouette gap. Compact sword sheathed at hip. Plain matte slate #24282d backdrop with a simple groundline; no scene objects, glow, rim-light halo, checkerboard, text or montage. Portrait 1024 x 1536 composition; figure approximately 80% of image height, feet baseline at 90% of image height. Full head and feet visible with margins.\n",
+  "tool": "built-in image_gen",
+  "original_generated_path": "/Users/guhan/.codex/generated_images/01a19862-a871-7c11-b5b5-1fee212fc7e8/exec-937d2d7d-2a1f-4297-895c-fef5602f8cec.png",
+  "raw_copy": {
+    "path": "/private/tmp/game-specific-drifter/raw.png",
+    "role": "unaltered generation",
+    "sha256": "ff5d43d8302e724c7473bbaeb0f7d811199d36052120e1d1ed8b4fa3c49d5a7f",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "source_url": null
+  },
+  "references": [
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/atmosphere-r01/A/simplified-01.png",
+      "role": "identity anchor",
+      "sha256": "e1dcf18e72ce22b8b6c6031d0f00da91259dcbf4c2bfbb0e0c12c8d1c56b6e1e",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "source_url": null
+    },
+    {
+      "path": "/private/tmp/game-specific-research/drifter-official-4.jpg",
+      "role": "rendering reference only",
+      "sha256": "da13b5d4d8c873ce105f8f91ff179d7e028e9a150683dc7ac7a6b3e3b11ebafb",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "source_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/15b91e070574c9638bc1ea1e377d2359523854ed/ss_15b91e070574c9638bc1ea1e377d2359523854ed.1920x1080.jpg?t=1781750377"
+    },
+    {
+      "path": "/private/tmp/game-specific-research/drifter-official-5.jpg",
+      "role": "rendering reference only",
+      "sha256": "602bc58c39baec5215810b6f19520c94f7d6bca33ca411223b47d2b2bfefadad",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "source_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/ss_17d458d733b62c65d46632841208dd54051f973a.1920x1080.jpg?t=1781750377"
+    }
+  ],
+  "game_source": "https://store.steampowered.com/app/1170570/The_Drifter/",
+  "developer": "Powerhoof",
+  "requested_canvas": [
+    1024,
+    1536
+  ],
+  "observed_canvas": [
+    1024,
+    1536
+  ],
+  "approximate_figure_top_y": 154,
+  "approximate_foot_baseline_y": 1376,
+  "framing_measurement_method": "visual estimate excluding groundline; inspect pixels for tighter bounds"
+}

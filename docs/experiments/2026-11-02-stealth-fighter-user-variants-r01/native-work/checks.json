@@ -1,0 +1,310 @@
+{
+  "boundary": "native static assembly/coverage/reopen/edit only; runtime and user selection separate",
+  "toolchain": {
+    "native": "dedicated Aseprite AI Artist MCP only",
+    "mode": "headless",
+    "aseprite": "1.3.18.6-dev",
+    "extension": "0.8.2",
+    "python": "/opt/homebrew/bin/python3.11",
+    "pillow": "12.0.0",
+    "native_reader": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/tools/check_native_pilot.py",
+    "validate": "not exposed; not called"
+  },
+  "variants": {
+    "01": {
+      "passed": true,
+      "native_sha256": "6edf22ccca5e5ecc53caaa55f577b201d829153ff8430e391a9be13d44b7c002",
+      "png_sha256": "f5ddce534af241fe3e60591ace51a404330a246b22e240a761c67d67d0cc78a5",
+      "canvas": [
+        128,
+        264
+      ],
+      "opaque_bounds_half_open": [
+        30,
+        13,
+        99,
+        253
+      ],
+      "visible_body_height": 240,
+      "visible_colors": 64,
+      "palette_entries_including_transparent": 65,
+      "binary_alpha": true,
+      "native_export_seed_reopen_exact": true,
+      "disjoint_owners_reassemble_exactly": true,
+      "owner_pixel_counts": {
+        "lowerbody-cloth-boots": 4796,
+        "torso-cloth-armor": 2108,
+        "waist-wrap-sword": 985,
+        "far-hand": 34,
+        "near-arm-guard-hand": 1492,
+        "head-hair-face": 1047
+      },
+      "frame_count": 1,
+      "duration_ms": 100,
+      "coverage": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          128,
+          264
+        ],
+        "region_half_open": [
+          0,
+          0,
+          128,
+          264
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "useful_local_edit": {
+        "purpose": "duplicate-only widening of the existing bracer ridge highlight; show target metal panel can be revised without hair/body/sword changes",
+        "changed_pixels": 24,
+        "only_layer": "near-arm-guard-hand",
+        "protected_native_pass": true,
+        "fresh_reopen_exact": true,
+        "master_unchanged": true
+      },
+      "user_visual_approval": "pending",
+      "runtime": "root-owned separate evidence"
+    },
+    "03": {
+      "passed": true,
+      "native_sha256": "7cf57a3fe73afc2b9531c6c8ec3ead8ae030b664a4dd0f078ef9ba7e03879a26",
+      "png_sha256": "46ed03b35b3a2be0adff758eddedc8fd5f13b78c829bab86aaf43d6165d73df6",
+      "canvas": [
+        128,
+        264
+      ],
+      "opaque_bounds_half_open": [
+        30,
+        13,
+        97,
+        253
+      ],
+      "visible_body_height": 240,
+      "visible_colors": 64,
+      "palette_entries_including_transparent": 65,
+      "binary_alpha": true,
+      "native_export_seed_reopen_exact": true,
+      "disjoint_owners_reassemble_exactly": true,
+      "owner_pixel_counts": {
+        "lowerbody-cloth-boots": 4415,
+        "torso-cloth-armor": 2181,
+        "waist-wrap-sword": 995,
+        "far-hand": 40,
+        "near-arm-guard-hand": 1449,
+        "head-hair-face": 1094
+      },
+      "frame_count": 1,
+      "duration_ms": 100,
+      "coverage": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          128,
+          264
+        ],
+        "region_half_open": [
+          0,
+          0,
+          128,
+          264
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "useful_local_edit": {
+        "purpose": "duplicate-only widening of the existing bracer ridge highlight; show target metal panel can be revised without hair/body/sword changes",
+        "changed_pixels": 24,
+        "only_layer": "near-arm-guard-hand",
+        "protected_native_pass": true,
+        "fresh_reopen_exact": true,
+        "master_unchanged": true
+      },
+      "user_visual_approval": "pending",
+      "runtime": "root-owned separate evidence"
+    },
+    "04": {
+      "passed": true,
+      "native_sha256": "bbbffc7131e79e7e129375fea984a59f41fb666be42e00e4bd36b7547f6ebf29",
+      "png_sha256": "341b01e5bdbfb77bd796eb2e022dc49c7636442c3b7d9a144d77afb110e1266b",
+      "canvas": [
+        128,
+        264
+      ],
+      "opaque_bounds_half_open": [
+        30,
+        13,
+        98,
+        253
+      ],
+      "visible_body_height": 240,
+      "visible_colors": 64,
+      "palette_entries_including_transparent": 65,
+      "binary_alpha": true,
+      "native_export_seed_reopen_exact": true,
+      "disjoint_owners_reassemble_exactly": true,
+      "owner_pixel_counts": {
+        "lowerbody-cloth-boots": 4367,
+        "torso-cloth-armor": 2119,
+        "waist-wrap-sword": 979,
+        "far-hand": 41,
+        "near-arm-guard-hand": 1464,
+        "head-hair-face": 1090
+      },
+      "frame_count": 1,
+      "duration_ms": 100,
+      "coverage": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          128,
+          264
+        ],
+        "region_half_open": [
+          0,
+          0,
+          128,
+          264
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "useful_local_edit": {
+        "purpose": "duplicate-only widening of the existing bracer ridge highlight; show target metal panel can be revised without hair/body/sword changes",
+        "changed_pixels": 24,
+        "only_layer": "near-arm-guard-hand",
+        "protected_native_pass": true,
+        "fresh_reopen_exact": true,
+        "master_unchanged": true
+      },
+      "user_visual_approval": "pending",
+      "runtime": "root-owned separate evidence"
+    },
+    "05": {
+      "passed": true,
+      "native_sha256": "4a361b5f7b994b5a8c58a0df0aa70441bf331a3b27c2d08d4c4dc7a5449343b6",
+      "png_sha256": "a7ca6984874b4ba667ece4d99da2e5c6fec54b4b2760f31ead7625273ed84c6e",
+      "canvas": [
+        128,
+        264
+      ],
+      "opaque_bounds_half_open": [
+        30,
+        13,
+        97,
+        253
+      ],
+      "visible_body_height": 240,
+      "visible_colors": 64,
+      "palette_entries_including_transparent": 65,
+      "binary_alpha": true,
+      "native_export_seed_reopen_exact": true,
+      "disjoint_owners_reassemble_exactly": true,
+      "owner_pixel_counts": {
+        "lowerbody-cloth-boots": 4415,
+        "torso-cloth-armor": 2181,
+        "waist-wrap-sword": 995,
+        "far-hand": 40,
+        "near-arm-guard-hand": 1449,
+        "head-hair-face": 1094
+      },
+      "frame_count": 1,
+      "duration_ms": 100,
+      "coverage": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          128,
+          264
+        ],
+        "region_half_open": [
+          0,
+          0,
+          128,
+          264
+        ],
+        "hole_components_xy": [],
+        "hole_pixels_xy": [],
+        "missing_solid_pixels_xy": [],
+        "boundary": "Alpha coverage only; intentional gaps require visual review."
+      },
+      "useful_local_edit": {
+        "purpose": "duplicate-only widening of the existing bracer ridge highlight; show target metal panel can be revised without hair/body/sword changes",
+        "changed_pixels": 24,
+        "only_layer": "near-arm-guard-hand",
+        "protected_native_pass": true,
+        "fresh_reopen_exact": true,
+        "master_unchanged": true
+      },
+      "user_visual_approval": "pending",
+      "runtime": "root-owned separate evidence"
+    }
+  },
+  "u03_u05": {
+    "changed_pixels": 154,
+    "bounds_half_open": [
+      35,
+      48,
+      66,
+      65
+    ],
+    "all_changes_within_source_supported_shoulder": true,
+    "masks_identical": true,
+    "per_native_owner_changed_pixels": {
+      "lowerbody-cloth-boots": 0,
+      "torso-cloth-armor": 154,
+      "waist-wrap-sword": 0,
+      "far-hand": 0,
+      "near-arm-guard-hand": 0,
+      "head-hair-face": 0
+    }
+  },
+  "smoke_negative_control": {
+    "rejected": true,
+    "check": {
+      "passed": false,
+      "failures": [
+        "protected_pixels_changed"
+      ],
+      "canvas": [
+        16,
+        16
+      ],
+      "changed_pixels": 1,
+      "outside_mask_changed_pixels": 1,
+      "outside_mask_examples_xy": [
+        [
+          0,
+          0
+        ]
+      ],
+      "changed_bbox_half_open": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "visible_colors_before": 3,
+      "visible_colors_after": 3,
+      "new_visible_rgb_colors": [],
+      "partial_alpha_pixels": 0,
+      "visible_pixels": 12,
+      "silhouette_changed_pixels": 1,
+      "alpha_changed_pixels": 1,
+      "boundary": "PNG checks only; native layers, likeness and user approval are not certified."
+    }
+  },
+  "existing_current_baseline": {
+    "sha256": "f4cb8fff0a460cde6845fb15bc0c5e3271259d9d38d5f3efa051e4970b2e6127",
+    "expected_sha256": "f4cb8fff0a460cde6845fb15bc0c5e3271259d9d38d5f3efa051e4970b2e6127",
+    "unchanged": true
+  }
+}

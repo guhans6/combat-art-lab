@@ -1,0 +1,163 @@
+{
+  "frame_key_mapping": [
+    0,
+    1,
+    2,
+    1
+  ],
+  "frames": [
+    {
+      "skull_top": [
+        47,
+        10
+      ],
+      "near_shoulder": [
+        38,
+        40
+      ],
+      "near_elbow_inferred": [
+        37,
+        64
+      ],
+      "near_wrist": [
+        43,
+        79
+      ],
+      "waist_inferred": [
+        46,
+        84
+      ],
+      "near_knee_inferred": [
+        38,
+        120
+      ],
+      "near_ankle": [
+        36,
+        136
+      ],
+      "far_ankle": [
+        51,
+        137
+      ],
+      "soles": [
+        47,
+        146
+      ]
+    },
+    {
+      "skull_top": [
+        47,
+        9
+      ],
+      "near_shoulder": [
+        38,
+        39
+      ],
+      "near_elbow_inferred": [
+        36,
+        64
+      ],
+      "near_wrist": [
+        43,
+        79
+      ],
+      "waist_inferred": [
+        46,
+        84
+      ],
+      "near_knee_inferred": [
+        38,
+        120
+      ],
+      "near_ankle": [
+        36,
+        136
+      ],
+      "far_ankle": [
+        51,
+        137
+      ],
+      "soles": [
+        47,
+        146
+      ]
+    },
+    {
+      "skull_top": [
+        46,
+        9
+      ],
+      "near_shoulder": [
+        37,
+        38
+      ],
+      "near_elbow_inferred": [
+        35,
+        63
+      ],
+      "near_wrist": [
+        42,
+        78
+      ],
+      "waist_inferred": [
+        46,
+        84
+      ],
+      "near_knee_inferred": [
+        38,
+        120
+      ],
+      "near_ankle": [
+        36,
+        136
+      ],
+      "far_ankle": [
+        51,
+        137
+      ],
+      "soles": [
+        47,
+        146
+      ]
+    },
+    {
+      "skull_top": [
+        47,
+        9
+      ],
+      "near_shoulder": [
+        38,
+        39
+      ],
+      "near_elbow_inferred": [
+        36,
+        64
+      ],
+      "near_wrist": [
+        43,
+        79
+      ],
+      "waist_inferred": [
+        46,
+        84
+      ],
+      "near_knee_inferred": [
+        38,
+        120
+      ],
+      "near_ankle": [
+        36,
+        136
+      ],
+      "far_ankle": [
+        51,
+        137
+      ],
+      "soles": [
+        47,
+        146
+      ]
+    }
+  ],
+  "caution": "skull/shoulder/wrist operational pixel sites; elbows/waist/knees inferred anatomical routes; lower sites fixed; not skeletal proof"
+}

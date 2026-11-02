@@ -1,0 +1,14 @@
+{
+  "protected_files": 2387,
+  "changed": [],
+  "broken_links": [],
+  "engine_rerun": false,
+  "validator": "Official quick_validate.py PASS using existing Python 3.11/PyYAML 6.0.3; supplementary Ruby YAML PASS",
+  "current_manifest_artifacts": 483,
+  "manifest_mismatches": [],
+  "credential_pattern_alerts": [],
+  "workflow_whitespace_check": "PASS",
+  "full_preservation_whitespace_check": "Warnings in preserved references/licenses/history; intentionally retained exact bytes",
+  "skill_symlink_resolves": true,
+  "runtime_skill_catalog_refresh": "Not tested"
+}

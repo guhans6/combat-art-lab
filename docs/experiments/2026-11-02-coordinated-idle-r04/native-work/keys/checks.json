@@ -1,0 +1,161 @@
+{
+  "checks": [
+    {
+      "frame": 0,
+      "native_export_equal": true,
+      "fixed_native_owners_equal_rest": {
+        "far-leg-pants": true,
+        "near-leg-pants": true,
+        "far-boot-cuff-fixed": true,
+        "near-boot-cuff-fixed": true,
+        "pelvis-root": true,
+        "coat-back-skirt": true
+      },
+      "lower_y96_onwards_equal_rest": true
+    },
+    {
+      "frame": 1,
+      "native_export_equal": true,
+      "fixed_native_owners_equal_rest": {
+        "far-leg-pants": true,
+        "near-leg-pants": true,
+        "far-boot-cuff-fixed": true,
+        "near-boot-cuff-fixed": true,
+        "pelvis-root": true,
+        "coat-back-skirt": true
+      },
+      "lower_y96_onwards_equal_rest": true
+    },
+    {
+      "frame": 2,
+      "native_export_equal": true,
+      "fixed_native_owners_equal_rest": {
+        "far-leg-pants": true,
+        "near-leg-pants": true,
+        "far-boot-cuff-fixed": true,
+        "near-boot-cuff-fixed": true,
+        "pelvis-root": true,
+        "coat-back-skirt": true
+      },
+      "lower_y96_onwards_equal_rest": true
+    }
+  ],
+  "landmarks": [
+    {
+      "skull_top": [
+        47,
+        10
+      ],
+      "near_shoulder": [
+        38,
+        40
+      ],
+      "near_elbow_inferred": [
+        37,
+        64
+      ],
+      "near_wrist": [
+        43,
+        79
+      ],
+      "waist_inferred": [
+        46,
+        84
+      ],
+      "near_knee_inferred": [
+        38,
+        120
+      ],
+      "near_ankle": [
+        36,
+        136
+      ],
+      "far_ankle": [
+        51,
+        137
+      ],
+      "soles": [
+        47,
+        146
+      ]
+    },
+    {
+      "skull_top": [
+        47,
+        9
+      ],
+      "near_shoulder": [
+        38,
+        39
+      ],
+      "near_elbow_inferred": [
+        36,
+        64
+      ],
+      "near_wrist": [
+        43,
+        79
+      ],
+      "waist_inferred": [
+        46,
+        84
+      ],
+      "near_knee_inferred": [
+        38,
+        120
+      ],
+      "near_ankle": [
+        36,
+        136
+      ],
+      "far_ankle": [
+        51,
+        137
+      ],
+      "soles": [
+        47,
+        146
+      ]
+    },
+    {
+      "skull_top": [
+        46,
+        9
+      ],
+      "near_shoulder": [
+        37,
+        38
+      ],
+      "near_elbow_inferred": [
+        35,
+        63
+      ],
+      "near_wrist": [
+        42,
+        78
+      ],
+      "waist_inferred": [
+        46,
+        84
+      ],
+      "near_knee_inferred": [
+        38,
+        120
+      ],
+      "near_ankle": [
+        36,
+        136
+      ],
+      "far_ankle": [
+        51,
+        137
+      ],
+      "soles": [
+        47,
+        146
+      ]
+    }
+  ],
+  "landmark_caution": "elbows/pelvis/knees are inferred routes; sites are operational points, not proof of skeleton",
+  "source_sha256": "afbb2f8b9d947890b1eedc53be03f3950e234ad53d81559a7537b25b44622665"
+}

@@ -1,0 +1,12 @@
+# Lead checkpoint review — stealth fighter idle r01
+
+Exact appearance anchor: selected Current A, game-specific-r01/silver-pines/corrected.png SHA256 a3cc3ab1d658ac3d2d464ef4781ed966e815c7eedeefcf5801d81ca93924ab9c. User explicitly clarified far-left Current A, no new beard variant selected. Current view retained; provisional motion approval only.
+
+Static checkpoint: lead visually inspected actual source fullbody and seed-4x.png, then native-export.png, source-seed-native-3x.png and actual-owner-isolated-2x.png. Broad shapes/face/beard/half-tie/material roles recognizable. Source-derived seed128x264, visible240pxbody. Native-export RGBA equals rawseed exactly. Binaryalpha0/255,32visiblecolors. Body/grid chosen solely for this small pilot; hairtie and face material simplify from original. Continue to structural keys permitted, not final art approval.
+
+Initial structural keys: lead made keys-3x.png and upper-keys-5x.png from actual native-rest/transition/apex PNGs. Wholeform proportions and plantedfeet appear stable, rest and transition retain connected chest/arm/neck. Apex introduces clear alpha slit under shoulderarmor and dotted transparent gaps upperarm↔torso, nearwaist/forearm. Transparent seam exposed on magenta matte confirms actual alpha, not mere darker paint. STOP cycle propagation; requested one scoped backing/contour repair on actual owners and fresh native exports. This failed key is preserved evidence, not offered as valid animation.
+
+Review method: still poses at1x/native,3x and5x; no temporal motion perception claimed. Subsequent key/cycle decisions must append exact artifact paths/hash and observed joints/material continuity.
+
+
+Final clearance: repaired-contrast-keys-5x.png directly inspected; original shoulder/arm/waist holes closed coherently. Forearm-owner reassignment leaves repaired composite exact. Lead cleared same3keys for5frame3000ms cycle, then directly inspected final-cycle-2x.png and Godot runtime-frame-02.png. Quiet material masses/face/beard and stable waist/feet retained; no new obvious still defect found. Exactfinalnative e839783e58f01e61b1839f18ee6208437ec9424c0403a148f331f32e9ad653fd; cycle PNGs match native/reopened exports. Engine4.7.2 recorded3loops/all5captures, allnativeopaque actorpixels match exports, finalerrors[] andengine stopped. ExplicitpaletteGIF5frames/timings verified after rawMCPGIFnearblackRGBremap found; sourceartunchanged. Continuousmotion perception/user approval remain unverified. Finalcandidate is eligible for user motion review, not final art/grid approval.

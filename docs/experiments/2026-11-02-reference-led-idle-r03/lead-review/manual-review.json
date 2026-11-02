@@ -1,0 +1,29 @@
+{
+  "packet_sha256": "96b6c04fd7dd371eb72e9361175a76f6bd7b786831fb6b38e519a4b34bc6b6ee",
+  "native_sha256": "afbb2f8b9d947890b1eedc53be03f3950e234ad53d81559a7537b25b44622665",
+  "reviewer": "lead Sol6.1; nativeeditor separate",
+  "reviewed": [
+    "keys/keys-3x.png",
+    "keys/sink-lower-ownership.png",
+    "keys/knees-ankles-contrast-3x.png",
+    "keys/sink-landmarks-3x.png",
+    "lead native-keys-3x.png",
+    "lead cycle-2x.png",
+    "actualGodot runtime-frame-02.png"
+  ],
+  "target_improvement": {
+    "decision": "continue as reference-led samplecandidate",
+    "observations": "Chest width and registered upper material shapes remainexactREST. Wholebody/pelvis movesdown2 thenrecovers, bootcontacts fixed andkneecalfcontoursadapt. Removes separate chestpuff mechanism ratherthanjustrescaling it. Environmentdoorframe/floor/shadowfixed; sampleslowertiming proposed1400ms vs400/800mspreviewcombatrefs, not claimedcreatornative."
+  },
+  "regressions_and_connections": {
+    "decision": "continue as samplecandidate",
+    "observations": "Actualnativeownerhidden legs exposeinferredhip\u2192knee\u2192ankleroutes; pantsedgeabutsfixedcuff with11near/9far sharedcontactpixels atdeepkey, no alphaleak/detachedboot. Coats/pelvis coverupperlegjoints; skullneckcollarsleeves keepregisteredrestrelationships. SourceREST exact; palette/boots protected. Legshapechanges purposeful, no newobviousstillmaterial/identitydefect. Limited3integerheightposes may stillfeelstepped. Cuffhiddenextensionsnotbuilt, notfullarbitraryrig."
+  },
+  "reference_evidence": [
+    "LuizMelo MartialHero2 actual4frameidleGIF/contacts",
+    "LuizMelo MartialHero actual8frameidleGIF/contacts",
+    "Saint11actualcharacterIdle tutorialGIF/4samplecontact"
+  ],
+  "perception": "Stillframes/contacts and actualenginecapture inspected; continuous temporalnaturalness unverified. GIFcontainsrealGodotposecaptures reconstructed atauthoredtiming, notcontinuousvideocapture.",
+  "user_approval": "pending; disposable sampleonly; no fighterdesignapplication"
+}

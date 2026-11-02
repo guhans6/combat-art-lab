@@ -1,0 +1,25 @@
+{
+  "route": "precise-object-edit",
+  "tool": "built-in image_gen",
+  "generation_count": 1,
+  "transparent_background": false,
+  "requested_dimensions": {
+    "width": 1024,
+    "height": 1536
+  },
+  "input_path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/hair-r01/A/raw.png",
+  "input_sha256": "623d0d475645917b3ec7dfb8f218032ca5b268c06643abf4d54e5a17fd49e75c",
+  "input_dimensions": {
+    "width": 1024,
+    "height": 1536
+  },
+  "prompt": "Use case: precise-object-edit\nAsset type: C option in the frozen three-hairstyle character-concept comparison.\nInput image: Image 1 is the sole edit target and canonical anchor.\nPrimary request: Make one strictly localized hair-only edit. Replace only the existing low nape ponytail with hairstyle C: fully LOOSE long near-black hair, swept BACK off the face, flowing naturally behind the visible ear and neck, ending at the UPPER BACK with a clearly loose outer silhouette. There must be no ponytail, no hair tie, no top knot, no bun, and no tied section. Preserve the same exposed hairline, face visibility, near-black color, broad pixel shading, deliberate pixel clusters, natural texture, and length family.\nConstraints: Keep every other pixel and feature exactly unchanged as far as the edit system permits: the exact face pixels, facial features, expression, skin, ear, eye, nose, stubble; adult body proportions and pose; all armor, clothing, straps, folds, rust waist tie, boots, sword; background; lighting; scale; full 1024 × 1536 portrait canvas; and existing head and foot positions. Do not redraw, rescale, crop, reposition, recenter, recolor, or restyle any non-hair area. Preserve the existing anchor even where it has extra straps, a long waist tie, and high boots. Change hair plus only the immediately revealed or occluded neck, shoulder, or background pixels strictly necessary for the loose-hair silhouette.\nAvoid: any change to outfit, face, body, pose, sword, boots, background, shadows, lighting, composition, or canvas dimensions; no new text, logo, watermark, characters, or props.",
+  "source_output_path": "/Users/guhan/.codex/generated_images/01a1975a-1423-78c3-b0dc-f7418669ee61/exec-2bd924d2-5dc2-4839-b358-fc2ad7d81d75.png",
+  "copied_raw_path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/hair-r01/C/raw.png",
+  "raw_sha256": "f05a3e6c4c7f7da7f93dbfc283ce5aff81b97b60c265bbbd2e2ed8529a275f59",
+  "measured_dimensions": {
+    "width": 1024,
+    "height": 1536
+  },
+  "output_status": "Copied without alteration from the sole built-in localized edit of A."
+}

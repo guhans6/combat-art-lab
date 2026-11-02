@@ -1,0 +1,135 @@
+{
+	"captured": [
+		0,
+		1,
+		2,
+		3
+	],
+	"display_server": "macOS",
+	"engine": "4.7.2-stable (official)",
+	"events": [
+		{
+			"frame": 0,
+			"ms": 741,
+			"root": [
+				130.0,
+				47.0
+			]
+		},
+		{
+			"frame": 1,
+			"ms": 1301,
+			"root": [
+				130.0,
+				47.0
+			]
+		},
+		{
+			"frame": 2,
+			"ms": 1567,
+			"root": [
+				130.0,
+				47.0
+			]
+		},
+		{
+			"frame": 3,
+			"ms": 2059,
+			"root": [
+				130.0,
+				47.0
+			]
+		},
+		{
+			"frame": 0,
+			"ms": 2407,
+			"root": [
+				130.0,
+				47.0
+			]
+		},
+		{
+			"frame": 1,
+			"ms": 3098,
+			"root": [
+				130.0,
+				47.0
+			]
+		},
+		{
+			"frame": 2,
+			"ms": 3358,
+			"root": [
+				130.0,
+				47.0
+			]
+		},
+		{
+			"frame": 3,
+			"ms": 3861,
+			"root": [
+				130.0,
+				47.0
+			]
+		},
+		{
+			"frame": 0,
+			"ms": 4207,
+			"root": [
+				130.0,
+				47.0
+			]
+		},
+		{
+			"frame": 1,
+			"ms": 4890,
+			"root": [
+				130.0,
+				47.0
+			]
+		},
+		{
+			"frame": 2,
+			"ms": 5157,
+			"root": [
+				130.0,
+				47.0
+			]
+		},
+		{
+			"frame": 3,
+			"ms": 5642,
+			"root": [
+				130.0,
+				47.0
+			]
+		}
+	],
+	"filter": "nearest",
+	"layout": {
+		"body_height": 240.0,
+		"durations_ms": [
+			700.0,
+			260.0,
+			500.0,
+			340.0
+		],
+		"feet_y": 253.0,
+		"files": [
+			"idle-0.png",
+			"idle-1.png",
+			"idle-2.png",
+			"idle-3.png"
+		],
+		"grid_status": "main Current A provisional native study; fixed128pxrestprojection",
+		"native_canvas": [
+			128.0,
+			264.0
+		]
+	},
+	"loops": 3,
+	"viewport": [
+		640,
+		360
+	]
+}

@@ -1,0 +1,111 @@
+{
+  "passed": true,
+  "failures": [],
+  "layers": [
+    {
+      "name": "lowerbody-cloth-boots",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        264
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        264
+      ]
+    },
+    {
+      "name": "torso-cloth-armor",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        264
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        264
+      ]
+    },
+    {
+      "name": "waist-wrap-sword",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        264
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        264
+      ]
+    },
+    {
+      "name": "far-hand",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        264
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        264
+      ]
+    },
+    {
+      "name": "near-arm-guard-hand",
+      "changed_pixels": 24,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        264
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        264
+      ]
+    },
+    {
+      "name": "head-hair-face",
+      "changed_pixels": 0,
+      "protected_changed_pixels": 0,
+      "before_cel": [
+        0,
+        0,
+        128,
+        264
+      ],
+      "after_cel": [
+        0,
+        0,
+        128,
+        264
+      ]
+    }
+  ],
+  "frame_metadata_equal": true,
+  "layer_metadata_equal": true,
+  "header_equal": true
+}

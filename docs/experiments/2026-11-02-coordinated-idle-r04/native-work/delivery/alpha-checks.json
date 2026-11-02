@@ -1,0 +1,85 @@
+{
+  "passed": true,
+  "frames": [
+    {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        96,
+        160
+      ],
+      "region_half_open": [
+        28,
+        6,
+        66,
+        148
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "/private/tmp/atmospheric-idle-sample-r04/delivery/idle-0.png",
+      "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4"
+    },
+    {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        96,
+        160
+      ],
+      "region_half_open": [
+        28,
+        6,
+        66,
+        148
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "/private/tmp/atmospheric-idle-sample-r04/delivery/idle-1.png",
+      "sha256": "fc59cdd0158a23700f5a2bea203e0505d77487d20bcb58ebbe13440be1a26721"
+    },
+    {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        96,
+        160
+      ],
+      "region_half_open": [
+        28,
+        6,
+        66,
+        148
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "/private/tmp/atmospheric-idle-sample-r04/delivery/idle-2.png",
+      "sha256": "8e2a4edbdf8b6df10737278fb6c66661884f4c14560b989322c57afc6ca6d02b"
+    },
+    {
+      "passed": true,
+      "failures": [],
+      "canvas": [
+        96,
+        160
+      ],
+      "region_half_open": [
+        28,
+        6,
+        66,
+        148
+      ],
+      "hole_components_xy": [],
+      "hole_pixels_xy": [],
+      "missing_solid_pixels_xy": [],
+      "boundary": "Alpha coverage only; intentional gaps require visual review.",
+      "file": "/private/tmp/atmospheric-idle-sample-r04/delivery/idle-3.png",
+      "sha256": "fc59cdd0158a23700f5a2bea203e0505d77487d20bcb58ebbe13440be1a26721"
+    }
+  ]
+}

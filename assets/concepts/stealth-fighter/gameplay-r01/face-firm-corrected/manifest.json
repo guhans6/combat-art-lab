@@ -1,0 +1,23 @@
+{
+  "prompt": "Create ONE isolated head and upper neck concept study of the SAME character in the attached reference. The attachment is the identity, hair, collar, palette, lighting, and face-angle anchor, not a background reference. Crop to head and upper neck, facing RIGHT at the same shallow three-quarter angle. He is a calm, intent, neutral young brown-skinned man in his early-to-mid twenties. For this one variant give him lean cheeks, a slightly squarer, firmer jaw and a somewhat stronger straight brow, with light stubble. Preserve his long dark HALF-TIED hair, loose hair masses, dark collar, skin and clothing colors, and original restrained warm edge light on the character with cool shadows. Do not add any accessory, hairstyle change, costume change, smile, or new expression. Render as simple low-detail pixel art: broad shadow planes and sparse eye, nose and mouth marks; the face should have roughly the visual information of a 45-pixel-tall face enlarged into clear deliberate pixel clusters. Much simpler than a detailed portrait. No realistic rendering, anime, beauty portrait, pores, or fine high-resolution hair strands. Transparent background, completely clear outside the character: no halo, glow, smoke, or environment.",
+  "reference": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/atmosphere-r01/A/simplified-01.png",
+  "reference_role": "Identity, hair, collar, palette, lighting and face-angle anchor; not background",
+  "reference_sha256": "e1dcf18e72ce22b8b6c6031d0f00da91259dcbf4c2bfbb0e0c12c8d1c56b6e1e",
+  "tool": "built-in image_gen, one call",
+  "transparent_background_requested": true,
+  "returned_output_path": "/Users/guhan/.codex/generated_images/01a197f6-ac6c-7f72-a144-390db0f938d9/exec-0fd12f0b-b6f2-4d87-b1d3-5688ff9daa4e.png",
+  "raw_sha256": "ef6731dc45fa7169dea6d026a5eb04cca8662268c5e019fae14a44acbc6db3e9",
+  "dimensions": [
+    1314,
+    1197
+  ],
+  "mode": "RGBA",
+  "alpha": {
+    "min": 0,
+    "max": 255,
+    "transparent_pixels": 681621,
+    "partial_alpha_pixels": 889413,
+    "opaque_pixels": 1824
+  },
+  "self_review": "Head and collar face right with long tied-back dark hair and warm edge lighting. The face has a firmer jaw and brow, but its facial features, stubble, and hair are still too detailed for the requested roughly 45-pixel visual language. Expression and angular features read more severe and mature than intended. Transparency exists; edge color and isolated pixels require visual scrutiny. Concept only; no user approval, native construction, animation or Godot validation."
+}

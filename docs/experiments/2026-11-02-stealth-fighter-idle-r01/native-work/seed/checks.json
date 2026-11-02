@@ -1,0 +1,21 @@
+{
+  "raw_native_pixel_exact": true,
+  "native_size": [
+    128,
+    264
+  ],
+  "body_bounds": [
+    29,
+    13,
+    100,
+    253
+  ],
+  "visible_body_height": 240,
+  "alpha_values": [
+    0,
+    255
+  ],
+  "visible_rgb_count": 32,
+  "source_sha256": "a3cc3ab1d658ac3d2d464ef4781ed966e815c7eedeefcf5801d81ca93924ab9c",
+  "native_sha256": "8a4385210bd323bccfe1d9dc1ec446f1f18e24983e899f714538eb8f58898c4f"
+}

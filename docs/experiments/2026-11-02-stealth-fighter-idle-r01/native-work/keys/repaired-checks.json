@@ -1,0 +1,25 @@
+{
+  "rest": {
+    "holes": [],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  "transition": {
+    "holes": [],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  "apex": {
+    "holes": [],
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  "lower_y153_exact": true,
+  "native_sha256": "09cb8ff330538fb57ed67eaedfd0f1e931e7a4d20b0e3ebca5366301674512fc"
+}

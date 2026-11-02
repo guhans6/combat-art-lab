@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "python": "3.11.13",
+  "python_executable": "/Users/guhan/.pyenv/versions/3.11.13/bin/python3",
+  "pillow": "12.0.0",
+  "aseprite": {
+    "found": true,
+    "executable": "/Applications/Aseprite.app/Contents/MacOS/aseprite",
+    "size_bytes": 31938552,
+    "version_probe": "not_run",
+    "version_probe_reason": "Direct Aseprite launch was not requested. This inventory does not establish headless MCP readiness; run the configured MCP preflight under the editor-lease procedure for that boundary."
+  },
+  "node": {
+    "found": true,
+    "executable": "/Users/guhan/.local/bin/node",
+    "returncode": 0,
+    "version_output": "v26.9.0"
+  },
+  "uv": {
+    "found": true,
+    "executable": "/opt/homebrew/bin/uv",
+    "returncode": 0,
+    "version_output": "uv 0.12.17 (Homebrew 2026-09-18 aarch64-apple-darwin)"
+  },
+  "client_executables": {
+    "claude": null,
+    "gemini": null,
+    "codex": "/Users/guhan/.local/bin/codex",
+    "opencode": "/opt/homebrew/bin/opencode"
+  },
+  "mcp_connection": "not_tested",
+  "image_delivery_to_model": "not_tested",
+  "native_edit_smoke": "not_tested",
+  "note": "Presence/version inventory is not a working-toolchain test. Review setup.md."
+}

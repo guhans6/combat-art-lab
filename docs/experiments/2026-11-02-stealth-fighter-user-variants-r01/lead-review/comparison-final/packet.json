@@ -1,0 +1,1664 @@
+{
+  "schema_version": 1,
+  "baseline_role": "Retained initial source-derived median-cut conversions, not user-approved sprites. Candidate repairs source fidelity and alpha; four supplied designs remain separate, no winning design selected.",
+  "registration_claim": "Per-source same128x264grid/body240/root253, no pose fitting acrossrepair. Gameplay152isfixed152/240scale. Source03/05shareexactregistration/palette.",
+  "sources": [
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-spec.json",
+      "role": "spec",
+      "sha256": "cee43b7d62281511c1ce2c4b2110101b65193c58d34c50cd9ac6995c5a01f590"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-01/static.aseprite",
+      "role": "Look1 finalnative",
+      "sha256": "6edf22ccca5e5ecc53caaa55f577b201d829153ff8430e391a9be13d44b7c002"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/inputs/user-01.png",
+      "role": "Look1 suppliedoriginal",
+      "sha256": "2641cb307b2691943cf06efcff4c6c0738847a0123c0882b3bedc3f6f39aef71"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-01/recipe.json",
+      "role": "Look1 extractionandpalette recipe",
+      "sha256": "d4def8038a016b7cddc16446653da1b8d745e122e8451f6146c3e6efd6fd95ee"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-01/source-mask-review-3x.png",
+      "role": "Look1 source-mask reference review",
+      "sha256": "808c5ae52c61b908e84a31eb000e58b95a6056b05fe616094aea7a6488877ea1"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-03/static.aseprite",
+      "role": "Look3 finalnative",
+      "sha256": "7cf57a3fe73afc2b9531c6c8ec3ead8ae030b664a4dd0f078ef9ba7e03879a26"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/inputs/user-03.png",
+      "role": "Look3 suppliedoriginal",
+      "sha256": "d0e3227a832751abe99ff0784b40f6c0db58d6dce04a30c9746f4581b80a8873"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-03/recipe.json",
+      "role": "Look3 extractionandpalette recipe",
+      "sha256": "0c53d8d0e1feb3954283ddfcad1920289c057a8852a4646f91048bb6903ead41"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-03/source-mask-review-3x.png",
+      "role": "Look3 source-mask reference review",
+      "sha256": "33a12417012111bfb45d4a28634280b6a73c3e7be1829fb48116b4b122d2df01"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-04/static.aseprite",
+      "role": "Look4 finalnative",
+      "sha256": "bbbffc7131e79e7e129375fea984a59f41fb666be42e00e4bd36b7547f6ebf29"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/inputs/user-04.png",
+      "role": "Look4 suppliedoriginal",
+      "sha256": "1eb37a951a9014b344b8fdac88b4f51fdc47735f1475fea3883ce288a11ed0ef"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-04/recipe.json",
+      "role": "Look4 extractionandpalette recipe",
+      "sha256": "92cdf3378f422204f78611bd4432a59ebfe0ad6fb07b550510c213b7502b67bf"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-04/source-mask-review-3x.png",
+      "role": "Look4 source-mask reference review",
+      "sha256": "d04f2bc01e9c8b95d8e3de5bfe8ed42c8c7ea20eced1ddf511fb5664ad2baf15"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-05/static.aseprite",
+      "role": "Look5 finalnative",
+      "sha256": "4a361b5f7b994b5a8c58a0df0aa70441bf331a3b27c2d08d4c4dc7a5449343b6"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/inputs/user-05.png",
+      "role": "Look5 suppliedoriginal",
+      "sha256": "9eb4144c4d60a60c920e6a1b255a0210d7fa699a16a630641665b8ee305729b3"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-05/recipe.json",
+      "role": "Look5 extractionandpalette recipe",
+      "sha256": "ac823ed7f47f1c13d51b12b4453da44060dbefde74054227a1e13277af3ae031"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-05/source-mask-review-3x.png",
+      "role": "Look5 source-mask reference review",
+      "sha256": "3919c9efe35b4e959efb1a37882046bcdd85b2b9b2f0256308370c4bf198aabb"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/checks.json",
+      "role": "native technical proofs",
+      "sha256": "a8ff9167372205e26928ab430df9f60a6d08f3d25a2ffa3a3d9a3efd94af7fe6"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/review/final-static-review.md",
+      "role": "independent visual/source/context review",
+      "sha256": "6a1da4a0d455f9de27456946e4b22b32e83a5e7723b4a751f87f0b7e99e40ebb"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/render-audit.json",
+      "role": "actualenginepixelcheck",
+      "sha256": "7a754157e80d764b82755c4ef18187c754f838ce47cbbc04db3456ceba4cbbc0"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/five-looks-152.png",
+      "role": "actualengine152comparisons",
+      "sha256": "8db855a35445b27094d57f3c5152426d5268c40c768a867718205ed682eb9433"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/raw-seed.png",
+      "role": "Look1 baseline",
+      "sha256": "b60c37d6c6ab73113402e146690e6222b7e52548844857aa32a0912c800404f2"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-01/static.png",
+      "role": "Look1 candidate",
+      "sha256": "f5ddce534af241fe3e60591ace51a404330a246b22e240a761c67d67d0cc78a5"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/allowed-variant-01.png",
+      "role": "Look1 allowed edit mask",
+      "sha256": "3191352ecd43f98e3a5f24e03756133ef29a30ca01365bfca6bec51b629bc333"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-03/pass00-mediancut/raw-seed.png",
+      "role": "Look3 baseline",
+      "sha256": "af3cb24b4e0a4b4d8de08c0e57831efa592a6573679713f07909dec9d8461e44"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-03/static.png",
+      "role": "Look3 candidate",
+      "sha256": "46ed03b35b3a2be0adff758eddedc8fd5f13b78c829bab86aaf43d6165d73df6"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/allowed-variant-03.png",
+      "role": "Look3 allowed edit mask",
+      "sha256": "416fc45ee7b6e2c316f46e9aa52319eea1af10f7ca9ed16b0d9d814008cf1fac"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-04/pass00-mediancut/raw-seed.png",
+      "role": "Look4 baseline",
+      "sha256": "aa9949593d06919f6517ac5ac2deacea37851fe756715ef875e98dc51072a91b"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-04/static.png",
+      "role": "Look4 candidate",
+      "sha256": "341b01e5bdbfb77bd796eb2e022dc49c7636442c3b7d9a144d77afb110e1266b"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/allowed-variant-04.png",
+      "role": "Look4 allowed edit mask",
+      "sha256": "379087a74a1347da0d0a8fc21abec2dc59e2a3040f94e6f4a445a4c0782e455f"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-05/pass00-mediancut/raw-seed.png",
+      "role": "Look5 baseline",
+      "sha256": "5dce45a831ff74f93e6cfc0c0bb03ab42a90c107ba859cc204813606b6b781c6"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/native-work/variant-05/static.png",
+      "role": "Look5 candidate",
+      "sha256": "a7ca6984874b4ba667ece4d99da2e5c6fec54b4b2760f31ead7625273ed84c6e"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/allowed-variant-05.png",
+      "role": "Look5 allowed edit mask",
+      "sha256": "416fc45ee7b6e2c316f46e9aa52319eea1af10f7ca9ed16b0d9d814008cf1fac"
+    }
+  ],
+  "sheets": [
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-000-region-00.png",
+      "sha256": "93f3e58a19d4583a6e968726b7f27e2eefd44238d2283e2138d121644bf43f7d"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-000-region-01.png",
+      "sha256": "88c81757eaeda298f044bdb0d504f130c049bdf62308ac41e8bc56385bc27617"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-000-region-02.png",
+      "sha256": "f8f6a2caf4a01f9fadc59d2ed098543a89c0efc30385d38296dddc241e076e98"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-001-region-00.png",
+      "sha256": "e2f7741964ad67dff6e169bf2477c1033ed9c33ed94435649583709a9fc4bb51"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-001-region-01.png",
+      "sha256": "e76ce8b00427424d072fa1493e84bbc215dfca8bf5f721131f92988a4069dd00"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-001-region-02.png",
+      "sha256": "1e8a2d4b44ec0fa653c97db0664c3cadb77b63dd32d53e8dd9ee33c96c9ebadc"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-002-region-00.png",
+      "sha256": "944f14c08e8b7923feda456beb9cc65ad59a450e91630a2835d5e9d9499f9b06"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-002-region-01.png",
+      "sha256": "326c1ae2a25fcae9b8eb07d98d16cc7cdbd160c844e6c055e8a703b9b086ba4e"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-002-region-02.png",
+      "sha256": "dbacee4d34dcfe56d5d2aa413c5cc272ff3c239501e6effde5928123b9d1ea94"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-003-region-00.png",
+      "sha256": "5b832a1aa283876ba300b0740f38faaa3f40162a1792b90f73704ec6a1642023"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-003-region-01.png",
+      "sha256": "e46f241ac74be4efc06d2a264093ce3e047be1bfeaf98d3cfe31c1bc0e275aea"
+    },
+    {
+      "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-003-region-02.png",
+      "sha256": "aa1df4935ae7ae2af654b03d4e9a416f6a2ea4f8c9c28e110da3c80a33f529fe"
+    }
+  ],
+  "frames": [
+    {
+      "id": "Look1",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          128,
+          264
+        ],
+        "changed_pixels": 9548,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          30,
+          13,
+          99,
+          253
+        ],
+        "visible_colors_before": 64,
+        "visible_colors_after": 64,
+        "new_visible_rgb_colors": [
+          [
+            3,
+            8,
+            17
+          ],
+          [
+            14,
+            14,
+            18
+          ],
+          [
+            22,
+            31,
+            45
+          ],
+          [
+            27,
+            28,
+            33
+          ],
+          [
+            30,
+            31,
+            39
+          ],
+          [
+            33,
+            29,
+            31
+          ],
+          [
+            34,
+            35,
+            43
+          ],
+          [
+            35,
+            38,
+            48
+          ],
+          [
+            37,
+            28,
+            28
+          ],
+          [
+            38,
+            41,
+            52
+          ],
+          [
+            40,
+            34,
+            35
+          ],
+          [
+            41,
+            41,
+            47
+          ],
+          [
+            43,
+            47,
+            59
+          ],
+          [
+            45,
+            49,
+            61
+          ],
+          [
+            46,
+            38,
+            38
+          ],
+          [
+            49,
+            50,
+            57
+          ],
+          [
+            50,
+            42,
+            41
+          ],
+          [
+            52,
+            38,
+            34
+          ],
+          [
+            53,
+            54,
+            65
+          ],
+          [
+            54,
+            45,
+            43
+          ],
+          [
+            56,
+            49,
+            47
+          ],
+          [
+            58,
+            60,
+            67
+          ],
+          [
+            60,
+            44,
+            39
+          ],
+          [
+            60,
+            53,
+            50
+          ],
+          [
+            64,
+            64,
+            72
+          ],
+          [
+            65,
+            57,
+            54
+          ],
+          [
+            66,
+            47,
+            41
+          ],
+          [
+            68,
+            47,
+            38
+          ],
+          [
+            69,
+            60,
+            56
+          ],
+          [
+            69,
+            69,
+            74
+          ],
+          [
+            71,
+            50,
+            42
+          ],
+          [
+            72,
+            70,
+            78
+          ],
+          [
+            74,
+            65,
+            60
+          ],
+          [
+            76,
+            53,
+            42
+          ],
+          [
+            78,
+            69,
+            63
+          ],
+          [
+            83,
+            57,
+            43
+          ],
+          [
+            83,
+            59,
+            48
+          ],
+          [
+            83,
+            72,
+            66
+          ],
+          [
+            89,
+            77,
+            69
+          ],
+          [
+            91,
+            64,
+            51
+          ],
+          [
+            94,
+            82,
+            74
+          ],
+          [
+            96,
+            66,
+            50
+          ],
+          [
+            98,
+            78,
+            66
+          ],
+          [
+            101,
+            88,
+            78
+          ],
+          [
+            103,
+            71,
+            55
+          ],
+          [
+            111,
+            76,
+            55
+          ],
+          [
+            112,
+            96,
+            84
+          ],
+          [
+            117,
+            101,
+            89
+          ],
+          [
+            118,
+            80,
+            58
+          ],
+          [
+            124,
+            84,
+            60
+          ],
+          [
+            127,
+            108,
+            93
+          ],
+          [
+            129,
+            87,
+            61
+          ],
+          [
+            134,
+            90,
+            63
+          ],
+          [
+            136,
+            117,
+            102
+          ],
+          [
+            139,
+            94,
+            65
+          ],
+          [
+            145,
+            103,
+            72
+          ],
+          [
+            150,
+            99,
+            66
+          ],
+          [
+            153,
+            108,
+            74
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 10462,
+        "silhouette_changed_pixels": 412,
+        "alpha_changed_pixels": 412,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "b60c37d6c6ab73113402e146690e6222b7e52548844857aa32a0912c800404f2",
+          "after": "f5ddce534af241fe3e60591ace51a404330a246b22e240a761c67d67d0cc78a5",
+          "mask": "3191352ecd43f98e3a5f24e03756133ef29a30ca01365bfca6bec51b629bc333"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-hair-face-armor",
+          "crop_xyxy_half_open": [
+            24,
+            9,
+            100,
+            78
+          ],
+          "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-000-region-00.png"
+        },
+        {
+          "name": "arm-vest-waist-sword",
+          "crop_xyxy_half_open": [
+            24,
+            67,
+            103,
+            155
+          ],
+          "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-000-region-01.png"
+        },
+        {
+          "name": "lowerbody-sash-boots",
+          "crop_xyxy_half_open": [
+            24,
+            144,
+            103,
+            254
+          ],
+          "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-000-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "Look3",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          128,
+          264
+        ],
+        "changed_pixels": 8702,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          30,
+          13,
+          97,
+          253
+        ],
+        "visible_colors_before": 64,
+        "visible_colors_after": 64,
+        "new_visible_rgb_colors": [
+          [
+            13,
+            11,
+            14
+          ],
+          [
+            15,
+            18,
+            24
+          ],
+          [
+            19,
+            19,
+            24
+          ],
+          [
+            26,
+            27,
+            34
+          ],
+          [
+            29,
+            31,
+            39
+          ],
+          [
+            30,
+            27,
+            30
+          ],
+          [
+            32,
+            34,
+            44
+          ],
+          [
+            35,
+            38,
+            48
+          ],
+          [
+            38,
+            32,
+            33
+          ],
+          [
+            38,
+            42,
+            53
+          ],
+          [
+            39,
+            35,
+            37
+          ],
+          [
+            42,
+            35,
+            35
+          ],
+          [
+            45,
+            52,
+            64
+          ],
+          [
+            46,
+            40,
+            40
+          ],
+          [
+            46,
+            48,
+            55
+          ],
+          [
+            47,
+            37,
+            37
+          ],
+          [
+            47,
+            55,
+            68
+          ],
+          [
+            51,
+            43,
+            43
+          ],
+          [
+            51,
+            58,
+            70
+          ],
+          [
+            55,
+            43,
+            41
+          ],
+          [
+            58,
+            49,
+            47
+          ],
+          [
+            63,
+            47,
+            43
+          ],
+          [
+            64,
+            54,
+            50
+          ],
+          [
+            69,
+            51,
+            43
+          ],
+          [
+            69,
+            58,
+            54
+          ],
+          [
+            74,
+            53,
+            46
+          ],
+          [
+            75,
+            64,
+            58
+          ],
+          [
+            77,
+            49,
+            40
+          ],
+          [
+            80,
+            57,
+            47
+          ],
+          [
+            81,
+            69,
+            62
+          ],
+          [
+            82,
+            55,
+            45
+          ],
+          [
+            83,
+            65,
+            53
+          ],
+          [
+            86,
+            58,
+            47
+          ],
+          [
+            89,
+            61,
+            50
+          ],
+          [
+            89,
+            75,
+            64
+          ],
+          [
+            93,
+            79,
+            68
+          ],
+          [
+            94,
+            66,
+            53
+          ],
+          [
+            97,
+            83,
+            71
+          ],
+          [
+            99,
+            68,
+            53
+          ],
+          [
+            100,
+            80,
+            65
+          ],
+          [
+            101,
+            85,
+            73
+          ],
+          [
+            103,
+            71,
+            56
+          ],
+          [
+            107,
+            93,
+            78
+          ],
+          [
+            108,
+            76,
+            59
+          ],
+          [
+            110,
+            71,
+            52
+          ],
+          [
+            112,
+            76,
+            57
+          ],
+          [
+            117,
+            102,
+            85
+          ],
+          [
+            118,
+            80,
+            60
+          ],
+          [
+            123,
+            83,
+            61
+          ],
+          [
+            124,
+            95,
+            72
+          ],
+          [
+            127,
+            86,
+            62
+          ],
+          [
+            133,
+            90,
+            66
+          ],
+          [
+            133,
+            94,
+            70
+          ],
+          [
+            133,
+            109,
+            81
+          ],
+          [
+            138,
+            96,
+            62
+          ],
+          [
+            142,
+            103,
+            69
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 10174,
+        "silhouette_changed_pixels": 307,
+        "alpha_changed_pixels": 307,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "af3cb24b4e0a4b4d8de08c0e57831efa592a6573679713f07909dec9d8461e44",
+          "after": "46ed03b35b3a2be0adff758eddedc8fd5f13b78c829bab86aaf43d6165d73df6",
+          "mask": "416fc45ee7b6e2c316f46e9aa52319eea1af10f7ca9ed16b0d9d814008cf1fac"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-hair-face-armor",
+          "crop_xyxy_half_open": [
+            24,
+            9,
+            100,
+            78
+          ],
+          "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-001-region-00.png"
+        },
+        {
+          "name": "arm-vest-waist-sword",
+          "crop_xyxy_half_open": [
+            24,
+            67,
+            103,
+            155
+          ],
+          "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-001-region-01.png"
+        },
+        {
+          "name": "lowerbody-sash-boots",
+          "crop_xyxy_half_open": [
+            24,
+            144,
+            103,
+            254
+          ],
+          "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-001-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "Look4",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          128,
+          264
+        ],
+        "changed_pixels": 9071,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          30,
+          13,
+          98,
+          253
+        ],
+        "visible_colors_before": 64,
+        "visible_colors_after": 64,
+        "new_visible_rgb_colors": [
+          [
+            2,
+            2,
+            11
+          ],
+          [
+            9,
+            9,
+            17
+          ],
+          [
+            22,
+            20,
+            25
+          ],
+          [
+            27,
+            23,
+            28
+          ],
+          [
+            27,
+            26,
+            35
+          ],
+          [
+            31,
+            26,
+            30
+          ],
+          [
+            31,
+            31,
+            42
+          ],
+          [
+            34,
+            35,
+            47
+          ],
+          [
+            38,
+            31,
+            34
+          ],
+          [
+            38,
+            39,
+            53
+          ],
+          [
+            41,
+            42,
+            57
+          ],
+          [
+            44,
+            35,
+            37
+          ],
+          [
+            45,
+            48,
+            65
+          ],
+          [
+            49,
+            54,
+            73
+          ],
+          [
+            50,
+            40,
+            41
+          ],
+          [
+            51,
+            57,
+            76
+          ],
+          [
+            52,
+            38,
+            36
+          ],
+          [
+            57,
+            47,
+            46
+          ],
+          [
+            58,
+            44,
+            42
+          ],
+          [
+            60,
+            51,
+            55
+          ],
+          [
+            63,
+            48,
+            45
+          ],
+          [
+            66,
+            52,
+            48
+          ],
+          [
+            67,
+            59,
+            66
+          ],
+          [
+            69,
+            47,
+            41
+          ],
+          [
+            73,
+            55,
+            48
+          ],
+          [
+            73,
+            59,
+            54
+          ],
+          [
+            75,
+            64,
+            58
+          ],
+          [
+            79,
+            67,
+            60
+          ],
+          [
+            80,
+            53,
+            43
+          ],
+          [
+            84,
+            72,
+            64
+          ],
+          [
+            86,
+            60,
+            48
+          ],
+          [
+            92,
+            78,
+            69
+          ],
+          [
+            96,
+            61,
+            48
+          ],
+          [
+            98,
+            83,
+            73
+          ],
+          [
+            103,
+            66,
+            51
+          ],
+          [
+            106,
+            68,
+            50
+          ],
+          [
+            108,
+            71,
+            56
+          ],
+          [
+            108,
+            91,
+            78
+          ],
+          [
+            113,
+            96,
+            83
+          ],
+          [
+            114,
+            73,
+            55
+          ],
+          [
+            122,
+            78,
+            58
+          ],
+          [
+            123,
+            104,
+            90
+          ],
+          [
+            129,
+            85,
+            61
+          ],
+          [
+            132,
+            112,
+            97
+          ],
+          [
+            133,
+            100,
+            77
+          ],
+          [
+            136,
+            88,
+            63
+          ],
+          [
+            142,
+            94,
+            66
+          ],
+          [
+            143,
+            102,
+            84
+          ],
+          [
+            148,
+            95,
+            67
+          ],
+          [
+            150,
+            102,
+            75
+          ],
+          [
+            156,
+            102,
+            70
+          ],
+          [
+            162,
+            108,
+            75
+          ],
+          [
+            167,
+            111,
+            76
+          ],
+          [
+            168,
+            113,
+            78
+          ],
+          [
+            172,
+            115,
+            78
+          ],
+          [
+            172,
+            120,
+            84
+          ],
+          [
+            176,
+            120,
+            82
+          ],
+          [
+            180,
+            129,
+            84
+          ],
+          [
+            188,
+            132,
+            89
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 10060,
+        "silhouette_changed_pixels": 302,
+        "alpha_changed_pixels": 302,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "aa9949593d06919f6517ac5ac2deacea37851fe756715ef875e98dc51072a91b",
+          "after": "341b01e5bdbfb77bd796eb2e022dc49c7636442c3b7d9a144d77afb110e1266b",
+          "mask": "379087a74a1347da0d0a8fc21abec2dc59e2a3040f94e6f4a445a4c0782e455f"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-hair-face-armor",
+          "crop_xyxy_half_open": [
+            24,
+            9,
+            100,
+            78
+          ],
+          "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-002-region-00.png"
+        },
+        {
+          "name": "arm-vest-waist-sword",
+          "crop_xyxy_half_open": [
+            24,
+            67,
+            103,
+            155
+          ],
+          "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-002-region-01.png"
+        },
+        {
+          "name": "lowerbody-sash-boots",
+          "crop_xyxy_half_open": [
+            24,
+            144,
+            103,
+            254
+          ],
+          "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-002-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "Look5",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          128,
+          264
+        ],
+        "changed_pixels": 8677,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          30,
+          13,
+          97,
+          253
+        ],
+        "visible_colors_before": 64,
+        "visible_colors_after": 64,
+        "new_visible_rgb_colors": [
+          [
+            13,
+            11,
+            14
+          ],
+          [
+            15,
+            18,
+            24
+          ],
+          [
+            19,
+            19,
+            24
+          ],
+          [
+            26,
+            27,
+            34
+          ],
+          [
+            29,
+            31,
+            39
+          ],
+          [
+            30,
+            27,
+            30
+          ],
+          [
+            32,
+            34,
+            44
+          ],
+          [
+            35,
+            38,
+            48
+          ],
+          [
+            38,
+            32,
+            33
+          ],
+          [
+            38,
+            42,
+            53
+          ],
+          [
+            39,
+            35,
+            37
+          ],
+          [
+            42,
+            35,
+            35
+          ],
+          [
+            45,
+            52,
+            64
+          ],
+          [
+            46,
+            40,
+            40
+          ],
+          [
+            46,
+            48,
+            55
+          ],
+          [
+            47,
+            37,
+            37
+          ],
+          [
+            47,
+            55,
+            68
+          ],
+          [
+            51,
+            43,
+            43
+          ],
+          [
+            51,
+            58,
+            70
+          ],
+          [
+            55,
+            43,
+            41
+          ],
+          [
+            58,
+            49,
+            47
+          ],
+          [
+            63,
+            47,
+            43
+          ],
+          [
+            64,
+            54,
+            50
+          ],
+          [
+            69,
+            51,
+            43
+          ],
+          [
+            69,
+            58,
+            54
+          ],
+          [
+            74,
+            53,
+            46
+          ],
+          [
+            75,
+            64,
+            58
+          ],
+          [
+            77,
+            49,
+            40
+          ],
+          [
+            80,
+            57,
+            47
+          ],
+          [
+            81,
+            69,
+            62
+          ],
+          [
+            82,
+            55,
+            45
+          ],
+          [
+            83,
+            65,
+            53
+          ],
+          [
+            86,
+            58,
+            47
+          ],
+          [
+            89,
+            61,
+            50
+          ],
+          [
+            89,
+            75,
+            64
+          ],
+          [
+            93,
+            79,
+            68
+          ],
+          [
+            94,
+            66,
+            53
+          ],
+          [
+            97,
+            83,
+            71
+          ],
+          [
+            99,
+            68,
+            53
+          ],
+          [
+            100,
+            80,
+            65
+          ],
+          [
+            101,
+            85,
+            73
+          ],
+          [
+            103,
+            71,
+            56
+          ],
+          [
+            107,
+            93,
+            78
+          ],
+          [
+            108,
+            76,
+            59
+          ],
+          [
+            110,
+            71,
+            52
+          ],
+          [
+            112,
+            76,
+            57
+          ],
+          [
+            117,
+            102,
+            85
+          ],
+          [
+            118,
+            80,
+            60
+          ],
+          [
+            123,
+            83,
+            61
+          ],
+          [
+            124,
+            95,
+            72
+          ],
+          [
+            127,
+            86,
+            62
+          ],
+          [
+            133,
+            90,
+            66
+          ],
+          [
+            133,
+            94,
+            70
+          ],
+          [
+            133,
+            109,
+            81
+          ],
+          [
+            138,
+            96,
+            62
+          ],
+          [
+            142,
+            103,
+            69
+          ]
+        ],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 10174,
+        "silhouette_changed_pixels": 307,
+        "alpha_changed_pixels": 307,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "5dce45a831ff74f93e6cfc0c0bb03ab42a90c107ba859cc204813606b6b781c6",
+          "after": "a7ca6984874b4ba667ece4d99da2e5c6fec54b4b2760f31ead7625273ed84c6e",
+          "mask": "416fc45ee7b6e2c316f46e9aa52319eea1af10f7ca9ed16b0d9d814008cf1fac"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-hair-face-armor",
+          "crop_xyxy_half_open": [
+            24,
+            9,
+            100,
+            78
+          ],
+          "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-003-region-00.png"
+        },
+        {
+          "name": "arm-vest-waist-sword",
+          "crop_xyxy_half_open": [
+            24,
+            67,
+            103,
+            155
+          ],
+          "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-003-region-01.png"
+        },
+        {
+          "name": "lowerbody-sash-boots",
+          "crop_xyxy_half_open": [
+            24,
+            144,
+            103,
+            254
+          ],
+          "path": "/private/tmp/fighter-user-variants-r01/lead-review/comparison-final/frame-003-region-02.png"
+        }
+      ],
+      "mechanical_passed": true
+    }
+  ],
+  "zoom": 3,
+  "resampling": "integer nearest-neighbor",
+  "matte": "checkerboard RGB49,49,61 / 61,61,73",
+  "mechanical_passed": true,
+  "visual_acceptance": "pending",
+  "user_approval": "pending",
+  "limits": "Coverage means pixels are available for inspection. Scope/coverage cannot judge anatomy, occlusion, grip or improvement. Registration and affected-frame inventory are caller declarations. Bound native/report hashes do not prove export correspondence or hidden-layer integrity. Source or packet changes require fresh review."
+}

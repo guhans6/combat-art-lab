@@ -1,0 +1,188 @@
+{
+  "passed": true,
+  "native_sha256": "f4cb8fff0a460cde6845fb15bc0c5e3271259d9d38d5f3efa051e4970b2e6127",
+  "source_sha256": "e839783e58f01e61b1839f18ee6208437ec9424c0403a148f331f32e9ad653fd",
+  "identity_sha256": "a3cc3ab1d658ac3d2d464ef4781ed966e815c7eedeefcf5801d81ca93924ab9c",
+  "native": {
+    "canvas": [
+      128,
+      264
+    ],
+    "frames": 4,
+    "layers": [
+      {
+        "name": "body-occlusion-backing",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "lower-body-fixed",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "upper-torso",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "sword-belt",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "far-hand",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "near-guard-hand",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "near-upper-sleeve",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "far-hem-fixed",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      },
+      {
+        "name": "head-hair-neck",
+        "flags": 3,
+        "type": 0,
+        "level": 0,
+        "blend": 0,
+        "opacity": 255
+      }
+    ],
+    "cels": 36,
+    "duration_ms": 1800,
+    "durations_ms": [
+      700,
+      260,
+      500,
+      340
+    ],
+    "palette_exact_source": true,
+    "rest_exact_source": true,
+    "all_native_cels_match_cleared_keys": true
+  },
+  "frames": [
+    {
+      "frame": 0,
+      "key": 0,
+      "native_png_reopen_exact": true,
+      "all_native_cels_exact_cleared_key": true,
+      "alpha_binary": true,
+      "enclosed_holes": 0,
+      "y153_plus_exact": true
+    },
+    {
+      "frame": 1,
+      "key": 1,
+      "native_png_reopen_exact": true,
+      "all_native_cels_exact_cleared_key": true,
+      "alpha_binary": true,
+      "enclosed_holes": 0,
+      "y153_plus_exact": true
+    },
+    {
+      "frame": 2,
+      "key": 2,
+      "native_png_reopen_exact": true,
+      "all_native_cels_exact_cleared_key": true,
+      "alpha_binary": true,
+      "enclosed_holes": 0,
+      "y153_plus_exact": true
+    },
+    {
+      "frame": 3,
+      "key": 1,
+      "native_png_reopen_exact": true,
+      "all_native_cels_exact_cleared_key": true,
+      "alpha_binary": true,
+      "enclosed_holes": 0,
+      "y153_plus_exact": true
+    }
+  ],
+  "protection": {
+    "lower_body_native_exact_source": true,
+    "sword_belt_native_exact_source": true,
+    "far_split_hem_native_fixed": true,
+    "head_face_hair_rigid_proven_by_key_checks": true,
+    "near_guard_hand_rigid_proven_by_key_checks": true,
+    "y153_plus_composite_exact": true,
+    "originals_unchanged": true
+  },
+  "local_revision": {
+    "changed": [
+      {
+        "frame": 0,
+        "layer": "sword-belt",
+        "points": [
+          [
+            75,
+            99
+          ],
+          [
+            75,
+            100
+          ],
+          [
+            75,
+            101
+          ]
+        ]
+      }
+    ],
+    "all_other_native_pixels_unchanged": true,
+    "all_metadata_palette_exact": true,
+    "save_reopen_export_exact": true,
+    "selected_art": false
+  },
+  "sheet_exact": true,
+  "raw_mcp_gif": {
+    "timing_exact": true,
+    "alpha_exact": true,
+    "opaque_rgb_differences_per_frame": [
+      89,
+      91,
+      91,
+      91
+    ],
+    "status": "known palette encoding remap; root packages exact-palette previews"
+  },
+  "backend": "Aseprite1.3.18.6-dev/Pebbly0.8.2 headless dedicated MCP",
+  "closed_documents": true,
+  "producer_playback_perception": "still-only, no continuous motion claim",
+  "user_approval": "sample motion approved; main transfer pending",
+  "runtime": "root-owned separate Godot evidence"
+}

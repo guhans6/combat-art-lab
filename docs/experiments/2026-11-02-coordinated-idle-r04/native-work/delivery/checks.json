@@ -1,0 +1,197 @@
+{
+  "passed": true,
+  "native_sha256": "eeb6b36f9b18063529e0be50b2c74691e03fc8a4e3d743b24013cc1a46e75a8e",
+  "baseline_sha256": "afbb2f8b9d947890b1eedc53be03f3950e234ad53d81559a7537b25b44622665",
+  "frames": 4,
+  "unique_drawings": 3,
+  "durations_ms": [
+    700,
+    260,
+    500,
+    340
+  ],
+  "total_ms": 1800,
+  "canvas": [
+    96,
+    160
+  ],
+  "layers": 12,
+  "cels": 48,
+  "source_palette_chunks_exact": true,
+  "source_rest_frame_exact": true,
+  "all_changes_inside_frozen_uppermask": true,
+  "changed_pixels_vs_rest": [
+    0,
+    269,
+    543,
+    269
+  ],
+  "fixed_native_proof": [
+    {
+      "frame": 0,
+      "both_pants_boots_pelvis_skirt_exact_native_rest": true,
+      "all_y96plus_composite_exact_rest": true
+    },
+    {
+      "frame": 1,
+      "both_pants_boots_pelvis_skirt_exact_native_rest": true,
+      "all_y96plus_composite_exact_rest": true
+    },
+    {
+      "frame": 2,
+      "both_pants_boots_pelvis_skirt_exact_native_rest": true,
+      "all_y96plus_composite_exact_rest": true
+    },
+    {
+      "frame": 3,
+      "both_pants_boots_pelvis_skirt_exact_native_rest": true,
+      "all_y96plus_composite_exact_rest": true
+    }
+  ],
+  "cuff_contacts": [
+    {
+      "near": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "far": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "near": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "far": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "near": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "far": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "near": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "far": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ]
+    }
+  ],
+  "all_native_cels_exact_to_reviewed_key_drawings": true,
+  "native_PNG_sheet_fresh_reopen_sheet_exact": true,
+  "duplicate_only_edit": {
+    "changed": [
+      {
+        "frame": 0,
+        "owner": "thorax-coat",
+        "pixels": [
+          [
+            53,
+            60
+          ],
+          [
+            53,
+            61
+          ],
+          [
+            53,
+            62
+          ]
+        ]
+      }
+    ],
+    "all_other_native_pixels_metadata_timing_palette_unchanged": true,
+    "visible_changed_composite_pixels": 3,
+    "alpha_exact": true,
+    "fresh_reopen_exact": true
+  },
+  "limits": [
+    "still review does not establish natural temporal perception",
+    "no production fighter edits",
+    "sample traveler identity is disposable, not a design proposal",
+    "no callable backend validate tool; independent native/PNG readback used",
+    "lead owns Godot/environment and exact-palette playback delivery",
+    "all lower joints frozen; not a general purpose rig"
+  ]
+}

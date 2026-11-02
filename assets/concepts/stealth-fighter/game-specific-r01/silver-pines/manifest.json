@@ -1,0 +1,71 @@
+{
+  "candidate_id": "silver-pines-initial",
+  "status": "initial generation awaiting lead and human review",
+  "tool": "built-in image_gen",
+  "generation_calls": 1,
+  "prompt": "Use case: stylized-concept.\nGenerate ONE original full-body character study, a game character rendered with the specific authored shadow/value hierarchy of the supplied Silver Pines DRAWN animation references.\n\nREFERENCE ROLES STRICTLY:\nImage 1 simplified-01.png = IDENTITY AND COSTUME ONLY. Preserve its young adult lean athletic male, naturally proportioned adult body, medium-fair/brown skin, visible face with implied light stubble, long nearblack half-tied hair, muted indigo split-hem tunic, charcoal light shoulder armor, worn steel forearm guard, brown waist wrap with small rust buckle, compact one-handed sword. South Indian inspired ancient/future craftsmanship, restrained and practical. Its frontal pose, detailed face, strand lines, outlined armor, folds and orange rim lighting are explicitly NOT rendering targets.\nImage 2 silver-pines-drawn-frame.png = RENDERING ONLY.\nImage 3 silver-pines-motion-samples.png = RENDERING ONLY, specifically the two central hand-DRAWN figures. Ignore photographed man at right, gameplay scenery at left, transparency checkerboard and action poses. Never copy the reference man's hair, glasses, jacket, face, body identity or costume.\n\nPRIMARY VISUAL CHANGE: redraw the fighter in the unusually economical drawn Silver Pines treatment. Large almost-black connected shadow masses occupy most of the body; only a few flat muted light planes describe head, shoulder, forearm, tunic side and leg. Sparse selective shapes, little interior linework, quiet value contrast. Keep indigo/charcoal/steel/brown material identities visible in restrained light planes without increasing detail. Hair reads as one or two solid masses with tiny tied shape, no strand rendering. Face is small with a simple profile plane and minimal eye/nose indication, no portrait detailing, individual beard marks or explicit lip lines. Armor is a quiet block with no segmented outlines; cloth has at most a few broad value breaks, not repeated fold stripes. Crisp authored shape boundaries rather than blur, noise or pixel-filtered portrait. Naturally proportioned adult silhouette, not chibi or anime.\n\nMATCHED COMPARISON CAMERA AND POSE:\nSingle full-body neutral alert standing figure facing RIGHT in TRUE SIDE PROFILE. Eye-level orthographic camera: one side of face, chest viewed edge-on, both boots point right and no tops of boots visible. Relaxed arms hang with slight silhouette gap; far limbs may be subtly offset for readability while body remains strict profile. Sword sheathed at hip, compact scabbard visible in silhouette. No action crouch, no three-quarter torso.\n\nCOMPOSITION:\nPortrait 1024x1536 requested. One enlarged whole figure, fully visible head to sole, approximately 80% image height, feet baseline at 90% image height. Plain flat matte muted slate background #24282d, simple thin ground line. Soft restrained ambient light sufficient to separate silhouette, no luminous contour, no glow or orange halo. No scene objects, textures, vignette, text, montage, labels or checkerboard. The later intended comparison is a static 128px body in 640x360; this enlarged concept does not select a native pixel grid.\n\nDeliver one image only. Favor the supplied drawn Silver Pines broad nearblack massing and drastic economy over the identity anchor's crisp explicit detail. No influences from other games, magic or cyberpunk.\n",
+  "prompt_path": "/private/tmp/game-specific-silver-pines/prompt.txt",
+  "prompt_sha256": "c8e069690714e2ae2880cccd998e3dcd57f4d39a9fa590d176e5fa26e6bf3423",
+  "references": [
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/atmosphere-r01/A/simplified-01.png",
+      "role": "identity and costume only",
+      "sha256": "e1dcf18e72ce22b8b6c6031d0f00da91259dcbf4c2bfbb0e0c12c8d1c56b6e1e",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab-learning/assets/concepts/stealth-fighter/atmosphere-r01/references/silver-pines-drawn-frame.png",
+      "role": "Silver Pines drawn rendering only",
+      "sha256": "1b13bbac50c121c578030b5e9211918863557e28f3da633e81116feca80096e5",
+      "dimensions": [
+        318,
+        297
+      ]
+    },
+    {
+      "path": "/private/tmp/silver-pines-motion-samples.png",
+      "role": "Silver Pines drawn rendering only; central drawn panels; photo, scenery, checkerboard and poses excluded",
+      "sha256": "40a7a32d1cbfcab6f7af240cc8fd97c0542c13802597750e7534ed2745c6823b",
+      "dimensions": [
+        1788,
+        512
+      ]
+    }
+  ],
+  "official_reference_url": "https://steamcommunity.com/games/2333000/announcements/detail/690893589804220611",
+  "source_note": "Official motion sample composite supplied by lead; local images visually inspected. web open here returned inaccessible; no new external verification claimed.",
+  "generated_original_path": "/Users/guhan/.codex/generated_images/01a19857-3da6-7103-96d1-e0afd2ee924e/exec-8ad846d6-5cb1-4d97-aa34-c0cc8638515a.png",
+  "raw_path": "/private/tmp/game-specific-silver-pines/raw.png",
+  "raw_sha256": "5c2de534e986d53c67c42222ef8e836c6e0a052522e63b185e039ce7b1dd7c23",
+  "original_sha256": "5c2de534e986d53c67c42222ef8e836c6e0a052522e63b185e039ce7b1dd7c23",
+  "raw_dimensions": [
+    1024,
+    1536
+  ],
+  "byte_exact_copy": true,
+  "requested_dimensions": [
+    1024,
+    1536
+  ],
+  "requested_body_height_fraction": 0.8,
+  "requested_feet_baseline_fraction": 0.9,
+  "requested_camera": "right-facing true side profile eye-level orthographic",
+  "intended_later_static_comparison": {
+    "body_height_px": 128,
+    "viewport": [
+      640,
+      360
+    ],
+    "native_resolution_selected": false
+  },
+  "scope_exclusions": [
+    "native construction",
+    "engine playback",
+    "animation",
+    "publication",
+    "user visual approval"
+  ]
+}

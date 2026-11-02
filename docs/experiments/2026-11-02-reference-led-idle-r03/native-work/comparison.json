@@ -1,0 +1,127 @@
+{
+  "baseline_role": "retained r02 sample appearance REST only; entire chest-puff mechanism rejected",
+  "registration": "same96x160 grid and immutable sourceREST; pose-delta comparison, not temporalalignment with prior rejected chestcycle; boots/groundfixed",
+  "required_frame_ids": [
+    "F1",
+    "F2",
+    "F3",
+    "F4"
+  ],
+  "evidence": [
+    {
+      "role": "immutable source native",
+      "path": "baseline-r02.aseprite"
+    },
+    {
+      "role": "candidate native",
+      "path": "delivery/grounded-idle-r03.aseprite"
+    },
+    {
+      "role": "native/export/boot/registeredmaterial readback",
+      "path": "delivery/checks.json"
+    },
+    {
+      "role": "frozen protected bootmask",
+      "path": "protected-boots-frozen.png"
+    },
+    {
+      "role": "native lowerownership/hide rest",
+      "path": "keys/rest-lower-ownership.png"
+    },
+    {
+      "role": "native lowerownership/hide sink",
+      "path": "keys/sink-lower-ownership.png"
+    },
+    {
+      "role": "marked inferred route rest",
+      "path": "keys/rest-landmarks-3x.png"
+    },
+    {
+      "role": "marked inferred route sink",
+      "path": "keys/sink-landmarks-3x.png"
+    },
+    {
+      "role": "neighbor3keys native",
+      "path": "keys/keys-3x.png"
+    },
+    {
+      "role": "all4nativeframes",
+      "path": "delivery/contact-3x.png"
+    },
+    {
+      "role": "actual Saint11 motionreference contact",
+      "path": "reference-evidence/saint11-contact.png"
+    }
+  ],
+  "frames": [
+    {
+      "id": "F1",
+      "before": "source-rest.png",
+      "after": "delivery/idle-0.png",
+      "mask": "editable-body-except-boots-frozen.png",
+      "regions": [
+        {
+          "name": "head-neck-shoulders-pelvis-knees-ankle-joins",
+          "crop": [
+            28,
+            6,
+            65,
+            137
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F2",
+      "before": "source-rest.png",
+      "after": "delivery/idle-1.png",
+      "mask": "editable-body-except-boots-frozen.png",
+      "regions": [
+        {
+          "name": "head-neck-shoulders-pelvis-knees-ankle-joins",
+          "crop": [
+            28,
+            6,
+            65,
+            137
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F3",
+      "before": "source-rest.png",
+      "after": "delivery/idle-2.png",
+      "mask": "editable-body-except-boots-frozen.png",
+      "regions": [
+        {
+          "name": "head-neck-shoulders-pelvis-knees-ankle-joins",
+          "crop": [
+            28,
+            6,
+            65,
+            137
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F4",
+      "before": "source-rest.png",
+      "after": "delivery/idle-3.png",
+      "mask": "editable-body-except-boots-frozen.png",
+      "regions": [
+        {
+          "name": "head-neck-shoulders-pelvis-knees-ankle-joins",
+          "crop": [
+            28,
+            6,
+            65,
+            137
+          ]
+        }
+      ]
+    }
+  ],
+  "zoom": 3
+}

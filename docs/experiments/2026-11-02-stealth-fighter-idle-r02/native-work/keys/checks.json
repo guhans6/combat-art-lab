@@ -1,0 +1,137 @@
+{
+  "native_sha256": "d98707b48c96dce50eab2dd9534be7c9e37ce337adce788e9a0b40b608c33a63",
+  "keys": [
+    {
+      "key": 0,
+      "holes": 0,
+      "native_matches_MCP": true,
+      "y153_fixed": true,
+      "landmarks": {
+        "crown": [
+          59,
+          13
+        ],
+        "chin": [
+          70,
+          41
+        ],
+        "neck": [
+          63,
+          46
+        ],
+        "near-shoulder": [
+          43,
+          59
+        ],
+        "near-elbow": [
+          37,
+          96
+        ],
+        "near-wrist": [
+          45,
+          130
+        ],
+        "pelvis": [
+          66,
+          124
+        ],
+        "sword-root": [
+          79,
+          102
+        ],
+        "sole": [
+          64,
+          252
+        ]
+      }
+    },
+    {
+      "key": 1,
+      "holes": 0,
+      "native_matches_MCP": true,
+      "y153_fixed": true,
+      "landmarks": {
+        "crown": [
+          59,
+          12
+        ],
+        "chin": [
+          70,
+          40
+        ],
+        "neck": [
+          63,
+          45
+        ],
+        "near-shoulder": [
+          43,
+          57
+        ],
+        "near-elbow": [
+          36,
+          95
+        ],
+        "near-wrist": [
+          44,
+          129
+        ],
+        "pelvis": [
+          66,
+          124
+        ],
+        "sword-root": [
+          79,
+          102
+        ],
+        "sole": [
+          64,
+          252
+        ]
+      }
+    },
+    {
+      "key": 2,
+      "holes": 0,
+      "native_matches_MCP": true,
+      "y153_fixed": true,
+      "landmarks": {
+        "crown": [
+          57,
+          11
+        ],
+        "chin": [
+          68,
+          39
+        ],
+        "neck": [
+          61,
+          44
+        ],
+        "near-shoulder": [
+          41,
+          55
+        ],
+        "near-elbow": [
+          35,
+          94
+        ],
+        "near-wrist": [
+          43,
+          128
+        ],
+        "pelvis": [
+          66,
+          124
+        ],
+        "sword-root": [
+          79,
+          102
+        ],
+        "sole": [
+          64,
+          252
+        ]
+      }
+    }
+  ]
+}

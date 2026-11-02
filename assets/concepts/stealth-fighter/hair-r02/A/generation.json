@@ -1,0 +1,20 @@
+{
+  "candidate": "A",
+  "tool": "built-in image_gen",
+  "use_case": "style-transfer",
+  "output": {
+    "path": "assets/concepts/stealth-fighter/hair-r02/A/raw.png",
+    "source_path": "/Users/guhan/.codex/generated_images/01a19763-3228-77b3-bcb9-9061c814ff1c/exec-d81cf66d-172a-4d9e-81b0-e75021ffcb4e.png",
+    "sha256": "f185e74a4b76b0e823d98a6ea2f315506acc898d62e929bdf657ece511f341bc",
+    "dimensions_px": [1024, 1536],
+    "transparent_background_requested": false
+  },
+  "inputs": [
+    {
+      "path": "assets/concepts/stealth-fighter/hair-r02/references/rcg2-gameplay.jpg",
+      "role": "style-only gameplay reference/support",
+      "usage": "Use only actual playfield sprites for pixel-art construction cues; do not copy faces, clothes, poses, pixels, UI, HUD, or environment."
+    }
+  ],
+  "prompt": "Use case: style-transfer\\nAsset type: single original full-body 2D beat-'em-up game sprite concept, presented enlarged for review.\\nInput images: Image 1 is STYLE-ONLY gameplay reference/support. Use only the actual gameplay characters in its playfield for pixel-art construction cues. Do NOT copy any character face, clothing, pose, pixels, UI, HUD, or environment from it.\\nPrimary request: Replace the scene with ONE ORIGINAL isolated game character: a young South Indian-inspired light-armor fighter with a long low ponytail.\\nSubject: adult early-mid-20s male, lean athletic but strongly stylized as a compact grown-man beat-'em-up sprite. About 4–4.5 heads tall, NOT 6–8 heads tall; modest head around 26–30 logical pixels; small adult eyes, visible clear simple face, recognizable jaw, subtle dark pixel-stubble cluster. Warm medium-light brown skin. Near-black hair, exposed face and hairline, in 4–6 broad graphic locks, gathered into a long low nape ponytail reaching the upper back.\\nOutfit: simple indigo short-sleeved cloth top; one broad charcoal light chest protector with a clear simple chest plane; exactly one tapered worn-steel forearm guard with central ridge; small rust waist tie; short waist cloth over fitted charcoal trousers; short dark boots; compact straight one-handed sword sheathed at the hip. Functional subtle-future construction only. No extra straps, long tassels, cape, hood, magic, neon, or metal engraving.\\nPose: upright relaxed-alert planted stance, near-side 3/4 facing right; full body centered; both feet visible.\\nStyle/medium: genuine deliberately constructed pixel art, closely directed by the reference gameplay sprites. Effective 128x192 logical working grid enlarged 8x with nearest-neighbor-looking large UNIFORM square pixels. Character roughly 120–140 logical pixels tall. Compact blocky readable silhouette, clear stepped pixel edges, simple face marks, broad hair masses, bold sparse shadow shapes.\\nColor palette: indigo, charcoal, worn steel, a small rust accent, warm medium-light brown skin; approximately 20–30 colors total; flat 2–3 shade clusters per material.\\nScene/backdrop: plain flat light-neutral background only; no gradient, vignette, soft shadow, scene, UI, labels, or text.\\nLighting/mood: flat neutral light only.\\nConstraints: output 1024x1536 portrait. This must look like an actual small gameplay sprite enlarged for review, not a detailed fantasy illustration or portrait. One character only. No text.\\nAvoid: photorealism; adult anatomical illustration; realistic 6–8-head proportions; realistic muscle modeling; realistic lighting; pores; noise; pixel grain; dither; fine hair strands; soft rendering; anti-aliased tiny pixels; painterly texture; illustrative portrait; extra figures; copied identities, outfits, faces, HUD, or UI."
+}

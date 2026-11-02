@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"output\": [\n    \"Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org\",\n    \"\",\n    \"OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro\",\n    \"\",\n    \"\",\n    \"\",\n    \"APPEARANCE_STUDY_READY variants=5 static=true default_height=152 source_ids=[0,1,3,4,5]\",\n    \"\"\n  ],\n  \"errors\": []\n}"
+    }
+  ]
+}

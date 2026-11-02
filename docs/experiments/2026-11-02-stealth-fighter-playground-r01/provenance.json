@@ -1,0 +1,14 @@
+{
+  "retrieved": "2026-11-02",
+  "creator": "Luis Zuno / ansimuz",
+  "source": "https://opengameart.org/content/gothicvania-church-pack",
+  "download": "https://opengameart.org/sites/default/files/gothicvania%20church%20files.zip",
+  "archive_sha256": "c4c78b80905022d3325212b58271044bdd4b92d1f7724fe94aee0107ba3c8169",
+  "license_file_sha256": "2415c7aaa3f7b45d7ed51cb2897470fcb87cd87b1da66d1678840b5fce328109",
+  "used": {
+    "backgrounds.png": "c044093de80c1cc6b064d4016d68fa034d039379db8ee6ee206d4d421148a10d",
+    "tileset.png": "1a5d5684c21eaeca89f3f68ed8d0508c73f3aedc04f7b9cb425c3cd28e429958"
+  },
+  "excluded": "audio, characters, game code, PSDs",
+  "generation_calls": 0
+}

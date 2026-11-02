@@ -1,0 +1,88 @@
+{
+	"actor_native_rect": [
+		576,
+		305,
+		128,
+		264
+	],
+	"camera_changes_between_modes": false,
+	"checks": [
+		{
+			"name": "authored clock completes three loops",
+			"passed": true
+		},
+		{
+			"name": "mouse single view",
+			"passed": true
+		},
+		{
+			"name": "mouse select A",
+			"passed": true
+		},
+		{
+			"name": "mouse slider changes selected height",
+			"passed": true
+		},
+		{
+			"name": "keyboard select B",
+			"passed": true
+		},
+		{
+			"name": "pause holds timeline",
+			"passed": true
+		},
+		{
+			"name": "mouse step next pauses on transition",
+			"passed": true
+		},
+		{
+			"name": "keyboard previous frame",
+			"passed": true
+		},
+		{
+			"name": "keyboard resume",
+			"passed": true
+		},
+		{
+			"name": "resume advances timeline",
+			"passed": true
+		},
+		{
+			"name": "mouse 2x speed",
+			"passed": true
+		},
+		{
+			"name": "mouse guides",
+			"passed": true
+		},
+		{
+			"name": "keyboard comparison mode",
+			"passed": true
+		},
+		{
+			"name": "mouse reset restores defaults",
+			"passed": true
+		},
+		{
+			"name": "keyboard reset",
+			"passed": true
+		}
+	],
+	"durations_ms": [
+		700.0,
+		260.0,
+		500.0,
+		340.0
+	],
+	"engine": "4.7.2-stable (official)",
+	"loops_before_checks": 3,
+	"source_body": 240,
+	"stage": [
+		1200,
+		480
+	],
+	"viewport": [
+		1280,
+		800
+	]
+}

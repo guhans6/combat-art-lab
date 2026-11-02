@@ -1,0 +1,353 @@
+{
+  "schema_version": 1,
+  "baseline_role": "retained r02 sample appearance REST only; entire chest-puff mechanism rejected",
+  "registration_claim": "same96x160 grid and immutable sourceREST; pose-delta comparison, not temporalalignment with prior rejected chestcycle; boots/groundfixed",
+  "sources": [
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/comparison.json",
+      "role": "spec",
+      "sha256": "9b7105a62c4739d9d635581cf6eed3e59a6f0c83c66dd4ea207b1245cedd6ce5"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/baseline-r02.aseprite",
+      "role": "immutable source native",
+      "sha256": "82e878fe5be2ebef488cd2465cc840280750eb2bc16636834212efca0ab1ebeb"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/delivery/grounded-idle-r03.aseprite",
+      "role": "candidate native",
+      "sha256": "afbb2f8b9d947890b1eedc53be03f3950e234ad53d81559a7537b25b44622665"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/delivery/checks.json",
+      "role": "native/export/boot/registeredmaterial readback",
+      "sha256": "d0ccc9110a7a629cfd773ceb298dc4fdf9f67b858afaffef61bd0cbc0ffc10e5"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/protected-boots-frozen.png",
+      "role": "frozen protected bootmask",
+      "sha256": "6f32b34c54bd00828b52875400b6de8f86f6a4b134d624ea4127be0deb0790c5"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/keys/rest-lower-ownership.png",
+      "role": "native lowerownership/hide rest",
+      "sha256": "a2565e16b7165aeb613f7cff819447a8ca2975dafe52f70be9cc85f70eedfc25"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/keys/sink-lower-ownership.png",
+      "role": "native lowerownership/hide sink",
+      "sha256": "b26864b13c937baf5719fe6321ba7be240cc2c8611eef77c60e7fd33c1afb39c"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/keys/rest-landmarks-3x.png",
+      "role": "marked inferred route rest",
+      "sha256": "7e343b7d62268a9a8dec59f9029a7dfc411d3d8565884cff81e7e8f9d1ec3499"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/keys/sink-landmarks-3x.png",
+      "role": "marked inferred route sink",
+      "sha256": "93aba8b2a9ba94f5137c33215317e1fd7c40dd899e5e0e9ba2923841db0bcf54"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/keys/keys-3x.png",
+      "role": "neighbor3keys native",
+      "sha256": "15dd76df6d4c89ebb55af37a4139e75e20716a88c132c84a2f861af14175ca89"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/delivery/contact-3x.png",
+      "role": "all4nativeframes",
+      "sha256": "64a5c9a41bb2881db1012060c1f2700619f2f445a089f45feabe2f706f491cab"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/reference-evidence/saint11-contact.png",
+      "role": "actual Saint11 motionreference contact",
+      "sha256": "77f610e63c36fa00a0ee4b9c8d0d03342db3117e70bf72e2e802c3e29b67b920"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/source-rest.png",
+      "role": "F1 baseline",
+      "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/delivery/idle-0.png",
+      "role": "F1 candidate",
+      "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/editable-body-except-boots-frozen.png",
+      "role": "F1 allowed edit mask",
+      "sha256": "ead8ce13bfd767683053494b947facae72699f60eef5e1523b2ef3acb4b58f10"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/source-rest.png",
+      "role": "F2 baseline",
+      "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/delivery/idle-1.png",
+      "role": "F2 candidate",
+      "sha256": "6cdb9c1b26f42c77844badec32b5b65c02e9a366c178f89ef1684e4d2c04f0d2"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/editable-body-except-boots-frozen.png",
+      "role": "F2 allowed edit mask",
+      "sha256": "ead8ce13bfd767683053494b947facae72699f60eef5e1523b2ef3acb4b58f10"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/source-rest.png",
+      "role": "F3 baseline",
+      "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/delivery/idle-2.png",
+      "role": "F3 candidate",
+      "sha256": "fd4bb6259c667a3a01db8949c0dde86db3b3286ac49755ace5e0ea6e4af6fd90"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/editable-body-except-boots-frozen.png",
+      "role": "F3 allowed edit mask",
+      "sha256": "ead8ce13bfd767683053494b947facae72699f60eef5e1523b2ef3acb4b58f10"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/source-rest.png",
+      "role": "F4 baseline",
+      "sha256": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/delivery/idle-3.png",
+      "role": "F4 candidate",
+      "sha256": "6cdb9c1b26f42c77844badec32b5b65c02e9a366c178f89ef1684e4d2c04f0d2"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/editable-body-except-boots-frozen.png",
+      "role": "F4 allowed edit mask",
+      "sha256": "ead8ce13bfd767683053494b947facae72699f60eef5e1523b2ef3acb4b58f10"
+    }
+  ],
+  "sheets": [
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/comparison-packet/frame-000-region-00.png",
+      "sha256": "883e5bfd2766241cf809ab763322e30be71dd11b402d3740b0910ba81041c99e"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/comparison-packet/frame-001-region-00.png",
+      "sha256": "6092e3b31ba1c3e49c086733d6132d030886c10e2174320ba0c9a0b48eb3b79a"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/comparison-packet/frame-002-region-00.png",
+      "sha256": "6c852e5d8931ea98db79309ecb019f1a2f44c226836f50b445768fe1af233af4"
+    },
+    {
+      "path": "/private/tmp/atmospheric-idle-sample-r03/comparison-packet/frame-003-region-00.png",
+      "sha256": "6092e3b31ba1c3e49c086733d6132d030886c10e2174320ba0c9a0b48eb3b79a"
+    }
+  ],
+  "frames": [
+    {
+      "id": "F1",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          96,
+          160
+        ],
+        "changed_pixels": 0,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": null,
+        "visible_colors_before": 12,
+        "visible_colors_after": 12,
+        "new_visible_rgb_colors": [],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 3212,
+        "silhouette_changed_pixels": 0,
+        "alpha_changed_pixels": 0,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+          "after": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+          "mask": "ead8ce13bfd767683053494b947facae72699f60eef5e1523b2ef3acb4b58f10"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-neck-shoulders-pelvis-knees-ankle-joins",
+          "crop_xyxy_half_open": [
+            28,
+            6,
+            65,
+            137
+          ],
+          "path": "/private/tmp/atmospheric-idle-sample-r03/comparison-packet/frame-000-region-00.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F2",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          96,
+          160
+        ],
+        "changed_pixels": 525,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          30,
+          10,
+          62,
+          137
+        ],
+        "visible_colors_before": 12,
+        "visible_colors_after": 12,
+        "new_visible_rgb_colors": [],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 3155,
+        "silhouette_changed_pixels": 135,
+        "alpha_changed_pixels": 135,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+          "after": "6cdb9c1b26f42c77844badec32b5b65c02e9a366c178f89ef1684e4d2c04f0d2",
+          "mask": "ead8ce13bfd767683053494b947facae72699f60eef5e1523b2ef3acb4b58f10"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-neck-shoulders-pelvis-knees-ankle-joins",
+          "crop_xyxy_half_open": [
+            28,
+            6,
+            65,
+            137
+          ],
+          "path": "/private/tmp/atmospheric-idle-sample-r03/comparison-packet/frame-001-region-00.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F3",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          96,
+          160
+        ],
+        "changed_pixels": 995,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          30,
+          10,
+          62,
+          137
+        ],
+        "visible_colors_before": 12,
+        "visible_colors_after": 12,
+        "new_visible_rgb_colors": [],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 3135,
+        "silhouette_changed_pixels": 263,
+        "alpha_changed_pixels": 263,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+          "after": "fd4bb6259c667a3a01db8949c0dde86db3b3286ac49755ace5e0ea6e4af6fd90",
+          "mask": "ead8ce13bfd767683053494b947facae72699f60eef5e1523b2ef3acb4b58f10"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-neck-shoulders-pelvis-knees-ankle-joins",
+          "crop_xyxy_half_open": [
+            28,
+            6,
+            65,
+            137
+          ],
+          "path": "/private/tmp/atmospheric-idle-sample-r03/comparison-packet/frame-002-region-00.png"
+        }
+      ],
+      "mechanical_passed": true
+    },
+    {
+      "id": "F4",
+      "checks": {
+        "passed": true,
+        "failures": [],
+        "canvas": [
+          96,
+          160
+        ],
+        "changed_pixels": 525,
+        "outside_mask_changed_pixels": 0,
+        "outside_mask_examples_xy": [],
+        "changed_bbox_half_open": [
+          30,
+          10,
+          62,
+          137
+        ],
+        "visible_colors_before": 12,
+        "visible_colors_after": 12,
+        "new_visible_rgb_colors": [],
+        "partial_alpha_pixels": 0,
+        "visible_pixels": 3155,
+        "silhouette_changed_pixels": 135,
+        "alpha_changed_pixels": 135,
+        "boundary": "PNG checks only; native layers, likeness and user approval are not certified.",
+        "sha256": {
+          "before": "20f28b96d88146cc31ff9ff24a7cb553a219f801b601af964d7dbd8f396055a4",
+          "after": "6cdb9c1b26f42c77844badec32b5b65c02e9a366c178f89ef1684e4d2c04f0d2",
+          "mask": "ead8ce13bfd767683053494b947facae72699f60eef5e1523b2ef3acb4b58f10"
+        }
+      },
+      "uncovered_changes": {
+        "count": 0,
+        "examples_xy": [],
+        "bbox_half_open": null
+      },
+      "regions": [
+        {
+          "name": "head-neck-shoulders-pelvis-knees-ankle-joins",
+          "crop_xyxy_half_open": [
+            28,
+            6,
+            65,
+            137
+          ],
+          "path": "/private/tmp/atmospheric-idle-sample-r03/comparison-packet/frame-003-region-00.png"
+        }
+      ],
+      "mechanical_passed": true
+    }
+  ],
+  "zoom": 3,
+  "resampling": "integer nearest-neighbor",
+  "matte": "checkerboard RGB49,49,61 / 61,61,73",
+  "mechanical_passed": true,
+  "visual_acceptance": "pending",
+  "user_approval": "pending",
+  "limits": "Coverage means pixels are available for inspection. Scope/coverage cannot judge anatomy, occlusion, grip or improvement. Registration and affected-frame inventory are caller declarations. Bound native/report hashes do not prove export correspondence or hidden-layer integrity. Source or packet changes require fresh review."
+}

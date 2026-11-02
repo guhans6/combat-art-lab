@@ -1,0 +1,11 @@
+{
+  "variant": "quiet stubble",
+  "tool": "built-in image_gen imagegen",
+  "tool_calls": 1,
+  "original_generated_path": "/Users/guhan/.codex/generated_images/01a198a9-b3e1-7be1-bb94-32302fd6064c/exec-086694a5-308c-49cb-9c3a-1225f3a3b890.png",
+  "saved_raw_path": "/private/tmp/stealth-face-r01/stubble/raw.png",
+  "raw_sha256": "78ede669c2b2222a93f80ca37a686d8bb93fae489001814749de0e85021dd331",
+  "requested_dimensions": [1024, 1024],
+  "actual_dimensions": [1254, 1254],
+  "reference": {"path": "/private/tmp/stealth-face-r01/shared-face-input.png", "role": "sole edit target and identity, style and rendering authority", "sha256": "d1a8414b246c2327aaf75c8bdfea1343082746b7d0d0007aeac5b83a4f708b59", "dimensions": [320, 320], "source_crop": [330, 75, 650, 395], "source_sha256": "a3cc3ab1d658ac3d2d464ef4781ed966e815c7eedeefcf5801d81ca93924ab9c"}
+}

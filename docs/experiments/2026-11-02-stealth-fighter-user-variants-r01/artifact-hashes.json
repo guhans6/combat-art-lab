@@ -1,0 +1,1934 @@
+{
+  "godot/stealth-fighter-playground-r03/main.tscn": {
+    "sha256": "0ef96dab3b2c00a180e8bb3f554adad71396addb04e76ab71b355658496a5f4b",
+    "bytes": 226
+  },
+  "godot/stealth-fighter-playground-r03/CREDITS.md": {
+    "sha256": "d8e4b36efeebaf045c58e47be9229dc36f78a89282b02ec912a0f8c793f76e73",
+    "bytes": 1111
+  },
+  "godot/stealth-fighter-playground-r03/stage.gd": {
+    "sha256": "08ad458638717dfff3144f14ce81f56c7cf8489721c33b2cd68a0e1110e81949",
+    "bytes": 3151
+  },
+  "godot/stealth-fighter-playground-r03/README.md": {
+    "sha256": "6972e0c1ff701981d9199860451b109d71aa1e9dac406109f0916c4de8f21d9c",
+    "bytes": 2395
+  },
+  "godot/stealth-fighter-playground-r03/playground.gd": {
+    "sha256": "7e9e9d371d69e997d97c7b37b2fdd033f293b81eee1313ee24632b65cc0e0620",
+    "bytes": 12331
+  },
+  "godot/stealth-fighter-playground-r03/.gitignore": {
+    "sha256": "478aa2a3d73d5f2d7ef9b188776724ff468c9b90ae7a462859a5f0e53e213e30",
+    "bytes": 17
+  },
+  "godot/stealth-fighter-playground-r03/variants.json": {
+    "sha256": "9d289b3ccb64449560737de623f491c07ac9d1e91c5ff4689fbf8f84156ffeea",
+    "bytes": 1053
+  },
+  "godot/stealth-fighter-playground-r03/project.godot": {
+    "sha256": "bdda2711d4c663b5fe4a7b14dc1dc089e445daf07a07ab2585a6ff8133418a34",
+    "bytes": 762
+  },
+  "godot/stealth-fighter-playground-r03/ART-LICENSE.txt": {
+    "sha256": "2415c7aaa3f7b45d7ed51cb2897470fcb87cd87b1da66d1678840b5fce328109",
+    "bytes": 454
+  },
+  "godot/stealth-fighter-playground-r03/textures/backgrounds.png": {
+    "sha256": "c044093de80c1cc6b064d4016d68fa034d039379db8ee6ee206d4d421148a10d",
+    "bytes": 16089
+  },
+  "godot/stealth-fighter-playground-r03/textures/current-rest.png": {
+    "sha256": "6718432fc934416f70a84a64ab72bc45b4740e68c820c2c31140beff8a8846d6",
+    "bytes": 12974
+  },
+  "godot/stealth-fighter-playground-r03/textures/tileset.png": {
+    "sha256": "1a5d5684c21eaeca89f3f68ed8d0508c73f3aedc04f7b9cb425c3cd28e429958",
+    "bytes": 10241
+  },
+  "godot/stealth-fighter-playground-r03/textures/variant-04.png": {
+    "sha256": "341b01e5bdbfb77bd796eb2e022dc49c7636442c3b7d9a144d77afb110e1266b",
+    "bytes": 12521
+  },
+  "godot/stealth-fighter-playground-r03/textures/variant-05.png": {
+    "sha256": "a7ca6984874b4ba667ece4d99da2e5c6fec54b4b2760f31ead7625273ed84c6e",
+    "bytes": 13475
+  },
+  "godot/stealth-fighter-playground-r03/textures/variant-03.png": {
+    "sha256": "46ed03b35b3a2be0adff758eddedc8fd5f13b78c829bab86aaf43d6165d73df6",
+    "bytes": 13619
+  },
+  "godot/stealth-fighter-playground-r03/textures/variant-01.png": {
+    "sha256": "f5ddce534af241fe3e60591ace51a404330a246b22e240a761c67d67d0cc78a5",
+    "bytes": 12338
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/package.py": {
+    "sha256": "5c13015e38ad80f4517382ff3426baeb6f6308cb60fe3dd0f61ce65af9d0c0a7",
+    "bytes": 15807
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-engine-equivalence.json": {
+    "sha256": "d2af37c5c49587e949c52a769486f3005772e74eeaac61c75588e8deff26f65c",
+    "bytes": 326
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/record.md": {
+    "sha256": "3f1bde14b06da6c0a107bc8dd52a05b8bb0d25467c8c814f7d408d1296bbbfd0",
+    "bytes": 8518
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/preservation.json": {
+    "sha256": "7c5842fcb902d5d1147f7e0b6f6f9f09665fa4a8b788f313cea2798c81f6287e",
+    "bytes": 82
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/build_comparison.py": {
+    "sha256": "c36c5da18409c1869dfb3437f1652d9c737df3530f375109db8bf86cfd10278a",
+    "bytes": 2675
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/audit_and_previews.py": {
+    "sha256": "bb0aacdc553080f0811bd95d231cdfb46a853bec8258358674f7fea48d7240ca",
+    "bytes": 3543
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/prepare_playground.py": {
+    "sha256": "7139857e1c90ac5bdcfb5ea0b84e0fd01ba964f5a572e68741c1ad826116a2a3",
+    "bytes": 1934
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/write_manual_review.py": {
+    "sha256": "06300a8ceef7f3a67172affbaf78fd15070808eae837f8f9b75b02276911e30b",
+    "bytes": 2371
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/build_playground_code.py": {
+    "sha256": "d53d8b8df52bec5bd78e3a054441bbc42ddf41b39b5445c522d0c1ba0e0cf32e",
+    "bytes": 10208
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/protected-before.json": {
+    "sha256": "7acafb99ba1d23fd1611b9f457dd045f28ecfaf8a8419646a9f47702126757a8",
+    "bytes": 31084
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/gamma-mask-04.png": {
+    "sha256": "03bb02e1d75d6f229a3acba4c305002cbef095f5ee1b261b1df9f1fa1fbd3ee1",
+    "bytes": 71869
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/face-01.png": {
+    "sha256": "04cd903d5a6c80cd406ae9f7c1e8ba26a1c51f5b7563eabea7dee9bb97736b26",
+    "bytes": 98648
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/gamma-mask-05.png": {
+    "sha256": "4bcfd038a086c117f82dd5d7ace80a7d6dc395e870a13a5d50f7102f40dd2fc5",
+    "bytes": 72323
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/face-03.png": {
+    "sha256": "8bf3d496d3d3ebc48d4e3b7feb3b37940bc212e0a7ad25102ca9280ca783b5af",
+    "bytes": 70346
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/ownership-audit.json": {
+    "sha256": "d59f18b26f0d2da18204566ab7a6b972cd9013dccdd88db06b33230e95c81bc6",
+    "bytes": 6725
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/gamma-mask-03.png": {
+    "sha256": "69baa6828cbf1495dcec8af65a549a3b1c499d75c67733f9f604ee4579a1bf87",
+    "bytes": 72578
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/gamma-mask-01.png": {
+    "sha256": "7559159d12991b6e6483f09b69db9ffbded408ab33724a9203316c8fefdd2716",
+    "bytes": 70873
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/face-05.png": {
+    "sha256": "c8579eb872ece7b4d0df1c74a2bed4229f109e9d12ba7440926da9ad89e55b41",
+    "bytes": 68263
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/face-04.png": {
+    "sha256": "a150ca7f0eee06ee3742ea8cbf46abcdc622ca0bd0758527d4e346c547ee7f9a",
+    "bytes": 89007
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/final-display-03.png": {
+    "sha256": "4a1d00908511b850d7abd07caaaa2fbb4f56f4ab786834825b82849075f2f26f",
+    "bytes": 6778
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/final-light-04.png": {
+    "sha256": "d9ecee1e4a93883a231d6bb9e8f9674ae74c9d2416f9a3d465ef41c69c7df6d1",
+    "bytes": 19090
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/final-light-05.png": {
+    "sha256": "119c8010744d75a523d98a2d99b993b6d2767d32d906e756dd60eeba07ccbf6c",
+    "bytes": 20519
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/final-display-01.png": {
+    "sha256": "60371b6c6e3ac0a98b54d2b29fc91d0317aa86572161958d29f0fb40c1198740",
+    "bytes": 6204
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/final-display-05.png": {
+    "sha256": "3ce8074a80c31665b8b87baa62080534a8d6e21f829b27fc400578126cf719cf",
+    "bytes": 6752
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/final-light-01.png": {
+    "sha256": "8fe8e524811f4612c2ca89c58715e6483f79e2b3aa4fa4175e90214d8f02aca3",
+    "bytes": 19279
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/final-light-04-pass02.png": {
+    "sha256": "956b5d62b7f0646427333ae032ae18fc4a6d9e12d95b53999e04754b4c88e299",
+    "bytes": 19086
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/scale-current-a.png": {
+    "sha256": "66950e573826c6220ad64950bc8f75233fd447e3a15d777225bfb345686b212f",
+    "bytes": 6010
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/final-display-04.png": {
+    "sha256": "e2f4dca416bf80dd435d9b25d52d648301ff68f802c9ab0029e317c4d1b5b672",
+    "bytes": 6298
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/shoulder-near-arm-guard-hand.png": {
+    "sha256": "8f62e756507b1aec38559eb35cbe812773a7876002c37355f98b515e2ef6ceaa",
+    "bytes": 1665
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/shoulder-source-03.png": {
+    "sha256": "465f8ecd0ec46019eb8a7af9073daa7034190bcb3c419b3b8aaee6e6c585caf0",
+    "bytes": 38350
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/final-light-03.png": {
+    "sha256": "7ad97772f1f21c41f3e2adf47c667ab9ee6cdedc01f930c6c225d44ac580ce00",
+    "bytes": 20721
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/scale-01.png": {
+    "sha256": "5598520c1040441238be21751f7c534b317338d8253f5263566f42962bb3c335",
+    "bytes": 11400
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/shoulder-head-hair-face.png": {
+    "sha256": "06123b7ef9e3007b9294bc5e1074bb08dbd3bdeb159731f20964901c488093ad",
+    "bytes": 2802
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/scale-03.png": {
+    "sha256": "608fc349d1f292aedd86480247675bf8c5e88e8a16640ef894500ebd54ddaa4f",
+    "bytes": 10884
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/intake.md": {
+    "sha256": "e4a173b669653edb53550927dc5b42143813122ed103c19788b95a6d31e79921",
+    "bytes": 8892
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/seed-review.md": {
+    "sha256": "02f96ca78434b216c6597323ed7b380f12ee82d3eb78f0ecf6e17960a653432e",
+    "bytes": 7345
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/scale-04.png": {
+    "sha256": "b33f7f54bb89014adddca4f980abf39dd7a618596451e48af8c318807f8eb984",
+    "bytes": 11729
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/scale-05.png": {
+    "sha256": "76cb29a95e94ccbb5fdde15a35111e14ff2d24b526e6075602c638edbea28bf6",
+    "bytes": 10854
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/ownership-audit-output.json": {
+    "sha256": "d59f18b26f0d2da18204566ab7a6b972cd9013dccdd88db06b33230e95c81bc6",
+    "bytes": 6725
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/final-static-review.md": {
+    "sha256": "6a1da4a0d455f9de27456946e4b22b32e83a5e7723b4a751f87f0b7e99e40ebb",
+    "bytes": 10891
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/final-display-04-pass02.png": {
+    "sha256": "e2f4dca416bf80dd435d9b25d52d648301ff68f802c9ab0029e317c4d1b5b672",
+    "bytes": 6298
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/check-ownership.py": {
+    "sha256": "aca1f9ae0b9db576183341b61ded8c5af135d1bc0fc98db76fe368d2ad063865",
+    "bytes": 3610
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/critical-review/shoulder-torso-cloth-armor.png": {
+    "sha256": "0022bb6010b4da446c6187f4aba512e9461c8cb65b19eee783802bef17f51825",
+    "bytes": 3618
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/ui-diagnosis/check-debug-passing/stage.gd": {
+    "sha256": "08ad458638717dfff3144f14ce81f56c7cf8489721c33b2cd68a0e1110e81949",
+    "bytes": 3151
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/ui-diagnosis/check-debug-passing/playground.gd": {
+    "sha256": "d57379ea311a6b33cd1d0b66e04d3809af9bf6af6e4b8226b054f4f2e652466e",
+    "bytes": 12911
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/ui-diagnosis/check-debug-passing/runtime-checks.json": {
+    "sha256": "1d75e0fb096a968f878710771c065fe8ea1fa52fcc22d13f2e3dd6fcdb752981",
+    "bytes": 1325
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/ui-diagnosis/check-pass01/stage.gd": {
+    "sha256": "08ad458638717dfff3144f14ce81f56c7cf8489721c33b2cd68a0e1110e81949",
+    "bytes": 3151
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/ui-diagnosis/check-pass01/playground.gd": {
+    "sha256": "e99f14983a87f5d68b0a4304d936071842c8ba3faf661e96242bdb2a14ef555b",
+    "bytes": 11872
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/ui-diagnosis/check-pass01/runtime-checks.json": {
+    "sha256": "01b3b593f271009f6b246be1913d6c05e1353ee25b9362743460bc5d201e2c7a",
+    "bytes": 1326
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/ui-diagnosis/check-diagnostic/stage.gd": {
+    "sha256": "08ad458638717dfff3144f14ce81f56c7cf8489721c33b2cd68a0e1110e81949",
+    "bytes": 3151
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/ui-diagnosis/check-diagnostic/playground.gd": {
+    "sha256": "a3cd937c1e85d52d131ab3d8f746e293453655398f369e0d806292df3b0745d5",
+    "bytes": 12437
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/ui-diagnosis/check-diagnostic/runtime-checks.json": {
+    "sha256": "629226b0bf18eb9b4485210eec9b38eb6982f3fba2b56fa36394a8c1d5fae79c",
+    "bytes": 1331
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/tested-project/main.tscn": {
+    "sha256": "0ef96dab3b2c00a180e8bb3f554adad71396addb04e76ab71b355658496a5f4b",
+    "bytes": 226
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/tested-project/CREDITS.md": {
+    "sha256": "d8e4b36efeebaf045c58e47be9229dc36f78a89282b02ec912a0f8c793f76e73",
+    "bytes": 1111
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/tested-project/stage.gd": {
+    "sha256": "08ad458638717dfff3144f14ce81f56c7cf8489721c33b2cd68a0e1110e81949",
+    "bytes": 3151
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/tested-project/README.md": {
+    "sha256": "9cdf0a00c4871cce65491d2dd19161709d8a042a6be404f37d1835c516f1870a",
+    "bytes": 2158
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/tested-project/playground.gd": {
+    "sha256": "7e9e9d371d69e997d97c7b37b2fdd033f293b81eee1313ee24632b65cc0e0620",
+    "bytes": 12331
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/tested-project/.gitignore": {
+    "sha256": "478aa2a3d73d5f2d7ef9b188776724ff468c9b90ae7a462859a5f0e53e213e30",
+    "bytes": 17
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/tested-project/variants.json": {
+    "sha256": "9d289b3ccb64449560737de623f491c07ac9d1e91c5ff4689fbf8f84156ffeea",
+    "bytes": 1053
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/tested-project/project.godot": {
+    "sha256": "bdda2711d4c663b5fe4a7b14dc1dc089e445daf07a07ab2585a6ff8133418a34",
+    "bytes": 762
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/tested-project/RUN_CHECKS": {
+    "sha256": "b51e4b7c53546f61d516472e5aa53657ed81d3c10436bc6d6049ba7efc90d4c3",
+    "bytes": 41
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/tested-project/ART-LICENSE.txt": {
+    "sha256": "2415c7aaa3f7b45d7ed51cb2897470fcb87cd87b1da66d1678840b5fce328109",
+    "bytes": 454
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/tested-project/textures/backgrounds.png": {
+    "sha256": "c044093de80c1cc6b064d4016d68fa034d039379db8ee6ee206d4d421148a10d",
+    "bytes": 16089
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/tested-project/textures/current-rest.png": {
+    "sha256": "6718432fc934416f70a84a64ab72bc45b4740e68c820c2c31140beff8a8846d6",
+    "bytes": 12974
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/tested-project/textures/tileset.png": {
+    "sha256": "1a5d5684c21eaeca89f3f68ed8d0508c73f3aedc04f7b9cb425c3cd28e429958",
+    "bytes": 10241
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/tested-project/textures/variant-04.png": {
+    "sha256": "341b01e5bdbfb77bd796eb2e022dc49c7636442c3b7d9a144d77afb110e1266b",
+    "bytes": 12521
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/tested-project/textures/variant-05.png": {
+    "sha256": "a7ca6984874b4ba667ece4d99da2e5c6fec54b4b2760f31ead7625273ed84c6e",
+    "bytes": 13475
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/tested-project/textures/variant-03.png": {
+    "sha256": "46ed03b35b3a2be0adff758eddedc8fd5f13b78c829bab86aaf43d6165d73df6",
+    "bytes": 13619
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/tested-project/textures/variant-01.png": {
+    "sha256": "f5ddce534af241fe3e60591ace51a404330a246b22e240a761c67d67d0cc78a5",
+    "bytes": 12338
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/prepare_variants.py": {
+    "sha256": "d313e0bd3fdab60435ae1f148dcdf569329a629d859afc1e2c5c7ccc024eaced",
+    "bytes": 11717
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/freeze_final_recipe.py": {
+    "sha256": "811464216937f80504db74aa62816f53e13bae427d5d894b49b1fd311cfd5c58",
+    "bytes": 2949
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/mcp-proof-readbacks.json": {
+    "sha256": "ebec00bacbb827b0197efee68420964b93865541a23f0e565ebb6545ef9bf8f4",
+    "bytes": 3942
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/shared-03-05-check.json": {
+    "sha256": "33b2ad7d1f2add7f33139240c96d1bcc00e82a9e8d84d3cb4e2c9f53bcd7a966",
+    "bytes": 280
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/prepare_edit_proofs.py": {
+    "sha256": "9dc294b0eb50f3464a60acb8ca8a9d92bad104616c7351c8a0a28a18fcb2dccd",
+    "bytes": 1213
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/checks.json": {
+    "sha256": "a8ff9167372205e26928ab430df9f60a6d08f3d25a2ffa3a3d9a3efd94af7fe6",
+    "bytes": 9055
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/audit_native.py": {
+    "sha256": "e837cb7b8d924fb558a9a6851babf0484891511305bde4eb0e311c90a629b0f8",
+    "bytes": 7156
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/README.md": {
+    "sha256": "47a0c321679bbcb7a83340c59d31e87c4e76554513a30dab9b766a38ec328428",
+    "bytes": 2061
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/mcp-final-metadata.json": {
+    "sha256": "f87a318897b3b68ebce8a90cc9d2fda652d5deab28fe1985c8ae3471efcd8413",
+    "bytes": 12763
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/observations.md": {
+    "sha256": "6fe2447513d72882123789d8792bb06fda31559149e741b3ddece52c11f47dc8",
+    "bytes": 6261
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/smoke/out-of-mask.aseprite": {
+    "sha256": "4f4306c14cbb7a1b5801b050e254c3c4ceb6dd45ae5fb84e03a795ba1f8325d2",
+    "bytes": 401
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/smoke/scratch.aseprite": {
+    "sha256": "af8bca3c601b14b93a69baf4793a4e6e54d3e04ce9b8e3ced592affc5757a0d9",
+    "bytes": 399
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/smoke/before.png": {
+    "sha256": "f72913814dd6daa26aa653c91b25f66d0b8736b6f4d55e1cc139fb98805fb03b",
+    "bytes": 131
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/smoke/after.png": {
+    "sha256": "5994ebc17b30fbbc85dc5702522f4b01bbd23ab9e3f528adc994673aef752433",
+    "bytes": 128
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/smoke/reopened.png": {
+    "sha256": "5994ebc17b30fbbc85dc5702522f4b01bbd23ab9e3f528adc994673aef752433",
+    "bytes": 128
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/smoke/checks.json": {
+    "sha256": "48a5b150676f2235d2f2d3a54049d6a160732ee06055ac93fb049c7d8e2ae604",
+    "bytes": 616
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/smoke/out-of-mask.png": {
+    "sha256": "94e31b0d17decf9b2139c3e01754b13b98829e3de531e40b2c1d1344234afcc8",
+    "bytes": 127
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/smoke/erase.png": {
+    "sha256": "c13363d2fe592ec1d3da75dee5970e1ea8213b84f9f1da1441750677d544d91c",
+    "bytes": 122
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/static.png": {
+    "sha256": "f5ddce534af241fe3e60591ace51a404330a246b22e240a761c67d67d0cc78a5",
+    "bytes": 12338
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/static.aseprite": {
+    "sha256": "6edf22ccca5e5ecc53caaa55f577b201d829153ff8430e391a9be13d44b7c002",
+    "bytes": 10568
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/source-spatial-mask-native.png": {
+    "sha256": "1634a7ed99395d4fa7889c64692166fd284b09bfc8311b5302085296c3037755",
+    "bytes": 887
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/review-seed.png": {
+    "sha256": "af28e089fe87019d1c6e5efb41c7ef99a8538c2bae15b38dc2f3ab191f73e64a",
+    "bytes": 66715
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/edit-proof-reopened.png": {
+    "sha256": "7af3845c9dcf8a8855fee2da5232019ae65d1a860ccd26aed7a53ed56481dfe2",
+    "bytes": 12352
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/edit-proof-protection.json": {
+    "sha256": "c6841a41944e06c41233ca28b90e4cb56d0b4c3ce39519aeeda92f89e39b2cfc",
+    "bytes": 1734
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/repaired-palette.json": {
+    "sha256": "8ee6c3ee05d579410da7a990fcbd16cda7a5da65f6d1613ab6928b850740b3da",
+    "bytes": 834
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/torso-cloth-armor.png": {
+    "sha256": "b117ef0e2ddfbf9d0966297851f0eb357aa982cbcd00cb7d8ab64acdce5a5b0f",
+    "bytes": 2915
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/lowerbody-boots.png": {
+    "sha256": "04c931bf9185171ac5bb920b02c9b96f9e987966cbb18d711f503c7fd909bb67",
+    "bytes": 3992
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/edit-proof-png-check.json": {
+    "sha256": "6afe6c4085fff395a9ef19e478df793a235ce9b51c2708e26e5ef4f8bebcfe0f",
+    "bytes": 804
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/raw-unquantized.png": {
+    "sha256": "f5103131a0841ac1a288f9bc85695903ab6d5305a2b10488879c307810eedca1",
+    "bytes": 19879
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/lowerbody-cloth-boots.png": {
+    "sha256": "04c931bf9185171ac5bb920b02c9b96f9e987966cbb18d711f503c7fd909bb67",
+    "bytes": 3992
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/recipe.json": {
+    "sha256": "d4def8038a016b7cddc16446653da1b8d745e122e8451f6146c3e6efd6fd95ee",
+    "bytes": 14273
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/waist-wrap-sword.png": {
+    "sha256": "cbcfbad3c22f19e00c10e96cb2903b601770126c2045b4c642bbc37469d6f1aa",
+    "bytes": 1789
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/head-hair-face.png": {
+    "sha256": "0d50e90cce359e5c57fd1531ef1bd9f22b1e5a23e420debdf9dfdc0797efc74d",
+    "bytes": 2314
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/reopened.png": {
+    "sha256": "f5ddce534af241fe3e60591ace51a404330a246b22e240a761c67d67d0cc78a5",
+    "bytes": 12338
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/edit-proof.aseprite": {
+    "sha256": "4f215db57941f71b9ec486f3167d1225c9616ffbf9ede65d80e916bde505234d",
+    "bytes": 10566
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/edit-proof-ops.json": {
+    "sha256": "f456d63d684a16374ca7a306db419961e9c0553499e83821eec4117c34ac473b",
+    "bytes": 4806
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/edit-proof-mask.png": {
+    "sha256": "1c88b1b6a2cb202de261d2fec7e872134b057c58b82d6da0b343e3fbd24e11fc",
+    "bytes": 142
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/near-arm-guard-hand.png": {
+    "sha256": "15c4371bb4f15565d51483da7093122ba0fb3fdbf1ad0d41e8427553df3dd0b2",
+    "bytes": 3123
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/final-original-native-review.png": {
+    "sha256": "02dc4ef4ceb842611a9b66890f2d862e8f24fe37b136eba9ec7d741ec9ac2f5a",
+    "bytes": 77472
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/face-review.png": {
+    "sha256": "a409700ce7bebea069206645fdbb1b123992f09a0727b865170af1cf24ac6d50",
+    "bytes": 66257
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/edit-proof.png": {
+    "sha256": "7af3845c9dcf8a8855fee2da5232019ae65d1a860ccd26aed7a53ed56481dfe2",
+    "bytes": 12352
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/native-draw-ops.json": {
+    "sha256": "680d18ec2d7a875a06e00531cb58651858b8b91fa8b6f64785f8fe36d844ae30",
+    "bytes": 36753
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/edit-proof-comparison-8x.png": {
+    "sha256": "a463d3544627c69c5c825ec49b796cc18ed2294f5244640e83679773cddd43a4",
+    "bytes": 23840
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/source-mask-review-3x.png": {
+    "sha256": "808c5ae52c61b908e84a31eb000e58b95a6056b05fe616094aea7a6488877ea1",
+    "bytes": 66721
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/native-owner-contact-3x.png": {
+    "sha256": "60f85134d8226ee73105273fb1a6039a177192e57171b941c7dd365216f71e86",
+    "bytes": 30860
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/far-hand.png": {
+    "sha256": "3cd89dc45693f562702473ccddabf8a41af7a075789e5a01be444b92ffcd608e",
+    "bytes": 428
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/coverage.json": {
+    "sha256": "67f765c4b17faf0a0d85f960fef5553d76069919aba83255806072a68bb3c9d4",
+    "bytes": 297
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/ownership-redraw-ops.json": {
+    "sha256": "88b88fe40843b26426557891db271339c6a2e2e1578200558a551d3f4a6c71c0",
+    "bytes": 179744
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/raw-seed.png": {
+    "sha256": "d215a555877e4eb780286f0a0c381fe8da64064eb18a9ea69ac822f19bea9e59",
+    "bytes": 11562
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass02-preownership/static.png": {
+    "sha256": "f5ddce534af241fe3e60591ace51a404330a246b22e240a761c67d67d0cc78a5",
+    "bytes": 12338
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass02-preownership/static.aseprite": {
+    "sha256": "0ecb34046ba8aa96096540840d7ed6188d7ed6b80327ba3a64b0d04a432b6399",
+    "bytes": 10609
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass02-preownership/edit-proof-reopened.png": {
+    "sha256": "7af3845c9dcf8a8855fee2da5232019ae65d1a860ccd26aed7a53ed56481dfe2",
+    "bytes": 12352
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass02-preownership/torso-cloth-armor.png": {
+    "sha256": "4c8282ea4e06a7dc18a96136db405a3dc4535ddbd3ff7c48981bc4a4d9468742",
+    "bytes": 2384
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass02-preownership/lowerbody-boots.png": {
+    "sha256": "04c931bf9185171ac5bb920b02c9b96f9e987966cbb18d711f503c7fd909bb67",
+    "bytes": 3992
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass02-preownership/waist-wrap-sword.png": {
+    "sha256": "8e7ae065c9db873984c9b430ca2a6cf5be5639ec10774589c4c42210c326c981",
+    "bytes": 1779
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass02-preownership/head-hair-face.png": {
+    "sha256": "d129daac5274fed1d18b5f3ebc8a897eb4d1759817682431dc2c41dd59d7625a",
+    "bytes": 2578
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass02-preownership/reopened.png": {
+    "sha256": "f5ddce534af241fe3e60591ace51a404330a246b22e240a761c67d67d0cc78a5",
+    "bytes": 12338
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass02-preownership/edit-proof.aseprite": {
+    "sha256": "8b40f52a25880766c04ee5c910d9ad664efa41c66b72ee493ec750a34991134a",
+    "bytes": 10607
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass02-preownership/edit-proof-ops.json": {
+    "sha256": "d50a386b3cf14fa9ce286210888a198bd087d8451c26d812666b2d4d2f8c96c1",
+    "bytes": 4806
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass02-preownership/edit-proof-mask.png": {
+    "sha256": "1c88b1b6a2cb202de261d2fec7e872134b057c58b82d6da0b343e3fbd24e11fc",
+    "bytes": 142
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass02-preownership/near-arm-guard-hand.png": {
+    "sha256": "15c4371bb4f15565d51483da7093122ba0fb3fdbf1ad0d41e8427553df3dd0b2",
+    "bytes": 3123
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass02-preownership/edit-proof.png": {
+    "sha256": "7af3845c9dcf8a8855fee2da5232019ae65d1a860ccd26aed7a53ed56481dfe2",
+    "bytes": 12352
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass02-preownership/native-owner-contact-3x.png": {
+    "sha256": "86a11de3e02349d9ee167ba1f287c8fab1c4343c1c9a53eb6fa96d7fc01862d8",
+    "bytes": 30674
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass02-preownership/far-hand.png": {
+    "sha256": "75ee9d3042abc2c9d20a1f0f0e7073676e94747949f47126561d3664352b1528",
+    "bytes": 598
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/static.png": {
+    "sha256": "69bd6171d630dc4e40bdd80abf77bb07f02862d9b0648b576222d7226122c80f",
+    "bytes": 17072
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/static.aseprite": {
+    "sha256": "3022e138b0f8918da4b62a182b81dc9c98a439ed5f04ae5ded50b831343d3cee",
+    "bytes": 15517
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/source-spatial-mask-native.png": {
+    "sha256": "67499ef90286ceb2d6e12bbda2dcad0c9528ace03ec9256ed44d87cdf0513a34",
+    "bytes": 875
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/review-seed.png": {
+    "sha256": "71ba77da77b98d18719197f2b584b9163b624dbd115d87ec15ec5619cce4e27b",
+    "bytes": 70558
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/repaired-palette.json": {
+    "sha256": "ae192bf4a319afd114c2020feba73a154a0cb66c0772430cfb1c6095a95ebcb6",
+    "bytes": 834
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/torso-cloth-armor.png": {
+    "sha256": "b1cf551d636ca7471db3b772e97b0d5dc7ec8ad961ed44788311898a79f1c5f6",
+    "bytes": 3453
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/lowerbody-boots.png": {
+    "sha256": "bccbf51c8ccf917573c5ae6f4b15e4986b78b0442a0118db555e6abdec6672a1",
+    "bytes": 7518
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/raw-unquantized.png": {
+    "sha256": "4404ebec48e4276e90e9c3057fc02c0753a92536e452d8839ffd18d9bca2676f",
+    "bytes": 20190
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/recipe.json": {
+    "sha256": "36546fa96ac2de03dc83e5168a5e0a10ee13014ffc5b586d9d3f13645cc86272",
+    "bytes": 9196
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/waist-wrap-sword.png": {
+    "sha256": "721d8d4a5fa1db05e480a089d877a5e9285700bcb4e28859555ed65fda236d26",
+    "bytes": 2242
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/head-hair-face.png": {
+    "sha256": "acbe5ca767c58745d8c970c687ba3378544464e85a44bc37f8449140c72ef2f7",
+    "bytes": 2874
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/near-arm-guard-hand.png": {
+    "sha256": "6ca71263c51671f05a9174a73e4b93a32f23f3d4e017c37daf5e92e51c979231",
+    "bytes": 3061
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/face-review.png": {
+    "sha256": "9bbbba743d87c3b250d872c431f02a72f00060c0b52badb1d864f45b7bf7dbc6",
+    "bytes": 66439
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/native-draw-ops.json": {
+    "sha256": "ffeca6a4f585a1c27651bed04dae2e0a930a09dd9126ea532a959ceb119de121",
+    "bytes": 35824
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/source-mask-review-3x.png": {
+    "sha256": "f7b84baf17c4b3f8ebc0a97de8dc026783638ef40b52d8274ba5b6c6f1eb53ed",
+    "bytes": 69849
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/far-hand.png": {
+    "sha256": "7017843f2874508af663a2a3d28b1d1a69e9b5abc54085900d2102412848043e",
+    "bytes": 637
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-01/pass00-mediancut/raw-seed.png": {
+    "sha256": "b60c37d6c6ab73113402e146690e6222b7e52548844857aa32a0912c800404f2",
+    "bytes": 16564
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/static.png": {
+    "sha256": "a7ca6984874b4ba667ece4d99da2e5c6fec54b4b2760f31ead7625273ed84c6e",
+    "bytes": 13475
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/static.aseprite": {
+    "sha256": "4a361b5f7b994b5a8c58a0df0aa70441bf331a3b27c2d08d4c4dc7a5449343b6",
+    "bytes": 11272
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/source-spatial-mask-native.png": {
+    "sha256": "65d15efdf0e50f992c6b469c6494fee2dbd17729ac67c53adb67761186100fe7",
+    "bytes": 913
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/review-seed.png": {
+    "sha256": "07f35ff245c284255b520f5c5875a198ad56393c3de5e1b6cab549e152a8530a",
+    "bytes": 67838
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/edit-proof-reopened.png": {
+    "sha256": "268be3d55e372465c38693cf13c6e8e8486448e8ee44cd0868b94357b7406762",
+    "bytes": 13464
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/edit-proof-protection.json": {
+    "sha256": "c6841a41944e06c41233ca28b90e4cb56d0b4c3ce39519aeeda92f89e39b2cfc",
+    "bytes": 1734
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/repaired-palette.json": {
+    "sha256": "640dd281f1f095c240597d1edf275ce356aa2ca5e64f62b811149232cbd2ef31",
+    "bytes": 834
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/torso-cloth-armor.png": {
+    "sha256": "2b54297e93cd797da8dd9fc26a0d4fbb125b0848cb1a4eb3f9e76c417131daa5",
+    "bytes": 3298
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/lowerbody-boots.png": {
+    "sha256": "2ca2f330d71ddc4dd78f21fbfd9199fcfed0ed7d06954039113b06c63db47155",
+    "bytes": 4194
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/edit-proof-png-check.json": {
+    "sha256": "5a49ecbc6d674bd5e452ac67df2a9c6633012cb17dc8bb29fba38c7fb54a79e1",
+    "bytes": 804
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/raw-unquantized.png": {
+    "sha256": "f02b2277a08e8d707209d9ffde95f9939ae3e2e8adc311286e9841c25058ad22",
+    "bytes": 19750
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/lowerbody-cloth-boots.png": {
+    "sha256": "2ca2f330d71ddc4dd78f21fbfd9199fcfed0ed7d06954039113b06c63db47155",
+    "bytes": 4194
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/recipe.json": {
+    "sha256": "ac823ed7f47f1c13d51b12b4453da44060dbefde74054227a1e13277af3ae031",
+    "bytes": 15163
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/waist-wrap-sword.png": {
+    "sha256": "f3f1d317c2ac0cade9467ee0cf112034d92a3c50cda1af178e6cb3d0ff87edc8",
+    "bytes": 2066
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/head-hair-face.png": {
+    "sha256": "75e2643968955dfa9ae74b065781725f64c3460a7bbaab5adbeb8aa1404ab36f",
+    "bytes": 2676
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/reopened.png": {
+    "sha256": "a7ca6984874b4ba667ece4d99da2e5c6fec54b4b2760f31ead7625273ed84c6e",
+    "bytes": 13475
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/edit-proof.aseprite": {
+    "sha256": "a570c3d0ed2430cf85982c22d9ee9723f0467f27e9ba34fd127cdd04fa9c4cfe",
+    "bytes": 11273
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/edit-proof-ops.json": {
+    "sha256": "581f6be812b7d5790c4e927b24ae625f4b5c69a59ca982105f6e7c53abefee8c",
+    "bytes": 4806
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/edit-proof-mask.png": {
+    "sha256": "1c88b1b6a2cb202de261d2fec7e872134b057c58b82d6da0b343e3fbd24e11fc",
+    "bytes": 142
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/near-arm-guard-hand.png": {
+    "sha256": "1cc67f150fc284a34ddb07b29cfb93445ec37ca27671026c75d925f13d195155",
+    "bytes": 3109
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/final-original-native-review.png": {
+    "sha256": "3343bd26c6c17072f6caede1d7bb2b11c3fae8cf3f599cc289b418e4f93bd5e0",
+    "bytes": 76268
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/face-review.png": {
+    "sha256": "9a3706434d1c5cbb573e13b7b6e776364209e0290b2fadf4becf37d37699ef70",
+    "bytes": 47389
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/edit-proof.png": {
+    "sha256": "268be3d55e372465c38693cf13c6e8e8486448e8ee44cd0868b94357b7406762",
+    "bytes": 13464
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/native-draw-ops.json": {
+    "sha256": "43289100ef58ba39a131b05793539c2b005af15319504a3db4482b5f33152f05",
+    "bytes": 36188
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/edit-proof-comparison-8x.png": {
+    "sha256": "3175a1b8cd108b8acd0239a0cf00b6ca659e343d3d0013d51be7c718db9ac223",
+    "bytes": 25053
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/source-mask-review-3x.png": {
+    "sha256": "3919c9efe35b4e959efb1a37882046bcdd85b2b9b2f0256308370c4bf198aabb",
+    "bytes": 65637
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/native-owner-contact-3x.png": {
+    "sha256": "bfcf284bbfaafb24be826ce28a66f32fe3c755974943ee4fad3f1e00ff96450f",
+    "bytes": 32243
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/far-hand.png": {
+    "sha256": "57b1ec9de8a474e2a51a6f21e1d35317bb0f344ddfcc0ca1fb23d860b7ac78f8",
+    "bytes": 401
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/coverage.json": {
+    "sha256": "67f765c4b17faf0a0d85f960fef5553d76069919aba83255806072a68bb3c9d4",
+    "bytes": 297
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/ownership-redraw-ops.json": {
+    "sha256": "a0e964879c20431efe630539e2eb39599ed16c1cf3b221a351dc33e38c7bfb98",
+    "bytes": 179744
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/raw-seed.png": {
+    "sha256": "3a4f3185f55bcbda220ede8ba57e302180bf064e5fc28c55ff90e4ce80b8e253",
+    "bytes": 12637
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass02-preownership/static.png": {
+    "sha256": "a7ca6984874b4ba667ece4d99da2e5c6fec54b4b2760f31ead7625273ed84c6e",
+    "bytes": 13475
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass02-preownership/static.aseprite": {
+    "sha256": "76ba66c58d92481baf5239b82fc3c7637282e4f8647158f5910de465cefd53ef",
+    "bytes": 11302
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass02-preownership/edit-proof-reopened.png": {
+    "sha256": "268be3d55e372465c38693cf13c6e8e8486448e8ee44cd0868b94357b7406762",
+    "bytes": 13464
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass02-preownership/torso-cloth-armor.png": {
+    "sha256": "fc9e6fb7837cc888182db4f501a4e625232a3563cbd693ed1747b854e03e2f03",
+    "bytes": 2723
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass02-preownership/lowerbody-boots.png": {
+    "sha256": "2ca2f330d71ddc4dd78f21fbfd9199fcfed0ed7d06954039113b06c63db47155",
+    "bytes": 4194
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass02-preownership/waist-wrap-sword.png": {
+    "sha256": "836943d34990454bace024c1e19212d972efc6a5680db62e1e8d4f4e27cea7f9",
+    "bytes": 2055
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass02-preownership/head-hair-face.png": {
+    "sha256": "4c1e13cb663b35cb9daf0db2cef256651f3e264e3015c7e067ca232bdefefb04",
+    "bytes": 2969
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass02-preownership/reopened.png": {
+    "sha256": "a7ca6984874b4ba667ece4d99da2e5c6fec54b4b2760f31ead7625273ed84c6e",
+    "bytes": 13475
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass02-preownership/edit-proof.aseprite": {
+    "sha256": "95e535d2d8dd8506215f29fdf38ab7b276dbac83dbaceab025e73e2ae9d4bf4b",
+    "bytes": 11303
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass02-preownership/edit-proof-ops.json": {
+    "sha256": "b20d63bd58d997c4c97326edc671f892f78c66154e3f6a99f16104e183828eb6",
+    "bytes": 4806
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass02-preownership/edit-proof-mask.png": {
+    "sha256": "1c88b1b6a2cb202de261d2fec7e872134b057c58b82d6da0b343e3fbd24e11fc",
+    "bytes": 142
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass02-preownership/near-arm-guard-hand.png": {
+    "sha256": "f31c0c955754ecd0a8234d66325dbd35c1b46f8b873fa3b8647871edbe1beafc",
+    "bytes": 3115
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass02-preownership/edit-proof.png": {
+    "sha256": "268be3d55e372465c38693cf13c6e8e8486448e8ee44cd0868b94357b7406762",
+    "bytes": 13464
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass02-preownership/native-owner-contact-3x.png": {
+    "sha256": "809d42ce080e0520942f728889e576ccb9cd5355b3ebbf34987c1c5c6bc0f551",
+    "bytes": 32044
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass02-preownership/far-hand.png": {
+    "sha256": "b1e76518370882204d3aaa4a94f707bf7fcae3ffea732da4c1ca135d43511bef",
+    "bytes": 601
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass00-mediancut/source-spatial-mask-native.png": {
+    "sha256": "b69f4d82b02a88e3f14d53e1b3659d134bb4dc558fc93305d288f783d23b179c",
+    "bytes": 927
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass00-mediancut/review-seed.png": {
+    "sha256": "1e656b4f46558846827d0daec08d7e65d81005c5c532368b1e214f64ae2d6ff5",
+    "bytes": 70332
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass00-mediancut/repaired-palette.json": {
+    "sha256": "704786ccd0ebb7aafeba776d273f2e0f0f1626389532e1cf93015174423c3e97",
+    "bytes": 834
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass00-mediancut/torso-cloth-armor.png": {
+    "sha256": "2a8e9e5e1fffd5d6710ff44cad2082e0b4d3bad77a7839fd4c7364c410142823",
+    "bytes": 3582
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass00-mediancut/lowerbody-boots.png": {
+    "sha256": "16af1e01f3f1a422f77df201fd269160f86c0f411a6c3eb8a7a70d30c970debc",
+    "bytes": 7096
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass00-mediancut/raw-unquantized.png": {
+    "sha256": "e10dd8181ffb1cc09ef39b488aa5f77afbbaaf25ee599407fe7ed77e9062e225",
+    "bytes": 19799
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass00-mediancut/recipe.json": {
+    "sha256": "23df20f70e94e67b8cb8dfecc5f2e787b22ebffd0ad43c9b6655f58e9f8598ac",
+    "bytes": 10126
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass00-mediancut/waist-wrap-sword.png": {
+    "sha256": "8648e62c08aa9df0ec884d3701154d26ba7b662ee3f957f4c586a37f547770b4",
+    "bytes": 2443
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass00-mediancut/head-hair-face.png": {
+    "sha256": "5404ce05344c3a0124edd36bfda18083b849cb3330f648997c2808f445a38d49",
+    "bytes": 3177
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass00-mediancut/near-arm-guard-hand.png": {
+    "sha256": "d06971ce60cf44a9db0c53ebef7fbeb7790dae953e7060d53a20ac7d088c0f7b",
+    "bytes": 2919
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass00-mediancut/face-review.png": {
+    "sha256": "6a91ba3ea14ff5724b25c8101974b7bc69e8fe91365c7b4a3260b3fe1d83efa7",
+    "bytes": 47332
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass00-mediancut/native-draw-ops.json": {
+    "sha256": "7dc1070d77d09684a5414acf7b1a8853c86b73fffef91a1e1522d12d30dd9e17",
+    "bytes": 35212
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass00-mediancut/source-mask-review-3x.png": {
+    "sha256": "6bc20839534b60fb1c1aad5691d79f1dce78ff5b287daaca89a654895fa26c84",
+    "bytes": 68361
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass00-mediancut/far-hand.png": {
+    "sha256": "467ed6263ab8ca54ef728fea12fa8d58aa39ad5549c69412ab49ee0811f9aa1d",
+    "bytes": 575
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-05/pass00-mediancut/raw-seed.png": {
+    "sha256": "5dce45a831ff74f93e6cfc0c0bb03ab42a90c107ba859cc204813606b6b781c6",
+    "bytes": 16544
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/static.png": {
+    "sha256": "46ed03b35b3a2be0adff758eddedc8fd5f13b78c829bab86aaf43d6165d73df6",
+    "bytes": 13619
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/static.aseprite": {
+    "sha256": "7cf57a3fe73afc2b9531c6c8ec3ead8ae030b664a4dd0f078ef9ba7e03879a26",
+    "bytes": 11322
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/source-spatial-mask-native.png": {
+    "sha256": "65d15efdf0e50f992c6b469c6494fee2dbd17729ac67c53adb67761186100fe7",
+    "bytes": 913
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/review-seed.png": {
+    "sha256": "625218e77c743e3930faa88f5db36dbd4c20380854e3eb5da398351022c8d146",
+    "bytes": 68388
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/edit-proof-reopened.png": {
+    "sha256": "630ed77705b3628629bb8282cf954be76aa6dd676d1655070c830e7d58703425",
+    "bytes": 13611
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/edit-proof-protection.json": {
+    "sha256": "c6841a41944e06c41233ca28b90e4cb56d0b4c3ce39519aeeda92f89e39b2cfc",
+    "bytes": 1734
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/repaired-palette.json": {
+    "sha256": "640dd281f1f095c240597d1edf275ce356aa2ca5e64f62b811149232cbd2ef31",
+    "bytes": 834
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/torso-cloth-armor.png": {
+    "sha256": "41db8706f2021f0b8fb3b3d2463208ee0bd8882210edffd8724a61c853485529",
+    "bytes": 3441
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/lowerbody-boots.png": {
+    "sha256": "2ca2f330d71ddc4dd78f21fbfd9199fcfed0ed7d06954039113b06c63db47155",
+    "bytes": 4194
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/edit-proof-png-check.json": {
+    "sha256": "e1bd87fc1f43987bcc61b86a2eb402864aa248ef8923f369abeed69c55b6b010",
+    "bytes": 804
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/raw-unquantized.png": {
+    "sha256": "4590cd8f290c4d603b3f464ee0c3c29e52409cfd91d17371230009a8c251e89d",
+    "bytes": 19868
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/lowerbody-cloth-boots.png": {
+    "sha256": "2ca2f330d71ddc4dd78f21fbfd9199fcfed0ed7d06954039113b06c63db47155",
+    "bytes": 4194
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/recipe.json": {
+    "sha256": "0c53d8d0e1feb3954283ddfcad1920289c057a8852a4646f91048bb6903ead41",
+    "bytes": 15163
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/waist-wrap-sword.png": {
+    "sha256": "f3f1d317c2ac0cade9467ee0cf112034d92a3c50cda1af178e6cb3d0ff87edc8",
+    "bytes": 2066
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/head-hair-face.png": {
+    "sha256": "75e2643968955dfa9ae74b065781725f64c3460a7bbaab5adbeb8aa1404ab36f",
+    "bytes": 2676
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/reopened.png": {
+    "sha256": "46ed03b35b3a2be0adff758eddedc8fd5f13b78c829bab86aaf43d6165d73df6",
+    "bytes": 13619
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/edit-proof.aseprite": {
+    "sha256": "62df286ddb0e0c5a118a2338b37d623a128d66cf357c08670e0598319599d317",
+    "bytes": 11323
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/edit-proof-ops.json": {
+    "sha256": "f570f9c8bd84da3d8ac6ae695ff06da9dbd5667c12b66bcba669807e07ff6e46",
+    "bytes": 4806
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/edit-proof-mask.png": {
+    "sha256": "1c88b1b6a2cb202de261d2fec7e872134b057c58b82d6da0b343e3fbd24e11fc",
+    "bytes": 142
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/near-arm-guard-hand.png": {
+    "sha256": "1cc67f150fc284a34ddb07b29cfb93445ec37ca27671026c75d925f13d195155",
+    "bytes": 3109
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/final-original-native-review.png": {
+    "sha256": "98524ae18d498b295dae3ddef12f0a3ef653f89a8df7253045ca5868f0369452",
+    "bytes": 76792
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/face-review.png": {
+    "sha256": "8f3abca784e868ea29a1bf422be749d8ca491379f1d1b4d715dc93e5b4d998fb",
+    "bytes": 48204
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/edit-proof.png": {
+    "sha256": "630ed77705b3628629bb8282cf954be76aa6dd676d1655070c830e7d58703425",
+    "bytes": 13611
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/native-draw-ops.json": {
+    "sha256": "07d4779d3080696fafa12ff7c7240e547404e98b0ad4b5b3a4751576c7be0445",
+    "bytes": 36188
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/edit-proof-comparison-8x.png": {
+    "sha256": "fb38eeedf7f2631d05e933a3bb27dc77a42bf71f9e08cc6b62ab306819e362c8",
+    "bytes": 25226
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/source-mask-review-3x.png": {
+    "sha256": "33a12417012111bfb45d4a28634280b6a73c3e7be1829fb48116b4b122d2df01",
+    "bytes": 65971
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/native-owner-contact-3x.png": {
+    "sha256": "e6e0b885611f1151c1d5268cedefa1fd40eb3ebe5494f61b7ab0102e13a9846d",
+    "bytes": 32393
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/far-hand.png": {
+    "sha256": "57b1ec9de8a474e2a51a6f21e1d35317bb0f344ddfcc0ca1fb23d860b7ac78f8",
+    "bytes": 401
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/coverage.json": {
+    "sha256": "67f765c4b17faf0a0d85f960fef5553d76069919aba83255806072a68bb3c9d4",
+    "bytes": 297
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/ownership-redraw-ops.json": {
+    "sha256": "c8341950402473c3588a667431d07087c9a428cdfffbd3f7b8fdf4185d5d3cf6",
+    "bytes": 179744
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/raw-seed.png": {
+    "sha256": "0220aa72378042619ac5d8641a0c881473c39ef5fbac3eaac7152cd7afa150d7",
+    "bytes": 12757
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass02-preownership/static.png": {
+    "sha256": "46ed03b35b3a2be0adff758eddedc8fd5f13b78c829bab86aaf43d6165d73df6",
+    "bytes": 13619
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass02-preownership/static.aseprite": {
+    "sha256": "88c0a16a46d7c4e95fb1af01a5acd84cb018a0b4e2d2e30aa204edd06d52f5fd",
+    "bytes": 11345
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass02-preownership/edit-proof-reopened.png": {
+    "sha256": "630ed77705b3628629bb8282cf954be76aa6dd676d1655070c830e7d58703425",
+    "bytes": 13611
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass02-preownership/torso-cloth-armor.png": {
+    "sha256": "0159bf07f2f13800e304e78d1a9e857f75834f85eb3eab978ea88515881e3f8c",
+    "bytes": 2846
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass02-preownership/lowerbody-boots.png": {
+    "sha256": "2ca2f330d71ddc4dd78f21fbfd9199fcfed0ed7d06954039113b06c63db47155",
+    "bytes": 4194
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass02-preownership/waist-wrap-sword.png": {
+    "sha256": "836943d34990454bace024c1e19212d972efc6a5680db62e1e8d4f4e27cea7f9",
+    "bytes": 2055
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass02-preownership/head-hair-face.png": {
+    "sha256": "d709555aaafa19d215b36dfa8b43901a292d755c84d49d6120c897f6beb65b8f",
+    "bytes": 3028
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass02-preownership/reopened.png": {
+    "sha256": "46ed03b35b3a2be0adff758eddedc8fd5f13b78c829bab86aaf43d6165d73df6",
+    "bytes": 13619
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass02-preownership/edit-proof.aseprite": {
+    "sha256": "bff2240494382057bc23fbb22b5d28d4934adaf6c4f29fa3ae8d8b776ded661e",
+    "bytes": 11344
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass02-preownership/edit-proof-ops.json": {
+    "sha256": "6ee363100bf8e32a92500e9c1f2f4bb128ebdb59a193ddce97f0d8ba7594a242",
+    "bytes": 4806
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass02-preownership/edit-proof-mask.png": {
+    "sha256": "1c88b1b6a2cb202de261d2fec7e872134b057c58b82d6da0b343e3fbd24e11fc",
+    "bytes": 142
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass02-preownership/near-arm-guard-hand.png": {
+    "sha256": "91d81b5accbe2dea3fa151edaf87f79af7ecce7e1a30c1245ff8167549f6f201",
+    "bytes": 3109
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass02-preownership/edit-proof.png": {
+    "sha256": "630ed77705b3628629bb8282cf954be76aa6dd676d1655070c830e7d58703425",
+    "bytes": 13611
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass02-preownership/native-owner-contact-3x.png": {
+    "sha256": "223443450e4e90657c318e317b10503f31e7564121d4cd21a3e312635a26f0f3",
+    "bytes": 32214
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass02-preownership/far-hand.png": {
+    "sha256": "b1e76518370882204d3aaa4a94f707bf7fcae3ffea732da4c1ca135d43511bef",
+    "bytes": 601
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass00-mediancut/source-spatial-mask-native.png": {
+    "sha256": "b69f4d82b02a88e3f14d53e1b3659d134bb4dc558fc93305d288f783d23b179c",
+    "bytes": 927
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass00-mediancut/review-seed.png": {
+    "sha256": "809921114322cef7787f2e4966b5d58912ff7a5b1f9aa816a84fdb2dc1dde847",
+    "bytes": 70745
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass00-mediancut/repaired-palette.json": {
+    "sha256": "704786ccd0ebb7aafeba776d273f2e0f0f1626389532e1cf93015174423c3e97",
+    "bytes": 834
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass00-mediancut/torso-cloth-armor.png": {
+    "sha256": "23a9fc2d4367d0535d645aaf6fccc54ba5ed1bf6560baf9685b64beb42d5787e",
+    "bytes": 3638
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass00-mediancut/lowerbody-boots.png": {
+    "sha256": "16af1e01f3f1a422f77df201fd269160f86c0f411a6c3eb8a7a70d30c970debc",
+    "bytes": 7096
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass00-mediancut/raw-unquantized.png": {
+    "sha256": "f29e25d09a631d282e298fcca688d0f387c587a54793bb7f691e47d5f135f2aa",
+    "bytes": 19906
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass00-mediancut/recipe.json": {
+    "sha256": "2e02e1ccfb304cf663964d5cd5c9f2be390ed9e742c1c24c3231276a810fef20",
+    "bytes": 10126
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass00-mediancut/waist-wrap-sword.png": {
+    "sha256": "8648e62c08aa9df0ec884d3701154d26ba7b662ee3f957f4c586a37f547770b4",
+    "bytes": 2443
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass00-mediancut/head-hair-face.png": {
+    "sha256": "9019c538234398d250e450e58a1ff604bc00dbfd96e744a47ea1faa889eca28c",
+    "bytes": 3184
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass00-mediancut/near-arm-guard-hand.png": {
+    "sha256": "7b78cb852f63e9e0dddc0cfc1c7a8ec7768772451ca4c2da0938e70a7bbe99e0",
+    "bytes": 2917
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass00-mediancut/face-review.png": {
+    "sha256": "4a54acbd154c5b83dc7b59efdef1b3b84e13cf3371f63d920f7314fe5d2a71af",
+    "bytes": 48165
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass00-mediancut/native-draw-ops.json": {
+    "sha256": "bc6fe440673b9a6fb21e348da2be1fb3cc7670ea485faa0bbb9b2aab85c6d8f8",
+    "bytes": 35212
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass00-mediancut/source-mask-review-3x.png": {
+    "sha256": "70868e90da05581fdd79dc8fad0f7091aaa85ea491e1028091af8e7c6c36976a",
+    "bytes": 68609
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass00-mediancut/far-hand.png": {
+    "sha256": "467ed6263ab8ca54ef728fea12fa8d58aa39ad5549c69412ab49ee0811f9aa1d",
+    "bytes": 575
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-03/pass00-mediancut/raw-seed.png": {
+    "sha256": "af3cb24b4e0a4b4d8de08c0e57831efa592a6573679713f07909dec9d8461e44",
+    "bytes": 16582
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/static.png": {
+    "sha256": "341b01e5bdbfb77bd796eb2e022dc49c7636442c3b7d9a144d77afb110e1266b",
+    "bytes": 12521
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/static.aseprite": {
+    "sha256": "bbbffc7131e79e7e129375fea984a59f41fb666be42e00e4bd36b7547f6ebf29",
+    "bytes": 10613
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/source-spatial-mask-native.png": {
+    "sha256": "392ec122a5bf67e41e3e3a5482a6dfb1dcdfe2ce1c3285b61025ba03d70c2821",
+    "bytes": 891
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/review-seed.png": {
+    "sha256": "5752549ef5f41ea2fa2694020ade237d6cd16d7635afde165388b6b8ccf50630",
+    "bytes": 67682
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/edit-proof-reopened.png": {
+    "sha256": "c494097683d2fa517b1791a297afa22cc10ad577aa4e2f79eb62b765dc5b852b",
+    "bytes": 12534
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/edit-proof-protection.json": {
+    "sha256": "c6841a41944e06c41233ca28b90e4cb56d0b4c3ce39519aeeda92f89e39b2cfc",
+    "bytes": 1734
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/repaired-palette.json": {
+    "sha256": "eab96cb0b89546355575ef12c79d7f1e604cf1eec9e6417cbb9fb062147b6255",
+    "bytes": 834
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/torso-cloth-armor.png": {
+    "sha256": "761c396dce05baf08ed7dd523d018f38d798ea63cb56e4f91d1a97bf191ac3ff",
+    "bytes": 2947
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/lowerbody-boots.png": {
+    "sha256": "59569b9b841b6a9833d1d69bfc1675f81a26d184d8be168e63f0b931644608e8",
+    "bytes": 3782
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/edit-proof-png-check.json": {
+    "sha256": "c3b3f873764d052d4ba5f4b671352ba179fd4401af8945928f8d9bed05266ceb",
+    "bytes": 804
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/raw-unquantized.png": {
+    "sha256": "a4d1e503ec5c82c3dd7224856e7ddaeb332730c3cb98905f57a91f28b9c3490f",
+    "bytes": 20591
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/lowerbody-cloth-boots.png": {
+    "sha256": "59569b9b841b6a9833d1d69bfc1675f81a26d184d8be168e63f0b931644608e8",
+    "bytes": 3782
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/recipe.json": {
+    "sha256": "92cdf3378f422204f78611bd4432a59ebfe0ad6fb07b550510c213b7502b67bf",
+    "bytes": 15620
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/waist-wrap-sword.png": {
+    "sha256": "5c1cf505f80c111d2f3533b19fa2742da6a20d9ec2d2164b4fa806e9dd50af9e",
+    "bytes": 1981
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/head-hair-face.png": {
+    "sha256": "e40f2676b22afcc6e659201120d90280ed3d3103d545647d6942923b410c014f",
+    "bytes": 2561
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/reopened.png": {
+    "sha256": "341b01e5bdbfb77bd796eb2e022dc49c7636442c3b7d9a144d77afb110e1266b",
+    "bytes": 12521
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/edit-proof.aseprite": {
+    "sha256": "97a8ddb9e9fd158f46498fd4ca9e17bca08f28f79ecc87751195344bd5ee5c5c",
+    "bytes": 10625
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/edit-proof-ops.json": {
+    "sha256": "d1167612ea3f60c6864d1d216e49ae1f3a4a4c36aeaa1212c27f8ec32367035b",
+    "bytes": 4806
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/edit-proof-mask.png": {
+    "sha256": "1c88b1b6a2cb202de261d2fec7e872134b057c58b82d6da0b343e3fbd24e11fc",
+    "bytes": 142
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/near-arm-guard-hand.png": {
+    "sha256": "5d416abb123071a62f7bd724b983f32e9890396d980db66e1b62fb41355da5f5",
+    "bytes": 2942
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/final-original-native-review.png": {
+    "sha256": "48a6a37dc77b4803654e78ded991c4fb4bed7809816316ecb1ad37fb6f0a1a4f",
+    "bytes": 76693
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/face-review.png": {
+    "sha256": "54d7c2b917617105af394dc185063f287d15a97f3d68296d770d4329537e94df",
+    "bytes": 55753
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/edit-proof.png": {
+    "sha256": "c494097683d2fa517b1791a297afa22cc10ad577aa4e2f79eb62b765dc5b852b",
+    "bytes": 12534
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/native-draw-ops.json": {
+    "sha256": "372a425afb0e96a353f6ba8dd826057f604ee383d18038dfc9c935ee5ebb1168",
+    "bytes": 36052
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/edit-proof-comparison-8x.png": {
+    "sha256": "df7102afe8072724fba48ebbd015872db86a5442c678bb7e49bcc25025111eb9",
+    "bytes": 23489
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/source-mask-review-3x.png": {
+    "sha256": "d04f2bc01e9c8b95d8e3de5bfe8ed42c8c7ea20eced1ddf511fb5664ad2baf15",
+    "bytes": 65821
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/native-owner-contact-3x.png": {
+    "sha256": "6ac65cd6e5286b9c7f269f01adb67e2f4742d976f0b97c61278290fd43c958b6",
+    "bytes": 30750
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/coverage-hole-review.png": {
+    "sha256": "5e88dcfcc2ad36cc9419aec58dd9a340869bbc58b74312817363d95fc8dccc20",
+    "bytes": 11653
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/far-hand.png": {
+    "sha256": "c0df2cb53277bd7abe99ef8535429798f4cce7332a892eca1e280dd09cc25e7d",
+    "bytes": 439
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/coverage.json": {
+    "sha256": "67f765c4b17faf0a0d85f960fef5553d76069919aba83255806072a68bb3c9d4",
+    "bytes": 297
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/ownership-redraw-ops.json": {
+    "sha256": "32164d674f85b5563f9fc229d9409a38d6c7444c32761bc6b87623d2a880aced",
+    "bytes": 179744
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/raw-seed.png": {
+    "sha256": "7a695488460dd505b4078f631bbdeb6498a98be58ecbe5236e14cbe33bcc1fb8",
+    "bytes": 11528
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/coverage-patch.json": {
+    "sha256": "2b34c98fe3b7c35c3b5e15e3e23f103ba7a48541dfc979aea7fd7d6c32d0e533",
+    "bytes": 553
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass02-preownership/static.png": {
+    "sha256": "341b01e5bdbfb77bd796eb2e022dc49c7636442c3b7d9a144d77afb110e1266b",
+    "bytes": 12521
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass02-preownership/static.aseprite": {
+    "sha256": "9ea53943404b207b860d1022c0b48ff7bce6e939ed4b591f66017a6001953089",
+    "bytes": 10663
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass02-preownership/edit-proof-reopened.png": {
+    "sha256": "c494097683d2fa517b1791a297afa22cc10ad577aa4e2f79eb62b765dc5b852b",
+    "bytes": 12534
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass02-preownership/torso-cloth-armor.png": {
+    "sha256": "9824d515b45266278b76bb50a7e33c9e2e123e8674bb638672fe1600e188cc4e",
+    "bytes": 2523
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass02-preownership/lowerbody-boots.png": {
+    "sha256": "59569b9b841b6a9833d1d69bfc1675f81a26d184d8be168e63f0b931644608e8",
+    "bytes": 3782
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass02-preownership/waist-wrap-sword.png": {
+    "sha256": "4a8d466d7976c7b26967864616ef49b2c10fbd3b2ae59a360ae1152c37200771",
+    "bytes": 1974
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass02-preownership/head-hair-face.png": {
+    "sha256": "4cdabbecfac5879dfa3a666e19de253c11752211df05bf97c9e1f32ba50f0307",
+    "bytes": 2812
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass02-preownership/reopened.png": {
+    "sha256": "341b01e5bdbfb77bd796eb2e022dc49c7636442c3b7d9a144d77afb110e1266b",
+    "bytes": 12521
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass02-preownership/edit-proof.aseprite": {
+    "sha256": "33467cf308f2f5f1d88e67b69a60f4ff0b2c041e2fe104b0371c3ca1096cd750",
+    "bytes": 10675
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass02-preownership/edit-proof-ops.json": {
+    "sha256": "14a5ffd6b6b57cab31c9d7652b83015e516eddf8606247bdd25a684f20e1e58f",
+    "bytes": 4806
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass02-preownership/edit-proof-mask.png": {
+    "sha256": "1c88b1b6a2cb202de261d2fec7e872134b057c58b82d6da0b343e3fbd24e11fc",
+    "bytes": 142
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass02-preownership/near-arm-guard-hand.png": {
+    "sha256": "5d416abb123071a62f7bd724b983f32e9890396d980db66e1b62fb41355da5f5",
+    "bytes": 2942
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass02-preownership/edit-proof.png": {
+    "sha256": "c494097683d2fa517b1791a297afa22cc10ad577aa4e2f79eb62b765dc5b852b",
+    "bytes": 12534
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass02-preownership/native-owner-contact-3x.png": {
+    "sha256": "b7a2662aa0a299640de4118b7ad14a3b3fa2ada380a958c52a11c9261a049a36",
+    "bytes": 30643
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass02-preownership/far-hand.png": {
+    "sha256": "380f023b4a859fb0197ff6d443fbf2ffb936558143fb084ff1f1863054545429",
+    "bytes": 560
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass00-mediancut/source-spatial-mask-native.png": {
+    "sha256": "55c97685cc7ba7d56fcc9c14d7b609eb86e3afcc0612dbf7c544e746c5610a18",
+    "bytes": 893
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass00-mediancut/review-seed.png": {
+    "sha256": "ebf12eb915e420d131066479186a85a87b925a04b912b5b2f322dcdb165ab7a3",
+    "bytes": 73672
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass00-mediancut/repaired-palette.json": {
+    "sha256": "3e0f70c9c5756c62a620e726f652a2a92f0c9cacef302753a087079f32823f2e",
+    "bytes": 834
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass00-mediancut/torso-cloth-armor.png": {
+    "sha256": "5f98bd5a44da1101a1988bfb091a27df9fbc911cf875fa5a1c4269b99acff927",
+    "bytes": 3577
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass00-mediancut/lowerbody-boots.png": {
+    "sha256": "d5491e262d6ab7620ff348ce3225e30fd39cef287461335880a389b1ba5789ef",
+    "bytes": 7561
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass00-mediancut/raw-unquantized.png": {
+    "sha256": "78e427020dd51ef943fe86baf68686f10a699693853c79180a16a311844ae16d",
+    "bytes": 20731
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass00-mediancut/recipe.json": {
+    "sha256": "690030f2eebd9eca593c5a79c82fbd10d22c3bf845ec6a4060a744c7a5c59cfd",
+    "bytes": 9527
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass00-mediancut/waist-wrap-sword.png": {
+    "sha256": "8b79f601a752e1d8ea8061d7fe97b07f9a5c63bda98648d46f27a8f8b57dbb12",
+    "bytes": 2474
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass00-mediancut/head-hair-face.png": {
+    "sha256": "a04a70860cd614818ff5171e6bb9326dd6f9795c386ebd11f37a2614fb97d6b5",
+    "bytes": 3137
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass00-mediancut/near-arm-guard-hand.png": {
+    "sha256": "7573afdb12cb9ace9d447c2a4070d7fe4cf75b04ce6cea31a8916a04924d0b75",
+    "bytes": 3097
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass00-mediancut/face-review.png": {
+    "sha256": "8c517c58dc059b6b8b2d5bc4d5eb06565b147e4d36140da6d0fe7d92432edbc5",
+    "bytes": 55947
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass00-mediancut/native-draw-ops.json": {
+    "sha256": "3f91dd6bd777ad25d0b09c8ff913ea3fcef1227a597879f7b667533fcfcf6620",
+    "bytes": 35390
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass00-mediancut/source-mask-review-3x.png": {
+    "sha256": "c09a2c64e367703e92db79457bde5d1ece43e3d8a21e13b4501a52d7d7630e9d",
+    "bytes": 70817
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass00-mediancut/far-hand.png": {
+    "sha256": "f2b915a6542a9e759f501c31d931cb34fd0f9a3ee790f3e37d4b1b554c5d394a",
+    "bytes": 589
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass00-mediancut/raw-seed.png": {
+    "sha256": "aa9949593d06919f6517ac5ac2deacea37851fe756715ef875e98dc51072a91b",
+    "bytes": 17011
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/static.png": {
+    "sha256": "7061de0b0a11fc26ee0792cf590313874ec47e5ec46d71e465344c4992e8dea2",
+    "bytes": 12523
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/static.aseprite": {
+    "sha256": "79559f2c0c01d153e60b6f02693a5c8dfd878cde389b2be6d3636c7486660ed5",
+    "bytes": 10666
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/source-spatial-mask-native.png": {
+    "sha256": "4090ef986539f1cf5533fad51a8c9bd9f53eb02e5be5cd8b9fd672c4a539df5f",
+    "bytes": 892
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/review-seed.png": {
+    "sha256": "6bf0c320f96d57954a3fc464c29166d4f6147649a9310d948b1d94b1f76cc97e",
+    "bytes": 67692
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/edit-proof-reopened.png": {
+    "sha256": "0481132b9c83b2a9511cae4cdfdfd3c712c6eaaa489423cd3bde062c9664bb58",
+    "bytes": 12534
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/repaired-palette.json": {
+    "sha256": "eab96cb0b89546355575ef12c79d7f1e604cf1eec9e6417cbb9fb062147b6255",
+    "bytes": 834
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/torso-cloth-armor.png": {
+    "sha256": "9824d515b45266278b76bb50a7e33c9e2e123e8674bb638672fe1600e188cc4e",
+    "bytes": 2523
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/lowerbody-boots.png": {
+    "sha256": "167106d1fa5ba89ce335ce21c5a07fcb17ad18b29bd457dfbdd47d62341c785e",
+    "bytes": 3784
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/raw-unquantized.png": {
+    "sha256": "25eec5d8c9f5130330d3792159ea6ae126a67df533bb7a14c851f8e4567bfb34",
+    "bytes": 20596
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/recipe.json": {
+    "sha256": "a1c88ec24afdea30445a961259bdb46fa09f147b5af650fe301092ded61b5684",
+    "bytes": 10884
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/waist-wrap-sword.png": {
+    "sha256": "4a8d466d7976c7b26967864616ef49b2c10fbd3b2ae59a360ae1152c37200771",
+    "bytes": 1974
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/head-hair-face.png": {
+    "sha256": "af0de4629fe13c0ba48bfe7685eb68daa443aa25ece6e1d5a7bbfde4521d1154",
+    "bytes": 2820
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/reopened.png": {
+    "sha256": "7061de0b0a11fc26ee0792cf590313874ec47e5ec46d71e465344c4992e8dea2",
+    "bytes": 12523
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/edit-proof.aseprite": {
+    "sha256": "62dc9e84c72e33d6016b685455d70bd36dfe7f845fcf29c9581bdc0c3d043700",
+    "bytes": 10678
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/edit-proof-ops.json": {
+    "sha256": "d5c69d69cb196e37d332d6215697d276c584003a321cb34420cf59191e0a09ec",
+    "bytes": 4806
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/edit-proof-mask.png": {
+    "sha256": "1c88b1b6a2cb202de261d2fec7e872134b057c58b82d6da0b343e3fbd24e11fc",
+    "bytes": 142
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/near-arm-guard-hand.png": {
+    "sha256": "5d416abb123071a62f7bd724b983f32e9890396d980db66e1b62fb41355da5f5",
+    "bytes": 2942
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/face-review.png": {
+    "sha256": "e8214de809cfcca458b82780da2825f99e8e6a2e1f479e243cc0aea4ef9cfa4b",
+    "bytes": 55752
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/edit-proof.png": {
+    "sha256": "0481132b9c83b2a9511cae4cdfdfd3c712c6eaaa489423cd3bde062c9664bb58",
+    "bytes": 12534
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/native-draw-ops.json": {
+    "sha256": "41ef270fe6afd8df5751791de1df498647d999e41c0feaf2937d3523dcc716fa",
+    "bytes": 35390
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/source-mask-review-3x.png": {
+    "sha256": "b6e5733198f22c2ed830818d60a6707435e1d0a62e78c5b02e6019649b4f7f16",
+    "bytes": 65833
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/coverage-hole-review.png": {
+    "sha256": "5e88dcfcc2ad36cc9419aec58dd9a340869bbc58b74312817363d95fc8dccc20",
+    "bytes": 11653
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/far-hand.png": {
+    "sha256": "380f023b4a859fb0197ff6d443fbf2ffb936558143fb084ff1f1863054545429",
+    "bytes": 560
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/variant-04/pass01-precoverage/raw-seed.png": {
+    "sha256": "0a5e54696e0d95e753e21b9c863323ea28eec7e8a66955b1f17ce88db7d8dea4",
+    "bytes": 11537
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/bright-04.png": {
+    "sha256": "9181cc23fdce28242e9af2f6383d75e2023b71b9c6c2519248a92557b7bcdf71",
+    "bytes": 66556
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/bright-03.png": {
+    "sha256": "0916d4c15181ca91b7aba7b3dff05b720967cf30b0c2df9e9b8246a0ebed6345",
+    "bytes": 65470
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/bright-01.png": {
+    "sha256": "d2fae6bd78e678f2f80842e252342cf1b876ef0214d26bfd6c747d27ad046cb9",
+    "bytes": 67084
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/ownership_redraw_ops.py": {
+    "sha256": "05751a8b58ab91f10208b9775a0c820b2a2a0a5bc47873c9dfb0218c9b17371e",
+    "bytes": 1345
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/hair-map-01.png": {
+    "sha256": "23ac8eee347a3b79cb5497876158d95868a8b3807912ee4e387a1595ecd4f9a0",
+    "bytes": 14343
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/hair-map-03.png": {
+    "sha256": "766c18967e23aa1c91f8e4bc59505ccd0ba23f6e9eab18cbab9eaead184e023d",
+    "bytes": 14645
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/rebuild_parts.py": {
+    "sha256": "0c0d0ca37c15ea1cd4e2b84193c9179a173bc602b7b3ecd8942e5c9585ded253",
+    "bytes": 3940
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/contour_repair.py": {
+    "sha256": "493f890e5b1f0fcdbc4ee31cd1ecc8ef1a884c4e2f89e7370c56f9d7198e4df3",
+    "bytes": 2585
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/preview_sources.py": {
+    "sha256": "11b082d61585694876552600924c8d1ef10b9797c79f3b078ab1bab053d860d8",
+    "bytes": 863
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/hair-map-04.png": {
+    "sha256": "97efcf54d067d5fe5963ef4b1832ce02bb6ec58e86a54b7a1c6328830a0822d7",
+    "bytes": 14689
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/source-grid-03.png": {
+    "sha256": "562b4a71ee12492544fcb57ff4c311eca7e754de5aa70095b2cf5894bbeadf4c",
+    "bytes": 24437
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/u04_coverage_repair.py": {
+    "sha256": "326131c2be7048c5c1262ac75c86fed9c6c1601d36045b20c066887743fd9b1b",
+    "bytes": 1488
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/contour_diagnostics.py": {
+    "sha256": "bec1f58a74ac48dc34ab9db88c000cc35d14d0368145b363d2ee46de823b3e76",
+    "bytes": 555
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/source-grid-01.png": {
+    "sha256": "9eb26f3b0b8f358f036d67cc7eb7330b53995106c9d9a7dc517f52474f259fe2",
+    "bytes": 25698
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/source-grid-05.png": {
+    "sha256": "e0f4888185f72cac6796ce919a9eb814bdbb99f59331d7b1ab54c754c7bd1c36",
+    "bytes": 24285
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/review_masks.py": {
+    "sha256": "56711931f703da8224d87a505ee36fb23c21c48de0d6108868f166902c827a9a",
+    "bytes": 2919
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/source-grid-04.png": {
+    "sha256": "98ac5249013e231072b05555bcdec6173b7045557d2241c82d42167b6a180fb9",
+    "bytes": 25428
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/palette_repair.py": {
+    "sha256": "7b68ad60858c1e02b66dff2113681a7c8082b18ad99378dcb2a8c0eb6a882bcb",
+    "bytes": 3302
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/grid-03.png": {
+    "sha256": "c08829676fe0d7331852aa87fdd24bbb321680a4b2166a790ead3f68546a81e7",
+    "bytes": 77952
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/bright.py": {
+    "sha256": "d8ce9ec82124327226791cf585b7e780a27d81d02cf9e41a02fc3834689e9ccc",
+    "bytes": 520
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/grid-01.png": {
+    "sha256": "277ff9267c449f2657b54d926ab1debb06c2c163a992fcd9c886e2c8d9588cd0",
+    "bytes": 80517
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/grid-05.png": {
+    "sha256": "25979c288f3fbc4d26ac7834b590884d839c51fd83549af9ceb1a606ceb029c2",
+    "bytes": 77754
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/native-work/preparation/grid-04.png": {
+    "sha256": "cbc18251e655233335784a4fa9eeed3a4522f75579a94c4555f4afcb7806db50",
+    "bytes": 79528
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/lamp-look-0-152.png": {
+    "sha256": "27594396e6ff5704b28cee78358da6f2a8115408571b969a04b46659fb4c5d8b",
+    "bytes": 202502
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/mcp-stop.json": {
+    "sha256": "2a72801b0968879e52a3fedbe5c82778e49994ee311444480e888ab7381c9777",
+    "bytes": 1527
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/lamp-look-1-152.png": {
+    "sha256": "ce8a87e8ca19f635296f64229d8acb4c7a4c03dd24f818c9c6832be2252b8eff",
+    "bytes": 203914
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/armor-pair.png": {
+    "sha256": "bb83faba1d3b95e1cf6c7cf0815518d51bba9c8807f2f1e5196e000424e1ba5a",
+    "bytes": 105200
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/single-look-4-152.png": {
+    "sha256": "8093418ac14c8313ba4f3e8175fa6e513f3a2d038d060b8e24988c362f460813",
+    "bytes": 92430
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/set-1.png": {
+    "sha256": "ffebe56fa3df1e974ccfad4f446aae0aa61be786a0cd263f5a4de57aabaa7828",
+    "bytes": 110931
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/mcp-debug.json": {
+    "sha256": "1d5abce84c49add90309eadf34e9b65bafffcb032918b3f39fe7e324844d13c3",
+    "bytes": 1474
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/lamp-look-3-152.png": {
+    "sha256": "d0c246b551448e1a9a731f12e69d75699638275031bdbac8aa2858476b4b46af",
+    "bytes": 204134
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/set-2.png": {
+    "sha256": "1cc622b45539f0f68fedbcc42eb6c9c60d7b98647c91c7debded7b4340225a21",
+    "bytes": 112418
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/single-look-5-152.png": {
+    "sha256": "e2fbda1727e7c1fc889593cc38087d899d39052ad43de98c5b68b76f68f98fa8",
+    "bytes": 92674
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/single-look-0-152.png": {
+    "sha256": "02528db565e05da60241c5bf9d4228e8c26e601a0020ee44103d17a3e86d9076",
+    "bytes": 90626
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/native-look-4.png": {
+    "sha256": "37178176b64b17426c82f5037d4d6eb4bad372a5a6298ea193d88edeb46a5f61",
+    "bytes": 99857
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/native-look-5.png": {
+    "sha256": "26c6c0c04f0e10d0540755056dfb6578eeeb1e9bda6d08d38af798fc49402e2b",
+    "bytes": 100791
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/native-look-1.png": {
+    "sha256": "cb90b2dd6047cf6ea27c8e3f7c3fcf0efec8b8cff15c87254aab8405555f3b01",
+    "bytes": 99247
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/native-look-0.png": {
+    "sha256": "66a030f1c2dc7ecef5802c05265f482180afba375b2e9051de8ef5b8d8ab1817",
+    "bytes": 99316
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/native-look-3.png": {
+    "sha256": "605830d30b82876c5651404dbbaf49f4f9e195d32d8bb2813041fe0d7ae365d7",
+    "bytes": 100740
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/single-look-1-152.png": {
+    "sha256": "e77cb969e620e12723b72ebf57ef84ad5fa094b76f3683b289503fad30d0a536",
+    "bytes": 91527
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/runtime-checks.json": {
+    "sha256": "1d75e0fb096a968f878710771c065fe8ea1fa52fcc22d13f2e3dd6fcdb752981",
+    "bytes": 1325
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/lamp-look-4-152.png": {
+    "sha256": "c3c72aaacf8d7f93b465b6fe53a454ba308f5f8dbfc676434c0ffaac2b35b89a",
+    "bytes": 204069
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/single-look-3-152.png": {
+    "sha256": "ba3bc84989e5a9a2ef29626129fe247b28a2d4e8bcb0bec2b0dd0e8edd48ed7f",
+    "bytes": 92468
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/lamp-look-5-152.png": {
+    "sha256": "bdc60afacf83f924805c5c027dd37feb0ee0df1dcd2212883c577177465d4e6b",
+    "bytes": 204431
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/comparison-verification.json": {
+    "sha256": "2a850b3dcd5c1f203829d9adcbf2c20edfa853cf13af29912cdecffd979e017c",
+    "bytes": 238
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/render-audit.json": {
+    "sha256": "7a754157e80d764b82755c4ef18187c754f838ce47cbbc04db3456ceba4cbbc0",
+    "bytes": 1795
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/allowed-variant-01.png": {
+    "sha256": "3191352ecd43f98e3a5f24e03756133ef29a30ca01365bfca6bec51b629bc333",
+    "bytes": 828
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/allowed-variant-03.png": {
+    "sha256": "416fc45ee7b6e2c316f46e9aa52319eea1af10f7ca9ed16b0d9d814008cf1fac",
+    "bytes": 848
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/five-looks-152-2x.png": {
+    "sha256": "d91006e724a418e146622c7764be3887612b732ef176083f8cd5f4955e7fcdc0",
+    "bytes": 46657
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/comparison-spec.json": {
+    "sha256": "cee43b7d62281511c1ce2c4b2110101b65193c58d34c50cd9ac6995c5a01f590",
+    "bytes": 6848
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/allowed-variant-05.png": {
+    "sha256": "416fc45ee7b6e2c316f46e9aa52319eea1af10f7ca9ed16b0d9d814008cf1fac",
+    "bytes": 848
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/five-looks-152.png": {
+    "sha256": "8db855a35445b27094d57f3c5152426d5268c40c768a867718205ed682eb9433",
+    "bytes": 33571
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/allowed-variant-04.png": {
+    "sha256": "379087a74a1347da0d0a8fc21abec2dc59e2a3040f94e6f4a445a4c0782e455f",
+    "bytes": 817
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/manual-review.json": {
+    "sha256": "fa9dbe8cbd1c0b621dec91c427c5bdfec3afae909cb70b040d270d895212e289",
+    "bytes": 2494
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/comparison-final/frame-002-region-01.png": {
+    "sha256": "326c1ae2a25fcae9b8eb07d98d16cc7cdbd160c844e6c055e8a703b9b086ba4e",
+    "bytes": 58852
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/comparison-final/frame-002-region-00.png": {
+    "sha256": "944f14c08e8b7923feda456beb9cc65ad59a450e91630a2835d5e9d9499f9b06",
+    "bytes": 52553
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/comparison-final/packet.json": {
+    "sha256": "3de21da5170e735e8fc70d4720472dc2a33ffdad18faca499f094772054c4b9e",
+    "bytes": 35940
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/comparison-final/frame-002-region-02.png": {
+    "sha256": "dbacee4d34dcfe56d5d2aa413c5cc272ff3c239501e6effde5928123b9d1ea94",
+    "bytes": 58146
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/comparison-final/frame-001-region-02.png": {
+    "sha256": "1e8a2d4b44ec0fa653c97db0664c3cadb77b63dd32d53e8dd9ee33c96c9ebadc",
+    "bytes": 59937
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/comparison-final/frame-001-region-01.png": {
+    "sha256": "e76ce8b00427424d072fa1493e84bbc215dfca8bf5f721131f92988a4069dd00",
+    "bytes": 61293
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/comparison-final/frame-001-region-00.png": {
+    "sha256": "e2f7741964ad67dff6e169bf2477c1033ed9c33ed94435649583709a9fc4bb51",
+    "bytes": 54781
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/comparison-final/frame-000-region-02.png": {
+    "sha256": "f8f6a2caf4a01f9fadc59d2ed098543a89c0efc30385d38296dddc241e076e98",
+    "bytes": 59340
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/comparison-final/frame-000-region-00.png": {
+    "sha256": "93f3e58a19d4583a6e968726b7f27e2eefd44238d2283e2138d121644bf43f7d",
+    "bytes": 52474
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/comparison-final/frame-000-region-01.png": {
+    "sha256": "88c81757eaeda298f044bdb0d504f130c049bdf62308ac41e8bc56385bc27617",
+    "bytes": 59493
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/comparison-final/frame-003-region-00.png": {
+    "sha256": "5b832a1aa283876ba300b0740f38faaa3f40162a1792b90f73704ec6a1642023",
+    "bytes": 54418
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/comparison-final/frame-003-region-01.png": {
+    "sha256": "e46f241ac74be4efc06d2a264093ce3e047be1bfeaf98d3cfe31c1bc0e275aea",
+    "bytes": 61094
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/lead-review/comparison-final/frame-003-region-02.png": {
+    "sha256": "aa1df4935ae7ae2af654b03d4e9a416f6a2ea4f8c9c28e110da3c80a33f529fe",
+    "bytes": 59749
+  },
+  "assets/references/stealth-fighter/user-variants-r01/user-05.png": {
+    "sha256": "9eb4144c4d60a60c920e6a1b255a0210d7fa699a16a630641665b8ee305729b3",
+    "bytes": 347880
+  },
+  "assets/references/stealth-fighter/user-variants-r01/user-04.png": {
+    "sha256": "1eb37a951a9014b344b8fdac88b4f51fdc47735f1475fea3883ce288a11ed0ef",
+    "bytes": 1336420
+  },
+  "assets/references/stealth-fighter/user-variants-r01/user-01.png": {
+    "sha256": "2641cb307b2691943cf06efcff4c6c0738847a0123c0882b3bedc3f6f39aef71",
+    "bytes": 1414603
+  },
+  "assets/references/stealth-fighter/user-variants-r01/user-03.png": {
+    "sha256": "d0e3227a832751abe99ff0784b40f6c0db58d6dce04a30c9746f4581b80a8873",
+    "bytes": 350231
+  },
+  "assets/references/stealth-fighter/user-variants-r01/user-02.png": {
+    "sha256": "96a5753e673c4c38a063c820604d2427702b846a643d2e8a9f17bb6a85718816",
+    "bytes": 1833029
+  },
+  "assets/references/stealth-fighter/user-variants-r01/manifest.json": {
+    "sha256": "8854cdf40e528cdb41a4d7f994032bb15287e077c539daf45541a29fb620d7f6",
+    "bytes": 2621
+  },
+  "assets/source/stealth-fighter/user-variants-r01/README.md": {
+    "sha256": "1f135ffc27c02a00341d8c5b3fd019b1237d05b00f42edf75127dd2d3fbc3801",
+    "bytes": 1122
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-01/final-alpha-mask.png": {
+    "sha256": "1634a7ed99395d4fa7889c64692166fd284b09bfc8311b5302085296c3037755",
+    "bytes": 887
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-01/static.aseprite": {
+    "sha256": "6edf22ccca5e5ecc53caaa55f577b201d829153ff8430e391a9be13d44b7c002",
+    "bytes": 10568
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-01/recipe.json": {
+    "sha256": "d4def8038a016b7cddc16446653da1b8d745e122e8451f6146c3e6efd6fd95ee",
+    "bytes": 14273
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-01/native-draw-ops.json": {
+    "sha256": "680d18ec2d7a875a06e00531cb58651858b8b91fa8b6f64785f8fe36d844ae30",
+    "bytes": 36753
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-01/ownership-redraw-ops.json": {
+    "sha256": "88b88fe40843b26426557891db271339c6a2e2e1578200558a551d3f4a6c71c0",
+    "bytes": 179744
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-05/final-alpha-mask.png": {
+    "sha256": "65d15efdf0e50f992c6b469c6494fee2dbd17729ac67c53adb67761186100fe7",
+    "bytes": 913
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-05/static.aseprite": {
+    "sha256": "4a361b5f7b994b5a8c58a0df0aa70441bf331a3b27c2d08d4c4dc7a5449343b6",
+    "bytes": 11272
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-05/recipe.json": {
+    "sha256": "ac823ed7f47f1c13d51b12b4453da44060dbefde74054227a1e13277af3ae031",
+    "bytes": 15163
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-05/native-draw-ops.json": {
+    "sha256": "43289100ef58ba39a131b05793539c2b005af15319504a3db4482b5f33152f05",
+    "bytes": 36188
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-05/ownership-redraw-ops.json": {
+    "sha256": "a0e964879c20431efe630539e2eb39599ed16c1cf3b221a351dc33e38c7bfb98",
+    "bytes": 179744
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-03/final-alpha-mask.png": {
+    "sha256": "65d15efdf0e50f992c6b469c6494fee2dbd17729ac67c53adb67761186100fe7",
+    "bytes": 913
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-03/static.aseprite": {
+    "sha256": "7cf57a3fe73afc2b9531c6c8ec3ead8ae030b664a4dd0f078ef9ba7e03879a26",
+    "bytes": 11322
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-03/recipe.json": {
+    "sha256": "0c53d8d0e1feb3954283ddfcad1920289c057a8852a4646f91048bb6903ead41",
+    "bytes": 15163
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-03/native-draw-ops.json": {
+    "sha256": "07d4779d3080696fafa12ff7c7240e547404e98b0ad4b5b3a4751576c7be0445",
+    "bytes": 36188
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-03/ownership-redraw-ops.json": {
+    "sha256": "c8341950402473c3588a667431d07087c9a428cdfffbd3f7b8fdf4185d5d3cf6",
+    "bytes": 179744
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-04/final-alpha-mask.png": {
+    "sha256": "392ec122a5bf67e41e3e3a5482a6dfb1dcdfe2ce1c3285b61025ba03d70c2821",
+    "bytes": 891
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-04/static.aseprite": {
+    "sha256": "bbbffc7131e79e7e129375fea984a59f41fb666be42e00e4bd36b7547f6ebf29",
+    "bytes": 10613
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-04/recipe.json": {
+    "sha256": "92cdf3378f422204f78611bd4432a59ebfe0ad6fb07b550510c213b7502b67bf",
+    "bytes": 15620
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-04/native-draw-ops.json": {
+    "sha256": "372a425afb0e96a353f6ba8dd826057f604ee383d18038dfc9c935ee5ebb1168",
+    "bytes": 36052
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-04/ownership-redraw-ops.json": {
+    "sha256": "32164d674f85b5563f9fc229d9409a38d6c7444c32761bc6b87623d2a880aced",
+    "bytes": 179744
+  },
+  "assets/source/stealth-fighter/user-variants-r01/variant-04/coverage-patch.json": {
+    "sha256": "2b34c98fe3b7c35c3b5e15e3e23f103ba7a48541dfc979aea7fd7d6c32d0e533",
+    "bytes": 553
+  },
+  "assets/export/stealth-fighter/user-variants-r01/variant-04.png": {
+    "sha256": "341b01e5bdbfb77bd796eb2e022dc49c7636442c3b7d9a144d77afb110e1266b",
+    "bytes": 12521
+  },
+  "assets/export/stealth-fighter/user-variants-r01/variant-05.png": {
+    "sha256": "a7ca6984874b4ba667ece4d99da2e5c6fec54b4b2760f31ead7625273ed84c6e",
+    "bytes": 13475
+  },
+  "assets/export/stealth-fighter/user-variants-r01/variants.json": {
+    "sha256": "4895b89155674a046389056734b8abe05305813477ced8c69234b876d5744388",
+    "bytes": 2267
+  },
+  "assets/export/stealth-fighter/user-variants-r01/variant-03.png": {
+    "sha256": "46ed03b35b3a2be0adff758eddedc8fd5f13b78c829bab86aaf43d6165d73df6",
+    "bytes": 13619
+  },
+  "assets/export/stealth-fighter/user-variants-r01/variant-01.png": {
+    "sha256": "f5ddce534af241fe3e60591ace51a404330a246b22e240a761c67d67d0cc78a5",
+    "bytes": 12338
+  },
+  "assets/previews/stealth-fighter/user-variants-r01/armor-pair.png": {
+    "sha256": "bb83faba1d3b95e1cf6c7cf0815518d51bba9c8807f2f1e5196e000424e1ba5a",
+    "bytes": 105200
+  },
+  "assets/previews/stealth-fighter/user-variants-r01/set-1.png": {
+    "sha256": "ffebe56fa3df1e974ccfad4f446aae0aa61be786a0cd263f5a4de57aabaa7828",
+    "bytes": 110931
+  },
+  "assets/previews/stealth-fighter/user-variants-r01/five-looks-152-2x.png": {
+    "sha256": "d91006e724a418e146622c7764be3887612b732ef176083f8cd5f4955e7fcdc0",
+    "bytes": 46657
+  },
+  "assets/previews/stealth-fighter/user-variants-r01/set-2.png": {
+    "sha256": "1cc622b45539f0f68fedbcc42eb6c9c60d7b98647c91c7debded7b4340225a21",
+    "bytes": 112418
+  },
+  "assets/previews/stealth-fighter/user-variants-r01/five-looks-152.png": {
+    "sha256": "8db855a35445b27094d57f3c5152426d5268c40c768a867718205ed682eb9433",
+    "bytes": 33571
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/live-debug.json": {
+    "sha256": "55a32306eadd8a84d7b537fed7229090d9362d8b1eafe05e8d45ada710bf6ac6",
+    "bytes": 443
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/godot-evidence/live-launch.json": {
+    "sha256": "c6704cff1d4b7b5621c7195399ea98cc02d6ad06fd4832c02cae437bab9edeb1",
+    "bytes": 408
+  },
+  "docs/experiments/2026-11-02-stealth-fighter-user-variants-r01/finalize.py": {
+    "sha256": "798c0b020979f5bb938fbc4d8a974a2414e5c4a2c536f36d2880104602457a15",
+    "bytes": 2149
+  }
+}

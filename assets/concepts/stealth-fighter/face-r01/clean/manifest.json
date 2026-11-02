@@ -1,0 +1,22 @@
+{
+  "prompt": "Use case: precise-object-edit. Edit the attached image, the sole edit target and identity and rendering authority. Create one square head-and-shoulders concept, approximately 1024\u00d71024. Change only the facial hair and jaw shadow: remove the pointed goatee, dark triangle at the chin, and any beard hairs. Give him a soft clean-shaven adult jaw and chin, retaining necessary dark neck shadow distinctly below the jaw. Preserve the existing facial profile and chin size, same square framing, head size and position, right-facing profile, half-tied long dark hair, armor collar, background, palette, and silhouette. Preserve the original spare, quiet, flat planar rendering: broad muted medium-brown skin plane, dark neck shadow, no visible eye or brow. He is a young adult in his 20s. Do not add eyes, brows, facial details, an outlined chin, pores, hair strands, photorealism, a doll face, or a new nose model. No text or montage.",
+  "original_generated_path": "/Users/guhan/.codex/generated_images/01a198a9-6f68-7b40-b9f5-40d174607dde/exec-fa422f22-66f0-49aa-a54c-020111be392e.png",
+  "reference": {
+    "path": "/private/tmp/stealth-face-r01/shared-face-input.png",
+    "sha256": "d1a8414b246c2327aaf75c8bdfea1343082746b7d0d0007aeac5b83a4f708b59",
+    "role": "sole edit target, identity and rendering authority",
+    "dimensions": [
+      320,
+      320
+    ]
+  },
+  "output": {
+    "path": "/private/tmp/stealth-face-r01/clean/raw.png",
+    "sha256": "a18a2ef21a08d64eaccd8319dd5cb7a530736d8d21b260ebcfad181da216cbb1",
+    "dimensions": [
+      1254,
+      1254
+    ]
+  },
+  "image_gen_tool_calls": 1
+}

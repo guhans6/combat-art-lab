@@ -1,0 +1,14 @@
+{
+  "revision": "final semantic natives",
+  "changed_count": 154,
+  "changed_bounds_half_open": [
+    35,
+    48,
+    66,
+    65
+  ],
+  "all_changes_source_supported": true,
+  "shared_mask": true,
+  "shared_quantization_palette": true,
+  "native_owner": "torso-cloth-armor only"
+}

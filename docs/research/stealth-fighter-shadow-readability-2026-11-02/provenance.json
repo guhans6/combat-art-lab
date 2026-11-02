@@ -1,0 +1,86 @@
+{
+  "research_date": "2026-11-02",
+  "rights": "Developer/publisher media reproduced here only for limited visual research and attribution. No production-use or redistribution licence checked/granted; do not incorporate into game art or public releases.",
+  "images": [
+    {
+      "game": "Silver Pines",
+      "publisher_developer": "Wych Elm / Team17",
+      "source_page": "https://steamcommunity.com/games/2333000/announcements/detail/690893589804220611",
+      "source_page_fallback": "https://steamcommunity.com/app/2333000/announcements/",
+      "original_media_url": "https://clan.fastly.steamstatic.com/images/45060161/e120a733f7f7dc8f7cd87bd75dd17dd0b474dcfb.gif",
+      "original_media_sha256": "211dd1df6413d6ba3cf6ec3f035e75ed973fae378a4e55d50877160b90254de6",
+      "original_media_size": [
+        447,
+        512
+      ],
+      "original_media_note": "pre-release dev-blog GIF; no native sprite resolution claim",
+      "derivative": {
+        "filename": "silver-pines-45-114-183.png",
+        "size": [
+          1341,
+          536
+        ],
+        "sha256": "70913e21d2166aaccee0f58f9e3c12d129db8ddb65ec46ad915e681fbfa866ce"
+      },
+      "transform": "Full decoded GIF presentation frames 45, 114, 183 (zero-based), left-to-right, each 447x512 at 1:1 with labels. No resampling, image color change, or motion-playback claim."
+    },
+    {
+      "game": "Blasphemous",
+      "publisher_developer": "The Game Kitchen / Team17",
+      "source_page": "https://store.steampowered.com/app/774361/Blasphemous/",
+      "original_media_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774361/ss_bd57bcb1e9183cbea61339727a97bcc5206677b2.1920x1080.jpg?t=1780479368",
+      "original_download": {
+        "filename": "blasphemous-steam-02.jpg",
+        "size": [
+          1920,
+          1041
+        ],
+        "sha256": "22f9b8b6e9f4da2cea00a38066451a051f6deda339bb81022c63025cc3e1e637"
+      },
+      "derivative": {
+        "filename": "blasphemous-action-crop-1x.png",
+        "size": [
+          512,
+          320
+        ],
+        "sha256": "15dff70d5f6a2e14494655514bfbb3b5c0a13e3615b5cfdcbf4d0d2c701d801f"
+      },
+      "transform": "1:1 crop of Steam screenshot, rectangle (825,425,1337,745) with right/bottom exclusive; JPEG artifacts inherited; no resampling. Dimensions are published image pixels, not native sprite dimensions."
+    },
+    {
+      "game": "Hyper Light Drifter",
+      "publisher_developer": "Heart Machine",
+      "source_page": "https://store.steampowered.com/app/257850/Hyper_Light_Drifter/",
+      "original_media_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257850/ss_e786b1d9c66eb9c61e4da2945fe1d9faeb2af736.1920x1080.jpg?t=1762899660",
+      "original_download": {
+        "filename": "hyper-light-drifter-steam-00.jpg",
+        "size": [
+          1920,
+          1080
+        ],
+        "sha256": "8da75724701faae1ebdc4ef3c1c9f537439125a1854f13fd928b23c7a80a6207"
+      },
+      "derivative": {
+        "filename": "hyper-light-drifter-campfire-crop-1x.png",
+        "size": [
+          465,
+          365
+        ],
+        "sha256": "2dee00ab4a0b085b5d1e139ee9e2fe951a75921fb12b77fc6f29e9cbd7e5f556"
+      },
+      "transform": "1:1 crop of Steam screenshot, rectangle (775,565,1240,930) with right/bottom exclusive; JPEG artifacts inherited; no resampling. Dimensions are published image pixels, not native sprite dimensions."
+    }
+  ],
+  "local_diagnostic": {
+    "image": {
+      "filename": "current-a-152-study.png",
+      "size": [
+        980,
+        700
+      ],
+      "sha256": "40e70d7bbc10734a5a68bc8cf20de1285f0730073cedadb262f6612f9e2c8ff9"
+    },
+    "transform": "Current A exact exported PNG colors composited on #3e3e48 matte; rest source alpha bounds 240px tall. All four frames scaled with nearest from 128x264 to 81x167 once (rest approximately 152 display pixels, other poses move); frame 00 at 2x nearest. Not an actual Godot rendering or continuous animation.",
+    "native_sha256": "f4cb8fff0a460cde6845fb15bc0c5e3271259d9d38d5f3efa051e4970b2e6127"
+  }
+}

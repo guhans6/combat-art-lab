@@ -1,0 +1,26 @@
+# Grounded idle sample r03
+
+Disposable motion test only. The user rejected chest puffing as the mechanism and requested an idle based on actual reference animations, then body up/down in an environment. This sample is not an approved character design and is not applied to the selected fighter.
+
+The producer inspected actual creator-published frame contacts before freezing the new plan. LuizMelo Martial Hero2 F0/1 versusF2/3 and Martial Hero F0→F4 show anchored shoes with the head/coat changing height; clothing obscures the knees. Saint11's actual Character Idle tutorial depicts body descent, knee bend and arm changes, explains a transition pose and cautions against excessive dancing. Only the grounded motion principle is borrowed; no reference character pixels, costume, source tempo or exact skeletal mechanics are copied. URLs/findings and inspected contact sheets are in `../reference-evidence/`.
+
+`grounded-idle-r03.aseprite` is the native master:96x160 RGB,14 unchanged palette entries,12 semantic owners,48 editable cels. Source r02 REST is preserved exactly at entry. Both original leg/boot owners are split into pants and immutable boot/cuff owners. Near boot/cuff starts at source row136; far boot/cuff at137. Both complete native boot owners, their composite pixels and sole row146 remain exact in every frame, including hidden pixels.
+
+Pelvis, skirt, thorax, neck/collar, skull/face/hair and arms descend together0→1→2px, then recover. Every registered upper-body material pixel and torso width is exact REST; chest expansion is zero. The near/far trouser contours and broad source material planes are authored around inferred hip→knee→ankle routes so the pelvis can settle over fixed shoes. The hip and knee routes under clothing are marked as inferred in the saved guides. Cuff surfaces abut with11near/9far matching contact pixels in the shifted keys; this coverage is proven for these three poses only, not a complete hidden-surface rig. No joint repair was required after the first structural keys; the one permitted concrete joint-repair budget remains unused.
+
+There are four timeline entries but only three distinct height poses:0/1/2/1px down, with500/180/420/300ms durations, total1400ms. This is agent-proposed timing slower than the400/800ms combat preview examples, not a claim about artist-native timing. No padded frame count or independent secondary fidget is added. Rest body137px, fixed ground/sole row146, rest pelvis(44,85), shifted pelvis y86/87. Fixed128px rest-body previews use128/137 scale for every frame, without per-pose fitting.
+
+`idle-0.png` through `idle-3.png`, `idle-sheet.png`/JSON and `timings.json` are exact MCP runtime exports. `reopened-sheet.png` is a fresh native reopen/export and matches all frames exactly. `raw-mcp-idle.gif` is preserved raw and independently decodes to exact opaque RGB, alpha and authored timing in all four frames. Lead owns environment playback and presentation packaging.
+
+`checks.json` reports palette-chunk equality to source, all boot protection, exact registered rigid owners, authored trouser inputs/native equality, all actual PNG/native/sheet/reopen equality, four binary-alpha/zero-hole results, cuff contact readback and frozen-mask scope. New semantic part splitting and the new timeline intentionally change native structure; no global source-header/owner-count preservation is claimed. No callable validate tool exists despite the advertised feature, so scoped independent native/PNG audits are reported honestly.
+
+`edit-proof.aseprite`/PNGs are duplicate-only localized coat-fold proof: three visible first-frame thorax pixels(47,75),(47,76),(47,77) change highlight→base. Main master is unchanged;47 other cels and all remaining native pixels, metadata, geometry, palette, timing and alpha stay exact. The duplicate saves/reopens exactly. `edit-proof-comparison-8x.png` shows the actual visible edit.
+
+`../comparison-packet/packet.json` compares all four new poses to immutable source REST at the same grid/ground, not temporally to the rejected chest cycle. Exact invoked director helper build/verify passes fresh. Packet SHA256:`96b6c04fd7dd371eb72e9361175a76f6bd7b786831fb6b38e519a4b34bc6b6ee`. It binds the native audit, protected boot mask, marked inferred anatomy, actual ownership/hide views and whole-cycle contacts. Mechanical freshness does not establish motion quality or user approval.
+
+Construction sources: `../baseline-r02.aseprite`, `../prepare.py`, `../drawing-ops.json`, compact native key operations `../key-draw-ops.json`, `../review_keys.py`, `../audit_delivery.py` and frozen masks. Pixel painting/save/export used only dedicated Aseprite MCP1.3.18.6-dev/Pebbly0.8.2 headless; Pillow only prepared drawing data, masks, checks and evidence packaging. All owned editor documents are closed; last list empty.
+
+Native SHA256:`afbb2f8b9d947890b1eedc53be03f3950e234ad53d81559a7537b25b44622665`.
+Immutable r02 baseline SHA256:`82e878fe5be2ebef488cd2465cc840280750eb2bc16636834212efca0ab1ebeb`.
+
+No r01/r02, repository, selected fighter, installation, Git or publication changes. Producer inspected still keys, owner views and the four-frame filmstrip; continuous motion naturalness remains unproven by that evidence. Lead owns final archival, environmental Godot verification and independent visual decisions; user owns motion acceptance.
