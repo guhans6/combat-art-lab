@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "canvas": [
+    88,
+    152
+  ],
+  "visible_bounds": [
+    6,
+    4,
+    79,
+    148
+  ],
+  "visible_height": 144,
+  "nearest_source_pixel_mapping_exact": true,
+  "visible_colors": 2120,
+  "binary_alpha_threshold": 160,
+  "native_reopen_exact": true,
+  "repeat_png_bytes_identical": true,
+  "converter_unchanged": "b7fe64ac47772335e15b90ac3f906feacdbc3d1dae72df9fa74948731ab05f49",
+  "source_unchanged": "6ecaa70adb6b0eb5625f1a8a2cb0b392f15ddb41620f918ec36e53a0f4fcc2fe",
+  "converted_png_sha256": "ae775dbdd0d1e7d2eaddbbef54c20336c6ae367969405b132216fc4ecb7cecf2",
+  "native_sha256": "f3adaa12e813e4e4791e5f14f3263b69c719aafd54615c727943a26c3724a44f",
+  "pixel_generation": "Existing deterministic converter only; no generative model, redraw, palette quantization, dithering or cleanup"
+}

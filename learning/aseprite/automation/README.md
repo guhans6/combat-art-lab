@@ -16,13 +16,23 @@ the converted layer, and correct that duplicate yourself. `preview-3x.png` only
 enlarges the display; `report.json` records the recipe and input/output digests.
 The animation has not been replaced. This is a flat source-derived draft.
 
-The launcher uses an already installed local Pillow runtime; if that cache is
-removed it falls back to `python3`, which must have Pillow 13+. It does not install
-anything. Portable equivalent:
+On a new machine, follow [setup](../../../docs/new-machine.md) first. The launcher
+uses the repository's `.venv/bin/python`, then `python3` if that environment is
+absent. `CONVERSION_PYTHON` can select another executable by absolute path. The
+runtime must have Pillow 13+; `requirements.txt` pins the replay version to 13.0.0.
+The launcher does not install anything. Equivalent from the repository root
+(Windows uses `.venv/Scripts/python.exe`):
 
 ```sh
-python3 convert_image.py --recipe reach.json --out /path/to/new-output
+.venv/bin/python learning/aseprite/automation/convert_image.py --recipe learning/aseprite/automation/reach.json --out /path/to/new-output
 ```
+
+The additional `lantern-144.json` preset and its source are included. Its exact
+conversion/native-copy evidence is in
+[`lantern-original-converted-2026-11-03`](../practice/lantern-original-converted-2026-11-03/README.md).
+The [weapon-fighter conversion](../../../docs/experiments/2026-11-04-weapon-fighter-conversion/record.md)
+preserves a separate source-specific background mask and 64px sampling recipe;
+its mask rules do not generalize to arbitrary images.
 
 The recipe keeps the foreground mask, samples nearest source RGB, uses binary
 alpha, fits this upright pose to 183px and positions its foot/hip reference on a

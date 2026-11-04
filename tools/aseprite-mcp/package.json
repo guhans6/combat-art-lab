@@ -1,0 +1,10 @@
+{
+  "name": "combat-art-lab-aseprite-mcp",
+  "private": true,
+  "engines": {
+    "node": ">=22.6.0"
+  },
+  "dependencies": {
+    "@pebbly/aseprite-ai-artist": "0.8.2"
+  }
+}

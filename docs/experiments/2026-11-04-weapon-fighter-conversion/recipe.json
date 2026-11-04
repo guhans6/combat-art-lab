@@ -1,0 +1,46 @@
+{
+  "source_sha256": "7069b5792b13defba56febb6415824b82ab4c1d4395b577aaacef1b0f140a05d",
+  "pillow": "12.0.0",
+  "source_size": [
+    1536,
+    1024
+  ],
+  "source_bounds": [
+    20,
+    84,
+    1525,
+    969
+  ],
+  "canvas": [
+    128,
+    80
+  ],
+  "sampled_size": [
+    109,
+    64
+  ],
+  "offset": [
+    9,
+    8
+  ],
+  "visible_bounds": [
+    9,
+    8,
+    118,
+    72
+  ],
+  "visible_height": 64,
+  "opaque_pixels": 2685,
+  "colors": 1682,
+  "removed_components": [
+    1051583,
+    262,
+    5439,
+    300
+  ],
+  "rgba_sha256": "1be1c11a499af6e25c29391667c1229974fe17bc9bdb691098e002670fb5f8d8",
+  "filter": "nearest-neighbor",
+  "ai_corrections": false,
+  "quantization": false,
+  "scale_status": "Provisional 64px visible height; exact RCG2 dimensions unverified"
+}

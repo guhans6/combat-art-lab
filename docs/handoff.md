@@ -1,3 +1,20 @@
+# Portable conversion and Aseprite setup — 5 November 2026
+
+For Dot/another execution host, use branch `work/new-character-ready` and
+[new-machine setup](new-machine.md). The converter, six-pose automation and
+canonical director were already tracked; this publication adds the missing
+lantern recipe/source/native-copy evidence, weapon conversion recipe/native,
+Pillow pin and reproducible Aseprite MCP dependency lock. The reach launcher now
+uses a checkout-local venv rather than the original user's cache path.
+
+[Fresh verification and scope](experiments/2026-11-05-portable-conversion/record.md):
+reach/lantern/weapon source-sampling replays pass, stored natives match exports,
+42 director tests pass, pinned npm restoration succeeds. A separate clone keeps
+the original dirty handoff, concept experiments and lessons intact. New-host
+installation/MCP startup and scratch native revision remain for the receiving
+agent; Dot's OS/support are unverified. No new artwork, fresh editor reopen,
+Godot playback or user visual approval is claimed here.
+
 # Ready for the next character — 1 November 2026
 
 Current working branch: `work/new-character-ready`. Art work and the teaching

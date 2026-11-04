@@ -1,0 +1,35 @@
+{
+  "canvas": [
+    128,
+    80
+  ],
+  "visible_bounds": [
+    9,
+    8,
+    118,
+    72
+  ],
+  "binary_alpha": true,
+  "source_sample_mismatches": 0,
+  "expected_rgba_exact": true,
+  "reopen_rgba_exact": true,
+  "source_unchanged": true,
+  "native_sha256": "cb9ef10c0afd004be373e0e806a5ab225a5c7bfc568c27117db09aa7d6ad3a85",
+  "validate_tool": "not exposed in this MCP session; independent checks instead",
+  "native_canvas": [
+    128,
+    80
+  ],
+  "native_layers": [
+    {
+      "name": "Converted original - no corrections",
+      "flags": 3,
+      "type": 0,
+      "level": 0,
+      "blend": 0,
+      "opacity": 255
+    }
+  ],
+  "native_frames": 1,
+  "native_cel_exact": true
+}

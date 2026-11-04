@@ -1,0 +1,2 @@
+# Frozen conversion runtime; the converter uses Image.get_flattened_data().
+Pillow==13.0.0

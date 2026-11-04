@@ -1,0 +1,47 @@
+{
+  "inputs": {
+    "source": {
+      "path": "/Users/guhan/Guhan/Projects/combat-art-lab/learning/aseprite/practice/lantern-144-2026-11-03/reference-original.png",
+      "sha256": "6ecaa70adb6b0eb5625f1a8a2cb0b392f15ddb41620f918ec36e53a0f4fcc2fe"
+    }
+  },
+  "recipe": {
+    "source": "../practice/lantern-144-2026-11-03/reference-original.png",
+    "alpha_threshold": 160,
+    "height": 144,
+    "canvas": [
+      88,
+      152
+    ],
+    "source_anchor": [
+      107,
+      1518
+    ],
+    "target_anchor": [
+      6,
+      148
+    ]
+  },
+  "recipe_sha256": "7c0f82b78779cdd2b6c54e4099aae06ef0925ec39eec34d4281faa5b5cc8dc39",
+  "pillow": "13.0.0",
+  "python": "3.13.13 (main, May 10 2026, 19:20:37) [Clang 22.1.3 ]",
+  "script_sha256": "b7fe64ac47772335e15b90ac3f906feacdbc3d1dae72df9fa74948731ab05f49",
+  "source_bounds": [
+    107,
+    57,
+    852,
+    1518
+  ],
+  "placed_size": [
+    73,
+    144
+  ],
+  "offset": [
+    6,
+    4
+  ],
+  "visible_colors": 2120,
+  "visible_colors_are_source_samples": true,
+  "output_rgba_sha256": "ce6b31bf362c2caa1b73d90111e1249aa45185c652e0a9e1d6eeb449b26886de",
+  "limits": "Flat conversion seed; no anatomical cleanup or semantic layers. Existing mask is a reviewed input."
+}

@@ -4,6 +4,9 @@ A research and production workspace for discovering an original visual style and
 
 ## Start here
 
+Using another computer? Follow [the new-machine setup](docs/new-machine.md) for
+the image converter, pinned Aseprite automation dependencies and local tool paths.
+
 1. Read [AGENTS.md](AGENTS.md) for agent instructions.
 2. Read [CONTEXT.md](CONTEXT.md) for the current goal, settled decisions, and open choices.
 3. Read the [Codex handoff](docs/handoff.md) for the next action.

@@ -1,0 +1,8 @@
+{
+  "source": "../practice/lantern-144-2026-11-03/reference-original.png",
+  "alpha_threshold": 160,
+  "height": 144,
+  "canvas": [88, 152],
+  "source_anchor": [107, 1518],
+  "target_anchor": [6, 148]
+}
